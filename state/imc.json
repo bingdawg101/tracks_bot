@@ -3,17 +3,16 @@
   "failure_count": 0,
   "last_error": "",
   "tracked": {
-    "4658374101": {
+    "4588833101": {
       "firm": "IMC Trading",
-      "source_id": "4658374101",
-      "title": "Commodities Broker Trader",
+      "source_id": "4588833101",
+      "title": "Quantitative Researcher - Equities",
       "location": "London, United Kingdom",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4658374101",
-      "department": "Trading",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4588833101",
+      "department": "Quantitative Research",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'trader' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:10.894681Z"
+      "first_seen": "2026-09-03T15:36:10.902580Z"
     },
     "4658369101": {
       "firm": "IMC Trading",
@@ -24,32 +23,18 @@
       "department": "Trading",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'trader' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:10.895699Z"
     },
-    "4914883101": {
+    "4658374101": {
       "firm": "IMC Trading",
-      "source_id": "4914883101",
-      "title": "Graduate Machine Learning Researcher - London",
+      "source_id": "4658374101",
+      "title": "Commodities Broker Trader",
       "location": "London, United Kingdom",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
-      "department": "Machine Learning Engineering",
-      "employment_type": "",
-      "match_level": "match",
-      "match_reason": "role 'researcher', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.897559Z"
-    },
-    "4588833101": {
-      "firm": "IMC Trading",
-      "source_id": "4588833101",
-      "title": "Quantitative Researcher - Equities",
-      "location": "London, United Kingdom",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4588833101",
-      "department": "Quantitative Research",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4658374101",
+      "department": "Trading",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'quantitative', description mentions 'graduate' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:36:10.902580Z"
+      "first_seen": "2026-09-03T15:36:10.894681Z"
     },
     "4742842101": {
       "firm": "IMC Trading",
@@ -60,8 +45,18 @@
       "department": "Development (Group)",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:10.905601Z"
+    },
+    "4914883101": {
+      "firm": "IMC Trading",
+      "source_id": "4914883101",
+      "title": "Graduate Machine Learning Researcher - London",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+      "department": "Machine Learning Engineering",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.897559Z"
     }
   }
 }

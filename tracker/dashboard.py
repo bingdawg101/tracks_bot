@@ -8,13 +8,12 @@ badge pointing at the Actions workflow, not via a per-run commit.
 from __future__ import annotations
 
 import json
-from datetime import datetime
 
 from jinja2 import Template
 
 from .config import DOCS_DIR, HISTORY_FILE, Settings
 from .diff import load_state
-from .models import MatchLevel, utcnow
+from .models import MatchLevel
 
 # owner/repo — used for the Actions badge + run links. Overridden by GITHUB_REPOSITORY in CI.
 DEFAULT_REPO = "bingdawg101/tracks_bot"
@@ -47,9 +46,9 @@ _TEMPLATE = Template(
 <h1>Careers Tracker</h1>
 <div class="meta">
   Grad / final-year / internship roles &mdash; commodities, quant, S&amp;T, global markets &mdash; London/UK.<br>
-  Content updated {{ generated_at }} &middot;
-  <img alt="workflow status" src="https://img.shields.io/github/actions/workflow/status/{{ repo }}/check.yml?label=last%20check">
+  <img alt="last check" src="https://img.shields.io/github/actions/workflow/status/{{ repo }}/check.yml?label=last%20check&cacheSeconds=300">
   &middot; <a href="https://github.com/{{ repo }}/actions/workflows/check.yml">run history</a>
+  {% if last_opening %}&middot; last opening detected {{ last_opening[:16] }} UTC{% endif %}
 </div>
 
 <h2>Open matching roles ({{ total_match }})</h2>
@@ -108,7 +107,7 @@ def _firm_rows(settings: Settings) -> list[dict]:
                 )
             elif p.match_level == MatchLevel.REVIEW:
                 review += 1
-        roles.sort(key=lambda r: r["title"])
+        roles.sort(key=lambda r: (r["title"], r["url"]))
         rows.append(
             {
                 "name": fc.name,
@@ -139,25 +138,16 @@ def render(settings: Settings, repo: str | None = None) -> None:
     firms = _firm_rows(settings)
     history = _recent_history()
 
-    # Bucket the timestamp to the hour so "no news" runs don't churn the file.
-    now = utcnow().replace(minute=0, second=0, microsecond=0)
-    generated_at = now.strftime("%Y-%m-%d %H:00 UTC")
-
+    # No per-run timestamp in the output — the file must change only when the tracked data
+    # changes, so "no news" runs commit nothing. Freshness comes from the Actions badge.
     data = {
-        "generated_at": generated_at,
         "repo": repo,
         "firms": firms,
         "history": history,
+        "last_opening": history[0]["detected_at"] if history else "",
         "total_match": sum(f["match_count"] for f in firms),
     }
 
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     (DOCS_DIR / "data.json").write_text(json.dumps(data, indent=2, default=str))
     (DOCS_DIR / "index.html").write_text(_TEMPLATE.render(**data))
-
-
-def _iso_minute(value: str) -> str:  # small helper kept for template clarity/testing
-    try:
-        return datetime.fromisoformat(value).strftime("%Y-%m-%d %H:%M")
-    except ValueError:
-        return value

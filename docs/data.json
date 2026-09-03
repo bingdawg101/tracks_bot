@@ -1,5 +1,4 @@
 {
-  "generated_at": "2026-09-03 16:00 UTC",
   "repo": "bingdawg101/tracks_bot",
   "firms": [
     {
@@ -88,26 +87,26 @@
         {
           "title": "Machine Learning Researcher",
           "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
-          "employment_type": "Summer Internship"
-        },
-        {
-          "title": "Machine Learning Researcher",
-          "location": "London, England, United Kingdom",
           "url": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
           "employment_type": "Full-Time: New Grad"
         },
         {
-          "title": "Quantitative Researcher",
+          "title": "Machine Learning Researcher",
           "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
-          "employment_type": "Full-Time: New Grad"
+          "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
+          "employment_type": "Summer Internship"
         },
         {
           "title": "Quantitative Researcher",
           "location": "London, England, United Kingdom",
           "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
           "employment_type": "Summer Internship"
+        },
+        {
+          "title": "Quantitative Researcher",
+          "location": "London, England, United Kingdom",
+          "url": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
+          "employment_type": "Full-Time: New Grad"
         },
         {
           "title": "Quantitative Trader",
@@ -341,5 +340,6 @@
       "reason": "role 'trading', employment type 'Summer Internship', location 'london'"
     }
   ],
+  "last_opening": "2026-09-03T16:00:37.664703Z",
   "total_match": 32
 }

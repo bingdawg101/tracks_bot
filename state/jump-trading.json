@@ -3,29 +3,16 @@
   "failure_count": 0,
   "last_error": "",
   "tracked": {
-    "7976923": {
+    "7215943": {
       "firm": "Jump Trading",
-      "source_id": "7976923",
-      "title": "Campus AI Researcher, PhD/Postdoc (Full-Time)",
+      "source_id": "7215943",
+      "title": "Campus Systems Engineer (Full-Time)",
       "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976923",
-      "department": "Front Office",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7215943",
+      "department": "IT Infrastructure + WCW",
       "employment_type": "Full-time - Campus",
-      "match_level": "match",
-      "match_reason": "role 'researcher', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.332726Z"
-    },
-    "7976964": {
-      "firm": "Jump Trading",
-      "source_id": "7976964",
-      "title": "Campus AI Researcher, PhD/Postdoc (Intern)",
-      "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976964",
-      "department": "Front Office",
-      "employment_type": "Jump Trading - Intern",
-      "match_level": "match",
-      "match_reason": "role 'researcher', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.332776Z"
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:10.334034Z"
     },
     "7217856": {
       "firm": "Jump Trading",
@@ -36,7 +23,6 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
-      "match_reason": "role 'researcher', employment type 'Full-time - Campus', location 'london'",
       "first_seen": "2026-09-03T15:36:10.332858Z"
     },
     "7362318": {
@@ -48,20 +34,7 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
-      "match_reason": "role 'researcher', employment type 'Jump Trading - Intern', location 'london'",
       "first_seen": "2026-09-03T15:36:10.332903Z"
-    },
-    "7975008": {
-      "firm": "Jump Trading",
-      "source_id": "7975008",
-      "title": "Campus Data Engineer (Intern)",
-      "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
-      "department": "Core Development",
-      "employment_type": "Jump Trading - Intern",
-      "match_level": "review",
-      "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:36:10.333044Z"
     },
     "7974391": {
       "firm": "Jump Trading",
@@ -72,8 +45,62 @@
       "department": "Core Development",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
-      "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
       "first_seen": "2026-09-03T15:36:10.333141Z"
+    },
+    "7974943": {
+      "firm": "Jump Trading",
+      "source_id": "7974943",
+      "title": "Campus UI Software Engineer (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
+      "department": "Core Development",
+      "employment_type": "Jump Trading - Intern",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:10.334324Z"
+    },
+    "7975008": {
+      "firm": "Jump Trading",
+      "source_id": "7975008",
+      "title": "Campus Data Engineer (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975008",
+      "department": "Core Development",
+      "employment_type": "Jump Trading - Intern",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:10.333044Z"
+    },
+    "7975026": {
+      "firm": "Jump Trading",
+      "source_id": "7975026",
+      "title": "Campus Software Engineer (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
+      "department": "Core Development",
+      "employment_type": "Jump Trading - Intern",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:10.333888Z"
+    },
+    "7976923": {
+      "firm": "Jump Trading",
+      "source_id": "7976923",
+      "title": "Campus AI Researcher, PhD/Postdoc (Full-Time)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976923",
+      "department": "Front Office",
+      "employment_type": "Full-time - Campus",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.332726Z"
+    },
+    "7976964": {
+      "firm": "Jump Trading",
+      "source_id": "7976964",
+      "title": "Campus AI Researcher, PhD/Postdoc (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976964",
+      "department": "Front Office",
+      "employment_type": "Jump Trading - Intern",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.332776Z"
     },
     "7977132": {
       "firm": "Jump Trading",
@@ -84,7 +111,6 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
-      "match_reason": "role 'research', employment type 'Full-time - Campus', location 'london'",
       "first_seen": "2026-09-03T15:36:10.333188Z"
     },
     "7977145": {
@@ -96,92 +122,7 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
-      "match_reason": "role 'research', employment type 'Jump Trading - Intern', location 'london'",
       "first_seen": "2026-09-03T15:36:10.333232Z"
-    },
-    "8050796": {
-      "firm": "Jump Trading",
-      "source_id": "8050796",
-      "title": "Campus Quantitative Researcher (Full-Time)",
-      "location": "London; Amsterdam",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
-      "department": "Front Office",
-      "employment_type": "Full-time - Campus",
-      "match_level": "match",
-      "match_reason": "role 'quantitative', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.333316Z"
-    },
-    "8010307": {
-      "firm": "Jump Trading",
-      "source_id": "8010307",
-      "title": "Campus Quantitative Researcher (Intern)",
-      "location": "London; Amsterdam",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-      "department": "Front Office",
-      "employment_type": "Jump Trading - Intern",
-      "match_level": "match",
-      "match_reason": "role 'quantitative', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.333433Z"
-    },
-    "8059384": {
-      "firm": "Jump Trading",
-      "source_id": "8059384",
-      "title": "Campus Quantitative Researcher (M1/M2 Intern)",
-      "location": "London; Paris",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
-      "department": "Front Office",
-      "employment_type": "Jump Trading - Intern",
-      "match_level": "match",
-      "match_reason": "role 'quantitative', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.333481Z"
-    },
-    "8050801": {
-      "firm": "Jump Trading",
-      "source_id": "8050801",
-      "title": "Campus Quantitative Trader (Full-Time)",
-      "location": "London; Amsterdam",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
-      "department": "Front Office",
-      "employment_type": "Full-time - Campus",
-      "match_level": "match",
-      "match_reason": "role 'trader', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.333683Z"
-    },
-    "8050772": {
-      "firm": "Jump Trading",
-      "source_id": "8050772",
-      "title": "Campus Quantitative Trader (Intern)",
-      "location": "London; Amsterdam",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-      "department": "Front Office",
-      "employment_type": "Jump Trading - Intern",
-      "match_level": "match",
-      "match_reason": "role 'trader', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.333824Z"
-    },
-    "7975026": {
-      "firm": "Jump Trading",
-      "source_id": "7975026",
-      "title": "Campus Software Engineer (Intern)",
-      "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7975026",
-      "department": "Core Development",
-      "employment_type": "Jump Trading - Intern",
-      "match_level": "review",
-      "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:36:10.333888Z"
-    },
-    "7215943": {
-      "firm": "Jump Trading",
-      "source_id": "7215943",
-      "title": "Campus Systems Engineer (Full-Time)",
-      "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7215943",
-      "department": "IT Infrastructure + WCW",
-      "employment_type": "Full-time - Campus",
-      "match_level": "review",
-      "match_reason": "employment type 'Full-time - Campus', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:36:10.334034Z"
     },
     "8000323": {
       "firm": "Jump Trading",
@@ -192,20 +133,62 @@
       "department": "IT Infrastructure + WCW",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
-      "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
       "first_seen": "2026-09-03T15:36:10.334178Z"
     },
-    "7974943": {
+    "8010307": {
       "firm": "Jump Trading",
-      "source_id": "7974943",
-      "title": "Campus UI Software Engineer (Intern)",
-      "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974943",
-      "department": "Core Development",
+      "source_id": "8010307",
+      "title": "Campus Quantitative Researcher (Intern)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
-      "match_level": "review",
-      "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:36:10.334324Z"
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.333433Z"
+    },
+    "8050772": {
+      "firm": "Jump Trading",
+      "source_id": "8050772",
+      "title": "Campus Quantitative Trader (Intern)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "department": "Front Office",
+      "employment_type": "Jump Trading - Intern",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.333824Z"
+    },
+    "8050796": {
+      "firm": "Jump Trading",
+      "source_id": "8050796",
+      "title": "Campus Quantitative Researcher (Full-Time)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
+      "department": "Front Office",
+      "employment_type": "Full-time - Campus",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.333316Z"
+    },
+    "8050801": {
+      "firm": "Jump Trading",
+      "source_id": "8050801",
+      "title": "Campus Quantitative Trader (Full-Time)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
+      "department": "Front Office",
+      "employment_type": "Full-time - Campus",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.333683Z"
+    },
+    "8059384": {
+      "firm": "Jump Trading",
+      "source_id": "8059384",
+      "title": "Campus Quantitative Researcher (M1/M2 Intern)",
+      "location": "London; Paris",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+      "department": "Front Office",
+      "employment_type": "Jump Trading - Intern",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.333481Z"
     }
   }
 }

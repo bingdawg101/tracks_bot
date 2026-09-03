@@ -12,7 +12,6 @@
       "department": "Research",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'quantitative' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:09.882698Z"
     },
     "8489186002": {
@@ -24,7 +23,6 @@
       "department": "Research",
       "employment_type": "",
       "match_level": "match",
-      "match_reason": "role 'quantitative', title mentions 'intern', location 'london'",
       "first_seen": "2026-09-03T15:36:09.882881Z"
     }
   }

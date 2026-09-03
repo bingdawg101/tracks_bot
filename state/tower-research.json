@@ -3,6 +3,17 @@
   "failure_count": 0,
   "last_error": "",
   "tracked": {
+    "4986715": {
+      "firm": "Tower Research Capital",
+      "source_id": "4986715",
+      "title": "Quantitative Trader / Researcher - EMEA",
+      "location": "London, Paris, Amsterdam",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=4986715",
+      "department": "Quantitative Research & Trading",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:10.058629Z"
+    },
     "7080209": {
       "firm": "Tower Research Capital",
       "source_id": "7080209",
@@ -12,7 +23,6 @@
       "department": "Quantitative Research & Trading",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:10.055496Z"
     },
     "7080219": {
@@ -24,32 +34,18 @@
       "department": "Quantitative Research & Trading",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:10.057014Z"
     },
-    "8113986": {
+    "7722018": {
       "firm": "Tower Research Capital",
-      "source_id": "8113986",
-      "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
+      "source_id": "7722018",
+      "title": "Trading Systems Support Analyst",
       "location": "London",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
-      "department": "Risk & Trading Supervision",
-      "employment_type": "",
-      "match_level": "match",
-      "match_reason": "role 'trading', title mentions 'internship', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.057235Z"
-    },
-    "4986715": {
-      "firm": "Tower Research Capital",
-      "source_id": "4986715",
-      "title": "Quantitative Trader / Researcher - EMEA",
-      "location": "London, Paris, Amsterdam",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=4986715",
-      "department": "Quantitative Research & Trading",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=7722018",
+      "department": "Application Reliability Engineering",
       "employment_type": "",
       "match_level": "review",
-      "match_reason": "role 'trader' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:10.058629Z"
+      "first_seen": "2026-09-03T15:36:10.067344Z"
     },
     "8037824": {
       "firm": "Tower Research Capital",
@@ -60,7 +56,6 @@
       "department": "On-Campus Recruiting",
       "employment_type": "",
       "match_level": "match",
-      "match_reason": "role 'trader', title mentions 'graduate', location 'london'",
       "first_seen": "2026-09-03T15:36:10.058674Z"
     },
     "8037860": {
@@ -72,20 +67,18 @@
       "department": "On-Campus Recruiting",
       "employment_type": "",
       "match_level": "match",
-      "match_reason": "role 'trader', title mentions 'internship', location 'london'",
       "first_seen": "2026-09-03T15:36:10.058769Z"
     },
-    "7722018": {
+    "8113986": {
       "firm": "Tower Research Capital",
-      "source_id": "7722018",
-      "title": "Trading Systems Support Analyst",
+      "source_id": "8113986",
+      "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
       "location": "London",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=7722018",
-      "department": "Application Reliability Engineering",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+      "department": "Risk & Trading Supervision",
       "employment_type": "",
-      "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:10.067344Z"
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:10.057235Z"
     }
   }
 }

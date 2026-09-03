@@ -3,174 +3,6 @@
   "failure_count": 0,
   "last_error": "",
   "tracked": {
-    "2546549": {
-      "firm": "Squarepoint Capital",
-      "source_id": "2546549",
-      "title": "Desk Quant Analyst",
-      "location": "London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549",
-      "department": "Investment",
-      "employment_type": "Full-time",
-      "match_level": "review",
-      "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.930521Z"
-    },
-    "7918610": {
-      "firm": "Squarepoint Capital",
-      "source_id": "7918610",
-      "title": "Graduate Quant Developer",
-      "location": "London, Montreal, Singapore",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
-      "department": "Technology",
-      "employment_type": "Employee-Regular",
-      "match_level": "match",
-      "match_reason": "role 'quant', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:36:09.930679Z"
-    },
-    "6040910": {
-      "firm": "Squarepoint Capital",
-      "source_id": "6040910",
-      "title": "Graduate Software Developer",
-      "location": "London, Montreal, Singapore",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
-      "department": "Technology",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "title mentions 'graduate', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:36:09.930744Z"
-    },
-    "6100081": {
-      "firm": "Squarepoint Capital",
-      "source_id": "6100081",
-      "title": "Graduate Trading Applications Specialist",
-      "location": "London, Montreal, New York, Houston, Hong Kong",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
-      "department": "Technology",
-      "employment_type": "Employee-Regular",
-      "match_level": "match",
-      "match_reason": "role 'trading', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:36:09.930791Z"
-    },
-    "7340149": {
-      "firm": "Squarepoint Capital",
-      "source_id": "7340149",
-      "title": "High-Touch Execution Strategist",
-      "location": "London",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340149&gh_jid=7340149",
-      "department": "Investment",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'execution' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.931338Z"
-    },
-    "243853": {
-      "firm": "Squarepoint Capital",
-      "source_id": "243853",
-      "title": "Intern Quant Researcher",
-      "location": "London, Paris, New York, Singapore, Hong Kong",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
-      "department": "Investment",
-      "employment_type": "Intern Full-time",
-      "match_level": "match",
-      "match_reason": "role 'quant', employment type 'Intern Full-time', location 'london'",
-      "first_seen": "2026-09-03T15:36:09.934017Z"
-    },
-    "7231006": {
-      "firm": "Squarepoint Capital",
-      "source_id": "7231006",
-      "title": "Intern Software Developer - London - 2027",
-      "location": "London",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
-      "department": "Technology",
-      "employment_type": "Employee-Intern",
-      "match_level": "review",
-      "match_reason": "employment type 'Employee-Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:36:09.934083Z"
-    },
-    "5929246": {
-      "firm": "Squarepoint Capital",
-      "source_id": "5929246",
-      "title": "Junior Commodities Fundamental Analyst",
-      "location": "Geneva, London, Paris, Singapore",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=5929246&gh_jid=5929246",
-      "department": "Investment",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'commodities', description mentions 'internship' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:36:09.934404Z"
-    },
-    "8044880": {
-      "firm": "Squarepoint Capital",
-      "source_id": "8044880",
-      "title": "Junior Credit Fundamental Research Analyst",
-      "location": "London, New York, Paris",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8044880&gh_jid=8044880",
-      "department": "Investment",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'research', description mentions 'internship' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:36:09.934696Z"
-    },
-    "3851879": {
-      "firm": "Squarepoint Capital",
-      "source_id": "3851879",
-      "title": "Junior Discretionary Trader",
-      "location": "London",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
-      "department": "Investment",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'trader', description mentions 'graduate' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:36:09.935667Z"
-    },
-    "6034466": {
-      "firm": "Squarepoint Capital",
-      "source_id": "6034466",
-      "title": "Junior Quant Developer",
-      "location": "London, Montreal, Singapore",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466",
-      "department": "Technology",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.936791Z"
-    },
-    "239376": {
-      "firm": "Squarepoint Capital",
-      "source_id": "239376",
-      "title": "Junior Quant Researcher",
-      "location": "London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376",
-      "department": "Investment",
-      "employment_type": "Full-time",
-      "match_level": "review",
-      "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.937389Z"
-    },
-    "6069464": {
-      "firm": "Squarepoint Capital",
-      "source_id": "6069464",
-      "title": "Junior Quant Researcher - ML Alpha Research",
-      "location": "London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
-      "department": "Investment",
-      "employment_type": "Full-time",
-      "match_level": "review",
-      "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.938073Z"
-    },
-    "3277003": {
-      "firm": "Squarepoint Capital",
-      "source_id": "3277003",
-      "title": "Quant Developer (KDB)",
-      "location": "London, Montreal, Singapore, Honk Kong",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=3277003&gh_jid=3277003",
-      "department": "Technology",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.950521Z"
-    },
     "1433622": {
       "firm": "Squarepoint Capital",
       "source_id": "1433622",
@@ -180,20 +12,7 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
-      "match_reason": "role 'quant' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:09.951003Z"
-    },
-    "6977749": {
-      "firm": "Squarepoint Capital",
-      "source_id": "6977749",
-      "title": "Shift Trader",
-      "location": "Singapore, London, Dubai",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6977749&gh_jid=6977749",
-      "department": "Investment",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "match_reason": "role 'trader' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.951902Z"
     },
     "2167156": {
       "firm": "Squarepoint Capital",
@@ -204,20 +23,106 @@
       "department": "Technology",
       "employment_type": "Full-time",
       "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:09.963918Z"
     },
-    "6420505": {
+    "239376": {
       "firm": "Squarepoint Capital",
-      "source_id": "6420505",
-      "title": "Trade Flow Support - Trading Infrastructure Support",
-      "location": "Singapore, London, Houston, Montreal",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6420505&gh_jid=6420505",
+      "source_id": "239376",
+      "title": "Junior Quant Researcher",
+      "location": "London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376",
+      "department": "Investment",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.937389Z"
+    },
+    "243853": {
+      "firm": "Squarepoint Capital",
+      "source_id": "243853",
+      "title": "Intern Quant Researcher",
+      "location": "London, Paris, New York, Singapore, Hong Kong",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+      "department": "Investment",
+      "employment_type": "Intern Full-time",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:09.934017Z"
+    },
+    "2546549": {
+      "firm": "Squarepoint Capital",
+      "source_id": "2546549",
+      "title": "Desk Quant Analyst",
+      "location": "London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=2546549&gh_jid=2546549",
+      "department": "Investment",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.930521Z"
+    },
+    "3277003": {
+      "firm": "Squarepoint Capital",
+      "source_id": "3277003",
+      "title": "Quant Developer (KDB)",
+      "location": "London, Montreal, Singapore, Honk Kong",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=3277003&gh_jid=3277003",
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:36:09.964704Z"
+      "first_seen": "2026-09-03T15:36:09.950521Z"
+    },
+    "3851879": {
+      "firm": "Squarepoint Capital",
+      "source_id": "3851879",
+      "title": "Junior Discretionary Trader",
+      "location": "London",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=3851879&gh_jid=3851879",
+      "department": "Investment",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.935667Z"
+    },
+    "5929246": {
+      "firm": "Squarepoint Capital",
+      "source_id": "5929246",
+      "title": "Junior Commodities Fundamental Analyst",
+      "location": "Geneva, London, Paris, Singapore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=5929246&gh_jid=5929246",
+      "department": "Investment",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.934404Z"
+    },
+    "6034466": {
+      "firm": "Squarepoint Capital",
+      "source_id": "6034466",
+      "title": "Junior Quant Developer",
+      "location": "London, Montreal, Singapore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466",
+      "department": "Technology",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.936791Z"
+    },
+    "6040910": {
+      "firm": "Squarepoint Capital",
+      "source_id": "6040910",
+      "title": "Graduate Software Developer",
+      "location": "London, Montreal, Singapore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910",
+      "department": "Technology",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.930744Z"
+    },
+    "6069464": {
+      "firm": "Squarepoint Capital",
+      "source_id": "6069464",
+      "title": "Junior Quant Researcher - ML Alpha Research",
+      "location": "London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464",
+      "department": "Investment",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.938073Z"
     },
     "6099883": {
       "firm": "Squarepoint Capital",
@@ -228,8 +133,62 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
-      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
       "first_seen": "2026-09-03T15:36:09.965607Z"
+    },
+    "6100081": {
+      "firm": "Squarepoint Capital",
+      "source_id": "6100081",
+      "title": "Graduate Trading Applications Specialist",
+      "location": "London, Montreal, New York, Houston, Hong Kong",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
+      "department": "Technology",
+      "employment_type": "Employee-Regular",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:09.930791Z"
+    },
+    "6420505": {
+      "firm": "Squarepoint Capital",
+      "source_id": "6420505",
+      "title": "Trade Flow Support - Trading Infrastructure Support",
+      "location": "Singapore, London, Houston, Montreal",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6420505&gh_jid=6420505",
+      "department": "Technology",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.964704Z"
+    },
+    "6977749": {
+      "firm": "Squarepoint Capital",
+      "source_id": "6977749",
+      "title": "Shift Trader",
+      "location": "Singapore, London, Dubai",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6977749&gh_jid=6977749",
+      "department": "Investment",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.951902Z"
+    },
+    "7231006": {
+      "firm": "Squarepoint Capital",
+      "source_id": "7231006",
+      "title": "Intern Software Developer - London - 2027",
+      "location": "London",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006",
+      "department": "Technology",
+      "employment_type": "Employee-Intern",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.934083Z"
+    },
+    "7340149": {
+      "firm": "Squarepoint Capital",
+      "source_id": "7340149",
+      "title": "High-Touch Execution Strategist",
+      "location": "London",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7340149&gh_jid=7340149",
+      "department": "Investment",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.931338Z"
     },
     "7757021": {
       "firm": "Squarepoint Capital",
@@ -240,8 +199,29 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "match",
-      "match_reason": "role 'trading', title mentions 'graduate', location 'london'",
       "first_seen": "2026-09-03T15:36:09.965654Z"
+    },
+    "7918610": {
+      "firm": "Squarepoint Capital",
+      "source_id": "7918610",
+      "title": "Graduate Quant Developer",
+      "location": "London, Montreal, Singapore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
+      "department": "Technology",
+      "employment_type": "Employee-Regular",
+      "match_level": "match",
+      "first_seen": "2026-09-03T15:36:09.930679Z"
+    },
+    "8044880": {
+      "firm": "Squarepoint Capital",
+      "source_id": "8044880",
+      "title": "Junior Credit Fundamental Research Analyst",
+      "location": "London, New York, Paris",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8044880&gh_jid=8044880",
+      "department": "Investment",
+      "employment_type": "Employee-Regular",
+      "match_level": "review",
+      "first_seen": "2026-09-03T15:36:09.934696Z"
     }
   }
 }

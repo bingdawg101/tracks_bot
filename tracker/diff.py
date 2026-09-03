@@ -31,7 +31,11 @@ def load_state(slug: str, firm_name: str) -> FirmState:
 
 def save_state(slug: str, state: FirmState) -> None:
     STATE_DIR.mkdir(parents=True, exist_ok=True)
-    state_path(slug).write_text(state.model_dump_json(indent=2, exclude_none=False))
+    # `match_reason` is a derived explanation regenerated every run — persisting it would
+    # churn the whole file whenever filter wording changes. Keep it out of state.
+    state_path(slug).write_text(
+        state.model_dump_json(indent=2, exclude={"tracked": {"__all__": {"match_reason"}}})
+    )
 
 
 def record_failure(state: FirmState, error: str) -> FirmState:
@@ -47,9 +51,11 @@ def apply_success(
 ) -> tuple[FirmState, list[OpeningEvent]]:
     """Compute the new state and any openings, given a successful fetch's classified postings."""
     now = utcnow()
+    # Sort by source_id so the serialised file is order-stable regardless of the order
+    # the source returned postings in — otherwise every run produces a spurious diff.
     tracked_now = {
         p.source_id: p
-        for p in postings
+        for p in sorted(postings, key=lambda x: x.source_id)
         if p.match_level in (MatchLevel.MATCH, MatchLevel.REVIEW)
     }
 
