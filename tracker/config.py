@@ -48,6 +48,9 @@ class FirmConfig(BaseModel):
     # Adapter-specific connection settings, e.g. {"token": "janestreet"}.
     source: dict = Field(default_factory=dict)
     enabled: bool = True
+    # Pay bucket for the comp estimator: elite_prop | hedge_fund | bank_bulge | bank_other
+    #                                    | commodity_major | commodity_other | energy_utility
+    tier: str = ""
     filters: FilterConfig = Field(default_factory=FilterConfig)
     notes: str = ""
 
@@ -55,6 +58,8 @@ class FirmConfig(BaseModel):
 class Settings(BaseModel):
     defaults: FilterConfig = Field(default_factory=FilterConfig)
     firms: list[FirmConfig] = Field(default_factory=list)
+    # slug -> pay tier, applied to firms that don't set `tier:` themselves.
+    tiers: dict[str, str] = Field(default_factory=dict)
     # Consecutive failures before an adapter-health alert / non-zero exit.
     failure_alert_threshold: int = 3
     http_timeout_seconds: float = 20.0
@@ -100,7 +105,11 @@ def _dedupe(items: list[str]) -> list[str]:
 def load_settings(path: Path | None = None) -> Settings:
     path = path or FIRMS_FILE
     data = yaml.safe_load(path.read_text()) or {}
-    return Settings.model_validate(data)
+    settings = Settings.model_validate(data)
+    for firm in settings.firms:
+        if not firm.tier:
+            firm.tier = settings.tiers.get(firm.slug, "")
+    return settings
 
 
 class TelegramCreds(BaseModel):

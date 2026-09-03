@@ -96,9 +96,12 @@ def apply_success(
                 match_level=MatchLevel.MATCH,
                 detected_at=now,
                 reason=reason,
+                comp_k=p.comp_k,
+                comp_label=p.comp_label,
             )
         )
 
+    events.sort(key=lambda e: e.comp_k, reverse=True)   # money first
     new_state = FirmState(
         firm=firm_name,
         failure_count=0,

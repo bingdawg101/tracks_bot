@@ -12,6 +12,9 @@
       "department": "Trading Desk Operations",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.356246Z"
     },
     "8474407002": {
@@ -23,6 +26,9 @@
       "department": "Quantitative Trading",
       "employment_type": "Summer Internship",
       "match_level": "match",
+      "comp_k": 175,
+      "comp_label": "~£175k (est. £108–241k)",
+      "comp_basis": "elite prop · quant trading · internship",
       "first_seen": "2026-09-03T16:23:19.355050Z"
     },
     "8474416002": {
@@ -34,6 +40,9 @@
       "department": "Quantitative Research",
       "employment_type": "Summer Internship",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.354582Z"
     },
     "8537797002": {
@@ -45,6 +54,9 @@
       "department": "Sales & Trading",
       "employment_type": "Summer Internship",
       "match_level": "match",
+      "comp_k": 138,
+      "comp_label": "~£138k (est. £86–190k)",
+      "comp_basis": "elite prop · sales trading · internship",
       "first_seen": "2026-09-03T16:23:19.355247Z"
     },
     "8576270002": {
@@ -56,6 +68,9 @@
       "department": "Quantitative Trading",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T16:23:19.355082Z"
     },
     "8576931002": {
@@ -67,6 +82,9 @@
       "department": "Machine Learning",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.353633Z"
     },
     "8594416002": {
@@ -78,6 +96,9 @@
       "department": "Machine Learning",
       "employment_type": "Summer Internship",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.353296Z"
     },
     "8600948002": {
@@ -89,6 +110,9 @@
       "department": "Quantitative Research",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.354651Z"
     },
     "8648474002": {
@@ -100,6 +124,9 @@
       "department": "Machine Learning",
       "employment_type": "Summer Internship",
       "match_level": "review",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.353020Z"
     },
     "8700980002": {
@@ -111,6 +138,9 @@
       "department": "Trading Desk Operations",
       "employment_type": "Summer Internship",
       "match_level": "match",
+      "comp_k": 156,
+      "comp_label": "~£156k (est. £97–215k)",
+      "comp_basis": "elite prop · trading · internship",
       "first_seen": "2026-09-03T16:23:19.356354Z"
     }
   }

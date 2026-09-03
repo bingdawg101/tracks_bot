@@ -12,6 +12,9 @@
       "department": "Internships",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-03T16:23:19.540027Z"
     },
     "8746197002": {
@@ -23,6 +26,9 @@
       "department": "Internships",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-03T16:23:19.539933Z"
     }
   }

@@ -12,6 +12,9 @@
       "department": "",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant research",
       "first_seen": "2026-09-03T16:23:22.995957Z"
     },
     "JR041630": {
@@ -23,6 +26,9 @@
       "department": "",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
       "first_seen": "2026-09-03T16:23:23.001709Z"
     },
     "PT-JR042206": {
@@ -34,6 +40,9 @@
       "department": "",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
       "first_seen": "2026-09-03T16:23:22.998066Z"
     }
   }

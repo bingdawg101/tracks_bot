@@ -12,6 +12,9 @@
       "department": "IT Infrastructure + WCW",
       "employment_type": "Full-time - Campus",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
       "first_seen": "2026-09-03T16:23:19.298962Z"
     },
     "7217856": {
@@ -23,6 +26,9 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.297863Z"
     },
     "7362318": {
@@ -34,6 +40,9 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-03T16:23:19.297906Z"
     },
     "7974391": {
@@ -45,6 +54,9 @@
       "department": "Core Development",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
       "first_seen": "2026-09-03T16:23:19.298126Z"
     },
     "7974943": {
@@ -56,6 +68,9 @@
       "department": "Core Development",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
       "first_seen": "2026-09-03T16:23:19.299235Z"
     },
     "7975008": {
@@ -67,6 +82,9 @@
       "department": "Core Development",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
       "first_seen": "2026-09-03T16:23:19.298035Z"
     },
     "7975026": {
@@ -78,6 +96,9 @@
       "department": "Core Development",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
       "first_seen": "2026-09-03T16:23:19.298825Z"
     },
     "7976923": {
@@ -89,6 +110,9 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.297739Z"
     },
     "7976964": {
@@ -100,6 +124,9 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-03T16:23:19.297786Z"
     },
     "7977132": {
@@ -111,6 +138,9 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.298170Z"
     },
     "7977145": {
@@ -122,6 +152,9 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.298213Z"
     },
     "8000323": {
@@ -133,6 +166,9 @@
       "department": "IT Infrastructure + WCW",
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
       "first_seen": "2026-09-03T16:23:19.299101Z"
     },
     "8010307": {
@@ -144,6 +180,9 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.298399Z"
     },
     "8050772": {
@@ -155,6 +194,9 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
+      "comp_k": 175,
+      "comp_label": "~£175k (est. £108–241k)",
+      "comp_basis": "elite prop · quant trading · internship",
       "first_seen": "2026-09-03T16:23:19.298765Z"
     },
     "8050796": {
@@ -166,6 +208,9 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.298291Z"
     },
     "8050801": {
@@ -177,6 +222,9 @@
       "department": "Front Office",
       "employment_type": "Full-time - Campus",
       "match_level": "match",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T16:23:19.298632Z"
     },
     "8059384": {
@@ -188,6 +236,9 @@
       "department": "Front Office",
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.298442Z"
     }
   }

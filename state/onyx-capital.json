@@ -12,6 +12,9 @@
       "department": "",
       "employment_type": "Full-time",
       "match_level": "match",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T17:34:21.956467Z"
     }
   }

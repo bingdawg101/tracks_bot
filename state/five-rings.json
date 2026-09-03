@@ -12,6 +12,9 @@
       "department": "Trading Operations",
       "employment_type": "Full-time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.067168Z"
     },
     "5255367008": {
@@ -23,6 +26,9 @@
       "department": "Quantitative Trading",
       "employment_type": "Full-time",
       "match_level": "match",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T16:23:19.064748Z"
     },
     "5349905008": {
@@ -34,6 +40,9 @@
       "department": "Software Development",
       "employment_type": "Full-time",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
       "first_seen": "2026-09-03T16:23:19.065527Z"
     }
   }

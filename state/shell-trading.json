@@ -12,6 +12,9 @@
       "department": "",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 70,
+      "comp_label": "~£70k (est. £55–85k)",
+      "comp_basis": "energy utility · structuring",
       "first_seen": "2026-09-03T17:34:27.248691Z"
     },
     "R210336": {
@@ -23,6 +26,9 @@
       "department": "",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
       "first_seen": "2026-09-03T17:34:27.247346Z"
     }
   }

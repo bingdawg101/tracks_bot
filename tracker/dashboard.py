@@ -51,17 +51,19 @@ _TEMPLATE = Template(
   {% if last_opening %}&middot; last opening detected {{ last_opening[:16] }} UTC{% endif %}
 </div>
 
-<h2>Open matching roles ({{ total_match }})</h2>
+<h2>Open matching roles ({{ total_match }}) &middot; highest estimated pay first</h2>
 <table>
-<tr><th>Firm</th><th class="n">Match</th><th class="n">Review</th><th>Roles</th><th>Health</th></tr>
+<tr><th>Firm</th><th class="n">Top est.</th><th class="n">Match</th><th class="n">Review</th><th>Roles</th><th>Health</th></tr>
 {% for f in firms %}
 <tr>
-  <td>{{ f.name }}</td>
+  <td>{{ f.name }}{% if f.tier %}<br><span class="tag">{{ f.tier.replace('_',' ') }}</span>{% endif %}</td>
+  <td class="n">{% if f.top_comp_k %}<b>£{{ f.top_comp_k }}k</b>{% else %}&mdash;{% endif %}</td>
   <td class="n">{{ f.match_count }}</td>
   <td class="n">{{ f.review_count }}</td>
   <td>
     {% if f.roles %}<ul class="roles">
       {% for r in f.roles %}<li>
+        {% if r.comp_k %}<b>£{{ r.comp_k }}k</b> &middot; {% endif %}
         {% if r.url %}<a href="{{ r.url }}">{{ r.title }}</a>{% else %}{{ r.title }}{% endif %}
         <span class="tag">&mdash; {{ r.location }}{% if r.employment_type %} &middot; {{ r.employment_type }}{% endif %}</span>
       </li>{% endfor %}
@@ -72,12 +74,15 @@ _TEMPLATE = Template(
 </tr>
 {% endfor %}
 </table>
+<p class="tag">Pay figures are rough first-year total-comp estimates (London) by firm tier and role
+family &mdash; for ranking, not gospel. Most firms don't publish salary.</p>
 
 <h2>Recent openings</h2>
 {% if history %}
 <ul class="hist">
 {% for h in history %}
-  <li><code>{{ h.detected_at[:16] }}</code> &mdash; <b>{{ h.firm }}</b>:
+  <li><code>{{ h.detected_at[:16] }}</code> &mdash;
+    {% if h.comp_k %}<b>£{{ h.comp_k }}k</b> &middot; {% endif %}<b>{{ h.firm }}</b>:
     {% if h.url %}<a href="{{ h.url }}">{{ h.title }}</a>{% else %}{{ h.title }}{% endif %}
     <span class="tag">{{ h.location }}</span></li>
 {% endfor %}
@@ -103,23 +108,28 @@ def _firm_rows(settings: Settings) -> list[dict]:
                         "location": p.location,
                         "url": p.url,
                         "employment_type": p.employment_type,
+                        "comp_k": p.comp_k,
+                        "comp_label": p.comp_label,
                     }
                 )
             elif p.match_level == MatchLevel.REVIEW:
                 review += 1
-        roles.sort(key=lambda r: (r["title"], r["url"]))
+        roles.sort(key=lambda r: (-r["comp_k"], r["title"]))
         rows.append(
             {
                 "name": fc.name,
                 "slug": fc.slug,
                 "enabled": fc.enabled,
+                "tier": fc.tier,
                 "match_count": len(roles),
                 "review_count": review,
+                "top_comp_k": roles[0]["comp_k"] if roles else 0,
                 "roles": roles,
                 "failure_count": st.failure_count,
             }
         )
-    rows.sort(key=lambda r: (-r["match_count"], r["name"]))
+    # Money first: firms with the highest-paying open role at the top.
+    rows.sort(key=lambda r: (-r["top_comp_k"], -r["match_count"], r["name"]))
     return rows
 
 

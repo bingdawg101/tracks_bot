@@ -12,6 +12,9 @@
       "department": "Quantitative Research",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.409278Z"
     },
     "4658369101": {
@@ -23,6 +26,9 @@
       "department": "Trading",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.403192Z"
     },
     "4658374101": {
@@ -34,6 +40,9 @@
       "department": "Trading",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.402344Z"
     },
     "4742842101": {
@@ -45,6 +54,9 @@
       "department": "Development (Group)",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.411893Z"
     },
     "4914883101": {
@@ -56,6 +68,9 @@
       "department": "Machine Learning Engineering",
       "employment_type": "",
       "match_level": "match",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.404911Z"
     }
   }

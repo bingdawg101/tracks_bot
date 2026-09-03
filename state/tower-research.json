@@ -12,6 +12,9 @@
       "department": "Quantitative Research & Trading",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T16:23:19.124380Z"
     },
     "7080209": {
@@ -23,6 +26,9 @@
       "department": "Quantitative Research & Trading",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.120823Z"
     },
     "7080219": {
@@ -34,6 +40,9 @@
       "department": "Quantitative Research & Trading",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.122579Z"
     },
     "7722018": {
@@ -45,6 +54,9 @@
       "department": "Application Reliability Engineering",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.133599Z"
     },
     "8037824": {
@@ -56,6 +68,9 @@
       "department": "On-Campus Recruiting",
       "employment_type": "",
       "match_level": "match",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T16:23:19.124428Z"
     },
     "8037860": {
@@ -67,6 +82,9 @@
       "department": "On-Campus Recruiting",
       "employment_type": "",
       "match_level": "match",
+      "comp_k": 175,
+      "comp_label": "~£175k (est. £108–241k)",
+      "comp_basis": "elite prop · quant trading · internship",
       "first_seen": "2026-09-03T16:23:19.124530Z"
     },
     "8113986": {
@@ -78,6 +96,9 @@
       "department": "Risk & Trading Supervision",
       "employment_type": "",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.122832Z"
     }
   }

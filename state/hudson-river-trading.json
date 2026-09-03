@@ -12,6 +12,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.262249Z"
     },
     "7162019": {
@@ -23,6 +26,9 @@
       "department": "Research & Development Platform",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
       "first_seen": "2026-09-03T16:23:19.248786Z"
     },
     "7247998": {
@@ -34,6 +40,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.251980Z"
     },
     "7353090": {
@@ -45,6 +54,9 @@
       "department": "Research & Development Platform",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.250184Z"
     },
     "7392942": {
@@ -56,6 +68,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.259739Z"
     },
     "7398013": {
@@ -67,6 +82,9 @@
       "department": "Research & Development Platform",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
       "first_seen": "2026-09-03T16:23:19.262878Z"
     },
     "7564973": {
@@ -78,6 +96,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.256428Z"
     },
     "7583922": {
@@ -89,6 +110,9 @@
       "department": "Research & Development Platform",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.258087Z"
     },
     "7706309": {
@@ -100,6 +124,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.257694Z"
     },
     "7867883": {
@@ -111,6 +138,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.245830Z"
     },
     "7900186": {
@@ -122,6 +152,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.253443Z"
     },
     "7964062": {
@@ -133,6 +166,9 @@
       "department": "Campus",
       "employment_type": "Intern",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.244299Z"
     },
     "7972584": {
@@ -144,6 +180,9 @@
       "department": "Algo",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.239409Z"
     },
     "7972593": {
@@ -155,6 +194,9 @@
       "department": "Algo",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.238200Z"
     },
     "8046074": {
@@ -166,6 +208,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.254905Z"
     },
     "8046163": {
@@ -177,6 +222,9 @@
       "department": "Trading Tech",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.264606Z"
     },
     "8052050": {
@@ -188,6 +236,9 @@
       "department": "Campus",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.243051Z"
     },
     "8052083": {
@@ -199,6 +250,9 @@
       "department": "Campus",
       "employment_type": "Intern",
       "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
       "first_seen": "2026-09-03T16:23:19.262469Z"
     },
     "8059837": {
@@ -210,6 +264,9 @@
       "department": "Campus",
       "employment_type": "Intern",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.244349Z"
     },
     "8059845": {
@@ -221,6 +278,9 @@
       "department": "Campus",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.244242Z"
     },
     "8161767": {
@@ -232,6 +292,9 @@
       "department": "Algo",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.240646Z"
     },
     "8161770": {
@@ -243,6 +306,9 @@
       "department": "Algo",
       "employment_type": "Full-Time",
       "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
       "first_seen": "2026-09-03T16:23:19.241891Z"
     }
   }

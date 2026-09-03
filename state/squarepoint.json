@@ -12,6 +12,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T16:23:19.195497Z"
     },
     "2167156": {
@@ -23,6 +26,9 @@
       "department": "Technology",
       "employment_type": "Full-time",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.208433Z"
     },
     "239376": {
@@ -34,6 +40,9 @@
       "department": "Investment",
       "employment_type": "Full-time",
       "match_level": "review",
+      "comp_k": 155,
+      "comp_label": "~£155k (est. £96–214k)",
+      "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-03T16:23:19.182324Z"
     },
     "243853": {
@@ -45,6 +54,9 @@
       "department": "Investment",
       "employment_type": "Intern Full-time",
       "match_level": "match",
+      "comp_k": 136,
+      "comp_label": "~£136k (est. £84–188k)",
+      "comp_basis": "hedge fund · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.179155Z"
     },
     "2546549": {
@@ -56,6 +68,9 @@
       "department": "Investment",
       "employment_type": "Full-time",
       "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-03T16:23:19.175925Z"
     },
     "3277003": {
@@ -67,6 +82,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T16:23:19.195021Z"
     },
     "3851879": {
@@ -78,6 +96,9 @@
       "department": "Investment",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.180703Z"
     },
     "5929246": {
@@ -89,6 +110,9 @@
       "department": "Investment",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-03T16:23:19.179511Z"
     },
     "6034466": {
@@ -100,6 +124,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T16:23:19.181765Z"
     },
     "6040910": {
@@ -111,6 +138,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T16:23:19.176117Z"
     },
     "6069464": {
@@ -122,6 +152,9 @@
       "department": "Investment",
       "employment_type": "Full-time",
       "match_level": "review",
+      "comp_k": 155,
+      "comp_label": "~£155k (est. £96–214k)",
+      "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-03T16:23:19.182964Z"
     },
     "6099883": {
@@ -133,6 +166,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.210103Z"
     },
     "6100081": {
@@ -144,6 +180,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "match",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.176157Z"
     },
     "6420505": {
@@ -155,6 +194,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.209222Z"
     },
     "6977749": {
@@ -166,6 +208,9 @@
       "department": "Investment",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.196394Z"
     },
     "7231006": {
@@ -177,6 +222,9 @@
       "department": "Technology",
       "employment_type": "Employee-Intern",
       "match_level": "review",
+      "comp_k": 106,
+      "comp_label": "~£106k (est. £66–146k)",
+      "comp_basis": "hedge fund · swe · internship",
       "first_seen": "2026-09-03T16:23:19.179215Z"
     },
     "7340149": {
@@ -188,6 +236,9 @@
       "department": "Investment",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 155,
+      "comp_label": "~£155k (est. £96–214k)",
+      "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-03T16:23:19.176637Z"
     },
     "7757021": {
@@ -199,6 +250,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "match",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-03T16:23:19.210149Z"
     },
     "7918610": {
@@ -210,6 +264,9 @@
       "department": "Technology",
       "employment_type": "Employee-Regular",
       "match_level": "match",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T16:23:19.176062Z"
     },
     "8044880": {
@@ -221,6 +278,9 @@
       "department": "Investment",
       "employment_type": "Employee-Regular",
       "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-03T16:23:19.179792Z"
     }
   }

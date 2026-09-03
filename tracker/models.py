@@ -53,6 +53,9 @@ class Posting(BaseModel):
     employment_type: str = ""
     match_level: MatchLevel = MatchLevel.IGNORE
     match_reason: str = ""
+    comp_k: int = 0            # estimated first-year total comp, £k (for ranking)
+    comp_label: str = ""
+    comp_basis: str = ""
     first_seen: datetime = Field(default_factory=utcnow)
 
     @property
@@ -113,3 +116,5 @@ class OpeningEvent(BaseModel):
     match_level: MatchLevel = MatchLevel.MATCH
     detected_at: datetime = Field(default_factory=utcnow)
     reason: str = ""
+    comp_k: int = 0
+    comp_label: str = ""

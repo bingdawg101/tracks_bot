@@ -46,13 +46,15 @@ async def _run_check(slug: str) -> int:
         return 1
     print(f"\n=== {fr.name} ({slug}) ===")
     print(f"MATCH ({len(fr.matched)}):")
-    for p in fr.matched:
+    for p in sorted(fr.matched, key=lambda x: -x.comp_k):
         et = f" [{p.employment_type}]" if p.employment_type else ""
-        print(f"  + {p.summary_line()}{et}\n      {p.match_reason}\n      {p.url}")
+        money = f"~£{p.comp_k}k  " if p.comp_k else ""
+        print(f"  + {money}{p.summary_line()}{et}\n      {p.match_reason}\n      {p.url}")
     print(f"\nREVIEW ({len(fr.review)}):")
-    for p in fr.review:
+    for p in sorted(fr.review, key=lambda x: -x.comp_k):
         et = f" [{p.employment_type}]" if p.employment_type else ""
-        print(f"  ? {p.summary_line()}{et}\n      {p.match_reason}")
+        money = f"~£{p.comp_k}k  " if p.comp_k else ""
+        print(f"  ? {money}{p.summary_line()}{et}\n      {p.match_reason}")
     if fr.events:
         print(f"\nWould alert on {len(fr.events)} opening(s) (none sent — check mode).")
     return 0

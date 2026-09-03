@@ -12,6 +12,9 @@
       "department": "Research",
       "employment_type": "",
       "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.078018Z"
     },
     "8489186002": {
@@ -23,6 +26,9 @@
       "department": "Research",
       "employment_type": "",
       "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.078177Z"
     }
   }

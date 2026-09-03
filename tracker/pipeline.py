@@ -4,11 +4,13 @@ from __future__ import annotations
 
 import asyncio
 import json
+import re
 from dataclasses import dataclass, field
 
 import httpx
 
 from .adapters import AdapterError, get_adapter
+from .comp import estimate as comp_estimate
 from .config import HISTORY_FILE, Settings
 from .diff import apply_success, load_state, record_failure, save_state, snapshot_raw
 from .filters import classify
@@ -46,23 +48,29 @@ class RunResult:
         return [r for r in self.results if not r.ok]
 
 
-def _classify_all(firm_name: str, raws: list[RawPosting], flt) -> list[Posting]:
+_INTERN_RE = re.compile(r"intern|placement|summer analyst|co-?op|off-?cycle|penultimate", re.IGNORECASE)
+
+
+def _classify_all(firm_name: str, tier: str, raws: list[RawPosting], flt) -> list[Posting]:
     out: list[Posting] = []
     for raw in raws:
         level, reason = classify(raw, flt)
-        out.append(
-            Posting(
-                firm=firm_name,
-                source_id=raw.source_id,
-                title=raw.title,
-                location=raw.location,
-                url=raw.url,
-                department=raw.department,
-                employment_type=raw.employment_type,
-                match_level=level,
-                match_reason=reason,
-            )
+        p = Posting(
+            firm=firm_name,
+            source_id=raw.source_id,
+            title=raw.title,
+            location=raw.location,
+            url=raw.url,
+            department=raw.department,
+            employment_type=raw.employment_type,
+            match_level=level,
+            match_reason=reason,
         )
+        if level in (MatchLevel.MATCH, MatchLevel.REVIEW):
+            is_intern = bool(_INTERN_RE.search(f"{raw.title} {raw.employment_type}"))
+            est = comp_estimate(tier, raw.title, raw.department, internship=is_intern)
+            p.comp_k, p.comp_label, p.comp_basis = est.midpoint_k, est.label, est.basis
+        out.append(p)
     return out
 
 
@@ -85,7 +93,7 @@ async def _process_firm(
             error=msg, failure_count=new_state.failure_count,
         )
 
-    postings = _classify_all(firm.name, raws, flt)
+    postings = _classify_all(firm.name, firm.tier, raws, flt)
     new_state, events = apply_success(prev, firm.name, postings)
 
     matched = [p for p in postings if p.match_level == MatchLevel.MATCH]

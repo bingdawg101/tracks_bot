@@ -23,30 +23,28 @@ def _esc(value: str) -> str:
 
 
 def format_events(events: list[OpeningEvent]) -> list[str]:
-    """Group events into one message per firm, splitting if a message gets too long."""
-    by_firm: dict[str, list[OpeningEvent]] = {}
-    for ev in events:
-        by_firm.setdefault(ev.firm, []).append(ev)
+    """One flat list of openings, highest estimated comp first (money-driven)."""
+    ordered = sorted(events, key=lambda e: (-e.comp_k, e.firm, e.title))
+    header = f"\U0001f6a8 {len(ordered)} role(s) opened"
+    blocks = [header]
+    for ev in ordered:
+        money = f"<b>~£{ev.comp_k}k</b> — " if ev.comp_k else ""
+        loc = f" — {_esc(ev.location)}" if ev.location else ""
+        line = f"\n\n{money}{_esc(ev.firm)}: <b>{_esc(ev.title)}</b>{loc}"
+        if ev.url:
+            line += f'\n<a href="{_esc(ev.url)}">Apply</a>'
+        if ev.comp_label:
+            line += f"  <i>{_esc(ev.comp_label)}</i>"
+        blocks.append(line)
 
+    text = "".join(blocks)
     messages: list[str] = []
-    for firm, evs in by_firm.items():
-        header = f"\U0001f6a8 <b>{_esc(firm)}</b> — {len(evs)} role(s) opened"
-        blocks = [header]
-        for ev in evs:
-            loc = f" — {_esc(ev.location)}" if ev.location else ""
-            line = f"\n• <b>{_esc(ev.title)}</b>{loc}"
-            if ev.url:
-                line += f'\n  <a href="{_esc(ev.url)}">Apply</a>'
-            if ev.reason:
-                line += f"\n  <i>{_esc(ev.reason)}</i>"
-            blocks.append(line)
-        text = "".join(blocks)
-        while len(text) > _MAX_LEN:
-            cut = text.rfind("\n•", 0, _MAX_LEN)
-            cut = cut if cut > len(header) else _MAX_LEN
-            messages.append(text[:cut])
-            text = f"{header} (cont.)" + text[cut:]
-        messages.append(text)
+    while len(text) > _MAX_LEN:
+        cut = text.rfind("\n\n", 1, _MAX_LEN)
+        cut = cut if cut > len(header) else _MAX_LEN
+        messages.append(text[:cut])
+        text = "\U0001f6a8 (cont.)" + text[cut:]
+    messages.append(text)
     return messages
 
 

@@ -116,6 +116,44 @@ http_timeout_seconds: 20.0
 http_retries: 2
 max_concurrency: 8
 
+# Pay tier per firm (drives the comp estimate used to rank roles — money first).
+# elite_prop | hedge_fund | bank_bulge | bank_other | commodity_major | commodity_other | energy_utility
+tiers:
+  jane-street: elite_prop
+  hudson-river-trading: elite_prop
+  five-rings: elite_prop
+  aquatic: elite_prop
+  imc: elite_prop
+  jump-trading: elite_prop
+  tower-research: elite_prop
+  flow-traders: elite_prop
+  virtu: elite_prop
+  optiver: elite_prop
+  squarepoint: hedge_fund
+  onyx-capital: hedge_fund
+  goldman-sachs: bank_bulge
+  jpmorgan: bank_bulge
+  morgan-stanley: bank_bulge
+  deutsche-bank: bank_bulge
+  citi: bank_bulge
+  vitol: commodity_major
+  trafigura: commodity_major
+  louis-dreyfus: commodity_major
+  cargill: commodity_major
+  glencore: commodity_major
+  engelhart: commodity_other
+  ecom: commodity_other
+  freepoint: commodity_other
+  viterra: commodity_other
+  stx-group: commodity_other
+  olam-agri: commodity_other
+  met-group: commodity_other
+  vesper: commodity_other
+  shell-trading: energy_utility
+  bp-trading: energy_utility
+  vattenfall: energy_utility
+  axpo: energy_utility
+
 firms:
   # ---- Quant trading / market makers (Greenhouse-backed) ----
   - slug: jane-street
