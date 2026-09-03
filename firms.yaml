@@ -129,8 +129,23 @@ tiers:
   flow-traders: elite_prop
   virtu: elite_prop
   optiver: elite_prop
+  da-vinci-derivatives: elite_prop
+  akuna-capital: elite_prop
+  xtx-markets: elite_prop
+  quadrature-capital: elite_prop
+  graviton-research-capital: elite_prop
+  headlands-technologies: elite_prop
+  belvedere-trading: elite_prop
+  old-mission-capital: elite_prop
+  chicago-trading-company: elite_prop
+  qube-rt: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
+  man-group: hedge_fund
+  point72: hedge_fund
+  schonfeld: hedge_fund
+  pdt-partners: hedge_fund
+  exoduspoint: hedge_fund
   goldman-sachs: bank_bulge
   jpmorgan: bank_bulge
   morgan-stanley: bank_bulge
@@ -212,6 +227,83 @@ firms:
     name: Virtu Financial
     adapter: greenhouse
     source: {token: virtu}            # verified 2026-09
+
+  # ---- Elite prop / market makers (batch 1, verified 2026-09-03) ----
+  - slug: da-vinci-derivatives
+    name: Da Vinci Derivatives
+    adapter: greenhouse
+    source: {token: davinciderivatives}   # verified 2026-09-03
+
+  - slug: akuna-capital
+    name: Akuna Capital
+    adapter: greenhouse
+    source: {token: akunacapital}   # verified 2026-09-03
+
+  - slug: xtx-markets
+    name: XTX Markets
+    adapter: greenhouse
+    source: {token: xtxmarketstechnologies}   # verified 2026-09-03
+
+  - slug: quadrature-capital
+    name: Quadrature Capital
+    adapter: greenhouse
+    source: {token: quadraturecapital}   # verified 2026-09-03
+
+  - slug: graviton-research-capital
+    name: Graviton Research Capital
+    adapter: greenhouse
+    source: {token: gravitonresearchcapital}   # verified 2026-09-03
+
+  - slug: headlands-technologies
+    name: Headlands Technologies
+    adapter: greenhouse
+    source: {token: headlandstechnologiesllc}   # verified 2026-09-03
+
+  - slug: belvedere-trading
+    name: Belvedere Trading
+    adapter: lever
+    source: {token: belvederetrading}   # verified 2026-09-03 (Chicago-heavy)
+
+  - slug: old-mission-capital
+    name: Old Mission Capital
+    adapter: greenhouse
+    source: {token: oldmissioncapital}   # verified 2026-09-03
+
+  - slug: chicago-trading-company
+    name: Chicago Trading Company
+    adapter: greenhouse
+    source: {token: chicagotrading}   # verified 2026-09-03
+
+  - slug: qube-rt
+    name: Qube Research & Technologies
+    adapter: greenhouse
+    source: {token: quberesearchandtechnologies}   # verified 2026-09-03 (heavy London grad/intern presence)
+
+  # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
+  - slug: man-group
+    name: Man Group
+    adapter: greenhouse
+    source: {token: mangroup}   # verified 2026-09-03
+
+  - slug: point72
+    name: Point72
+    adapter: greenhouse
+    source: {token: point72}   # verified 2026-09-03
+
+  - slug: schonfeld
+    name: Schonfeld Strategic Advisors
+    adapter: greenhouse
+    source: {token: schonfeld}   # verified 2026-09-03
+
+  - slug: pdt-partners
+    name: PDT Partners
+    adapter: greenhouse
+    source: {token: pdtpartners}   # verified 2026-09-03 (NY-heavy)
+
+  - slug: exoduspoint
+    name: ExodusPoint Capital
+    adapter: greenhouse
+    source: {token: exoduspoint}   # verified 2026-09-03 (sparse board)
 
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs

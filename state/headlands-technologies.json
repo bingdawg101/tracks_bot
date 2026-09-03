@@ -1,0 +1,35 @@
+{
+  "firm": "Headlands Technologies",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4194144009": {
+      "firm": "Headlands Technologies",
+      "source_id": "4194144009",
+      "title": "Quantitative Researcher",
+      "location": "Amsterdam; Chicago; London; New York",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4194144009",
+      "department": "Monetization",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
+      "first_seen": "2026-09-03T20:09:21.097421Z"
+    },
+    "4227566009": {
+      "firm": "Headlands Technologies",
+      "source_id": "4227566009",
+      "title": "Quantitative Researcher – New Grad",
+      "location": "Amsterdam; Chicago; London; New York",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+      "department": "Monetization",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
+      "first_seen": "2026-09-03T20:09:21.097517Z"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "firm": "Quadrature Capital",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "8048585": {
+      "firm": "Quadrature Capital",
+      "source_id": "8048585",
+      "title": "Quantitative Developer",
+      "location": "London, United Kingdom, Singapore",
+      "url": "https://job-boards.greenhouse.io/quadraturecapital/jobs/8048585",
+      "department": "Full-time",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-09-03T20:09:21.051906Z"
+    }
+  }
+}

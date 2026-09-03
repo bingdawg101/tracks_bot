@@ -1,0 +1,63 @@
+{
+  "firm": "Man Group",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4844843101": {
+      "firm": "Man Group",
+      "source_id": "4844843101",
+      "title": "Quantitative Developer - AHL",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844843101",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-09-03T20:09:21.470551Z"
+    },
+    "4948688101": {
+      "firm": "Man Group",
+      "source_id": "4948688101",
+      "title": "Trainee Company Secretarial Assistant",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4948688101",
+      "department": "Group Legal",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-09-03T20:09:21.478010Z"
+    },
+    "4965180101": {
+      "firm": "Man Group",
+      "source_id": "4965180101",
+      "title": "Junior Quant - Systematic Multi-Strat",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101",
+      "department": "Systematic",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 160,
+      "comp_label": "~£160k (est. £99–221k)",
+      "comp_basis": "hedge fund · quant trading",
+      "first_seen": "2026-09-03T20:09:21.463374Z"
+    },
+    "4966466101": {
+      "firm": "Man Group",
+      "source_id": "4966466101",
+      "title": "Quant Researcher - Macro; Futures / FX",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4966466101",
+      "department": "Systematic",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 160,
+      "comp_label": "~£160k (est. £99–221k)",
+      "comp_basis": "hedge fund · quant trading",
+      "first_seen": "2026-09-03T20:09:21.472620Z"
+    }
+  }
+}

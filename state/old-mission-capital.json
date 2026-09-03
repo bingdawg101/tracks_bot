@@ -1,0 +1,35 @@
+{
+  "firm": "Old Mission Capital",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4455441003": {
+      "firm": "Old Mission Capital",
+      "source_id": "4455441003",
+      "title": "Quantitative Trader",
+      "location": "London",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=4455441003",
+      "department": "Trading",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
+      "first_seen": "2026-09-03T20:09:42.613311Z"
+    },
+    "7796058003": {
+      "firm": "Old Mission Capital",
+      "source_id": "7796058003",
+      "title": "Quantitative Trader – 2027 Graduate Program (August Start)",
+      "location": "London",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
+      "department": "University",
+      "employment_type": "Full-time",
+      "match_level": "match",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
+      "first_seen": "2026-09-03T20:09:42.613593Z"
+    }
+  }
+}
