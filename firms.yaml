@@ -155,6 +155,13 @@ tiers:
   simplex-trading: elite_prop
   falconx: elite_prop
   eclipse-trading: elite_prop
+  webb-traders: elite_prop
+  valkyrie-trading: elite_prop
+  amber-group: elite_prop
+  vivienne-court: elite_prop
+  blackedge-capital: elite_prop
+  alphagrep: elite_prop
+  caladan: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -185,6 +192,7 @@ tiers:
   barclays: bank_bulge
   santander: bank_other
   lloyds-banking-group: bank_other
+  cibc: bank_other
   vitol: commodity_major
   trafigura: commodity_major
   louis-dreyfus: commodity_major
@@ -393,6 +401,41 @@ firms:
     name: Eclipse Trading
     adapter: greenhouse
     source: {token: eclipsetrading}   # verified 2026-09-03 (HK/Sydney prop)
+
+  - slug: webb-traders
+    name: WEBB Traders
+    adapter: recruitee
+    source: {token: webbtraders}   # verified 2026-09-03 (Amsterdam/Paris MM)
+
+  - slug: valkyrie-trading
+    name: Valkyrie Trading
+    adapter: lever
+    source: {token: valkyrietrading}   # verified 2026-09-03 (Chicago options MM)
+
+  - slug: amber-group
+    name: Amber Group
+    adapter: lever
+    source: {token: ambergroup}   # verified 2026-09-03 (crypto MM, Asia)
+
+  - slug: vivienne-court
+    name: Vivienne Court Trading
+    adapter: greenhouse
+    source: {token: vivcourt}   # verified 2026-09-03 (Sydney MM)
+
+  - slug: blackedge-capital
+    name: BlackEdge Capital
+    adapter: greenhouse
+    source: {token: blackedgecapital}   # verified 2026-09-03 (Chicago prop, grad programme)
+
+  - slug: alphagrep
+    name: AlphaGrep Securities
+    adapter: greenhouse
+    source: {token: alphagrepsecurities}   # verified 2026-09-03 (India/Shanghai HFT)
+
+  - slug: caladan
+    name: Caladan
+    adapter: greenhouse
+    source: {token: caladan}   # verified 2026-09-03 (crypto MM, Singapore)
 
   # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
   - slug: man-group
@@ -699,6 +742,14 @@ firms:
     filters:
       include: [trading, trader, trade, originator, origination, commercial, market, markets,
                 commodity, commodities, analyst, portfolio]
+
+  - slug: cibc
+    name: CIBC Capital Markets
+    adapter: workday
+    source: {tenant: cibc, wd: wd3, site: search}   # verified 2026-09-03 (Canada-heavy; CM has London desk)
+    filters:
+      include: [markets, trading, trader, quant, quantitative, "capital markets", sales,
+                structuring, securities, "global markets", derivatives]
 
   - slug: castleton-cci
     name: Castleton Commodities International
