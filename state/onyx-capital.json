@@ -1,7 +1,7 @@
 {
   "firm": "Onyx Capital Group",
-  "failure_count": 2,
-  "last_error": "onyx-capital: GET https://apply.workable.com/api/v1/widget/accounts/onyx-capital-group failed: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v1/widget/accounts/onyx-capital-group?details=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "tracked": {
     "0AD579CC5A": {
       "firm": "Onyx Capital Group",
