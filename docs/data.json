@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03 15:00 UTC",
+  "generated_at": "2026-09-03 16:00 UTC",
   "repo": "bingdawg101/tracks_bot",
   "firms": [
     {
@@ -329,6 +329,17 @@
       "failure_count": 0
     }
   ],
-  "history": [],
+  "history": [
+    {
+      "firm": "Jane Street",
+      "source_id": "8537797002",
+      "title": "Sales and Trading",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
+      "match_level": "match",
+      "detected_at": "2026-09-03T16:00:37.664703Z",
+      "reason": "role 'trading', employment type 'Summer Internship', location 'london'"
+    }
+  ],
   "total_match": 32
 }
