@@ -242,6 +242,46 @@
       "failure_count": 0
     },
     {
+      "name": "Old Mission Capital",
+      "slug": "old-mission-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 1,
+      "top_comp_k": 190,
+      "roles": [
+        {
+          "title": "Quantitative Trader \u2013 2027 Graduate Program (August Start)",
+          "location": "London",
+          "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
+          "employment_type": "Full-time",
+          "comp_k": 190,
+          "comp_label": "~\u00a3190k (est. \u00a3118\u2013262k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "Headlands Technologies",
+      "slug": "headlands-technologies",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 1,
+      "top_comp_k": 180,
+      "roles": [
+        {
+          "title": "Quantitative Researcher \u2013 New Grad",
+          "location": "Amsterdam; Chicago; London; New York",
+          "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+          "employment_type": "",
+          "comp_k": 180,
+          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
       "name": "IMC Trading",
       "slug": "imc",
       "enabled": true,
@@ -257,6 +297,26 @@
           "employment_type": "",
           "comp_k": 180,
           "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "Wintermute",
+      "slug": "wintermute",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 9,
+      "top_comp_k": 170,
+      "roles": [
+        {
+          "title": "Graduate Algorithmic Trader 2027",
+          "location": "London",
+          "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517",
+          "employment_type": "Full-time",
+          "comp_k": 170,
+          "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
         }
       ],
       "failure_count": 0
@@ -290,6 +350,34 @@
       "failure_count": 0
     },
     {
+      "name": "Qube Research & Technologies",
+      "slug": "qube-rt",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 18,
+      "top_comp_k": 166,
+      "roles": [
+        {
+          "title": "2026 - Internship, Quantitative Research/Trading",
+          "location": "Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest",
+          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002",
+          "employment_type": "Intern",
+          "comp_k": 166,
+          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
+        },
+        {
+          "title": "VIE in Research",
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
+          "employment_type": "Intern",
+          "comp_k": 101,
+          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
       "name": "Aquatic Capital Management",
       "slug": "aquatic",
       "enabled": true,
@@ -305,6 +393,34 @@
           "employment_type": "",
           "comp_k": 166,
           "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "DV Trading",
+      "slug": "dv-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 8,
+      "top_comp_k": 156,
+      "roles": [
+        {
+          "title": "Trading Intern - Summer 2027 (DV Commodities)",
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+          "employment_type": "",
+          "comp_k": 156,
+          "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
+        },
+        {
+          "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+          "employment_type": "",
+          "comp_k": 129,
+          "comp_label": "~\u00a3129k (est. \u00a380\u2013178k)"
         }
       ],
       "failure_count": 0
@@ -369,6 +485,54 @@
           "employment_type": "Full-time",
           "comp_k": 140,
           "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
+        }
+      ],
+      "failure_count": 2
+    },
+    {
+      "name": "Point72",
+      "slug": "point72",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 2,
+      "review_count": 17,
+      "top_comp_k": 136,
+      "roles": [
+        {
+          "title": "Quantitative Researcher - Intern",
+          "location": "London, Paris, Hong Kong, Tokyo",
+          "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
+          "employment_type": "",
+          "comp_k": 136,
+          "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
+        },
+        {
+          "title": "Quantitative Software Developer Intern",
+          "location": "New York, London, or Paris",
+          "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+          "employment_type": "",
+          "comp_k": 106,
+          "comp_label": "~\u00a3106k (est. \u00a366\u2013146k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "GSA Capital",
+      "slug": "gsa-capital",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 1,
+      "review_count": 3,
+      "top_comp_k": 136,
+      "roles": [
+        {
+          "title": "Quantitative Researcher - Intern",
+          "location": "London, New York",
+          "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
+          "employment_type": "",
+          "comp_k": 136,
+          "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
         }
       ],
       "failure_count": 0
@@ -602,6 +766,108 @@
       "failure_count": 0
     },
     {
+      "name": "Schroders",
+      "slug": "schroders",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 3,
+      "review_count": 17,
+      "top_comp_k": 50,
+      "roles": [
+        {
+          "title": "2027 Public Markets Equities Internship Programme",
+          "location": "London, United Kingdom",
+          "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+          "employment_type": "",
+          "comp_k": 50,
+          "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+        },
+        {
+          "title": "2027 Public Markets Multi-Asset Internship Programme",
+          "location": "London, United Kingdom",
+          "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+          "employment_type": "",
+          "comp_k": 38,
+          "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+        },
+        {
+          "title": "2027 Public Markets Quants Internship Programme",
+          "location": "London, United Kingdom",
+          "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+          "employment_type": "",
+          "comp_k": 38,
+          "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "3Red Partners",
+      "slug": "3red-partners",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "AQR Capital Management",
+      "slug": "aqr",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Akuna Capital",
+      "slug": "akuna-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "AlphaGrep Securities",
+      "slug": "alphagrep",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Amber Group",
+      "slug": "amber-group",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Auros",
+      "slug": "auros",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Axpo",
       "slug": "axpo",
       "enabled": true,
@@ -613,10 +879,109 @@
       "failure_count": 0
     },
     {
+      "name": "B2C2",
+      "slug": "b2c2",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "BP (Trading & Shipping)",
       "slug": "bp-trading",
       "enabled": true,
       "tier": "energy_utility",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Barclays",
+      "slug": "barclays",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Belvedere Trading",
+      "slug": "belvedere-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "BlackEdge Capital",
+      "slug": "blackedge-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "BlackRock",
+      "slug": "blackrock",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 8,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "CIBC Capital Markets",
+      "slug": "cibc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "COFCO International",
+      "slug": "cofco-international",
+      "enabled": false,
+      "tier": "",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Caladan",
+      "slug": "caladan",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Capstone Investment Advisors",
+      "slug": "capstone-investment-advisors",
+      "enabled": true,
+      "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -639,6 +1004,17 @@
       "slug": "castleton-cci",
       "enabled": false,
       "tier": "",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Chicago Trading Company",
+      "slug": "chicago-trading-company",
+      "enabled": true,
+      "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -679,10 +1055,32 @@
       "failure_count": 0
     },
     {
+      "name": "Clear Street",
+      "slug": "clear-street",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "DRW",
       "slug": "drw",
       "enabled": false,
       "tier": "",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Da Vinci Derivatives",
+      "slug": "da-vinci-derivatives",
+      "enabled": true,
+      "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -723,8 +1121,63 @@
       "failure_count": 0
     },
     {
+      "name": "Eclipse Trading",
+      "slug": "eclipse-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Equinor",
+      "slug": "equinor",
+      "enabled": true,
+      "tier": "energy_utility",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "ExodusPoint Capital",
+      "slug": "exoduspoint",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "FalconX",
+      "slug": "falconx",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Flow Traders",
       "slug": "flow-traders",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Flowdesk",
+      "slug": "flowdesk",
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 0,
@@ -745,10 +1198,131 @@
       "failure_count": 0
     },
     {
+      "name": "GSR Markets",
+      "slug": "gsr-markets",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Galaxy Digital",
+      "slug": "galaxy-digital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Gelber Group",
+      "slug": "gelber-group",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Geneva Trading",
+      "slug": "geneva-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Glencore",
       "slug": "glencore",
       "enabled": false,
       "tier": "commodity_major",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Graviton Research Capital",
+      "slug": "graviton-research-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Invesco",
+      "slug": "invesco",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 2,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Jefferies",
+      "slug": "jefferies",
+      "enabled": false,
+      "tier": "",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Keyrock",
+      "slug": "keyrock",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Kronos Research",
+      "slug": "kronos-research",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Legal & General",
+      "slug": "legal-and-general",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 7,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Lloyds Banking Group",
+      "slug": "lloyds-banking-group",
+      "enabled": true,
+      "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -767,6 +1341,17 @@
       "failure_count": 0
     },
     {
+      "name": "M&G plc",
+      "slug": "m-and-g",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "MET Group",
       "slug": "met-group",
       "enabled": true,
@@ -778,12 +1363,56 @@
       "failure_count": 0
     },
     {
+      "name": "Mako Group",
+      "slug": "mako-group",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Man Group",
+      "slug": "man-group",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 4,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Maven Securities",
+      "slug": "maven-securities",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Morgan Stanley",
       "slug": "morgan-stanley",
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 3,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Northern Trust",
+      "slug": "northern-trust",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
       "top_comp_k": 0,
       "roles": [],
       "failure_count": 0
@@ -811,12 +1440,89 @@
       "failure_count": 0
     },
     {
+      "name": "PDT Partners",
+      "slug": "pdt-partners",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Pharo Management",
+      "slug": "pharo-management",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Presto Labs",
+      "slug": "presto-labs",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Quadrature Capital",
+      "slug": "quadrature-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "STX Group",
       "slug": "stx-group",
       "enabled": true,
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Santander",
+      "slug": "santander",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Schonfeld Strategic Advisors",
+      "slug": "schonfeld",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Selini Capital",
+      "slug": "selini-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 2,
       "top_comp_k": 0,
       "roles": [],
       "failure_count": 0
@@ -833,6 +1539,17 @@
       "failure_count": 0
     },
     {
+      "name": "Simplex Trading",
+      "slug": "simplex-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Statar Capital",
       "slug": "statar-capital",
       "enabled": false,
@@ -844,10 +1561,87 @@
       "failure_count": 0
     },
     {
+      "name": "State Street",
+      "slug": "state-street",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "TP ICAP",
+      "slug": "tp-icap",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "The Voleon Group",
+      "slug": "voleon",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Tradition",
+      "slug": "tradition",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Trafigura",
       "slug": "trafigura",
       "enabled": true,
       "tier": "commodity_major",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "TransMarket Group",
+      "slug": "transmarket-group",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Valkyrie Trading",
+      "slug": "valkyrie-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Vatic Investments",
+      "slug": "vatic-investments",
+      "enabled": true,
+      "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -908,9 +1702,86 @@
       "top_comp_k": 0,
       "roles": [],
       "failure_count": 0
+    },
+    {
+      "name": "Vivienne Court Trading",
+      "slug": "vivienne-court",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "WEBB Traders",
+      "slug": "webb-traders",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Wellington Management",
+      "slug": "wellington-management",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 3,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Wincent",
+      "slug": "wincent",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Winton",
+      "slug": "winton",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 3,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "WorldQuant",
+      "slug": "worldquant",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 3,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "XTX Markets",
+      "slug": "xtx-markets",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
     }
   ],
   "history": [],
   "last_opening": "",
-  "total_match": 57
+  "total_match": 70
 }
