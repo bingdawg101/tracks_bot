@@ -2,6 +2,7 @@
   "firm": "Tower Research Capital",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4986715": {
       "firm": "Tower Research Capital",
@@ -15,7 +16,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T16:23:19.124380Z"
+      "first_seen": "2026-09-03T16:23:19.124380Z",
+      "baseline": true
     },
     "7080209": {
       "firm": "Tower Research Capital",
@@ -29,7 +31,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.120823Z"
+      "first_seen": "2026-09-03T16:23:19.120823Z",
+      "baseline": true
     },
     "7080219": {
       "firm": "Tower Research Capital",
@@ -43,7 +46,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.122579Z"
+      "first_seen": "2026-09-03T16:23:19.122579Z",
+      "baseline": true
     },
     "7722018": {
       "firm": "Tower Research Capital",
@@ -57,7 +61,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.133599Z"
+      "first_seen": "2026-09-03T16:23:19.133599Z",
+      "baseline": true
     },
     "8037824": {
       "firm": "Tower Research Capital",
@@ -71,7 +76,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T16:23:19.124428Z"
+      "first_seen": "2026-09-03T16:23:19.124428Z",
+      "baseline": true
     },
     "8037860": {
       "firm": "Tower Research Capital",
@@ -85,7 +91,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T16:23:19.124530Z"
+      "first_seen": "2026-09-03T16:23:19.124530Z",
+      "baseline": true
     },
     "8113986": {
       "firm": "Tower Research Capital",
@@ -99,7 +106,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.122832Z"
+      "first_seen": "2026-09-03T16:23:19.122832Z",
+      "baseline": true
     }
   }
 }

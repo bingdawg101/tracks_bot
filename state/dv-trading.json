@@ -2,6 +2,7 @@
   "firm": "DV Trading",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4018000005": {
       "firm": "DV Trading",
@@ -15,7 +16,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:21:38.291743Z"
+      "first_seen": "2026-09-03T20:21:38.291743Z",
+      "baseline": true
     },
     "4656133005": {
       "firm": "DV Trading",
@@ -29,7 +31,8 @@
       "comp_k": 150,
       "comp_label": "~£150k (est. £93–207k)",
       "comp_basis": "elite prop · sales trading",
-      "first_seen": "2026-09-03T20:21:38.294129Z"
+      "first_seen": "2026-09-03T20:21:38.294129Z",
+      "baseline": true
     },
     "4671558005": {
       "firm": "DV Trading",
@@ -43,7 +46,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:21:38.295946Z"
+      "first_seen": "2026-09-03T20:21:38.295946Z",
+      "baseline": true
     },
     "4674252005": {
       "firm": "DV Trading",
@@ -57,7 +61,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:21:38.293272Z"
+      "first_seen": "2026-09-03T20:21:38.293272Z",
+      "baseline": true
     },
     "4713581005": {
       "firm": "DV Trading",
@@ -71,7 +76,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:21:38.301497Z"
+      "first_seen": "2026-09-03T20:21:38.301497Z",
+      "baseline": true
     },
     "4719125005": {
       "firm": "DV Trading",
@@ -85,7 +91,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T20:21:38.299511Z"
+      "first_seen": "2026-09-03T20:21:38.299511Z",
+      "baseline": true
     },
     "4719135005": {
       "firm": "DV Trading",
@@ -99,7 +106,8 @@
       "comp_k": 156,
       "comp_label": "~£156k (est. £97–215k)",
       "comp_basis": "elite prop · trading · internship",
-      "first_seen": "2026-09-03T20:21:38.299919Z"
+      "first_seen": "2026-09-03T20:21:38.299919Z",
+      "baseline": true
     },
     "4719984005": {
       "firm": "DV Trading",
@@ -113,7 +121,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:21:38.299079Z"
+      "first_seen": "2026-09-03T20:21:38.299079Z",
+      "baseline": true
     },
     "4721260005": {
       "firm": "DV Trading",
@@ -127,7 +136,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:21:38.290281Z"
+      "first_seen": "2026-09-03T20:21:38.290281Z",
+      "baseline": true
     },
     "4721555005": {
       "firm": "DV Trading",
@@ -141,7 +151,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:21:38.297531Z"
+      "first_seen": "2026-09-03T20:21:38.297531Z",
+      "baseline": true
     }
   }
 }

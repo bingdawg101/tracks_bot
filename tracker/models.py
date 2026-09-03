@@ -57,6 +57,9 @@ class Posting(BaseModel):
     comp_label: str = ""
     comp_basis: str = ""
     first_seen: datetime = Field(default_factory=utcnow)
+    # True = this role was already open the first time we ever saw the firm (i.e. we can't
+    # know when it opened, and it's probably too late). False = it appeared while we watched.
+    baseline: bool = False
 
     @property
     def key(self) -> str:
@@ -96,6 +99,10 @@ class FirmState(BaseModel):
     firm: str
     failure_count: int = 0
     last_error: str = ""
+    # True once we've had one successful fetch. Distinguishes "never seen this firm"
+    # (first sighting => baseline, no alerts) from "seen it, currently has no roles up"
+    # (a later 0->N is a real cycle opening => alert).
+    established: bool = False
     # source_id -> serialised Posting for everything currently matching (MATCH or REVIEW)
     tracked: dict[str, Posting] = Field(default_factory=dict)
 

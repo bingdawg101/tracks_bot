@@ -2,6 +2,7 @@
   "firm": "Schonfeld Strategic Advisors",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "7957690": {
       "firm": "Schonfeld Strategic Advisors",
@@ -15,7 +16,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · sales trading",
-      "first_seen": "2026-09-03T20:09:21.387209Z"
+      "first_seen": "2026-09-03T20:09:21.387209Z",
+      "baseline": true
     }
   }
 }

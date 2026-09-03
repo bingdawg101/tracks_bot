@@ -115,6 +115,34 @@ failure_alert_threshold: 3
 http_timeout_seconds: 20.0
 http_retries: 2
 max_concurrency: 8
+fresh_days: 10   # a matched role older than this (since first seen) is "probably too late"
+
+# Recruiting-cycle registry — the point of the tracker is catching a cycle the day it opens.
+# Per firm: list of {programme, status, opens, closes?, year?, source}.
+#   status: not_yet_open | open | rolling | closed
+#   opens:  ISO date "2026-10-01" | month "2026-10" | window "2026-09..2026-11" | "rolling"
+# Populate every firm here. Verify against the firm's early-careers page.
+cycles:
+  jane-street:
+    - {programme: "Internships & New Grad", status: rolling, opens: rolling,
+       source: "Jane Street accepts applications year-round"}
+  hudson-river-trading:
+    - {programme: "Summer Internship / New Grad 2027", status: rolling, opens: rolling,
+       source: "HRT campus roles open on a rolling basis"}
+  jump-trading:
+    - {programme: "Campus 2027", status: rolling, opens: rolling, source: "rolling"}
+  optiver:
+    - {programme: "Graduate & Internship 2027", status: not_yet_open, opens: "2026-09",
+       source: "estimate — Optiver typically opens EMEA grad/intern apps in Sept; VERIFY"}
+  goldman-sachs:
+    - {programme: "Summer Analyst 2027", status: open, opens: "2026-07", year: 2027,
+       source: "GS summer 2027 opened ~July 2026 (historical); confirm on higher.gs.com"}
+  citadel:
+    - {programme: "Summer Internship 2027", status: not_yet_open, opens: "2026-09",
+       source: "estimate — Citadel typically opens ~Sept for next summer; VERIFY"}
+  jpmorgan:
+    - {programme: "Summer 2027 (Markets / QR)", status: open, opens: "2026-08", year: 2027,
+       source: "estimate — JPM markets summer usually live by Aug/Sept; VERIFY"}
 
 # Pay tier per firm (drives the comp estimate used to rank roles — money first).
 # elite_prop | hedge_fund | bank_bulge | bank_other | commodity_major | commodity_other | energy_utility

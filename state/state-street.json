@@ -2,6 +2,7 @@
   "firm": "State Street",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "R-795646": {
       "firm": "State Street",
@@ -15,7 +16,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:55.954153Z"
+      "first_seen": "2026-09-03T20:39:55.954153Z",
+      "baseline": true
     }
   }
 }

@@ -27,7 +27,7 @@ def test_format_events_ranks_by_comp_and_escapes_html():
     msgs = format_events(events)
     assert len(msgs) == 1
     body = msgs[0]
-    assert "2 role(s) opened" in body
+    assert "2 role(s) JUST OPENED" in body
     assert "&lt;x&gt;" in body  # HTML-escaped
     # higher comp listed first
     assert body.index("Jane Street") < body.index("Bank")

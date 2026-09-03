@@ -2,6 +2,7 @@
   "firm": "Jump Crypto",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "7374010": {
       "firm": "Jump Crypto",
@@ -15,7 +16,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T21:45:49.054597Z"
+      "first_seen": "2026-09-03T21:45:49.054597Z",
+      "baseline": true
     },
     "7374012": {
       "firm": "Jump Crypto",
@@ -29,7 +31,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T21:45:49.054295Z"
+      "first_seen": "2026-09-03T21:45:49.054295Z",
+      "baseline": true
     }
   }
 }

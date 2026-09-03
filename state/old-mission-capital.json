@@ -2,6 +2,7 @@
   "firm": "Old Mission Capital",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4455441003": {
       "firm": "Old Mission Capital",
@@ -15,7 +16,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T20:09:42.613311Z"
+      "first_seen": "2026-09-03T20:09:42.613311Z",
+      "baseline": true
     },
     "7796058003": {
       "firm": "Old Mission Capital",
@@ -29,7 +31,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T20:09:42.613593Z"
+      "first_seen": "2026-09-03T20:09:42.613593Z",
+      "baseline": true
     }
   }
 }

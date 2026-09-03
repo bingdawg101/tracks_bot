@@ -2,6 +2,7 @@
   "firm": "Qube Research & Technologies",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4104778002": {
       "firm": "Qube Research & Technologies",
@@ -15,7 +16,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:09:21.321916Z"
+      "first_seen": "2026-09-03T20:09:21.321916Z",
+      "baseline": true
     },
     "4812537002": {
       "firm": "Qube Research & Technologies",
@@ -29,7 +31,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T20:09:21.340971Z"
+      "first_seen": "2026-09-03T20:09:21.340971Z",
+      "baseline": true
     },
     "6785866002": {
       "firm": "Qube Research & Technologies",
@@ -43,7 +46,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:09:21.323459Z"
+      "first_seen": "2026-09-03T20:09:21.323459Z",
+      "baseline": true
     },
     "7670646002": {
       "firm": "Qube Research & Technologies",
@@ -57,7 +61,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.303922Z"
+      "first_seen": "2026-09-03T20:09:21.303922Z",
+      "baseline": true
     },
     "7746883002": {
       "firm": "Qube Research & Technologies",
@@ -71,7 +76,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:09:21.293338Z"
+      "first_seen": "2026-09-03T20:09:21.293338Z",
+      "baseline": true
     },
     "8052341002": {
       "firm": "Qube Research & Technologies",
@@ -85,7 +91,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T20:09:21.282256Z"
+      "first_seen": "2026-09-03T20:09:21.282256Z",
+      "baseline": true
     },
     "8088244002": {
       "firm": "Qube Research & Technologies",
@@ -99,7 +106,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:09:21.298711Z"
+      "first_seen": "2026-09-03T20:09:21.298711Z",
+      "baseline": true
     },
     "8150185002": {
       "firm": "Qube Research & Technologies",
@@ -113,7 +121,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T20:09:21.297914Z"
+      "first_seen": "2026-09-03T20:09:21.297914Z",
+      "baseline": true
     },
     "8154555002": {
       "firm": "Qube Research & Technologies",
@@ -127,7 +136,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:09:21.322495Z"
+      "first_seen": "2026-09-03T20:09:21.322495Z",
+      "baseline": true
     },
     "8159393002": {
       "firm": "Qube Research & Technologies",
@@ -141,7 +151,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.340852Z"
+      "first_seen": "2026-09-03T20:09:21.340852Z",
+      "baseline": true
     },
     "8175611002": {
       "firm": "Qube Research & Technologies",
@@ -155,7 +166,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T20:09:21.294304Z"
+      "first_seen": "2026-09-03T20:09:21.294304Z",
+      "baseline": true
     },
     "8203078002": {
       "firm": "Qube Research & Technologies",
@@ -169,7 +181,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.316721Z"
+      "first_seen": "2026-09-03T20:09:21.316721Z",
+      "baseline": true
     },
     "8225791002": {
       "firm": "Qube Research & Technologies",
@@ -183,7 +196,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.315794Z"
+      "first_seen": "2026-09-03T20:09:21.315794Z",
+      "baseline": true
     },
     "8581841002": {
       "firm": "Qube Research & Technologies",
@@ -197,7 +211,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.318898Z"
+      "first_seen": "2026-09-03T20:09:21.318898Z",
+      "baseline": true
     },
     "8587596002": {
       "firm": "Qube Research & Technologies",
@@ -211,7 +226,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.324675Z"
+      "first_seen": "2026-09-03T20:09:21.324675Z",
+      "baseline": true
     },
     "8607638002": {
       "firm": "Qube Research & Technologies",
@@ -225,7 +241,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.321237Z"
+      "first_seen": "2026-09-03T20:09:21.321237Z",
+      "baseline": true
     },
     "8660588002": {
       "firm": "Qube Research & Technologies",
@@ -239,7 +256,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:09:21.317984Z"
+      "first_seen": "2026-09-03T20:09:21.317984Z",
+      "baseline": true
     },
     "8675550002": {
       "firm": "Qube Research & Technologies",
@@ -253,7 +271,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T20:09:21.326145Z"
+      "first_seen": "2026-09-03T20:09:21.326145Z",
+      "baseline": true
     },
     "8705713002": {
       "firm": "Qube Research & Technologies",
@@ -267,7 +286,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.320259Z"
+      "first_seen": "2026-09-03T20:09:21.320259Z",
+      "baseline": true
     },
     "8742036002": {
       "firm": "Qube Research & Technologies",
@@ -281,7 +301,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:09:21.314909Z"
+      "first_seen": "2026-09-03T20:09:21.314909Z",
+      "baseline": true
     }
   }
 }

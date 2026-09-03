@@ -2,6 +2,7 @@
   "firm": "Quadrature Capital",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "8048585": {
       "firm": "Quadrature Capital",
@@ -15,7 +16,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:09:21.051906Z"
+      "first_seen": "2026-09-03T20:09:21.051906Z",
+      "baseline": true
     }
   }
 }

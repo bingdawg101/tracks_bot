@@ -2,6 +2,7 @@
   "firm": "Hudson River Trading",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "6703954": {
       "firm": "Hudson River Trading",
@@ -15,7 +16,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.262249Z"
+      "first_seen": "2026-09-03T16:23:19.262249Z",
+      "baseline": true
     },
     "7162019": {
       "firm": "Hudson River Trading",
@@ -29,7 +31,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:23:19.248786Z"
+      "first_seen": "2026-09-03T16:23:19.248786Z",
+      "baseline": true
     },
     "7247998": {
       "firm": "Hudson River Trading",
@@ -43,7 +46,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.251980Z"
+      "first_seen": "2026-09-03T16:23:19.251980Z",
+      "baseline": true
     },
     "7353090": {
       "firm": "Hudson River Trading",
@@ -57,7 +61,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.250184Z"
+      "first_seen": "2026-09-03T16:23:19.250184Z",
+      "baseline": true
     },
     "7392942": {
       "firm": "Hudson River Trading",
@@ -71,7 +76,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.259739Z"
+      "first_seen": "2026-09-03T16:23:19.259739Z",
+      "baseline": true
     },
     "7398013": {
       "firm": "Hudson River Trading",
@@ -85,7 +91,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:23:19.262878Z"
+      "first_seen": "2026-09-03T16:23:19.262878Z",
+      "baseline": true
     },
     "7564973": {
       "firm": "Hudson River Trading",
@@ -99,7 +106,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.256428Z"
+      "first_seen": "2026-09-03T16:23:19.256428Z",
+      "baseline": true
     },
     "7583922": {
       "firm": "Hudson River Trading",
@@ -113,7 +121,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.258087Z"
+      "first_seen": "2026-09-03T16:23:19.258087Z",
+      "baseline": true
     },
     "7706309": {
       "firm": "Hudson River Trading",
@@ -127,7 +136,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.257694Z"
+      "first_seen": "2026-09-03T16:23:19.257694Z",
+      "baseline": true
     },
     "7867883": {
       "firm": "Hudson River Trading",
@@ -141,7 +151,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.245830Z"
+      "first_seen": "2026-09-03T16:23:19.245830Z",
+      "baseline": true
     },
     "7900186": {
       "firm": "Hudson River Trading",
@@ -155,7 +166,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.253443Z"
+      "first_seen": "2026-09-03T16:23:19.253443Z",
+      "baseline": true
     },
     "7964062": {
       "firm": "Hudson River Trading",
@@ -169,7 +181,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.244299Z"
+      "first_seen": "2026-09-03T16:23:19.244299Z",
+      "baseline": true
     },
     "7972584": {
       "firm": "Hudson River Trading",
@@ -183,7 +196,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.239409Z"
+      "first_seen": "2026-09-03T16:23:19.239409Z",
+      "baseline": true
     },
     "7972593": {
       "firm": "Hudson River Trading",
@@ -197,7 +211,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.238200Z"
+      "first_seen": "2026-09-03T16:23:19.238200Z",
+      "baseline": true
     },
     "8046074": {
       "firm": "Hudson River Trading",
@@ -211,7 +226,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.254905Z"
+      "first_seen": "2026-09-03T16:23:19.254905Z",
+      "baseline": true
     },
     "8046163": {
       "firm": "Hudson River Trading",
@@ -225,7 +241,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.264606Z"
+      "first_seen": "2026-09-03T16:23:19.264606Z",
+      "baseline": true
     },
     "8052050": {
       "firm": "Hudson River Trading",
@@ -239,7 +256,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.243051Z"
+      "first_seen": "2026-09-03T16:23:19.243051Z",
+      "baseline": true
     },
     "8052083": {
       "firm": "Hudson River Trading",
@@ -253,7 +271,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.262469Z"
+      "first_seen": "2026-09-03T16:23:19.262469Z",
+      "baseline": true
     },
     "8059837": {
       "firm": "Hudson River Trading",
@@ -267,7 +286,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.244349Z"
+      "first_seen": "2026-09-03T16:23:19.244349Z",
+      "baseline": true
     },
     "8059845": {
       "firm": "Hudson River Trading",
@@ -281,7 +301,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.244242Z"
+      "first_seen": "2026-09-03T16:23:19.244242Z",
+      "baseline": true
     },
     "8161767": {
       "firm": "Hudson River Trading",
@@ -295,7 +316,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.240646Z"
+      "first_seen": "2026-09-03T16:23:19.240646Z",
+      "baseline": true
     },
     "8161770": {
       "firm": "Hudson River Trading",
@@ -309,7 +331,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.241891Z"
+      "first_seen": "2026-09-03T16:23:19.241891Z",
+      "baseline": true
     }
   }
 }

@@ -67,22 +67,26 @@ def apply_success(
 
     events: list[OpeningEvent] = []
 
-    # Carry first_seen forward for postings we already knew about.
+    # First time we've ever seen this firm => everything currently up was already open;
+    # we can't know when, and it's probably too late. Mark it as baseline.
+    first_sighting = not prev.established
     for sid, p in tracked_now.items():
         if sid in prev.tracked:
             p.first_seen = prev.tracked[sid].first_seen
+            p.baseline = prev.tracked[sid].baseline
+        else:
+            p.baseline = first_sighting
 
     firm_reopened = not prev_match_ids and new_match_ids
 
     for sid in sorted(new_match_ids):
         p = tracked_now[sid]
         is_new = sid not in prev_match_ids
-        if not is_new:
+        if not is_new or p.baseline:
+            # baseline roles were already open when we started watching — never alert.
             continue
         reason = p.match_reason
-        if firm_reopened and not prev.tracked:
-            reason = f"first matching role seen for firm — {reason}"
-        elif firm_reopened:
+        if firm_reopened:
             reason = f"firm went from 0 to {len(new_match_ids)} matching roles — {reason}"
         elif sid in prev_review_ids:
             reason = f"promoted from review to match — {reason}"
@@ -106,6 +110,7 @@ def apply_success(
         firm=firm_name,
         failure_count=0,
         last_error="",
+        established=True,
         tracked=tracked_now,
     )
     return new_state, events

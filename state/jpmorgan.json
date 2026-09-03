@@ -2,6 +2,7 @@
   "firm": "JPMorgan",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "210700032": {
       "firm": "JPMorgan",
@@ -15,7 +16,8 @@
       "comp_k": 58,
       "comp_label": "~£58k (est. £45–71k)",
       "comp_basis": "bank bulge · risk ops",
-      "first_seen": "2026-09-03T16:23:37.817586Z"
+      "first_seen": "2026-09-03T16:23:37.817586Z",
+      "baseline": true
     },
     "210773470": {
       "firm": "JPMorgan",
@@ -29,7 +31,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.832717Z"
+      "first_seen": "2026-09-03T16:23:37.832717Z",
+      "baseline": true
     },
     "210774281": {
       "firm": "JPMorgan",
@@ -43,7 +46,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.834768Z"
+      "first_seen": "2026-09-03T16:23:37.834768Z",
+      "baseline": true
     },
     "210774353": {
       "firm": "JPMorgan",
@@ -57,7 +61,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.835175Z"
+      "first_seen": "2026-09-03T16:23:37.835175Z",
+      "baseline": true
     },
     "210774369": {
       "firm": "JPMorgan",
@@ -71,7 +76,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.835334Z"
+      "first_seen": "2026-09-03T16:23:37.835334Z",
+      "baseline": true
     },
     "210774716": {
       "firm": "JPMorgan",
@@ -85,7 +91,8 @@
       "comp_k": 49,
       "comp_label": "~£49k (est. £38–60k)",
       "comp_basis": "bank bulge · swe · internship",
-      "first_seen": "2026-09-03T16:23:37.835480Z"
+      "first_seen": "2026-09-03T16:23:37.835480Z",
+      "baseline": true
     },
     "210774738": {
       "firm": "JPMorgan",
@@ -99,7 +106,8 @@
       "comp_k": 49,
       "comp_label": "~£49k (est. £38–60k)",
       "comp_basis": "bank bulge · swe · internship",
-      "first_seen": "2026-09-03T16:23:37.835618Z"
+      "first_seen": "2026-09-03T16:23:37.835618Z",
+      "baseline": true
     },
     "210774745": {
       "firm": "JPMorgan",
@@ -113,7 +121,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.835731Z"
+      "first_seen": "2026-09-03T16:23:37.835731Z",
+      "baseline": true
     },
     "210774762": {
       "firm": "JPMorgan",
@@ -127,7 +136,8 @@
       "comp_k": 56,
       "comp_label": "~£56k (est. £44–68k)",
       "comp_basis": "bank bulge · commercial · internship",
-      "first_seen": "2026-09-03T16:23:37.836103Z"
+      "first_seen": "2026-09-03T16:23:37.836103Z",
+      "baseline": true
     },
     "210774766": {
       "firm": "JPMorgan",
@@ -141,7 +151,8 @@
       "comp_k": 56,
       "comp_label": "~£56k (est. £44–68k)",
       "comp_basis": "bank bulge · commercial · internship",
-      "first_seen": "2026-09-03T16:23:37.836253Z"
+      "first_seen": "2026-09-03T16:23:37.836253Z",
+      "baseline": true
     },
     "210774799": {
       "firm": "JPMorgan",
@@ -155,7 +166,8 @@
       "comp_k": 41,
       "comp_label": "~£41k (est. £32–50k)",
       "comp_basis": "bank bulge · risk ops · internship",
-      "first_seen": "2026-09-03T16:23:37.836649Z"
+      "first_seen": "2026-09-03T16:23:37.836649Z",
+      "baseline": true
     },
     "210774813": {
       "firm": "JPMorgan",
@@ -169,7 +181,8 @@
       "comp_k": 49,
       "comp_label": "~£49k (est. £38–60k)",
       "comp_basis": "bank bulge · swe · internship",
-      "first_seen": "2026-09-03T16:23:37.836777Z"
+      "first_seen": "2026-09-03T16:23:37.836777Z",
+      "baseline": true
     },
     "210774857": {
       "firm": "JPMorgan",
@@ -183,7 +196,8 @@
       "comp_k": 41,
       "comp_label": "~£41k (est. £32–50k)",
       "comp_basis": "bank bulge · risk ops · internship",
-      "first_seen": "2026-09-03T16:23:37.836977Z"
+      "first_seen": "2026-09-03T16:23:37.836977Z",
+      "baseline": true
     },
     "210774894": {
       "firm": "JPMorgan",
@@ -197,7 +211,8 @@
       "comp_k": 41,
       "comp_label": "~£41k (est. £32–50k)",
       "comp_basis": "bank bulge · risk ops · internship",
-      "first_seen": "2026-09-03T16:23:37.837328Z"
+      "first_seen": "2026-09-03T16:23:37.837328Z",
+      "baseline": true
     },
     "210775228": {
       "firm": "JPMorgan",
@@ -211,7 +226,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.837475Z"
+      "first_seen": "2026-09-03T16:23:37.837475Z",
+      "baseline": true
     },
     "210775238": {
       "firm": "JPMorgan",
@@ -225,7 +241,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.837618Z"
+      "first_seen": "2026-09-03T16:23:37.837618Z",
+      "baseline": true
     },
     "210775295": {
       "firm": "JPMorgan",
@@ -239,7 +256,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.838395Z"
+      "first_seen": "2026-09-03T16:23:37.838395Z",
+      "baseline": true
     },
     "210775302": {
       "firm": "JPMorgan",
@@ -253,7 +271,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.820911Z"
+      "first_seen": "2026-09-03T16:23:37.820911Z",
+      "baseline": true
     },
     "210775305": {
       "firm": "JPMorgan",
@@ -267,7 +286,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.838680Z"
+      "first_seen": "2026-09-03T16:23:37.838680Z",
+      "baseline": true
     },
     "210775312": {
       "firm": "JPMorgan",
@@ -281,7 +301,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.838821Z"
+      "first_seen": "2026-09-03T16:23:37.838821Z",
+      "baseline": true
     },
     "210775320": {
       "firm": "JPMorgan",
@@ -295,7 +316,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.838965Z"
+      "first_seen": "2026-09-03T16:23:37.838965Z",
+      "baseline": true
     },
     "210775342": {
       "firm": "JPMorgan",
@@ -309,7 +331,8 @@
       "comp_k": 66,
       "comp_label": "~£66k (est. £51–81k)",
       "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-09-03T16:23:37.839053Z"
+      "first_seen": "2026-09-03T16:23:37.839053Z",
+      "baseline": true
     },
     "210775710": {
       "firm": "JPMorgan",
@@ -323,7 +346,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.839371Z"
+      "first_seen": "2026-09-03T16:23:37.839371Z",
+      "baseline": true
     },
     "210775727": {
       "firm": "JPMorgan",
@@ -337,7 +361,8 @@
       "comp_k": 56,
       "comp_label": "~£56k (est. £44–68k)",
       "comp_basis": "bank bulge · commercial · internship",
-      "first_seen": "2026-09-03T16:23:37.839524Z"
+      "first_seen": "2026-09-03T16:23:37.839524Z",
+      "baseline": true
     },
     "210775780": {
       "firm": "JPMorgan",
@@ -351,7 +376,8 @@
       "comp_k": 66,
       "comp_label": "~£66k (est. £51–81k)",
       "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-09-03T16:23:37.839621Z"
+      "first_seen": "2026-09-03T16:23:37.839621Z",
+      "baseline": true
     },
     "210776770": {
       "firm": "JPMorgan",
@@ -365,7 +391,8 @@
       "comp_k": 66,
       "comp_label": "~£66k (est. £51–81k)",
       "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-09-03T16:23:37.839845Z"
+      "first_seen": "2026-09-03T16:23:37.839845Z",
+      "baseline": true
     },
     "210776860": {
       "firm": "JPMorgan",
@@ -379,7 +406,8 @@
       "comp_k": 66,
       "comp_label": "~£66k (est. £51–81k)",
       "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-09-03T16:23:37.839949Z"
+      "first_seen": "2026-09-03T16:23:37.839949Z",
+      "baseline": true
     },
     "210776873": {
       "firm": "JPMorgan",
@@ -393,7 +421,8 @@
       "comp_k": 66,
       "comp_label": "~£66k (est. £51–81k)",
       "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-09-03T16:23:37.840052Z"
+      "first_seen": "2026-09-03T16:23:37.840052Z",
+      "baseline": true
     },
     "210779506": {
       "firm": "JPMorgan",
@@ -407,7 +436,8 @@
       "comp_k": 62,
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
-      "first_seen": "2026-09-03T16:23:37.805590Z"
+      "first_seen": "2026-09-03T16:23:37.805590Z",
+      "baseline": true
     },
     "210780476": {
       "firm": "JPMorgan",
@@ -421,7 +451,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.841292Z"
+      "first_seen": "2026-09-03T16:23:37.841292Z",
+      "baseline": true
     },
     "210780517": {
       "firm": "JPMorgan",
@@ -435,7 +466,8 @@
       "comp_k": 59,
       "comp_label": "~£59k (est. £46–72k)",
       "comp_basis": "bank bulge · sales trading · internship",
-      "first_seen": "2026-09-03T16:23:37.841428Z"
+      "first_seen": "2026-09-03T16:23:37.841428Z",
+      "baseline": true
     },
     "210780555": {
       "firm": "JPMorgan",
@@ -449,7 +481,8 @@
       "comp_k": 43,
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:37.841530Z"
+      "first_seen": "2026-09-03T16:23:37.841530Z",
+      "baseline": true
     },
     "210787139": {
       "firm": "JPMorgan",
@@ -463,7 +496,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:23:37.800249Z"
+      "first_seen": "2026-09-03T16:23:37.800249Z",
+      "baseline": true
     }
   }
 }

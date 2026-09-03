@@ -2,6 +2,7 @@
   "firm": "IMC Trading",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4588833101": {
       "firm": "IMC Trading",
@@ -15,7 +16,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.409278Z"
+      "first_seen": "2026-09-03T16:23:19.409278Z",
+      "baseline": true
     },
     "4658369101": {
       "firm": "IMC Trading",
@@ -29,7 +31,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.403192Z"
+      "first_seen": "2026-09-03T16:23:19.403192Z",
+      "baseline": true
     },
     "4658374101": {
       "firm": "IMC Trading",
@@ -43,7 +46,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.402344Z"
+      "first_seen": "2026-09-03T16:23:19.402344Z",
+      "baseline": true
     },
     "4742842101": {
       "firm": "IMC Trading",
@@ -57,7 +61,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.411893Z"
+      "first_seen": "2026-09-03T16:23:19.411893Z",
+      "baseline": true
     },
     "4914883101": {
       "firm": "IMC Trading",
@@ -71,7 +76,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.404911Z"
+      "first_seen": "2026-09-03T16:23:19.404911Z",
+      "baseline": true
     }
   }
 }

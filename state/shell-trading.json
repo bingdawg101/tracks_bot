@@ -2,6 +2,7 @@
   "firm": "Shell (Trading & Supply)",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "R208302": {
       "firm": "Shell (Trading & Supply)",
@@ -15,7 +16,8 @@
       "comp_k": 70,
       "comp_label": "~£70k (est. £55–85k)",
       "comp_basis": "energy utility · structuring",
-      "first_seen": "2026-09-03T17:34:27.248691Z"
+      "first_seen": "2026-09-03T17:34:27.248691Z",
+      "baseline": true
     },
     "R210336": {
       "firm": "Shell (Trading & Supply)",
@@ -29,7 +31,8 @@
       "comp_k": 52,
       "comp_label": "~£52k (est. £41–63k)",
       "comp_basis": "energy utility · other",
-      "first_seen": "2026-09-03T17:34:27.247346Z"
+      "first_seen": "2026-09-03T17:34:27.247346Z",
+      "baseline": true
     }
   }
 }

@@ -2,6 +2,7 @@
   "firm": "Headlands Technologies",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4194144009": {
       "firm": "Headlands Technologies",
@@ -15,7 +16,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:09:21.097421Z"
+      "first_seen": "2026-09-03T20:09:21.097421Z",
+      "baseline": true
     },
     "4227566009": {
       "firm": "Headlands Technologies",
@@ -29,7 +31,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:09:21.097517Z"
+      "first_seen": "2026-09-03T20:09:21.097517Z",
+      "baseline": true
     }
   }
 }

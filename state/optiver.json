@@ -2,6 +2,7 @@
   "firm": "Optiver",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "2c02ad9003d35e18": {
       "firm": "Optiver",
@@ -15,7 +16,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:51:26.300159Z"
+      "first_seen": "2026-09-03T16:51:26.300159Z",
+      "baseline": true
     }
   }
 }

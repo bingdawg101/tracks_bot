@@ -2,6 +2,7 @@
   "firm": "BlackRock",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "97104654800": {
       "firm": "BlackRock",
@@ -15,7 +16,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T21:00:22.411242Z"
+      "first_seen": "2026-09-03T21:00:22.411242Z",
+      "baseline": true
     },
     "97150826672": {
       "firm": "BlackRock",
@@ -29,7 +31,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T21:00:22.410784Z"
+      "first_seen": "2026-09-03T21:00:22.410784Z",
+      "baseline": true
     },
     "97150826688": {
       "firm": "BlackRock",
@@ -43,7 +46,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T21:00:22.410589Z"
+      "first_seen": "2026-09-03T21:00:22.410589Z",
+      "baseline": true
     },
     "97150826704": {
       "firm": "BlackRock",
@@ -57,7 +61,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T21:00:22.410388Z"
+      "first_seen": "2026-09-03T21:00:22.410388Z",
+      "baseline": true
     },
     "97150826736": {
       "firm": "BlackRock",
@@ -71,7 +76,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T21:00:22.410201Z"
+      "first_seen": "2026-09-03T21:00:22.410201Z",
+      "baseline": true
     },
     "98041866064": {
       "firm": "BlackRock",
@@ -85,7 +91,8 @@
       "comp_k": 52,
       "comp_label": "~£52k (est. £41–63k)",
       "comp_basis": "bank other · risk ops",
-      "first_seen": "2026-09-03T21:00:22.405427Z"
+      "first_seen": "2026-09-03T21:00:22.405427Z",
+      "baseline": true
     },
     "99437085088": {
       "firm": "BlackRock",
@@ -99,7 +106,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T21:00:22.403484Z"
+      "first_seen": "2026-09-03T21:00:22.403484Z",
+      "baseline": true
     },
     "99710030640": {
       "firm": "BlackRock",
@@ -113,7 +121,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T21:00:22.400205Z"
+      "first_seen": "2026-09-03T21:00:22.400205Z",
+      "baseline": true
     }
   }
 }

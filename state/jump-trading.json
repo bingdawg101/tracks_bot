@@ -2,6 +2,7 @@
   "firm": "Jump Trading",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "7215943": {
       "firm": "Jump Trading",
@@ -15,7 +16,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:23:19.298962Z"
+      "first_seen": "2026-09-03T16:23:19.298962Z",
+      "baseline": true
     },
     "7217856": {
       "firm": "Jump Trading",
@@ -29,7 +31,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.297863Z"
+      "first_seen": "2026-09-03T16:23:19.297863Z",
+      "baseline": true
     },
     "7362318": {
       "firm": "Jump Trading",
@@ -43,7 +46,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T16:23:19.297906Z"
+      "first_seen": "2026-09-03T16:23:19.297906Z",
+      "baseline": true
     },
     "7974391": {
       "firm": "Jump Trading",
@@ -57,7 +61,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.298126Z"
+      "first_seen": "2026-09-03T16:23:19.298126Z",
+      "baseline": true
     },
     "7974943": {
       "firm": "Jump Trading",
@@ -71,7 +76,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.299235Z"
+      "first_seen": "2026-09-03T16:23:19.299235Z",
+      "baseline": true
     },
     "7975008": {
       "firm": "Jump Trading",
@@ -85,7 +91,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.298035Z"
+      "first_seen": "2026-09-03T16:23:19.298035Z",
+      "baseline": true
     },
     "7975026": {
       "firm": "Jump Trading",
@@ -99,7 +106,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.298825Z"
+      "first_seen": "2026-09-03T16:23:19.298825Z",
+      "baseline": true
     },
     "7976923": {
       "firm": "Jump Trading",
@@ -113,7 +121,8 @@
       "comp_k": 110,
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.297739Z"
+      "first_seen": "2026-09-03T16:23:19.297739Z",
+      "baseline": true
     },
     "7976964": {
       "firm": "Jump Trading",
@@ -127,7 +136,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T16:23:19.297786Z"
+      "first_seen": "2026-09-03T16:23:19.297786Z",
+      "baseline": true
     },
     "7977132": {
       "firm": "Jump Trading",
@@ -141,7 +151,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.298170Z"
+      "first_seen": "2026-09-03T16:23:19.298170Z",
+      "baseline": true
     },
     "7977145": {
       "firm": "Jump Trading",
@@ -155,7 +166,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.298213Z"
+      "first_seen": "2026-09-03T16:23:19.298213Z",
+      "baseline": true
     },
     "8000323": {
       "firm": "Jump Trading",
@@ -169,7 +181,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.299101Z"
+      "first_seen": "2026-09-03T16:23:19.299101Z",
+      "baseline": true
     },
     "8010307": {
       "firm": "Jump Trading",
@@ -183,7 +196,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.298399Z"
+      "first_seen": "2026-09-03T16:23:19.298399Z",
+      "baseline": true
     },
     "8050772": {
       "firm": "Jump Trading",
@@ -197,7 +211,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T16:23:19.298765Z"
+      "first_seen": "2026-09-03T16:23:19.298765Z",
+      "baseline": true
     },
     "8050796": {
       "firm": "Jump Trading",
@@ -211,7 +226,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.298291Z"
+      "first_seen": "2026-09-03T16:23:19.298291Z",
+      "baseline": true
     },
     "8050801": {
       "firm": "Jump Trading",
@@ -225,7 +241,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T16:23:19.298632Z"
+      "first_seen": "2026-09-03T16:23:19.298632Z",
+      "baseline": true
     },
     "8059384": {
       "firm": "Jump Trading",
@@ -239,7 +256,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.298442Z"
+      "first_seen": "2026-09-03T16:23:19.298442Z",
+      "baseline": true
     }
   }
 }

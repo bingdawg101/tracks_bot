@@ -1,265 +1,804 @@
 {
   "repo": "bingdawg101/tracks_bot",
+  "enabled_count": 110,
+  "fresh_days": 10,
+  "soon": [
+    {
+      "slug": "citadel",
+      "firm": "Citadel",
+      "programme": "Summer Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "estimate \u2014 Citadel typically opens ~Sept for next summer; VERIFY"
+    },
+    {
+      "slug": "optiver",
+      "firm": "Optiver",
+      "programme": "Graduate & Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "estimate \u2014 Optiver typically opens EMEA grad/intern apps in Sept; VERIFY"
+    }
+  ],
+  "fresh": [],
+  "stale": [
+    {
+      "firm": "Jane Street",
+      "title": "Quantitative Trader",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 190,
+      "age_days": 0
+    },
+    {
+      "firm": "Five Rings",
+      "title": "Campus Full Time 2027 - Quantitative Trader - London",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
+      "employment_type": "Full-time",
+      "comp_k": 190,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Quantitative Trader (Full-Time)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
+      "employment_type": "Full-time - Campus",
+      "comp_k": 190,
+      "age_days": 0
+    },
+    {
+      "firm": "Tower Research Capital",
+      "title": "Quantitative Trader/Researcher Graduate Programme 2027",
+      "location": "London",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8037824",
+      "employment_type": "",
+      "comp_k": 190,
+      "age_days": 0
+    },
+    {
+      "firm": "Old Mission Capital",
+      "title": "Quantitative Trader \u2013 2027 Graduate Program (August Start)",
+      "location": "London",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
+      "employment_type": "Full-time",
+      "comp_k": 190,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Machine Learning Researcher",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Quantitative Researcher",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "IMC Trading",
+      "title": "Graduate Machine Learning Researcher - London",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+      "employment_type": "",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus ML Research Engineer (Full-Time)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7977132",
+      "employment_type": "Full-time - Campus",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Quantitative Researcher (Full-Time)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
+      "employment_type": "Full-time - Campus",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "Headlands Technologies",
+      "title": "Quantitative Researcher \u2013 New Grad",
+      "location": "Amsterdam; Chicago; London; New York",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+      "employment_type": "",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Researcher - Graduate: 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11033/login",
+      "employment_type": "",
+      "comp_k": 180,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Quantitative Trader",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
+      "employment_type": "Summer Internship",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Quantitative Trader (Intern)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Tower Research Capital",
+      "title": "Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)",
+      "location": "London",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
+      "employment_type": "",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Trading Internship: Summer 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11005/login",
+      "employment_type": "Intern",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Systematic Trading Internship: Summer 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11006/login",
+      "employment_type": "Intern",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Trader - Graduate: 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11031/login",
+      "employment_type": "Intern",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Systematic Trader - Graduate: 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11032/login",
+      "employment_type": "Intern",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 170,
+      "age_days": 0
+    },
+    {
+      "firm": "Wintermute",
+      "title": "Graduate Algorithmic Trader 2027",
+      "location": "London",
+      "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517",
+      "employment_type": "Full-time",
+      "comp_k": 170,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Trading Systems Engineer Graduate: 2027 (London)",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11347/login",
+      "employment_type": "",
+      "comp_k": 170,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Quantitative Researcher",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
+      "employment_type": "Summer Internship",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Machine Learning Researcher",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
+      "employment_type": "Summer Internship",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Hudson River Trading",
+      "title": "Algorithm Development (Quant Research & Trading) Internship \u2013 Summer 2027",
+      "location": "London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+      "employment_type": "Intern",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Hudson River Trading",
+      "title": "Algorithm Development (Quant Research & Trading) PhD Internship \u2013 Summer 2027",
+      "location": "London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+      "employment_type": "Intern",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Aquatic Capital Management",
+      "title": "Quantitative Researcher, Intern (Summer 2027)",
+      "location": "Chicago; London",
+      "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
+      "employment_type": "",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus ML Research Engineer (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7977145",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Quantitative Researcher (Intern)",
+      "location": "London; Amsterdam",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Quantitative Researcher (M1/M2 Intern)",
+      "location": "London; Paris",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Tower Research Capital",
+      "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
+      "location": "London",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
+      "employment_type": "",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Qube Research & Technologies",
+      "title": "2026 - Internship, Quantitative Research/Trading",
+      "location": "Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002",
+      "employment_type": "Intern",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Research Internship: Summer 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11007/login",
+      "employment_type": "",
+      "comp_k": 166,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
+      "employment_type": "Summer Internship",
+      "comp_k": 156,
+      "age_days": 0
+    },
+    {
+      "firm": "DV Trading",
+      "title": "Trading Intern - Summer 2027 (DV Commodities)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
+      "employment_type": "",
+      "comp_k": 156,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Trading Systems Engineering Internship: Summer 2027 (London)",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11334/login",
+      "employment_type": "",
+      "comp_k": 156,
+      "age_days": 0
+    },
+    {
+      "firm": "Squarepoint Capital",
+      "title": "Graduate Trading Applications Specialist",
+      "location": "London, Montreal, New York, Houston, Hong Kong",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
+      "employment_type": "Employee-Regular",
+      "comp_k": 140,
+      "age_days": 0
+    },
+    {
+      "firm": "Squarepoint Capital",
+      "title": "Trading Infrastructure Specialist \u2013 Graduate Programme",
+      "location": "London, Montreal, Hong Kong, New York, Singapore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
+      "employment_type": "Employee-Regular",
+      "comp_k": 140,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Software Developer Graduate: September 2027 London",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11336/login",
+      "employment_type": "",
+      "comp_k": 140,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Strategy Developer Graduate: 2027 (London)",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11344/login",
+      "employment_type": "",
+      "comp_k": 140,
+      "age_days": 0
+    },
+    {
+      "firm": "Onyx Capital Group",
+      "title": "Graduate Trader",
+      "location": "London, England, United Kingdom",
+      "url": "https://apply.workable.com/j/0AD579CC5A",
+      "employment_type": "Full-time",
+      "comp_k": 140,
+      "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Sales and Trading",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
+      "employment_type": "Summer Internship",
+      "comp_k": 138,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Fixed Income Trading Analyst | Early Careers",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/10827/login",
+      "employment_type": "Intern",
+      "comp_k": 138,
+      "age_days": 0
+    },
+    {
+      "firm": "Squarepoint Capital",
+      "title": "Intern Quant Researcher",
+      "location": "London, Paris, New York, Singapore, Hong Kong",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
+      "employment_type": "Intern Full-time",
+      "comp_k": 136,
+      "age_days": 0
+    },
+    {
+      "firm": "Point72",
+      "title": "Quantitative Researcher - Intern",
+      "location": "London, Paris, Hong Kong, Tokyo",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
+      "employment_type": "",
+      "comp_k": 136,
+      "age_days": 0
+    },
+    {
+      "firm": "GSA Capital",
+      "title": "Quantitative Researcher - Intern",
+      "location": "London, New York",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
+      "employment_type": "",
+      "comp_k": 136,
+      "age_days": 0
+    },
+    {
+      "firm": "DV Trading",
+      "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
+      "employment_type": "",
+      "comp_k": 129,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Quantitative Strategy Developer Internship: Summer 2027 (London)",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11333/login",
+      "employment_type": "",
+      "comp_k": 129,
+      "age_days": 0
+    },
+    {
+      "firm": "Squarepoint Capital",
+      "title": "Graduate Quant Developer",
+      "location": "London, Montreal, Singapore",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
+      "employment_type": "Employee-Regular",
+      "comp_k": 120,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Crypto Researcher (Full-Time)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7217856",
+      "employment_type": "Full-time - Campus",
+      "comp_k": 110,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus AI Researcher, PhD/Postdoc (Full-Time)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976923",
+      "employment_type": "Full-time - Campus",
+      "comp_k": 110,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Crypto",
+      "title": "Campus Full-Time Crypto Researcher 2026 LDN",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
+      "employment_type": "Full-time - Campus",
+      "comp_k": 110,
+      "age_days": 0
+    },
+    {
+      "firm": "Point72",
+      "title": "Quantitative Software Developer Intern",
+      "location": "New York, London, or Paris",
+      "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
+      "employment_type": "",
+      "comp_k": 106,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus Crypto Researcher (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 101,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Trading",
+      "title": "Campus AI Researcher, PhD/Postdoc (Intern)",
+      "location": "London",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976964",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 101,
+      "age_days": 0
+    },
+    {
+      "firm": "Qube Research & Technologies",
+      "title": "VIE in Research",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
+      "employment_type": "Intern",
+      "comp_k": 101,
+      "age_days": 0
+    },
+    {
+      "firm": "Jump Crypto",
+      "title": "Campus Intern Crypto Researcher 2026 LDN",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
+      "employment_type": "Jump Trading - Intern",
+      "comp_k": 101,
+      "age_days": 0
+    },
+    {
+      "firm": "Susquehanna International Group",
+      "title": "Equity Research Internship: Summer 2027",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11085/login",
+      "employment_type": "Intern",
+      "comp_k": 101,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175421_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175424_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / The Core Quantitative Strats / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175426_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Quantitative Research Markets Analyst Program \u2013 Off-Cycle Internship \u2013 London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Quantitative Research Markets Associate Program \u2013 Off-Cycle Internship \u2013 London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Quantitative Research \u2013 Asset Management - Off-Cycle - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Analyst\u2013 London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate \u2013 London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 0
+    },
+    {
+      "firm": "Engelhart Commodities",
+      "title": "Commodity Trading Analytics Internship Program",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
+      "employment_type": "",
+      "comp_k": 63,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 59,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 59,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170675_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 59,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 \u2013 Global Markets \u2013 Summer Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517",
+      "employment_type": "",
+      "comp_k": 59,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
+      "employment_type": "",
+      "comp_k": 56,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Equities Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150658_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150661_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150666_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170874_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170880_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170901_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 \u2013 Research \u2013 Summer Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780476",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 \u2013 Sales \u2013 Summer Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780555",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Quants Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+      "employment_type": "",
+      "comp_k": 38,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Multi-Asset Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+      "employment_type": "",
+      "comp_k": 38,
+      "age_days": 0
+    }
+  ],
+  "stale_firms": 22,
   "firms": [
     {
-      "name": "Jump Trading",
-      "slug": "jump-trading",
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs",
       "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 11,
-      "review_count": 6,
-      "top_comp_k": 190,
-      "roles": [
-        {
-          "title": "Campus Quantitative Trader (Full-Time)",
-          "location": "London; Amsterdam",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
-          "employment_type": "Full-time - Campus",
-          "comp_k": 190,
-          "comp_label": "~\u00a3190k (est. \u00a3118\u2013262k)"
-        },
-        {
-          "title": "Campus ML Research Engineer (Full-Time)",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7977132",
-          "employment_type": "Full-time - Campus",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        },
-        {
-          "title": "Campus Quantitative Researcher (Full-Time)",
-          "location": "London; Amsterdam",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
-          "employment_type": "Full-time - Campus",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        },
-        {
-          "title": "Campus Quantitative Trader (Intern)",
-          "location": "London; Amsterdam",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Campus ML Research Engineer (Intern)",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7977145",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Campus Quantitative Researcher (Intern)",
-          "location": "London; Amsterdam",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Campus Quantitative Researcher (M1/M2 Intern)",
-          "location": "London; Paris",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Campus AI Researcher, PhD/Postdoc (Full-Time)",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7976923",
-          "employment_type": "Full-time - Campus",
-          "comp_k": 110,
-          "comp_label": "~\u00a3110k (est. \u00a368\u2013152k)"
-        },
-        {
-          "title": "Campus Crypto Researcher (Full-Time)",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7217856",
-          "employment_type": "Full-time - Campus",
-          "comp_k": 110,
-          "comp_label": "~\u00a3110k (est. \u00a368\u2013152k)"
-        },
-        {
-          "title": "Campus AI Researcher, PhD/Postdoc (Intern)",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7976964",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 101,
-          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
-        },
-        {
-          "title": "Campus Crypto Researcher (Intern)",
-          "location": "London",
-          "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 101,
-          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Jane Street",
-      "slug": "jane-street",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 9,
-      "review_count": 1,
-      "top_comp_k": 190,
-      "roles": [
-        {
-          "title": "Quantitative Trader",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
-          "employment_type": "Full-Time: New Grad",
-          "comp_k": 190,
-          "comp_label": "~\u00a3190k (est. \u00a3118\u2013262k)"
-        },
-        {
-          "title": "Machine Learning Researcher",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
-          "employment_type": "Full-Time: New Grad",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        },
-        {
-          "title": "Quantitative Researcher",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
-          "employment_type": "Full-Time: New Grad",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        },
-        {
-          "title": "Quantitative Trader",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
-          "employment_type": "Summer Internship",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Trading Desk Operations Engineer",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002",
-          "employment_type": "Full-Time: New Grad",
-          "comp_k": 170,
-          "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
-        },
-        {
-          "title": "Machine Learning Researcher",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
-          "employment_type": "Summer Internship",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Quantitative Researcher",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
-          "employment_type": "Summer Internship",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Trading Desk Operations Engineer",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
-          "employment_type": "Summer Internship",
-          "comp_k": 156,
-          "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
-        },
-        {
-          "title": "Sales and Trading",
-          "location": "London, England, United Kingdom",
-          "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
-          "employment_type": "Summer Internship",
-          "comp_k": 138,
-          "comp_label": "~\u00a3138k (est. \u00a386\u2013190k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Tower Research Capital",
-      "slug": "tower-research",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 3,
-      "review_count": 4,
-      "top_comp_k": 190,
-      "roles": [
-        {
-          "title": "Quantitative Trader/Researcher Graduate Programme 2027",
-          "location": "London",
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8037824",
-          "employment_type": "",
-          "comp_k": 190,
-          "comp_label": "~\u00a3190k (est. \u00a3118\u2013262k)"
-        },
-        {
-          "title": "Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)",
-          "location": "London",
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
-          "employment_type": "",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Quantitative Research Internship - 6 Months, Central Execution Research",
-          "location": "London",
-          "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
-          "employment_type": "",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Five Rings",
-      "slug": "five-rings",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 2,
-      "top_comp_k": 190,
-      "roles": [
-        {
-          "title": "Campus Full Time 2027 - Quantitative Trader - London",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
-          "employment_type": "Full-time",
-          "comp_k": 190,
-          "comp_label": "~\u00a3190k (est. \u00a3118\u2013262k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Old Mission Capital",
-      "slug": "old-mission-capital",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 1,
-      "top_comp_k": 190,
-      "roles": [
-        {
-          "title": "Quantitative Trader \u2013 2027 Graduate Program (August Start)",
-          "location": "London",
-          "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
-          "employment_type": "Full-time",
-          "comp_k": 190,
-          "comp_label": "~\u00a3190k (est. \u00a3118\u2013262k)"
-        }
-      ],
-      "failure_count": 0
+      "tier": "bank_bulge",
+      "match_count": 14,
+      "review_count": 7,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Susquehanna International Group",
@@ -268,542 +807,18 @@
       "tier": "elite_prop",
       "match_count": 13,
       "review_count": 2,
-      "top_comp_k": 180,
-      "roles": [
-        {
-          "title": "Quantitative Researcher - Graduate: 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11033/login",
-          "employment_type": "",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        },
-        {
-          "title": "Quantitative Systematic Trader - Graduate: 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11032/login",
-          "employment_type": "Intern",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Quantitative Systematic Trading Internship: Summer 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11006/login",
-          "employment_type": "Intern",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Quantitative Trader - Graduate: 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11031/login",
-          "employment_type": "Intern",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Quantitative Trading Internship: Summer 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11005/login",
-          "employment_type": "Intern",
-          "comp_k": 175,
-          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
-        },
-        {
-          "title": "Trading Systems Engineer Graduate: 2027 (London)",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11347/login",
-          "employment_type": "",
-          "comp_k": 170,
-          "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
-        },
-        {
-          "title": "Quantitative Research Internship: Summer 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11007/login",
-          "employment_type": "",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Trading Systems Engineering Internship: Summer 2027 (London)",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11334/login",
-          "employment_type": "",
-          "comp_k": 156,
-          "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
-        },
-        {
-          "title": "Quantitative Strategy Developer Graduate: 2027 (London)",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11344/login",
-          "employment_type": "",
-          "comp_k": 140,
-          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
-        },
-        {
-          "title": "Software Developer Graduate: September 2027 London",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11336/login",
-          "employment_type": "",
-          "comp_k": 140,
-          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
-        },
-        {
-          "title": "Fixed Income Trading Analyst | Early Careers",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/10827/login",
-          "employment_type": "Intern",
-          "comp_k": 138,
-          "comp_label": "~\u00a3138k (est. \u00a386\u2013190k)"
-        },
-        {
-          "title": "Quantitative Strategy Developer Internship: Summer 2027 (London)",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11333/login",
-          "employment_type": "",
-          "comp_k": 129,
-          "comp_label": "~\u00a3129k (est. \u00a380\u2013178k)"
-        },
-        {
-          "title": "Equity Research Internship: Summer 2027",
-          "location": "London, United Kingdom",
-          "url": "https://careers-sig.icims.com/jobs/11085/login",
-          "employment_type": "Intern",
-          "comp_k": 101,
-          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
-        }
-      ],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
-      "name": "Headlands Technologies",
-      "slug": "headlands-technologies",
+      "name": "Jump Trading",
+      "slug": "jump-trading",
       "enabled": true,
       "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 1,
-      "top_comp_k": 180,
-      "roles": [
-        {
-          "title": "Quantitative Researcher \u2013 New Grad",
-          "location": "Amsterdam; Chicago; London; New York",
-          "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
-          "employment_type": "",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "IMC Trading",
-      "slug": "imc",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 4,
-      "top_comp_k": 180,
-      "roles": [
-        {
-          "title": "Graduate Machine Learning Researcher - London",
-          "location": "London, United Kingdom",
-          "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
-          "employment_type": "",
-          "comp_k": 180,
-          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Wintermute",
-      "slug": "wintermute",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 9,
-      "top_comp_k": 170,
-      "roles": [
-        {
-          "title": "Graduate Algorithmic Trader 2027",
-          "location": "London",
-          "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517",
-          "employment_type": "Full-time",
-          "comp_k": 170,
-          "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Hudson River Trading",
-      "slug": "hudson-river-trading",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 2,
-      "review_count": 20,
-      "top_comp_k": 166,
-      "roles": [
-        {
-          "title": "Algorithm Development (Quant Research & Trading) Internship \u2013 Summer 2027",
-          "location": "London, United Kingdom; New York, NY, United States; Singapore",
-          "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
-          "employment_type": "Intern",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "Algorithm Development (Quant Research & Trading) PhD Internship \u2013 Summer 2027",
-          "location": "London, United Kingdom; New York, NY, United States; Singapore",
-          "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
-          "employment_type": "Intern",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Qube Research & Technologies",
-      "slug": "qube-rt",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 2,
-      "review_count": 18,
-      "top_comp_k": 166,
-      "roles": [
-        {
-          "title": "2026 - Internship, Quantitative Research/Trading",
-          "location": "Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest",
-          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002",
-          "employment_type": "Intern",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        },
-        {
-          "title": "VIE in Research",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
-          "employment_type": "Intern",
-          "comp_k": 101,
-          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Aquatic Capital Management",
-      "slug": "aquatic",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 1,
-      "top_comp_k": 166,
-      "roles": [
-        {
-          "title": "Quantitative Researcher, Intern (Summer 2027)",
-          "location": "Chicago; London",
-          "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
-          "employment_type": "",
-          "comp_k": 166,
-          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "DV Trading",
-      "slug": "dv-trading",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 2,
-      "review_count": 8,
-      "top_comp_k": 156,
-      "roles": [
-        {
-          "title": "Trading Intern - Summer 2027 (DV Commodities)",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
-          "employment_type": "",
-          "comp_k": 156,
-          "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
-        },
-        {
-          "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
-          "employment_type": "",
-          "comp_k": 129,
-          "comp_label": "~\u00a3129k (est. \u00a380\u2013178k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Squarepoint Capital",
-      "slug": "squarepoint",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 4,
-      "review_count": 16,
-      "top_comp_k": 140,
-      "roles": [
-        {
-          "title": "Graduate Trading Applications Specialist",
-          "location": "London, Montreal, New York, Houston, Hong Kong",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
-          "employment_type": "Employee-Regular",
-          "comp_k": 140,
-          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
-        },
-        {
-          "title": "Trading Infrastructure Specialist \u2013 Graduate Programme",
-          "location": "London, Montreal, Hong Kong, New York, Singapore",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
-          "employment_type": "Employee-Regular",
-          "comp_k": 140,
-          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
-        },
-        {
-          "title": "Intern Quant Researcher",
-          "location": "London, Paris, New York, Singapore, Hong Kong",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
-          "employment_type": "Intern Full-time",
-          "comp_k": 136,
-          "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
-        },
-        {
-          "title": "Graduate Quant Developer",
-          "location": "London, Montreal, Singapore",
-          "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
-          "employment_type": "Employee-Regular",
-          "comp_k": 120,
-          "comp_label": "~\u00a3120k (est. \u00a374\u2013166k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Onyx Capital Group",
-      "slug": "onyx-capital",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 1,
-      "review_count": 0,
-      "top_comp_k": 140,
-      "roles": [
-        {
-          "title": "Graduate Trader",
-          "location": "London, England, United Kingdom",
-          "url": "https://apply.workable.com/j/0AD579CC5A",
-          "employment_type": "Full-time",
-          "comp_k": 140,
-          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
-        }
-      ],
-      "failure_count": 3
-    },
-    {
-      "name": "Point72",
-      "slug": "point72",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 2,
-      "review_count": 17,
-      "top_comp_k": 136,
-      "roles": [
-        {
-          "title": "Quantitative Researcher - Intern",
-          "location": "London, Paris, Hong Kong, Tokyo",
-          "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
-          "employment_type": "",
-          "comp_k": 136,
-          "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
-        },
-        {
-          "title": "Quantitative Software Developer Intern",
-          "location": "New York, London, or Paris",
-          "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
-          "employment_type": "",
-          "comp_k": 106,
-          "comp_label": "~\u00a3106k (est. \u00a366\u2013146k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "GSA Capital",
-      "slug": "gsa-capital",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 1,
-      "review_count": 3,
-      "top_comp_k": 136,
-      "roles": [
-        {
-          "title": "Quantitative Researcher - Intern",
-          "location": "London, New York",
-          "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
-          "employment_type": "",
-          "comp_k": 136,
-          "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Jump Crypto",
-      "slug": "jump-crypto",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 2,
-      "review_count": 0,
-      "top_comp_k": 110,
-      "roles": [
-        {
-          "title": "Campus Full-Time Crypto Researcher 2026 LDN",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
-          "employment_type": "Full-time - Campus",
-          "comp_k": 110,
-          "comp_label": "~\u00a3110k (est. \u00a368\u2013152k)"
-        },
-        {
-          "title": "Campus Intern Crypto Researcher 2026 LDN",
-          "location": "London",
-          "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
-          "employment_type": "Jump Trading - Intern",
-          "comp_k": 101,
-          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
-        }
-      ],
-      "failure_count": 0
-    },
-    {
-      "name": "Goldman Sachs",
-      "slug": "goldman-sachs",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 14,
-      "review_count": 7,
-      "top_comp_k": 66,
-      "roles": [
-        {
-          "title": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/175421_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/175424_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 / EMEA / London / The Core Quantitative Strats / Summer Analyst",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/175426_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 59,
-          "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
-        },
-        {
-          "title": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 59,
-          "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
-        },
-        {
-          "title": "2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/170675_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 59,
-          "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
-        },
-        {
-          "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/150661_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/150658_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/150666_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/170874_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/170880_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Seasonal/Off-cycle Internship",
-          "location": "London United Kingdom",
-          "url": "https://higher.gs.com/roles/170901_GS_CAMPUS",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        }
-      ],
-      "failure_count": 0
+      "match_count": 11,
+      "review_count": 6,
+      "failure_count": 0,
+      "cycle_note": "rolling"
     },
     {
       "name": "JPMorgan",
@@ -812,102 +827,28 @@
       "tier": "bank_bulge",
       "match_count": 9,
       "review_count": 24,
-      "top_comp_k": 66,
-      "roles": [
-        {
-          "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Analyst\u2013 London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate \u2013 London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 Quantitative Research Markets Analyst Program \u2013 Off-Cycle Internship \u2013 London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 Quantitative Research Markets Associate Program \u2013 Off-Cycle Internship \u2013 London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 Quantitative Research \u2013 Asset Management - Off-Cycle - London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770",
-          "employment_type": "",
-          "comp_k": 66,
-          "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
-        },
-        {
-          "title": "2027 \u2013 Global Markets \u2013 Summer Internship - London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517",
-          "employment_type": "",
-          "comp_k": 59,
-          "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
-        },
-        {
-          "title": "2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
-          "employment_type": "",
-          "comp_k": 56,
-          "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
-        },
-        {
-          "title": "2027 \u2013 Research \u2013 Summer Internship - London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780476",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        },
-        {
-          "title": "2027 \u2013 Sales \u2013 Summer Internship - London",
-          "location": "LONDON, LONDON, United Kingdom",
-          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780555",
-          "employment_type": "",
-          "comp_k": 43,
-          "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-        }
-      ],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
-      "name": "Engelhart Commodities",
-      "slug": "engelhart",
+      "name": "Jane Street",
+      "slug": "jane-street",
       "enabled": true,
-      "tier": "commodity_other",
-      "match_count": 1,
-      "review_count": 0,
-      "top_comp_k": 63,
-      "roles": [
-        {
-          "title": "Commodity Trading Analytics Internship Program",
-          "location": "London, United Kingdom",
-          "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
-          "employment_type": "",
-          "comp_k": 63,
-          "comp_label": "~\u00a363k (est. \u00a349\u201377k)"
-        }
-      ],
-      "failure_count": 0
+      "tier": "elite_prop",
+      "match_count": 9,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "rolling"
+    },
+    {
+      "name": "Squarepoint Capital",
+      "slug": "squarepoint",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 4,
+      "review_count": 16,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Schroders",
@@ -916,34 +857,158 @@
       "tier": "bank_other",
       "match_count": 3,
       "review_count": 17,
-      "top_comp_k": 50,
-      "roles": [
-        {
-          "title": "2027 Public Markets Equities Internship Programme",
-          "location": "London, United Kingdom",
-          "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
-          "employment_type": "",
-          "comp_k": 50,
-          "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
-        },
-        {
-          "title": "2027 Public Markets Multi-Asset Internship Programme",
-          "location": "London, United Kingdom",
-          "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
-          "employment_type": "",
-          "comp_k": 38,
-          "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
-        },
-        {
-          "title": "2027 Public Markets Quants Internship Programme",
-          "location": "London, United Kingdom",
-          "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
-          "employment_type": "",
-          "comp_k": 38,
-          "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
-        }
-      ],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Tower Research Capital",
+      "slug": "tower-research",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 3,
+      "review_count": 4,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "DV Trading",
+      "slug": "dv-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 8,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Hudson River Trading",
+      "slug": "hudson-river-trading",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 20,
+      "failure_count": 0,
+      "cycle_note": "rolling"
+    },
+    {
+      "name": "Jump Crypto",
+      "slug": "jump-crypto",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Point72",
+      "slug": "point72",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 2,
+      "review_count": 17,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Qube Research & Technologies",
+      "slug": "qube-rt",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 18,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Aquatic Capital Management",
+      "slug": "aquatic",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Engelhart Commodities",
+      "slug": "engelhart",
+      "enabled": true,
+      "tier": "commodity_other",
+      "match_count": 1,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Five Rings",
+      "slug": "five-rings",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 2,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "GSA Capital",
+      "slug": "gsa-capital",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 1,
+      "review_count": 3,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Headlands Technologies",
+      "slug": "headlands-technologies",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "IMC Trading",
+      "slug": "imc",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 4,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Old Mission Capital",
+      "slug": "old-mission-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Onyx Capital Group",
+      "slug": "onyx-capital",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 1,
+      "review_count": 0,
+      "failure_count": 3,
+      "cycle_note": "\u2014"
+    },
+    {
+      "name": "Wintermute",
+      "slug": "wintermute",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 1,
+      "review_count": 9,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "3Red Partners",
@@ -952,9 +1017,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "AQR Capital Management",
@@ -963,9 +1027,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Akuna Capital",
@@ -974,9 +1037,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "AlphaGrep Securities",
@@ -985,9 +1047,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Amber Group",
@@ -996,9 +1057,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Auros",
@@ -1007,9 +1067,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Axpo",
@@ -1018,9 +1077,8 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "B2C2",
@@ -1029,9 +1087,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "BMO Capital Markets",
@@ -1040,9 +1097,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "BP (Trading & Shipping)",
@@ -1051,9 +1107,8 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Barclays",
@@ -1062,9 +1117,8 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Belvedere Trading",
@@ -1073,9 +1127,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "BlackEdge Capital",
@@ -1084,9 +1137,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "BlackRock",
@@ -1095,9 +1147,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 8,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "BlueCrest Capital Management",
@@ -1106,9 +1157,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Brevan Howard",
@@ -1117,9 +1167,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "CIBC Capital Markets",
@@ -1128,9 +1177,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "COFCO International",
@@ -1139,9 +1187,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Caladan",
@@ -1150,9 +1197,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Capstone Investment Advisors",
@@ -1161,9 +1207,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Cargill",
@@ -1172,9 +1217,8 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Castleton Commodities International",
@@ -1183,9 +1227,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Caxton Associates",
@@ -1194,9 +1237,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Chicago Trading Company",
@@ -1205,9 +1247,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Citadel",
@@ -1216,9 +1257,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Citadel Securities",
@@ -1227,9 +1267,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Citi",
@@ -1238,9 +1277,8 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Clear Street",
@@ -1249,9 +1287,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Crabel Capital Management",
@@ -1260,9 +1297,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "DRW",
@@ -1271,9 +1307,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Da Vinci Derivatives",
@@ -1282,9 +1317,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Deutsche Bank",
@@ -1293,9 +1327,8 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 11,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "ECOM Agroindustrial",
@@ -1304,9 +1337,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "EDF Trading",
@@ -1315,9 +1347,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Eclipse Trading",
@@ -1326,9 +1357,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Equinor",
@@ -1337,9 +1367,8 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "ExodusPoint Capital",
@@ -1348,9 +1377,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "FalconX",
@@ -1359,9 +1387,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Flow Traders",
@@ -1370,9 +1397,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Flowdesk",
@@ -1381,9 +1407,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Freepoint Commodities",
@@ -1392,9 +1417,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "GSR Markets",
@@ -1403,9 +1427,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Galaxy Digital",
@@ -1414,9 +1437,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Gelber Group",
@@ -1425,9 +1447,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Geneva Trading",
@@ -1436,9 +1457,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Glencore",
@@ -1447,9 +1467,8 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Graham Capital Management",
@@ -1458,9 +1477,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Grasshopper",
@@ -1469,9 +1487,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Graviton Research Capital",
@@ -1480,9 +1497,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Invesco",
@@ -1491,9 +1507,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 2,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Jefferies",
@@ -1502,9 +1517,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Keyrock",
@@ -1513,9 +1527,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Kronos Research",
@@ -1524,9 +1537,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Legal & General",
@@ -1535,9 +1547,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 7,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Lloyds Banking Group",
@@ -1546,9 +1557,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Louis Dreyfus Company",
@@ -1557,9 +1567,8 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Lynx Asset Management",
@@ -1568,9 +1577,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "M&G plc",
@@ -1579,9 +1587,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "MET Group",
@@ -1590,9 +1597,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Mako Group",
@@ -1601,9 +1607,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Man Group",
@@ -1612,9 +1617,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 4,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Maven Securities",
@@ -1623,9 +1627,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Morgan Stanley",
@@ -1634,9 +1637,8 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 3,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Northern Trust",
@@ -1645,9 +1647,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Olam Agri",
@@ -1656,9 +1657,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Optiver",
@@ -1667,9 +1667,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "PDT Partners",
@@ -1678,9 +1677,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Pharo Management",
@@ -1689,9 +1687,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Presto Labs",
@@ -1700,9 +1697,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Quadrature Capital",
@@ -1711,9 +1707,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "RBC Capital Markets",
@@ -1722,9 +1717,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "STX Group",
@@ -1733,9 +1727,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Santander",
@@ -1744,9 +1737,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Schonfeld Strategic Advisors",
@@ -1755,9 +1747,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Selini Capital",
@@ -1766,9 +1757,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 2,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Shell (Trading & Supply)",
@@ -1777,9 +1767,8 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 2,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Simplex Trading",
@@ -1788,9 +1777,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Statar Capital",
@@ -1799,9 +1787,8 @@
       "tier": "",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "State Street",
@@ -1810,9 +1797,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "TP ICAP",
@@ -1821,9 +1807,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "The Voleon Group",
@@ -1832,9 +1817,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 1,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Tradition",
@@ -1843,9 +1827,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Trafigura",
@@ -1854,9 +1837,8 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "TransMarket Group",
@@ -1865,9 +1847,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Valkyrie Trading",
@@ -1876,9 +1857,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Vatic Investments",
@@ -1887,9 +1867,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Vattenfall",
@@ -1898,9 +1877,8 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Vesper",
@@ -1909,9 +1887,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Virtu Financial",
@@ -1920,9 +1897,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 2,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Viterra",
@@ -1931,9 +1907,8 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Vitol",
@@ -1942,9 +1917,8 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Vivienne Court Trading",
@@ -1953,9 +1927,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "WEBB Traders",
@@ -1964,9 +1937,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Walleye Capital",
@@ -1975,9 +1947,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Wellington Management",
@@ -1986,9 +1957,8 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 3,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Wincent",
@@ -1997,9 +1967,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Winton",
@@ -2008,9 +1977,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 3,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "WorldQuant",
@@ -2019,9 +1987,8 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 3,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "XTX Markets",
@@ -2030,9 +1997,8 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "top_comp_k": 0,
-      "roles": [],
-      "failure_count": 0
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     }
   ],
   "history": [],

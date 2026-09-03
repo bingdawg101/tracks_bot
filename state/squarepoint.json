@@ -2,6 +2,7 @@
   "firm": "Squarepoint Capital",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "1433622": {
       "firm": "Squarepoint Capital",
@@ -15,7 +16,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T16:23:19.195497Z"
+      "first_seen": "2026-09-03T16:23:19.195497Z",
+      "baseline": true
     },
     "2167156": {
       "firm": "Squarepoint Capital",
@@ -29,7 +31,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.208433Z"
+      "first_seen": "2026-09-03T16:23:19.208433Z",
+      "baseline": true
     },
     "239376": {
       "firm": "Squarepoint Capital",
@@ -43,7 +46,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T16:23:19.182324Z"
+      "first_seen": "2026-09-03T16:23:19.182324Z",
+      "baseline": true
     },
     "243853": {
       "firm": "Squarepoint Capital",
@@ -57,7 +61,8 @@
       "comp_k": 136,
       "comp_label": "~£136k (est. £84–188k)",
       "comp_basis": "hedge fund · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.179155Z"
+      "first_seen": "2026-09-03T16:23:19.179155Z",
+      "baseline": true
     },
     "2546549": {
       "firm": "Squarepoint Capital",
@@ -71,7 +76,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T16:23:19.175925Z"
+      "first_seen": "2026-09-03T16:23:19.175925Z",
+      "baseline": true
     },
     "3277003": {
       "firm": "Squarepoint Capital",
@@ -85,7 +91,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T16:23:19.195021Z"
+      "first_seen": "2026-09-03T16:23:19.195021Z",
+      "baseline": true
     },
     "3851879": {
       "firm": "Squarepoint Capital",
@@ -99,7 +106,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.180703Z"
+      "first_seen": "2026-09-03T16:23:19.180703Z",
+      "baseline": true
     },
     "5929246": {
       "firm": "Squarepoint Capital",
@@ -113,7 +121,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T16:23:19.179511Z"
+      "first_seen": "2026-09-03T16:23:19.179511Z",
+      "baseline": true
     },
     "6034466": {
       "firm": "Squarepoint Capital",
@@ -127,7 +136,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T16:23:19.181765Z"
+      "first_seen": "2026-09-03T16:23:19.181765Z",
+      "baseline": true
     },
     "6040910": {
       "firm": "Squarepoint Capital",
@@ -141,7 +151,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T16:23:19.176117Z"
+      "first_seen": "2026-09-03T16:23:19.176117Z",
+      "baseline": true
     },
     "6069464": {
       "firm": "Squarepoint Capital",
@@ -155,7 +166,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T16:23:19.182964Z"
+      "first_seen": "2026-09-03T16:23:19.182964Z",
+      "baseline": true
     },
     "6099883": {
       "firm": "Squarepoint Capital",
@@ -169,7 +181,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.210103Z"
+      "first_seen": "2026-09-03T16:23:19.210103Z",
+      "baseline": true
     },
     "6100081": {
       "firm": "Squarepoint Capital",
@@ -183,7 +196,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.176157Z"
+      "first_seen": "2026-09-03T16:23:19.176157Z",
+      "baseline": true
     },
     "6420505": {
       "firm": "Squarepoint Capital",
@@ -197,7 +211,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.209222Z"
+      "first_seen": "2026-09-03T16:23:19.209222Z",
+      "baseline": true
     },
     "6977749": {
       "firm": "Squarepoint Capital",
@@ -211,7 +226,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.196394Z"
+      "first_seen": "2026-09-03T16:23:19.196394Z",
+      "baseline": true
     },
     "7231006": {
       "firm": "Squarepoint Capital",
@@ -225,7 +241,8 @@
       "comp_k": 106,
       "comp_label": "~£106k (est. £66–146k)",
       "comp_basis": "hedge fund · swe · internship",
-      "first_seen": "2026-09-03T16:23:19.179215Z"
+      "first_seen": "2026-09-03T16:23:19.179215Z",
+      "baseline": true
     },
     "7340149": {
       "firm": "Squarepoint Capital",
@@ -239,7 +256,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T16:23:19.176637Z"
+      "first_seen": "2026-09-03T16:23:19.176637Z",
+      "baseline": true
     },
     "7757021": {
       "firm": "Squarepoint Capital",
@@ -253,7 +271,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T16:23:19.210149Z"
+      "first_seen": "2026-09-03T16:23:19.210149Z",
+      "baseline": true
     },
     "7918610": {
       "firm": "Squarepoint Capital",
@@ -267,7 +286,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T16:23:19.176062Z"
+      "first_seen": "2026-09-03T16:23:19.176062Z",
+      "baseline": true
     },
     "8044880": {
       "firm": "Squarepoint Capital",
@@ -281,7 +301,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T16:23:19.179792Z"
+      "first_seen": "2026-09-03T16:23:19.179792Z",
+      "baseline": true
     }
   }
 }

@@ -2,6 +2,7 @@
   "firm": "GSR Markets",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4873187101": {
       "firm": "GSR Markets",
@@ -15,7 +16,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T20:21:38.245329Z"
+      "first_seen": "2026-09-03T20:21:38.245329Z",
+      "baseline": true
     }
   }
 }

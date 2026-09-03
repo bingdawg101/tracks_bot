@@ -8,6 +8,8 @@ from pathlib import Path
 import yaml
 from pydantic import BaseModel, Field
 
+from .cycles import Cycle
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 FIRMS_FILE = REPO_ROOT / "firms.yaml"
 STATE_DIR = REPO_ROOT / "state"
@@ -51,6 +53,7 @@ class FirmConfig(BaseModel):
     # Pay bucket for the comp estimator: elite_prop | hedge_fund | bank_bulge | bank_other
     #                                    | commodity_major | commodity_other | energy_utility
     tier: str = ""
+    cycles: list[Cycle] = Field(default_factory=list)
     filters: FilterConfig = Field(default_factory=FilterConfig)
     notes: str = ""
 
@@ -60,6 +63,10 @@ class Settings(BaseModel):
     firms: list[FirmConfig] = Field(default_factory=list)
     # slug -> pay tier, applied to firms that don't set `tier:` themselves.
     tiers: dict[str, str] = Field(default_factory=dict)
+    # slug -> recruiting cycles (expected open dates / status). See tracker/cycles.py.
+    cycles: dict[str, list[Cycle]] = Field(default_factory=dict)
+    # A matched role older than this (days since first seen) is "probably too late".
+    fresh_days: int = 10
     # Consecutive failures before an adapter-health alert / non-zero exit.
     failure_alert_threshold: int = 3
     http_timeout_seconds: float = 20.0
@@ -109,6 +116,8 @@ def load_settings(path: Path | None = None) -> Settings:
     for firm in settings.firms:
         if not firm.tier:
             firm.tier = settings.tiers.get(firm.slug, "")
+        if not firm.cycles:
+            firm.cycles = settings.cycles.get(firm.slug, [])
     return settings
 
 

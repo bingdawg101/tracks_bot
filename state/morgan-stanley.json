@@ -2,6 +2,7 @@
   "firm": "Morgan Stanley",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "JR040144": {
       "firm": "Morgan Stanley",
@@ -15,7 +16,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-09-03T16:23:22.995957Z"
+      "first_seen": "2026-09-03T16:23:22.995957Z",
+      "baseline": true
     },
     "JR041630": {
       "firm": "Morgan Stanley",
@@ -29,7 +31,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:23:23.001709Z"
+      "first_seen": "2026-09-03T16:23:23.001709Z",
+      "baseline": true
     },
     "PT-JR042206": {
       "firm": "Morgan Stanley",
@@ -43,7 +46,8 @@
       "comp_k": 62,
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
-      "first_seen": "2026-09-03T16:23:22.998066Z"
+      "first_seen": "2026-09-03T16:23:22.998066Z",
+      "baseline": true
     }
   }
 }

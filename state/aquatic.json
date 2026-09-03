@@ -2,6 +2,7 @@
   "firm": "Aquatic Capital Management",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "7529282002": {
       "firm": "Aquatic Capital Management",
@@ -15,7 +16,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.078018Z"
+      "first_seen": "2026-09-03T16:23:19.078018Z",
+      "baseline": true
     },
     "8489186002": {
       "firm": "Aquatic Capital Management",
@@ -29,7 +31,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.078177Z"
+      "first_seen": "2026-09-03T16:23:19.078177Z",
+      "baseline": true
     }
   }
 }

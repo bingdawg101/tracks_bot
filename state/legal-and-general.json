@@ -2,6 +2,7 @@
   "firm": "Legal & General",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "744000139024776": {
       "firm": "Legal & General",
@@ -15,7 +16,8 @@
       "comp_k": 72,
       "comp_label": "~£72k (est. £56–88k)",
       "comp_basis": "bank other · sales trading",
-      "first_seen": "2026-09-03T20:39:52.526940Z"
+      "first_seen": "2026-09-03T20:39:52.526940Z",
+      "baseline": true
     },
     "744000140402760": {
       "firm": "Legal & General",
@@ -29,7 +31,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:52.526665Z"
+      "first_seen": "2026-09-03T20:39:52.526665Z",
+      "baseline": true
     },
     "744000140659349": {
       "firm": "Legal & General",
@@ -43,7 +46,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:52.526463Z"
+      "first_seen": "2026-09-03T20:39:52.526463Z",
+      "baseline": true
     },
     "744000143782799": {
       "firm": "Legal & General",
@@ -57,7 +61,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:52.524602Z"
+      "first_seen": "2026-09-03T20:39:52.524602Z",
+      "baseline": true
     },
     "744000145925562": {
       "firm": "Legal & General",
@@ -71,7 +76,8 @@
       "comp_k": 78,
       "comp_label": "~£78k (est. £61–95k)",
       "comp_basis": "bank other · trading",
-      "first_seen": "2026-09-03T20:39:52.521089Z"
+      "first_seen": "2026-09-03T20:39:52.521089Z",
+      "baseline": true
     },
     "744000145928559": {
       "firm": "Legal & General",
@@ -85,7 +91,8 @@
       "comp_k": 78,
       "comp_label": "~£78k (est. £61–95k)",
       "comp_basis": "bank other · trading",
-      "first_seen": "2026-09-03T20:39:52.521333Z"
+      "first_seen": "2026-09-03T20:39:52.521333Z",
+      "baseline": true
     },
     "744000146676730": {
       "firm": "Legal & General",
@@ -99,7 +106,8 @@
       "comp_k": 78,
       "comp_label": "~£78k (est. £61–95k)",
       "comp_basis": "bank other · trading",
-      "first_seen": "2026-09-03T20:39:52.520385Z"
+      "first_seen": "2026-09-03T20:39:52.520385Z",
+      "baseline": true
     }
   }
 }

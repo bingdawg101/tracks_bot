@@ -2,6 +2,7 @@
   "firm": "Invesco",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "R-13961": {
       "firm": "Invesco",
@@ -15,7 +16,8 @@
       "comp_k": 78,
       "comp_label": "~£78k (est. £61–95k)",
       "comp_basis": "bank other · trading",
-      "first_seen": "2026-09-03T20:40:00.847976Z"
+      "first_seen": "2026-09-03T20:40:00.847976Z",
+      "baseline": true
     },
     "R-14879": {
       "firm": "Invesco",
@@ -29,7 +31,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:40:00.842321Z"
+      "first_seen": "2026-09-03T20:40:00.842321Z",
+      "baseline": true
     }
   }
 }

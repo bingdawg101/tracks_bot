@@ -2,6 +2,7 @@
   "firm": "Jane Street",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "8080525002": {
       "firm": "Jane Street",
@@ -15,7 +16,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T16:23:19.356246Z"
+      "first_seen": "2026-09-03T16:23:19.356246Z",
+      "baseline": true
     },
     "8474407002": {
       "firm": "Jane Street",
@@ -29,7 +31,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T16:23:19.355050Z"
+      "first_seen": "2026-09-03T16:23:19.355050Z",
+      "baseline": true
     },
     "8474416002": {
       "firm": "Jane Street",
@@ -43,7 +46,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.354582Z"
+      "first_seen": "2026-09-03T16:23:19.354582Z",
+      "baseline": true
     },
     "8537797002": {
       "firm": "Jane Street",
@@ -57,7 +61,8 @@
       "comp_k": 138,
       "comp_label": "~£138k (est. £86–190k)",
       "comp_basis": "elite prop · sales trading · internship",
-      "first_seen": "2026-09-03T16:23:19.355247Z"
+      "first_seen": "2026-09-03T16:23:19.355247Z",
+      "baseline": true
     },
     "8576270002": {
       "firm": "Jane Street",
@@ -71,7 +76,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T16:23:19.355082Z"
+      "first_seen": "2026-09-03T16:23:19.355082Z",
+      "baseline": true
     },
     "8576931002": {
       "firm": "Jane Street",
@@ -85,7 +91,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.353633Z"
+      "first_seen": "2026-09-03T16:23:19.353633Z",
+      "baseline": true
     },
     "8594416002": {
       "firm": "Jane Street",
@@ -99,7 +106,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.353296Z"
+      "first_seen": "2026-09-03T16:23:19.353296Z",
+      "baseline": true
     },
     "8600948002": {
       "firm": "Jane Street",
@@ -113,7 +121,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T16:23:19.354651Z"
+      "first_seen": "2026-09-03T16:23:19.354651Z",
+      "baseline": true
     },
     "8648474002": {
       "firm": "Jane Street",
@@ -127,7 +136,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T16:23:19.353020Z"
+      "first_seen": "2026-09-03T16:23:19.353020Z",
+      "baseline": true
     },
     "8700980002": {
       "firm": "Jane Street",
@@ -141,7 +151,8 @@
       "comp_k": 156,
       "comp_label": "~£156k (est. £97–215k)",
       "comp_basis": "elite prop · trading · internship",
-      "first_seen": "2026-09-03T16:23:19.356354Z"
+      "first_seen": "2026-09-03T16:23:19.356354Z",
+      "baseline": true
     }
   }
 }

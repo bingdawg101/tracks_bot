@@ -2,6 +2,7 @@
   "firm": "Maven Securities",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "7588726": {
       "firm": "Maven Securities",
@@ -15,7 +16,8 @@
       "comp_k": 190,
       "comp_label": "~£190k (est. £118–262k)",
       "comp_basis": "elite prop · quant trading",
-      "first_seen": "2026-09-03T21:00:22.301728Z"
+      "first_seen": "2026-09-03T21:00:22.301728Z",
+      "baseline": true
     }
   }
 }

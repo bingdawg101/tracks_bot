@@ -2,6 +2,7 @@
   "firm": "Point72",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "7045936002": {
       "firm": "Point72",
@@ -15,7 +16,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.605103Z"
+      "first_seen": "2026-09-03T20:09:21.605103Z",
+      "baseline": true
     },
     "7297657002": {
       "firm": "Point72",
@@ -29,7 +31,8 @@
       "comp_k": 136,
       "comp_label": "~£136k (est. £84–188k)",
       "comp_basis": "hedge fund · quant research · internship",
-      "first_seen": "2026-09-03T20:09:21.619648Z"
+      "first_seen": "2026-09-03T20:09:21.619648Z",
+      "baseline": true
     },
     "7297666002": {
       "firm": "Point72",
@@ -43,7 +46,8 @@
       "comp_k": 106,
       "comp_label": "~£106k (est. £66–146k)",
       "comp_basis": "hedge fund · swe · internship",
-      "first_seen": "2026-09-03T20:09:21.620966Z"
+      "first_seen": "2026-09-03T20:09:21.620966Z",
+      "baseline": true
     },
     "7318012002": {
       "firm": "Point72",
@@ -57,7 +61,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.604296Z"
+      "first_seen": "2026-09-03T20:09:21.604296Z",
+      "baseline": true
     },
     "7587888002": {
       "firm": "Point72",
@@ -71,7 +76,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.618912Z"
+      "first_seen": "2026-09-03T20:09:21.618912Z",
+      "baseline": true
     },
     "7752293002": {
       "firm": "Point72",
@@ -85,7 +91,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.619567Z"
+      "first_seen": "2026-09-03T20:09:21.619567Z",
+      "baseline": true
     },
     "8003977002": {
       "firm": "Point72",
@@ -99,7 +106,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T20:09:21.614908Z"
+      "first_seen": "2026-09-03T20:09:21.614908Z",
+      "baseline": true
     },
     "8023550002": {
       "firm": "Point72",
@@ -113,7 +121,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.620582Z"
+      "first_seen": "2026-09-03T20:09:21.620582Z",
+      "baseline": true
     },
     "8050478002": {
       "firm": "Point72",
@@ -127,7 +136,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:09:21.612732Z"
+      "first_seen": "2026-09-03T20:09:21.612732Z",
+      "baseline": true
     },
     "8056172002": {
       "firm": "Point72",
@@ -141,7 +151,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T20:09:21.623704Z"
+      "first_seen": "2026-09-03T20:09:21.623704Z",
+      "baseline": true
     },
     "8060321002": {
       "firm": "Point72",
@@ -155,7 +166,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:09:21.626004Z"
+      "first_seen": "2026-09-03T20:09:21.626004Z",
+      "baseline": true
     },
     "8135956002": {
       "firm": "Point72",
@@ -169,7 +181,8 @@
       "comp_k": 84,
       "comp_label": "~£84k (est. £52–116k)",
       "comp_basis": "hedge fund · other · internship",
-      "first_seen": "2026-09-03T20:09:21.607774Z"
+      "first_seen": "2026-09-03T20:09:21.607774Z",
+      "baseline": true
     },
     "8187982002": {
       "firm": "Point72",
@@ -183,7 +196,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.615434Z"
+      "first_seen": "2026-09-03T20:09:21.615434Z",
+      "baseline": true
     },
     "8191564002": {
       "firm": "Point72",
@@ -197,7 +211,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:09:21.617983Z"
+      "first_seen": "2026-09-03T20:09:21.617983Z",
+      "baseline": true
     },
     "8389431002": {
       "firm": "Point72",
@@ -211,7 +226,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.608495Z"
+      "first_seen": "2026-09-03T20:09:21.608495Z",
+      "baseline": true
     },
     "8408288002": {
       "firm": "Point72",
@@ -225,7 +241,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:09:21.622904Z"
+      "first_seen": "2026-09-03T20:09:21.622904Z",
+      "baseline": true
     },
     "8470606002": {
       "firm": "Point72",
@@ -239,7 +256,8 @@
       "comp_k": 160,
       "comp_label": "~£160k (est. £99–221k)",
       "comp_basis": "hedge fund · quant trading",
-      "first_seen": "2026-09-03T20:09:21.627317Z"
+      "first_seen": "2026-09-03T20:09:21.627317Z",
+      "baseline": true
     },
     "8603359002": {
       "firm": "Point72",
@@ -253,7 +271,8 @@
       "comp_k": 160,
       "comp_label": "~£160k (est. £99–221k)",
       "comp_basis": "hedge fund · quant trading",
-      "first_seen": "2026-09-03T20:09:21.603135Z"
+      "first_seen": "2026-09-03T20:09:21.603135Z",
+      "baseline": true
     },
     "8649431002": {
       "firm": "Point72",
@@ -267,7 +286,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T20:09:21.600149Z"
+      "first_seen": "2026-09-03T20:09:21.600149Z",
+      "baseline": true
     }
   }
 }

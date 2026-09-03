@@ -2,6 +2,7 @@
   "firm": "Man Group",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4844843101": {
       "firm": "Man Group",
@@ -15,7 +16,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:09:21.470551Z"
+      "first_seen": "2026-09-03T20:09:21.470551Z",
+      "baseline": true
     },
     "4948688101": {
       "firm": "Man Group",
@@ -29,7 +31,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T20:09:21.478010Z"
+      "first_seen": "2026-09-03T20:09:21.478010Z",
+      "baseline": true
     },
     "4965180101": {
       "firm": "Man Group",
@@ -43,7 +46,8 @@
       "comp_k": 160,
       "comp_label": "~£160k (est. £99–221k)",
       "comp_basis": "hedge fund · quant trading",
-      "first_seen": "2026-09-03T20:09:21.463374Z"
+      "first_seen": "2026-09-03T20:09:21.463374Z",
+      "baseline": true
     },
     "4966466101": {
       "firm": "Man Group",
@@ -57,7 +61,8 @@
       "comp_k": 160,
       "comp_label": "~£160k (est. £99–221k)",
       "comp_basis": "hedge fund · quant trading",
-      "first_seen": "2026-09-03T20:09:21.472620Z"
+      "first_seen": "2026-09-03T20:09:21.472620Z",
+      "baseline": true
     }
   }
 }

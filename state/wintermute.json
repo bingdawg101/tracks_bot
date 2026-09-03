@@ -2,6 +2,7 @@
   "firm": "Wintermute",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "06eb85da-c5b3-4e49-a906-8ac0f3452517": {
       "firm": "Wintermute",
@@ -15,7 +16,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:27:47.172296Z"
+      "first_seen": "2026-09-03T20:27:47.172296Z",
+      "baseline": true
     },
     "0874ca9b-7c02-4364-bb78-b7b04272351e": {
       "firm": "Wintermute",
@@ -29,7 +31,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:27:47.178071Z"
+      "first_seen": "2026-09-03T20:27:47.178071Z",
+      "baseline": true
     },
     "11823665-128e-452e-afbb-ce855f22ed86": {
       "firm": "Wintermute",
@@ -43,7 +46,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:27:47.179514Z"
+      "first_seen": "2026-09-03T20:27:47.179514Z",
+      "baseline": true
     },
     "28c7e15f-b3a0-48c6-8322-2e9f25371fd0": {
       "firm": "Wintermute",
@@ -57,7 +61,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:27:47.155297Z"
+      "first_seen": "2026-09-03T20:27:47.155297Z",
+      "baseline": true
     },
     "4cab7a75-4304-4590-90c5-6755dbd97d36": {
       "firm": "Wintermute",
@@ -71,7 +76,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:27:47.159017Z"
+      "first_seen": "2026-09-03T20:27:47.159017Z",
+      "baseline": true
     },
     "89c2714e-7748-42ab-a03c-36fc821f7362": {
       "firm": "Wintermute",
@@ -85,7 +91,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T20:27:47.160929Z"
+      "first_seen": "2026-09-03T20:27:47.160929Z",
+      "baseline": true
     },
     "8c31337e-9989-4cf2-9cab-e876cbc96f10": {
       "firm": "Wintermute",
@@ -99,7 +106,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:27:47.165374Z"
+      "first_seen": "2026-09-03T20:27:47.165374Z",
+      "baseline": true
     },
     "a37ce8fb-afc7-4ede-ae93-ca1395228cda": {
       "firm": "Wintermute",
@@ -113,7 +121,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:27:47.175608Z"
+      "first_seen": "2026-09-03T20:27:47.175608Z",
+      "baseline": true
     },
     "cbc68e87-442f-4724-b3c5-c1f0bb3da80c": {
       "firm": "Wintermute",
@@ -127,7 +136,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:27:47.169341Z"
+      "first_seen": "2026-09-03T20:27:47.169341Z",
+      "baseline": true
     },
     "f0db771f-936b-4999-91d1-7a13fa0b8c25": {
       "firm": "Wintermute",
@@ -141,7 +151,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:27:47.176683Z"
+      "first_seen": "2026-09-03T20:27:47.176683Z",
+      "baseline": true
     }
   }
 }

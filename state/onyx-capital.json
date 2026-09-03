@@ -2,6 +2,7 @@
   "firm": "Onyx Capital Group",
   "failure_count": 3,
   "last_error": "onyx-capital: GET https://apply.workable.com/api/v1/widget/accounts/onyx-capital-group failed: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v1/widget/accounts/onyx-capital-group?details=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "established": true,
   "tracked": {
     "0AD579CC5A": {
       "firm": "Onyx Capital Group",
@@ -15,7 +16,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T17:34:21.956467Z"
+      "first_seen": "2026-09-03T17:34:21.956467Z",
+      "baseline": true
     }
   }
 }

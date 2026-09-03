@@ -4,1757 +4,1729 @@
 <title>Careers Tracker</title>
 <style>
   :root { color-scheme: light dark; --bg:#fff; --fg:#111; --muted:#666; --line:#e3e3e3;
-    --match:#0a7d32; --review:#8a6d00; --fail:#b00020; --card:#fafafa; }
+    --match:#0a7d32; --review:#8a6d00; --fail:#b00020; --soon:#1d4ed8; --card:#fafafa; }
   @media (prefers-color-scheme: dark) { :root { --bg:#14151a; --fg:#e8e8e8; --muted:#9aa0a6;
-    --line:#2a2c33; --match:#4ccf6f; --review:#e0b53d; --fail:#ff6b81; --card:#1c1d23; } }
+    --line:#2a2c33; --match:#4ccf6f; --review:#e0b53d; --fail:#ff6b81; --soon:#7aa2ff; --card:#1c1d23; } }
   * { box-sizing: border-box; }
   body { margin:0; font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    background:var(--bg); color:var(--fg); padding:24px; max-width:1000px; margin:0 auto; }
-  h1 { font-size:20px; margin:0 0 4px; } h2 { font-size:15px; margin:28px 0 10px; }
-  .meta { color:var(--muted); font-size:13px; margin-bottom:16px; }
+    background:var(--bg); color:var(--fg); padding:24px; max-width:1040px; margin:0 auto; }
+  h1 { font-size:20px; margin:0 0 4px; } h2 { font-size:15px; margin:30px 0 10px; }
+  .meta { color:var(--muted); font-size:13px; margin-bottom:12px; }
   a { color:inherit; } table { border-collapse:collapse; width:100%; font-size:13.5px; }
   th,td { text-align:left; padding:7px 10px; border-bottom:1px solid var(--line); vertical-align:top; }
   th { color:var(--muted); font-weight:600; }
-  .n { font-variant-numeric:tabular-nums; } .ok{color:var(--match)} .warn{color:var(--review)} .bad{color:var(--fail)}
-  .pill { display:inline-block; padding:1px 7px; border-radius:10px; font-size:12px;
-    border:1px solid var(--line); }
-  ul.roles { margin:4px 0 0; padding-left:18px; } ul.roles li { margin:2px 0; }
+  .n { font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .ok{color:var(--match)} .warn{color:var(--review)} .bad{color:var(--fail)} .soon{color:var(--soon)}
+  ul.roles { margin:4px 0 0; padding-left:18px; } ul.roles li { margin:3px 0; }
   .tag { color:var(--muted); font-size:12px; }
   .hist li { margin:3px 0; } code { background:var(--card); padding:1px 4px; border-radius:4px; }
+  details { margin-top:6px; } summary { cursor:pointer; color:var(--muted); font-size:13px; }
+  .big { font-size:15px; }
+  .cal td:first-child { font-weight:600; }
 </style></head><body>
 <h1>Careers Tracker</h1>
 <div class="meta">
-  Grad / final-year / internship roles &mdash; commodities, quant, S&amp;T, global markets &mdash; London/UK.<br>
+  Graduate / final-year / internship roles &mdash; commodities, quant, S&amp;T, global markets &mdash; London/UK.
+  110 firms watched.<br>
   <img alt="last check" src="https://img.shields.io/github/actions/workflow/status/bingdawg101/tracks_bot/check.yml?label=last%20check&cacheSeconds=300">
   &middot; <a href="https://github.com/bingdawg101/tracks_bot/actions/workflows/check.yml">run history</a>
   
 </div>
 
-<h2>Open matching roles (85) &middot; highest estimated pay first</h2>
+<h2 class="big">&#128309; Opening soon &mdash; get ready (2)</h2>
+
+<table class="cal">
+<tr><th>When</th><th>Firm</th><th>Programme</th><th>Basis</th></tr>
+
+<tr>
+  <td class="soon n">now / overdue</td>
+  <td>Citadel</td>
+  <td>Summer Internship 2027</td>
+  <td class="tag">estimate — Citadel typically opens ~Sept for next summer; VERIFY</td>
+</tr>
+
+<tr>
+  <td class="soon n">now / overdue</td>
+  <td>Optiver</td>
+  <td>Graduate & Internship 2027</td>
+  <td class="tag">estimate — Optiver typically opens EMEA grad/intern apps in Sept; VERIFY</td>
+</tr>
+
+</table>
+
+
+<h2 class="big">&#127381; Just opened &mdash; apply now (0)</h2>
+<div class="tag">Nothing new in the last 10 days.</div>
+
+<h2>Recent openings (history)</h2>
+<div class="tag">Nothing detected yet &mdash; baselines established, watching for changes.</div>
+
+<details>
+<summary>Already open &mdash; likely too late (85 roles across 22 firms)</summary>
 <table>
-<tr><th>Firm</th><th class="n">Top est.</th><th class="n">Match</th><th class="n">Review</th><th>Roles</th><th>Health</th></tr>
+<tr><th class="n">Age</th><th class="n">Est. pay</th><th>Firm</th><th>Role</th></tr>
 
 <tr>
-  <td>Jump Trading<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£190k</b></td>
-  <td class="n">11</td>
-  <td class="n">6</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£190k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=8050801">Campus Quantitative Trader (Full-Time)</a>
-        <span class="tag">&mdash; London; Amsterdam &middot; Full-time - Campus</span>
-      </li><li>
-        <b>£180k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=7977132">Campus ML Research Engineer (Full-Time)</a>
-        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
-      </li><li>
-        <b>£180k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=8050796">Campus Quantitative Researcher (Full-Time)</a>
-        <span class="tag">&mdash; London; Amsterdam &middot; Full-time - Campus</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=8050772">Campus Quantitative Trader (Intern)</a>
-        <span class="tag">&mdash; London; Amsterdam &middot; Jump Trading - Intern</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=7977145">Campus ML Research Engineer (Intern)</a>
-        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=8010307">Campus Quantitative Researcher (Intern)</a>
-        <span class="tag">&mdash; London; Amsterdam &middot; Jump Trading - Intern</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=8059384">Campus Quantitative Researcher (M1/M2 Intern)</a>
-        <span class="tag">&mdash; London; Paris &middot; Jump Trading - Intern</span>
-      </li><li>
-        <b>£110k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=7976923">Campus AI Researcher, PhD/Postdoc (Full-Time)</a>
-        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
-      </li><li>
-        <b>£110k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=7217856">Campus Crypto Researcher (Full-Time)</a>
-        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
-      </li><li>
-        <b>£101k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=7976964">Campus AI Researcher, PhD/Postdoc (Intern)</a>
-        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
-      </li><li>
-        <b>£101k</b> &middot; 
-        <a href="https://www.jumptrading.com/hr/job?gh_jid=7362318">Campus Crypto Researcher (Intern)</a>
-        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
-      </li>
-    </ul>
-  </td>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;190k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002">Quantitative Trader</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;190k</td>
+  <td>Five Rings</td>
+  <td><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008">Campus Full Time 2027 - Quantitative Trader - London</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;190k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=8050801">Campus Quantitative Trader (Full-Time)</a>
+      <span class="tag">&mdash; London; Amsterdam</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;190k</td>
+  <td>Tower Research Capital</td>
+  <td><a href="https://www.tower-research.com/open-positions/?gh_jid=8037824">Quantitative Trader/Researcher Graduate Programme 2027</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;190k</td>
+  <td>Old Mission Capital</td>
+  <td><a href="https://www.oldmissioncapital.com/careers/?gh_jid=7796058003">Quantitative Trader – 2027 Graduate Program (August Start)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002">Machine Learning Researcher</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002">Quantitative Researcher</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>IMC Trading</td>
+  <td><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4914883101">Graduate Machine Learning Researcher - London</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=7977132">Campus ML Research Engineer (Full-Time)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=8050796">Campus Quantitative Researcher (Full-Time)</a>
+      <span class="tag">&mdash; London; Amsterdam</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>Headlands Technologies</td>
+  <td><a href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009">Quantitative Researcher – New Grad</a>
+      <span class="tag">&mdash; Amsterdam; Chicago; London; New York</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;180k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11033/login">Quantitative Researcher - Graduate: 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002">Quantitative Trader</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=8050772">Campus Quantitative Trader (Intern)</a>
+      <span class="tag">&mdash; London; Amsterdam</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Tower Research Capital</td>
+  <td><a href="https://www.tower-research.com/open-positions/?gh_jid=8037860">Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11005/login">Quantitative Trading Internship: Summer 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11006/login">Quantitative Systematic Trading Internship: Summer 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11031/login">Quantitative Trader - Graduate: 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;175k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11032/login">Quantitative Systematic Trader - Graduate: 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;170k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002">Trading Desk Operations Engineer</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;170k</td>
+  <td>Wintermute</td>
+  <td><a href="https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517">Graduate Algorithmic Trader 2027</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;170k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11347/login">Trading Systems Engineer Graduate: 2027 (London)</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002">Quantitative Researcher</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002">Machine Learning Researcher</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Hudson River Trading</td>
+  <td><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062">Algorithm Development (Quant Research & Trading) Internship – Summer 2027</a>
+      <span class="tag">&mdash; London, United Kingdom; New York, NY, United States; Singapore</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Hudson River Trading</td>
+  <td><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837">Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027</a>
+      <span class="tag">&mdash; London, United Kingdom; New York, NY, United States; Singapore</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Aquatic Capital Management</td>
+  <td><a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002">Quantitative Researcher, Intern (Summer 2027)</a>
+      <span class="tag">&mdash; Chicago; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=7977145">Campus ML Research Engineer (Intern)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=8010307">Campus Quantitative Researcher (Intern)</a>
+      <span class="tag">&mdash; London; Amsterdam</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=8059384">Campus Quantitative Researcher (M1/M2 Intern)</a>
+      <span class="tag">&mdash; London; Paris</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Tower Research Capital</td>
+  <td><a href="https://www.tower-research.com/open-positions/?gh_jid=8113986">Quantitative Research Internship - 6 Months, Central Execution Research</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Qube Research & Technologies</td>
+  <td><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002">2026 - Internship, Quantitative Research/Trading</a>
+      <span class="tag">&mdash; Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;166k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11007/login">Quantitative Research Internship: Summer 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;156k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002">Trading Desk Operations Engineer</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;156k</td>
+  <td>DV Trading</td>
+  <td><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719135005">Trading Intern - Summer 2027 (DV Commodities)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;156k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11334/login">Trading Systems Engineering Internship: Summer 2027 (London)</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;140k</td>
+  <td>Squarepoint Capital</td>
+  <td><a href="https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081">Graduate Trading Applications Specialist</a>
+      <span class="tag">&mdash; London, Montreal, New York, Houston, Hong Kong</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;140k</td>
+  <td>Squarepoint Capital</td>
+  <td><a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021">Trading Infrastructure Specialist – Graduate Programme</a>
+      <span class="tag">&mdash; London, Montreal, Hong Kong, New York, Singapore</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;140k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11336/login">Software Developer Graduate: September 2027 London</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;140k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11344/login">Quantitative Strategy Developer Graduate: 2027 (London)</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;140k</td>
+  <td>Onyx Capital Group</td>
+  <td><a href="https://apply.workable.com/j/0AD579CC5A">Graduate Trader</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;138k</td>
+  <td>Jane Street</td>
+  <td><a href="https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002">Sales and Trading</a>
+      <span class="tag">&mdash; London, England, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;138k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/10827/login">Fixed Income Trading Analyst | Early Careers</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;136k</td>
+  <td>Squarepoint Capital</td>
+  <td><a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853">Intern Quant Researcher</a>
+      <span class="tag">&mdash; London, Paris, New York, Singapore, Hong Kong</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;136k</td>
+  <td>Point72</td>
+  <td><a href="https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002">Quantitative Researcher - Intern</a>
+      <span class="tag">&mdash; London, Paris, Hong Kong, Tokyo</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;136k</td>
+  <td>GSA Capital</td>
+  <td><a href="https://www.gsacapital.com/careers/gh/?gh_jid=8570661002">Quantitative Researcher - Intern</a>
+      <span class="tag">&mdash; London, New York</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;129k</td>
+  <td>DV Trading</td>
+  <td><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Software Engineer Intern - Summer 2027 (DV Commodities)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;129k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11333/login">Quantitative Strategy Developer Internship: Summer 2027 (London)</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;120k</td>
+  <td>Squarepoint Capital</td>
+  <td><a href="https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610">Graduate Quant Developer</a>
+      <span class="tag">&mdash; London, Montreal, Singapore</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;110k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=7217856">Campus Crypto Researcher (Full-Time)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;110k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=7976923">Campus AI Researcher, PhD/Postdoc (Full-Time)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;110k</td>
+  <td>Jump Crypto</td>
+  <td><a href="https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012">Campus Full-Time Crypto Researcher 2026 LDN</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;106k</td>
+  <td>Point72</td>
+  <td><a href="https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002">Quantitative Software Developer Intern</a>
+      <span class="tag">&mdash; New York, London, or Paris</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;101k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=7362318">Campus Crypto Researcher (Intern)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;101k</td>
+  <td>Jump Trading</td>
+  <td><a href="https://www.jumptrading.com/hr/job?gh_jid=7976964">Campus AI Researcher, PhD/Postdoc (Intern)</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;101k</td>
+  <td>Qube Research & Technologies</td>
+  <td><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002">VIE in Research</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;101k</td>
+  <td>Jump Crypto</td>
+  <td><a href="https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010">Campus Intern Crypto Researcher 2026 LDN</a>
+      <span class="tag">&mdash; London</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;101k</td>
+  <td>Susquehanna International Group</td>
+  <td><a href="https://careers-sig.icims.com/jobs/11085/login">Equity Research Internship: Summer 2027</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/175421_GS_CAMPUS">2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/175424_GS_CAMPUS">2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/175426_GS_CAMPUS">2027 / EMEA / London / The Core Quantitative Strats / Summer Analyst</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/175428_GS_CAMPUS">2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342">2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770">2027 Quantitative Research – Asset Management - Off-Cycle - London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Analyst– London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;66k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;63k</td>
+  <td>Engelhart Commodities</td>
+  <td><a href="https://job-boards.greenhouse.io/engelhart/jobs/8164581">Commodity Trading Analytics Internship Program</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;59k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/150725_GS_CAMPUS">2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;59k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/150728_GS_CAMPUS">2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;59k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/170675_GS_CAMPUS">2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;59k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">2027 – Global Markets – Summer Internship - London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;56k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766">2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;50k</td>
+  <td>Schroders</td>
+  <td><a href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940">2027 Public Markets Equities Internship Programme</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/150658_GS_CAMPUS">2026 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/150661_GS_CAMPUS">2026 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/150666_GS_CAMPUS">2026 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/170874_GS_CAMPUS">2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/170877_GS_CAMPUS">2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/170880_GS_CAMPUS">2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>Goldman Sachs</td>
+  <td><a href="https://higher.gs.com/roles/170901_GS_CAMPUS">2027 / EMEA / London / Global Investment Research, Equity Research / Seasonal/Off-cycle Internship</a>
+      <span class="tag">&mdash; London United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780476">2027 – Research – Summer Internship - London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;43k</td>
+  <td>JPMorgan</td>
+  <td><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780555">2027 – Sales – Summer Internship - London</a>
+      <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;38k</td>
+  <td>Schroders</td>
+  <td><a href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941">2027 Public Markets Quants Internship Programme</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+<tr>
+  <td class="n tag">0d</td>
+  <td class="n">&pound;38k</td>
+  <td>Schroders</td>
+  <td><a href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942">2027 Public Markets Multi-Asset Internship Programme</a>
+      <span class="tag">&mdash; London, United Kingdom</span></td>
+</tr>
+
+</table>
+</details>
+
+<details>
+<summary>Firm coverage &amp; health (121)</summary>
+<table>
+<tr><th>Firm</th><th>Cycle</th><th class="n">Match</th><th class="n">Review</th><th>Health</th></tr>
+
+<tr>
+  <td>Goldman Sachs <span class="tag">bank bulge</span></td>
+  <td class="tag">open</td>
+  <td class="n">14</td>
+  <td class="n">7</td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Jane Street<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£190k</b></td>
-  <td class="n">9</td>
-  <td class="n">1</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£190k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002">Quantitative Trader</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
-      </li><li>
-        <b>£180k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002">Machine Learning Researcher</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
-      </li><li>
-        <b>£180k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002">Quantitative Researcher</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002">Quantitative Trader</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
-      </li><li>
-        <b>£170k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002">Trading Desk Operations Engineer</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002">Machine Learning Researcher</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002">Quantitative Researcher</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
-      </li><li>
-        <b>£156k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002">Trading Desk Operations Engineer</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
-      </li><li>
-        <b>£138k</b> &middot; 
-        <a href="https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002">Sales and Trading</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Tower Research Capital<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£190k</b></td>
-  <td class="n">3</td>
-  <td class="n">4</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£190k</b> &middot; 
-        <a href="https://www.tower-research.com/open-positions/?gh_jid=8037824">Quantitative Trader/Researcher Graduate Programme 2027</a>
-        <span class="tag">&mdash; London</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://www.tower-research.com/open-positions/?gh_jid=8037860">Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)</a>
-        <span class="tag">&mdash; London</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.tower-research.com/open-positions/?gh_jid=8113986">Quantitative Research Internship - 6 Months, Central Execution Research</a>
-        <span class="tag">&mdash; London</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Five Rings<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£190k</b></td>
-  <td class="n">1</td>
-  <td class="n">2</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£190k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008">Campus Full Time 2027 - Quantitative Trader - London</a>
-        <span class="tag">&mdash; London &middot; Full-time</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Old Mission Capital<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£190k</b></td>
-  <td class="n">1</td>
-  <td class="n">1</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£190k</b> &middot; 
-        <a href="https://www.oldmissioncapital.com/careers/?gh_jid=7796058003">Quantitative Trader – 2027 Graduate Program (August Start)</a>
-        <span class="tag">&mdash; London &middot; Full-time</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Susquehanna International Group<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£180k</b></td>
+  <td>Susquehanna International Group <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">13</td>
   <td class="n">2</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£180k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11033/login">Quantitative Researcher - Graduate: 2027</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11032/login">Quantitative Systematic Trader - Graduate: 2027</a>
-        <span class="tag">&mdash; London, United Kingdom &middot; Intern</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11006/login">Quantitative Systematic Trading Internship: Summer 2027</a>
-        <span class="tag">&mdash; London, United Kingdom &middot; Intern</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11031/login">Quantitative Trader - Graduate: 2027</a>
-        <span class="tag">&mdash; London, United Kingdom &middot; Intern</span>
-      </li><li>
-        <b>£175k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11005/login">Quantitative Trading Internship: Summer 2027</a>
-        <span class="tag">&mdash; London, United Kingdom &middot; Intern</span>
-      </li><li>
-        <b>£170k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11347/login">Trading Systems Engineer Graduate: 2027 (London)</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11007/login">Quantitative Research Internship: Summer 2027</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£156k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11334/login">Trading Systems Engineering Internship: Summer 2027 (London)</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£140k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11344/login">Quantitative Strategy Developer Graduate: 2027 (London)</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£140k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11336/login">Software Developer Graduate: September 2027 London</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£138k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/10827/login">Fixed Income Trading Analyst | Early Careers</a>
-        <span class="tag">&mdash; London, United Kingdom &middot; Intern</span>
-      </li><li>
-        <b>£129k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11333/login">Quantitative Strategy Developer Internship: Summer 2027 (London)</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£101k</b> &middot; 
-        <a href="https://careers-sig.icims.com/jobs/11085/login">Equity Research Internship: Summer 2027</a>
-        <span class="tag">&mdash; London, United Kingdom &middot; Intern</span>
-      </li>
-    </ul>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Headlands Technologies<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£180k</b></td>
-  <td class="n">1</td>
-  <td class="n">1</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£180k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009">Quantitative Researcher – New Grad</a>
-        <span class="tag">&mdash; Amsterdam; Chicago; London; New York</span>
-      </li>
-    </ul>
-  </td>
+  <td>Jump Trading <span class="tag">elite prop</span></td>
+  <td class="tag">rolling</td>
+  <td class="n">11</td>
+  <td class="n">6</td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>IMC Trading<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£180k</b></td>
-  <td class="n">1</td>
-  <td class="n">4</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£180k</b> &middot; 
-        <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4914883101">Graduate Machine Learning Researcher - London</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Wintermute<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£170k</b></td>
-  <td class="n">1</td>
+  <td>JPMorgan <span class="tag">bank bulge</span></td>
+  <td class="tag">open</td>
   <td class="n">9</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£170k</b> &middot; 
-        <a href="https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517">Graduate Algorithmic Trader 2027</a>
-        <span class="tag">&mdash; London &middot; Full-time</span>
-      </li>
-    </ul>
-  </td>
+  <td class="n">24</td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Hudson River Trading<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£166k</b></td>
-  <td class="n">2</td>
-  <td class="n">20</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062">Algorithm Development (Quant Research & Trading) Internship – Summer 2027</a>
-        <span class="tag">&mdash; London, United Kingdom; New York, NY, United States; Singapore &middot; Intern</span>
-      </li><li>
-        <b>£166k</b> &middot; 
-        <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837">Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027</a>
-        <span class="tag">&mdash; London, United Kingdom; New York, NY, United States; Singapore &middot; Intern</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Qube Research & Technologies<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£166k</b></td>
-  <td class="n">2</td>
-  <td class="n">18</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£166k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002">2026 - Internship, Quantitative Research/Trading</a>
-        <span class="tag">&mdash; Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest &middot; Intern</span>
-      </li><li>
-        <b>£101k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002">VIE in Research</a>
-        <span class="tag">&mdash; London &middot; Intern</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Aquatic Capital Management<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£166k</b></td>
+  <td>Jane Street <span class="tag">elite prop</span></td>
+  <td class="tag">rolling</td>
+  <td class="n">9</td>
   <td class="n">1</td>
-  <td class="n">1</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£166k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002">Quantitative Researcher, Intern (Summer 2027)</a>
-        <span class="tag">&mdash; Chicago; London</span>
-      </li>
-    </ul>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>DV Trading<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£156k</b></td>
-  <td class="n">2</td>
-  <td class="n">8</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£156k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719135005">Trading Intern - Summer 2027 (DV Commodities)</a>
-        <span class="tag">&mdash; London</span>
-      </li><li>
-        <b>£129k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/dvtrading/jobs/4719125005">Software Engineer Intern - Summer 2027 (DV Commodities)</a>
-        <span class="tag">&mdash; London</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Squarepoint Capital<br><span class="tag">hedge fund</span></td>
-  <td class="n"><b>£140k</b></td>
+  <td>Squarepoint Capital <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">4</td>
   <td class="n">16</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£140k</b> &middot; 
-        <a href="https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081">Graduate Trading Applications Specialist</a>
-        <span class="tag">&mdash; London, Montreal, New York, Houston, Hong Kong &middot; Employee-Regular</span>
-      </li><li>
-        <b>£140k</b> &middot; 
-        <a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021">Trading Infrastructure Specialist – Graduate Programme</a>
-        <span class="tag">&mdash; London, Montreal, Hong Kong, New York, Singapore &middot; Employee-Regular</span>
-      </li><li>
-        <b>£136k</b> &middot; 
-        <a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853">Intern Quant Researcher</a>
-        <span class="tag">&mdash; London, Paris, New York, Singapore, Hong Kong &middot; Intern Full-time</span>
-      </li><li>
-        <b>£120k</b> &middot; 
-        <a href="https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610">Graduate Quant Developer</a>
-        <span class="tag">&mdash; London, Montreal, Singapore &middot; Employee-Regular</span>
-      </li>
-    </ul>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Onyx Capital Group<br><span class="tag">hedge fund</span></td>
-  <td class="n"><b>£140k</b></td>
+  <td>Schroders <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
+  <td class="n">3</td>
+  <td class="n">17</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Tower Research Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">3</td>
+  <td class="n">4</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>DV Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">2</td>
+  <td class="n">8</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Hudson River Trading <span class="tag">elite prop</span></td>
+  <td class="tag">rolling</td>
+  <td class="n">2</td>
+  <td class="n">20</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Jump Crypto <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">2</td>
+  <td class="n">0</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Point72 <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
+  <td class="n">2</td>
+  <td class="n">17</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Qube Research & Technologies <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">2</td>
+  <td class="n">18</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Aquatic Capital Management <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">1</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Engelhart Commodities <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">1</td>
   <td class="n">0</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£140k</b> &middot; 
-        <a href="https://apply.workable.com/j/0AD579CC5A">Graduate Trader</a>
-        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-time</span>
-      </li>
-    </ul>
-  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Five Rings <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">2</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>GSA Capital <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">3</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Headlands Technologies <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">1</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>IMC Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">4</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Old Mission Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">1</td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Onyx Capital Group <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
+  <td class="n">1</td>
+  <td class="n">0</td>
   <td><span class="bad">failing &times;3</span>
       </td>
 </tr>
 
 <tr>
-  <td>Point72<br><span class="tag">hedge fund</span></td>
-  <td class="n"><b>£136k</b></td>
-  <td class="n">2</td>
-  <td class="n">17</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£136k</b> &middot; 
-        <a href="https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002">Quantitative Researcher - Intern</a>
-        <span class="tag">&mdash; London, Paris, Hong Kong, Tokyo</span>
-      </li><li>
-        <b>£106k</b> &middot; 
-        <a href="https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002">Quantitative Software Developer Intern</a>
-        <span class="tag">&mdash; New York, London, or Paris</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>GSA Capital<br><span class="tag">hedge fund</span></td>
-  <td class="n"><b>£136k</b></td>
+  <td>Wintermute <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">1</td>
-  <td class="n">3</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£136k</b> &middot; 
-        <a href="https://www.gsacapital.com/careers/gh/?gh_jid=8570661002">Quantitative Researcher - Intern</a>
-        <span class="tag">&mdash; London, New York</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Jump Crypto<br><span class="tag">elite prop</span></td>
-  <td class="n"><b>£110k</b></td>
-  <td class="n">2</td>
-  <td class="n">0</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£110k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012">Campus Full-Time Crypto Researcher 2026 LDN</a>
-        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
-      </li><li>
-        <b>£101k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010">Campus Intern Crypto Researcher 2026 LDN</a>
-        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>Goldman Sachs<br><span class="tag">bank bulge</span></td>
-  <td class="n"><b>£66k</b></td>
-  <td class="n">14</td>
-  <td class="n">7</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£66k</b> &middot; 
-        <a href="https://higher.gs.com/roles/175421_GS_CAMPUS">2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://higher.gs.com/roles/175424_GS_CAMPUS">2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://higher.gs.com/roles/175428_GS_CAMPUS">2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://higher.gs.com/roles/175426_GS_CAMPUS">2027 / EMEA / London / The Core Quantitative Strats / Summer Analyst</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£59k</b> &middot; 
-        <a href="https://higher.gs.com/roles/150725_GS_CAMPUS">2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£59k</b> &middot; 
-        <a href="https://higher.gs.com/roles/150728_GS_CAMPUS">2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£59k</b> &middot; 
-        <a href="https://higher.gs.com/roles/170675_GS_CAMPUS">2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/150661_GS_CAMPUS">2026 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/150658_GS_CAMPUS">2026 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/150666_GS_CAMPUS">2026 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/170874_GS_CAMPUS">2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/170880_GS_CAMPUS">2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/170877_GS_CAMPUS">2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://higher.gs.com/roles/170901_GS_CAMPUS">2027 / EMEA / London / Global Investment Research, Equity Research / Seasonal/Off-cycle Internship</a>
-        <span class="tag">&mdash; London United Kingdom</span>
-      </li>
-    </ul>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>JPMorgan<br><span class="tag">bank bulge</span></td>
-  <td class="n"><b>£66k</b></td>
   <td class="n">9</td>
-  <td class="n">24</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£66k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Analyst– London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873">2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate – London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342">2027 Quantitative Research Markets Analyst Program – Off-Cycle Internship – London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780">2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£66k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770">2027 Quantitative Research – Asset Management - Off-Cycle - London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£59k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517">2027 – Global Markets – Summer Internship - London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£56k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766">2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780476">2027 – Research – Summer Internship - London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li><li>
-        <b>£43k</b> &middot; 
-        <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780555">2027 – Sales – Summer Internship - London</a>
-        <span class="tag">&mdash; LONDON, LONDON, United Kingdom</span>
-      </li>
-    </ul>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Engelhart Commodities<br><span class="tag">commodity other</span></td>
-  <td class="n"><b>£63k</b></td>
-  <td class="n">1</td>
+  <td>3Red Partners <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£63k</b> &middot; 
-        <a href="https://job-boards.greenhouse.io/engelhart/jobs/8164581">Commodity Trading Analytics Internship Program</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li>
-    </ul>
-  </td>
+  <td class="n">0</td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Schroders<br><span class="tag">bank other</span></td>
-  <td class="n"><b>£50k</b></td>
-  <td class="n">3</td>
-  <td class="n">17</td>
-  <td>
-    <ul class="roles">
-      <li>
-        <b>£50k</b> &middot; 
-        <a href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940">2027 Public Markets Equities Internship Programme</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£38k</b> &middot; 
-        <a href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942">2027 Public Markets Multi-Asset Internship Programme</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li><li>
-        <b>£38k</b> &middot; 
-        <a href="https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941">2027 Public Markets Quants Internship Programme</a>
-        <span class="tag">&mdash; London, United Kingdom</span>
-      </li>
-    </ul>
-  </td>
+  <td>AQR Capital Management <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
+  <td class="n">0</td>
+  <td class="n">0</td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>3Red Partners<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Akuna Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>AQR Capital Management<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>AlphaGrep Securities <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Akuna Capital<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Amber Group <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>AlphaGrep Securities<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Auros <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Amber Group<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Axpo <span class="tag">energy utility</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Auros<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>B2C2 <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Axpo<br><span class="tag">energy utility</span></td>
-  <td class="n">&mdash;</td>
+  <td>BMO Capital Markets <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>B2C2<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>BP (Trading & Shipping) <span class="tag">energy utility</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>BMO Capital Markets<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Barclays <span class="tag">bank bulge</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>BP (Trading & Shipping)<br><span class="tag">energy utility</span></td>
-  <td class="n">&mdash;</td>
+  <td>Belvedere Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Barclays<br><span class="tag">bank bulge</span></td>
-  <td class="n">&mdash;</td>
+  <td>BlackEdge Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Belvedere Trading<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
-  <td class="n">0</td>
-  <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>BlackEdge Capital<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
-  <td class="n">0</td>
-  <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
-  <td><span class="ok">ok</span></td>
-</tr>
-
-<tr>
-  <td>BlackRock<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>BlackRock <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">8</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>BlueCrest Capital Management<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>BlueCrest Capital Management <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Brevan Howard<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Brevan Howard <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>CIBC Capital Markets<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>CIBC Capital Markets <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>COFCO International</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Caladan<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Caladan <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Capstone Investment Advisors<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Capstone Investment Advisors <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Cargill<br><span class="tag">commodity major</span></td>
-  <td class="n">&mdash;</td>
+  <td>Cargill <span class="tag">commodity major</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>Castleton Commodities International</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Caxton Associates<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Caxton Associates <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Chicago Trading Company<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Chicago Trading Company <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>Citadel</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">opens Sep 2026</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>Citadel Securities</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Citi<br><span class="tag">bank bulge</span></td>
-  <td class="n">&mdash;</td>
+  <td>Citi <span class="tag">bank bulge</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Clear Street<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Clear Street <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Crabel Capital Management<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Crabel Capital Management <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>DRW</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Da Vinci Derivatives<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Da Vinci Derivatives <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Deutsche Bank<br><span class="tag">bank bulge</span></td>
-  <td class="n">&mdash;</td>
+  <td>Deutsche Bank <span class="tag">bank bulge</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">11</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>ECOM Agroindustrial<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>ECOM Agroindustrial <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>EDF Trading</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Eclipse Trading<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Eclipse Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Equinor<br><span class="tag">energy utility</span></td>
-  <td class="n">&mdash;</td>
+  <td>Equinor <span class="tag">energy utility</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>ExodusPoint Capital<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>ExodusPoint Capital <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>FalconX<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>FalconX <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Flow Traders<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Flow Traders <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Flowdesk<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Flowdesk <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Freepoint Commodities<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Freepoint Commodities <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>GSR Markets<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>GSR Markets <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Galaxy Digital<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Galaxy Digital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Gelber Group<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Gelber Group <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Geneva Trading<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Geneva Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Glencore<br><span class="tag">commodity major</span></td>
-  <td class="n">&mdash;</td>
+  <td>Glencore <span class="tag">commodity major</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Graham Capital Management<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Graham Capital Management <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Grasshopper<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Grasshopper <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Graviton Research Capital<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Graviton Research Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Invesco<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Invesco <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">2</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>Jefferies</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Keyrock<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Keyrock <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Kronos Research<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Kronos Research <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Legal & General<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Legal & General <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">7</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Lloyds Banking Group<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Lloyds Banking Group <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Louis Dreyfus Company<br><span class="tag">commodity major</span></td>
-  <td class="n">&mdash;</td>
+  <td>Louis Dreyfus Company <span class="tag">commodity major</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Lynx Asset Management<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Lynx Asset Management <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>M&G plc<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>M&G plc <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>MET Group<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>MET Group <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Mako Group<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Mako Group <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Man Group<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Man Group <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">4</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Maven Securities<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Maven Securities <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Morgan Stanley<br><span class="tag">bank bulge</span></td>
-  <td class="n">&mdash;</td>
+  <td>Morgan Stanley <span class="tag">bank bulge</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">3</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Northern Trust<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Northern Trust <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Olam Agri<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Olam Agri <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Optiver<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Optiver <span class="tag">elite prop</span></td>
+  <td class="tag">opens Sep 2026</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>PDT Partners<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>PDT Partners <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Pharo Management<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Pharo Management <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Presto Labs<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Presto Labs <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Quadrature Capital<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Quadrature Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>RBC Capital Markets<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>RBC Capital Markets <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>STX Group<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>STX Group <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Santander<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Santander <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Schonfeld Strategic Advisors<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Schonfeld Strategic Advisors <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Selini Capital<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Selini Capital <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">2</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Shell (Trading & Supply)<br><span class="tag">energy utility</span></td>
-  <td class="n">&mdash;</td>
+  <td>Shell (Trading & Supply) <span class="tag">energy utility</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">2</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Simplex Trading<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Simplex Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
   <td>Statar Capital</td>
-  <td class="n">&mdash;</td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>State Street<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>State Street <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>TP ICAP<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>TP ICAP <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>The Voleon Group<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>The Voleon Group <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">1</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Tradition<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Tradition <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Trafigura<br><span class="tag">commodity major</span></td>
-  <td class="n">&mdash;</td>
+  <td>Trafigura <span class="tag">commodity major</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>TransMarket Group<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>TransMarket Group <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Valkyrie Trading<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Valkyrie Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Vatic Investments<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Vatic Investments <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Vattenfall<br><span class="tag">energy utility</span></td>
-  <td class="n">&mdash;</td>
+  <td>Vattenfall <span class="tag">energy utility</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Vesper<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Vesper <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Virtu Financial<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Virtu Financial <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">2</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Viterra<br><span class="tag">commodity other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Viterra <span class="tag">commodity other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Vitol<br><span class="tag">commodity major</span></td>
-  <td class="n">&mdash;</td>
+  <td>Vitol <span class="tag">commodity major</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Vivienne Court Trading<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Vivienne Court Trading <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>WEBB Traders<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>WEBB Traders <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Walleye Capital<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Walleye Capital <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Wellington Management<br><span class="tag">bank other</span></td>
-  <td class="n">&mdash;</td>
+  <td>Wellington Management <span class="tag">bank other</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">3</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Wincent<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>Wincent <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>Winton<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>Winton <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">3</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>WorldQuant<br><span class="tag">hedge fund</span></td>
-  <td class="n">&mdash;</td>
+  <td>WorldQuant <span class="tag">hedge fund</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">3</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 <tr>
-  <td>XTX Markets<br><span class="tag">elite prop</span></td>
-  <td class="n">&mdash;</td>
+  <td>XTX Markets <span class="tag">elite prop</span></td>
+  <td class="tag">—</td>
   <td class="n">0</td>
   <td class="n">0</td>
-  <td>
-    <span class="tag">&mdash;</span>
-  </td>
   <td><span class="ok">ok</span></td>
 </tr>
 
 </table>
-<p class="tag">Pay figures are rough first-year total-comp estimates (London) by firm tier and role
-family &mdash; for ranking, not gospel. Most firms don't publish salary.</p>
+</details>
 
-<h2>Recent openings</h2>
-<div class="tag">Nothing detected yet &mdash; baseline established, watching for changes.</div>
-
+<p class="tag">Pay figures are rough first-year total-comp estimates (London) by firm tier &times; role
+family &mdash; for ranking, not gospel. "Opening soon" dates are expected windows from published
+dates and prior-year patterns; verify on the firm's site.</p>
 </body></html>

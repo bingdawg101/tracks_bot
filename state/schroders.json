@@ -2,6 +2,7 @@
   "firm": "Schroders",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "1940": {
       "firm": "Schroders",
@@ -15,7 +16,8 @@
       "comp_k": 50,
       "comp_label": "~£50k (est. £39–61k)",
       "comp_basis": "bank other · sales trading · internship",
-      "first_seen": "2026-09-03T20:39:53.171269Z"
+      "first_seen": "2026-09-03T20:39:53.171269Z",
+      "baseline": true
     },
     "1941": {
       "firm": "Schroders",
@@ -29,7 +31,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.171527Z"
+      "first_seen": "2026-09-03T20:39:53.171527Z",
+      "baseline": true
     },
     "1942": {
       "firm": "Schroders",
@@ -43,7 +46,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.171805Z"
+      "first_seen": "2026-09-03T20:39:53.171805Z",
+      "baseline": true
     },
     "1943": {
       "firm": "Schroders",
@@ -57,7 +61,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.172062Z"
+      "first_seen": "2026-09-03T20:39:53.172062Z",
+      "baseline": true
     },
     "1944": {
       "firm": "Schroders",
@@ -71,7 +76,8 @@
       "comp_k": 36,
       "comp_label": "~£36k (est. £28–44k)",
       "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-03T20:39:53.172295Z"
+      "first_seen": "2026-09-03T20:39:53.172295Z",
+      "baseline": true
     },
     "1945": {
       "firm": "Schroders",
@@ -85,7 +91,8 @@
       "comp_k": 36,
       "comp_label": "~£36k (est. £28–44k)",
       "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-03T20:39:53.172541Z"
+      "first_seen": "2026-09-03T20:39:53.172541Z",
+      "baseline": true
     },
     "1946": {
       "firm": "Schroders",
@@ -99,7 +106,8 @@
       "comp_k": 36,
       "comp_label": "~£36k (est. £28–44k)",
       "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-03T20:39:53.172803Z"
+      "first_seen": "2026-09-03T20:39:53.172803Z",
+      "baseline": true
     },
     "1947": {
       "firm": "Schroders",
@@ -113,7 +121,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.173083Z"
+      "first_seen": "2026-09-03T20:39:53.173083Z",
+      "baseline": true
     },
     "1948": {
       "firm": "Schroders",
@@ -127,7 +136,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.173625Z"
+      "first_seen": "2026-09-03T20:39:53.173625Z",
+      "baseline": true
     },
     "1950": {
       "firm": "Schroders",
@@ -141,7 +151,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.173913Z"
+      "first_seen": "2026-09-03T20:39:53.173913Z",
+      "baseline": true
     },
     "1951": {
       "firm": "Schroders",
@@ -155,7 +166,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.173334Z"
+      "first_seen": "2026-09-03T20:39:53.173334Z",
+      "baseline": true
     },
     "1952": {
       "firm": "Schroders",
@@ -169,7 +181,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.174152Z"
+      "first_seen": "2026-09-03T20:39:53.174152Z",
+      "baseline": true
     },
     "1953": {
       "firm": "Schroders",
@@ -183,7 +196,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.170354Z"
+      "first_seen": "2026-09-03T20:39:53.170354Z",
+      "baseline": true
     },
     "1954": {
       "firm": "Schroders",
@@ -197,7 +211,8 @@
       "comp_k": 52,
       "comp_label": "~£52k (est. £41–63k)",
       "comp_basis": "bank other · risk ops",
-      "first_seen": "2026-09-03T20:39:53.174599Z"
+      "first_seen": "2026-09-03T20:39:53.174599Z",
+      "baseline": true
     },
     "1955": {
       "firm": "Schroders",
@@ -211,7 +226,8 @@
       "comp_k": 36,
       "comp_label": "~£36k (est. £28–44k)",
       "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-03T20:39:53.174383Z"
+      "first_seen": "2026-09-03T20:39:53.174383Z",
+      "baseline": true
     },
     "1996": {
       "firm": "Schroders",
@@ -225,7 +241,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:53.168191Z"
+      "first_seen": "2026-09-03T20:39:53.168191Z",
+      "baseline": true
     },
     "1997": {
       "firm": "Schroders",
@@ -239,7 +256,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.168628Z"
+      "first_seen": "2026-09-03T20:39:53.168628Z",
+      "baseline": true
     },
     "1998": {
       "firm": "Schroders",
@@ -253,7 +271,8 @@
       "comp_k": 38,
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.169057Z"
+      "first_seen": "2026-09-03T20:39:53.169057Z",
+      "baseline": true
     },
     "1999": {
       "firm": "Schroders",
@@ -267,7 +286,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:53.169451Z"
+      "first_seen": "2026-09-03T20:39:53.169451Z",
+      "baseline": true
     },
     "2000": {
       "firm": "Schroders",
@@ -281,7 +301,8 @@
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-03T20:39:53.169780Z"
+      "first_seen": "2026-09-03T20:39:53.169780Z",
+      "baseline": true
     }
   }
 }

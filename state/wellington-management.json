@@ -2,6 +2,7 @@
   "firm": "Wellington Management",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "R94212": {
       "firm": "Wellington Management",
@@ -15,7 +16,8 @@
       "comp_k": 72,
       "comp_label": "~£72k (est. £56–88k)",
       "comp_basis": "bank other · sales trading",
-      "first_seen": "2026-09-03T20:39:58.852183Z"
+      "first_seen": "2026-09-03T20:39:58.852183Z",
+      "baseline": true
     },
     "R94597": {
       "firm": "Wellington Management",
@@ -29,7 +31,8 @@
       "comp_k": 78,
       "comp_label": "~£78k (est. £61–95k)",
       "comp_basis": "bank other · trading",
-      "first_seen": "2026-09-03T20:39:58.847411Z"
+      "first_seen": "2026-09-03T20:39:58.847411Z",
+      "baseline": true
     },
     "R94635": {
       "firm": "Wellington Management",
@@ -43,7 +46,8 @@
       "comp_k": 52,
       "comp_label": "~£52k (est. £41–63k)",
       "comp_basis": "bank other · risk ops",
-      "first_seen": "2026-09-03T20:39:58.845859Z"
+      "first_seen": "2026-09-03T20:39:58.845859Z",
+      "baseline": true
     }
   }
 }

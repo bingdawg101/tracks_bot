@@ -2,6 +2,7 @@
   "firm": "GSA Capital",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "8119016002": {
       "firm": "GSA Capital",
@@ -15,7 +16,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:36:20.441295Z"
+      "first_seen": "2026-09-03T20:36:20.441295Z",
+      "baseline": true
     },
     "8518528002": {
       "firm": "GSA Capital",
@@ -29,7 +31,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "hedge fund · trading",
-      "first_seen": "2026-09-03T20:36:20.443367Z"
+      "first_seen": "2026-09-03T20:36:20.443367Z",
+      "baseline": true
     },
     "8570661002": {
       "firm": "GSA Capital",
@@ -43,7 +46,8 @@
       "comp_k": 136,
       "comp_label": "~£136k (est. £84–188k)",
       "comp_basis": "hedge fund · quant research · internship",
-      "first_seen": "2026-09-03T20:36:20.441530Z"
+      "first_seen": "2026-09-03T20:36:20.441530Z",
+      "baseline": true
     },
     "8570668002": {
       "firm": "GSA Capital",
@@ -57,7 +61,8 @@
       "comp_k": 106,
       "comp_label": "~£106k (est. £66–146k)",
       "comp_basis": "hedge fund · swe · internship",
-      "first_seen": "2026-09-03T20:36:20.442238Z"
+      "first_seen": "2026-09-03T20:36:20.442238Z",
+      "baseline": true
     }
   }
 }

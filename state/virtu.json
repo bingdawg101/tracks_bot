@@ -2,6 +2,7 @@
   "firm": "Virtu Financial",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "8745933002": {
       "firm": "Virtu Financial",
@@ -15,7 +16,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T16:23:19.540027Z"
+      "first_seen": "2026-09-03T16:23:19.540027Z",
+      "baseline": true
     },
     "8746197002": {
       "firm": "Virtu Financial",
@@ -29,7 +31,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T16:23:19.539933Z"
+      "first_seen": "2026-09-03T16:23:19.539933Z",
+      "baseline": true
     }
   }
 }

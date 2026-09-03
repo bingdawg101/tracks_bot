@@ -23,14 +23,18 @@ def _esc(value: str) -> str:
 
 
 def format_events(events: list[OpeningEvent]) -> list[str]:
-    """One flat list of openings, highest estimated comp first (money-driven)."""
+    """One flat list of just-opened roles, highest estimated comp first (money-driven)."""
     ordered = sorted(events, key=lambda e: (-e.comp_k, e.firm, e.title))
-    header = f"\U0001f6a8 {len(ordered)} role(s) opened"
+    cycle_opens = sum(1 for e in ordered if "0 to" in e.reason or "first matching" in e.reason)
+    header = f"\U0001f513 {len(ordered)} role(s) JUST OPENED — apply now"
+    if cycle_opens:
+        header += f"\n({cycle_opens} = a firm's cycle just went live)"
     blocks = [header]
     for ev in ordered:
+        flag = "\U0001f195 " if ("0 to" in ev.reason or "first matching" in ev.reason) else ""
         money = f"<b>~£{ev.comp_k}k</b> — " if ev.comp_k else ""
         loc = f" — {_esc(ev.location)}" if ev.location else ""
-        line = f"\n\n{money}{_esc(ev.firm)}: <b>{_esc(ev.title)}</b>{loc}"
+        line = f"\n\n{flag}{money}{_esc(ev.firm)}: <b>{_esc(ev.title)}</b>{loc}"
         if ev.url:
             line += f'\n<a href="{_esc(ev.url)}">Apply</a>'
         if ev.comp_label:

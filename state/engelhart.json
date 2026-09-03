@@ -2,6 +2,7 @@
   "firm": "Engelhart Commodities",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "8164581": {
       "firm": "Engelhart Commodities",
@@ -15,7 +16,8 @@
       "comp_k": 63,
       "comp_label": "~£63k (est. £49–77k)",
       "comp_basis": "commodity other · trading · internship",
-      "first_seen": "2026-09-03T17:34:21.933205Z"
+      "first_seen": "2026-09-03T17:34:21.933205Z",
+      "baseline": true
     }
   }
 }

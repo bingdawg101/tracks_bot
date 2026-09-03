@@ -2,6 +2,7 @@
   "firm": "Susquehanna International Group",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "10827": {
       "firm": "Susquehanna International Group",
@@ -15,7 +16,8 @@
       "comp_k": 138,
       "comp_label": "~£138k (est. £86–190k)",
       "comp_basis": "elite prop · sales trading · internship",
-      "first_seen": "2026-09-03T21:33:12.409021Z"
+      "first_seen": "2026-09-03T21:33:12.409021Z",
+      "baseline": true
     },
     "10923": {
       "firm": "Susquehanna International Group",
@@ -29,7 +31,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T21:33:12.407956Z"
+      "first_seen": "2026-09-03T21:33:12.407956Z",
+      "baseline": true
     },
     "11005": {
       "firm": "Susquehanna International Group",
@@ -43,7 +46,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T21:33:12.403972Z"
+      "first_seen": "2026-09-03T21:33:12.403972Z",
+      "baseline": true
     },
     "11006": {
       "firm": "Susquehanna International Group",
@@ -57,7 +61,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T21:33:12.404144Z"
+      "first_seen": "2026-09-03T21:33:12.404144Z",
+      "baseline": true
     },
     "11007": {
       "firm": "Susquehanna International Group",
@@ -71,7 +76,8 @@
       "comp_k": 166,
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T21:33:12.404341Z"
+      "first_seen": "2026-09-03T21:33:12.404341Z",
+      "baseline": true
     },
     "11031": {
       "firm": "Susquehanna International Group",
@@ -85,7 +91,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T21:33:12.403886Z"
+      "first_seen": "2026-09-03T21:33:12.403886Z",
+      "baseline": true
     },
     "11032": {
       "firm": "Susquehanna International Group",
@@ -99,7 +106,8 @@
       "comp_k": 175,
       "comp_label": "~£175k (est. £108–241k)",
       "comp_basis": "elite prop · quant trading · internship",
-      "first_seen": "2026-09-03T21:33:12.404052Z"
+      "first_seen": "2026-09-03T21:33:12.404052Z",
+      "baseline": true
     },
     "11033": {
       "firm": "Susquehanna International Group",
@@ -113,7 +121,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T21:33:12.404235Z"
+      "first_seen": "2026-09-03T21:33:12.404235Z",
+      "baseline": true
     },
     "11085": {
       "firm": "Susquehanna International Group",
@@ -127,7 +136,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T21:33:12.403557Z"
+      "first_seen": "2026-09-03T21:33:12.403557Z",
+      "baseline": true
     },
     "11125": {
       "firm": "Susquehanna International Group",
@@ -141,7 +151,8 @@
       "comp_k": 101,
       "comp_label": "~£101k (est. £63–139k)",
       "comp_basis": "elite prop · other · internship",
-      "first_seen": "2026-09-03T21:33:12.403795Z"
+      "first_seen": "2026-09-03T21:33:12.403795Z",
+      "baseline": true
     },
     "11333": {
       "firm": "Susquehanna International Group",
@@ -155,7 +166,8 @@
       "comp_k": 129,
       "comp_label": "~£129k (est. £80–178k)",
       "comp_basis": "elite prop · swe · internship",
-      "first_seen": "2026-09-03T21:33:12.397901Z"
+      "first_seen": "2026-09-03T21:33:12.397901Z",
+      "baseline": true
     },
     "11334": {
       "firm": "Susquehanna International Group",
@@ -169,7 +181,8 @@
       "comp_k": 156,
       "comp_label": "~£156k (est. £97–215k)",
       "comp_basis": "elite prop · trading · internship",
-      "first_seen": "2026-09-03T21:33:12.397764Z"
+      "first_seen": "2026-09-03T21:33:12.397764Z",
+      "baseline": true
     },
     "11336": {
       "firm": "Susquehanna International Group",
@@ -183,7 +196,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T21:33:12.397459Z"
+      "first_seen": "2026-09-03T21:33:12.397459Z",
+      "baseline": true
     },
     "11344": {
       "firm": "Susquehanna International Group",
@@ -197,7 +211,8 @@
       "comp_k": 140,
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T21:33:12.396565Z"
+      "first_seen": "2026-09-03T21:33:12.396565Z",
+      "baseline": true
     },
     "11347": {
       "firm": "Susquehanna International Group",
@@ -211,7 +226,8 @@
       "comp_k": 170,
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T21:33:12.396164Z"
+      "first_seen": "2026-09-03T21:33:12.396164Z",
+      "baseline": true
     }
   }
 }

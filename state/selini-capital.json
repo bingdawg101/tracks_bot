@@ -2,6 +2,7 @@
   "firm": "Selini Capital",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4805443008": {
       "firm": "Selini Capital",
@@ -15,7 +16,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:27:45.853503Z"
+      "first_seen": "2026-09-03T20:27:45.853503Z",
+      "baseline": true
     },
     "4890973008": {
       "firm": "Selini Capital",
@@ -29,7 +31,8 @@
       "comp_k": 180,
       "comp_label": "~£180k (est. £112–248k)",
       "comp_basis": "elite prop · quant research",
-      "first_seen": "2026-09-03T20:27:45.855474Z"
+      "first_seen": "2026-09-03T20:27:45.855474Z",
+      "baseline": true
     }
   }
 }

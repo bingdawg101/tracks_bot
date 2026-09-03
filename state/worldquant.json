@@ -2,6 +2,7 @@
   "firm": "WorldQuant",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4248901006": {
       "firm": "WorldQuant",
@@ -15,7 +16,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £59–131k)",
       "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T20:21:38.506552Z"
+      "first_seen": "2026-09-03T20:21:38.506552Z",
+      "baseline": true
     },
     "4252939006": {
       "firm": "WorldQuant",
@@ -29,7 +31,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:21:38.499977Z"
+      "first_seen": "2026-09-03T20:21:38.499977Z",
+      "baseline": true
     },
     "4659364006": {
       "firm": "WorldQuant",
@@ -43,7 +46,8 @@
       "comp_k": 120,
       "comp_label": "~£120k (est. £74–166k)",
       "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:21:38.502470Z"
+      "first_seen": "2026-09-03T20:21:38.502470Z",
+      "baseline": true
     }
   }
 }

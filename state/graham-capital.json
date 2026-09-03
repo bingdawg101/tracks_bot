@@ -2,6 +2,7 @@
   "firm": "Graham Capital Management",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "4058503005": {
       "firm": "Graham Capital Management",
@@ -15,7 +16,8 @@
       "comp_k": 155,
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T21:39:46.251736Z"
+      "first_seen": "2026-09-03T21:39:46.251736Z",
+      "baseline": true
     }
   }
 }

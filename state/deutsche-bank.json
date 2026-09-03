@@ -2,6 +2,7 @@
   "firm": "Deutsche Bank",
   "failure_count": 0,
   "last_error": "",
+  "established": true,
   "tracked": {
     "63472": {
       "firm": "Deutsche Bank",
@@ -15,7 +16,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:36:16.963834Z"
+      "first_seen": "2026-09-03T16:36:16.963834Z",
+      "baseline": true
     },
     "69771": {
       "firm": "Deutsche Bank",
@@ -29,7 +31,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-09-03T16:36:16.963964Z"
+      "first_seen": "2026-09-03T16:36:16.963964Z",
+      "baseline": true
     },
     "71226": {
       "firm": "Deutsche Bank",
@@ -43,7 +46,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:36:16.958647Z"
+      "first_seen": "2026-09-03T16:36:16.958647Z",
+      "baseline": true
     },
     "71504": {
       "firm": "Deutsche Bank",
@@ -57,7 +61,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant trading",
-      "first_seen": "2026-09-03T16:36:16.959489Z"
+      "first_seen": "2026-09-03T16:36:16.959489Z",
+      "baseline": true
     },
     "72867": {
       "firm": "Deutsche Bank",
@@ -71,7 +76,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:36:16.955593Z"
+      "first_seen": "2026-09-03T16:36:16.955593Z",
+      "baseline": true
     },
     "72959": {
       "firm": "Deutsche Bank",
@@ -85,7 +91,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-09-03T16:36:16.935187Z"
+      "first_seen": "2026-09-03T16:36:16.935187Z",
+      "baseline": true
     },
     "74356": {
       "firm": "Deutsche Bank",
@@ -99,7 +106,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:36:16.970156Z"
+      "first_seen": "2026-09-03T16:36:16.970156Z",
+      "baseline": true
     },
     "74569": {
       "firm": "Deutsche Bank",
@@ -113,7 +121,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-09-03T16:36:16.949967Z"
+      "first_seen": "2026-09-03T16:36:16.949967Z",
+      "baseline": true
     },
     "74636": {
       "firm": "Deutsche Bank",
@@ -127,7 +136,8 @@
       "comp_k": 95,
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-09-03T16:36:16.948646Z"
+      "first_seen": "2026-09-03T16:36:16.948646Z",
+      "baseline": true
     },
     "74691": {
       "firm": "Deutsche Bank",
@@ -141,7 +151,8 @@
       "comp_k": 70,
       "comp_label": "~£70k (est. £55–85k)",
       "comp_basis": "bank bulge · swe",
-      "first_seen": "2026-09-03T16:36:16.940281Z"
+      "first_seen": "2026-09-03T16:36:16.940281Z",
+      "baseline": true
     },
     "74781": {
       "firm": "Deutsche Bank",
@@ -155,7 +166,8 @@
       "comp_k": 90,
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:36:16.964803Z"
+      "first_seen": "2026-09-03T16:36:16.964803Z",
+      "baseline": true
     }
   }
 }
