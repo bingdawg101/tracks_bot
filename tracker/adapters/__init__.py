@@ -13,7 +13,10 @@ from .html_list import HtmlListAdapter
 from .lever import LeverAdapter
 from .oracle_orc import OracleOrcAdapter
 from .playwright_feed import PlaywrightFeedAdapter
+from .recruitee import RecruiteeAdapter
 from .smartrecruiters import SmartRecruitersAdapter
+from .teamtailor import TeamtailorAdapter
+from .workable import WorkableAdapter
 from .workday import WorkdayAdapter
 
 _REGISTRY: dict[str, type[Adapter]] = {
@@ -28,6 +31,9 @@ _REGISTRY: dict[str, type[Adapter]] = {
     "glencore": GlencoreAdapter,
     "playwright": PlaywrightFeedAdapter,
     "html": HtmlListAdapter,
+    "workable": WorkableAdapter,
+    "recruitee": RecruiteeAdapter,
+    "teamtailor": TeamtailorAdapter,
 }
 
 

@@ -207,8 +207,86 @@ firms:
     name: Glencore
     adapter: glencore
     source: {}
-    enabled: false   # custom REST feed (glencore.com/.rest/api/v2/careers) — Cloudflare blocks
-                     # server-side fetch; needs the Playwright path (Phase 4)
+    enabled: false   # custom REST feed — Akamai blocks server-side fetch; needs Playwright
+
+  - slug: louis-dreyfus
+    name: Louis Dreyfus Company
+    adapter: smartrecruiters
+    source: {company: louisdreyfuscompany}   # detected + verified 2026-09 (434 roles)
+
+  - slug: engelhart
+    name: Engelhart Commodities
+    adapter: greenhouse
+    source: {token: engelhart}   # verified 2026-09 — has London commodity-trading internship
+
+  - slug: onyx-capital
+    name: Onyx Capital Group
+    adapter: workable
+    source: {token: onyx-capital-group}   # verified 2026-09 — London Graduate Trader
+
+  - slug: ecom
+    name: ECOM Agroindustrial
+    adapter: teamtailor
+    source: {token: ecomtradinggroup}   # verified 2026-09
+
+  - slug: freepoint
+    name: Freepoint Commodities
+    adapter: workday
+    source: {tenant: freepoint, wd: wd12, site: Freepoint_Commodities}   # verified 2026-09
+
+  - slug: viterra
+    name: Viterra
+    adapter: workday
+    source: {tenant: viterra, wd: wd3, site: External-CAN}   # verified 2026-09
+
+  - slug: vattenfall
+    name: Vattenfall
+    adapter: smartrecruiters
+    source: {company: vattenfall}   # verified 2026-09
+
+  - slug: met-group
+    name: MET Group
+    adapter: smartrecruiters
+    source: {company: metgroup}   # verified 2026-09
+
+  - slug: vesper
+    name: Vesper
+    adapter: recruitee
+    source: {token: vesper}   # verified 2026-09
+
+  - slug: shell-trading
+    name: Shell (Trading & Supply)
+    adapter: workday
+    source: {tenant: shell, wd: wd3, site: ShellCareers}   # verified 2026-09
+    filters:
+      include: [trading, trader, trade, commercial, commodity, commodities, market, markets,
+                origination, structuring, analyst]
+
+  - slug: bp-trading
+    name: BP (Trading & Shipping)
+    adapter: workday
+    source: {tenant: bpinternational, wd: wd3, site: bpCareers}   # verified 2026-09
+    filters:
+      include: [trading, trader, trade, commercial, commodity, commodities, market, markets,
+                origination, structuring, analyst]
+
+  - slug: castleton-cci
+    name: Castleton Commodities International
+    adapter: workday
+    source: {tenant: osv-cci, wd: wd1, site: CCICareers}
+    enabled: false   # 422 — verify tenant/site
+
+  - slug: edf-trading
+    name: EDF Trading
+    adapter: workday
+    source: {tenant: edftrading, wd: wd1, site: en-US}
+    enabled: false   # 404 — detect grabbed a locale, need the real site name
+
+  - slug: statar-capital
+    name: Statar Capital
+    adapter: lever
+    source: {token: statarcapital}
+    enabled: false   # lever board returns 0 — verify token
 
   # ---- Not yet wired — ATS identified but needs the right site/token ----
   - slug: citadel

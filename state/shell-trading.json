@@ -1,0 +1,29 @@
+{
+  "firm": "Shell (Trading & Supply)",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "R208302": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R208302",
+      "title": "Gas Quant Structurer",
+      "location": "London York Road",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Gas-Quant-Structurer_R208302",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T17:34:27.248691Z"
+    },
+    "R210336": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R210336",
+      "title": "Future Power Market Analyst",
+      "location": "London York Road",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Future-Power-Market-Analyst_R210336",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T17:34:27.247346Z"
+    }
+  }
+}

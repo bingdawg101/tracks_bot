@@ -400,6 +400,22 @@
       "failure_count": 0
     },
     {
+      "name": "Engelhart Commodities",
+      "slug": "engelhart",
+      "enabled": true,
+      "match_count": 1,
+      "review_count": 0,
+      "roles": [
+        {
+          "title": "Commodity Trading Analytics Internship Program",
+          "location": "London, United Kingdom",
+          "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
+          "employment_type": ""
+        }
+      ],
+      "failure_count": 0
+    },
+    {
       "name": "Five Rings",
       "slug": "five-rings",
       "enabled": true,
@@ -429,6 +445,40 @@
           "employment_type": ""
         }
       ],
+      "failure_count": 0
+    },
+    {
+      "name": "Onyx Capital Group",
+      "slug": "onyx-capital",
+      "enabled": true,
+      "match_count": 1,
+      "review_count": 0,
+      "roles": [
+        {
+          "title": "Graduate Trader",
+          "location": "London, England, United Kingdom",
+          "url": "https://apply.workable.com/j/0AD579CC5A",
+          "employment_type": "Full-time"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "BP (Trading & Shipping)",
+      "slug": "bp-trading",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Castleton Commodities International",
+      "slug": "castleton-cci",
+      "enabled": false,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
       "failure_count": 0
     },
     {
@@ -468,8 +518,35 @@
       "failure_count": 0
     },
     {
+      "name": "ECOM Agroindustrial",
+      "slug": "ecom",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "EDF Trading",
+      "slug": "edf-trading",
+      "enabled": false,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Flow Traders",
       "slug": "flow-traders",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Freepoint Commodities",
+      "slug": "freepoint",
       "enabled": true,
       "match_count": 0,
       "review_count": 0,
@@ -480,6 +557,24 @@
       "name": "Glencore",
       "slug": "glencore",
       "enabled": false,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Louis Dreyfus Company",
+      "slug": "louis-dreyfus",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "MET Group",
+      "slug": "met-group",
+      "enabled": true,
       "match_count": 0,
       "review_count": 0,
       "roles": [],
@@ -504,8 +599,44 @@
       "failure_count": 0
     },
     {
+      "name": "Shell (Trading & Supply)",
+      "slug": "shell-trading",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 2,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Statar Capital",
+      "slug": "statar-capital",
+      "enabled": false,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Trafigura",
       "slug": "trafigura",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Vattenfall",
+      "slug": "vattenfall",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Vesper",
+      "slug": "vesper",
       "enabled": true,
       "match_count": 0,
       "review_count": 0,
@@ -522,6 +653,15 @@
       "failure_count": 0
     },
     {
+      "name": "Viterra",
+      "slug": "viterra",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Vitol",
       "slug": "vitol",
       "enabled": true,
@@ -533,5 +673,5 @@
   ],
   "history": [],
   "last_opening": "",
-  "total_match": 55
+  "total_match": 57
 }
