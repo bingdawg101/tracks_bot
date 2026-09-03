@@ -19,7 +19,7 @@ from ..models import RawPosting, clean_text
 from .base import Adapter, AdapterError
 
 _PER_PAGE = 100
-_MAX_PAGES = 8
+_MAX_PAGES = 5
 
 # Radancy's endpoint 400s / returns empty unless the whole param set is present.
 _BASE_PARAMS = {
@@ -47,6 +47,7 @@ class RadancyAdapter(Adapter):
         for page in range(1, pages + 1):
             data = await self._get_json(
                 client, results_url,
+                retries=1,
                 params={
                     **_BASE_PARAMS,
                     "CurrentPage": page, "RecordsPerPage": _PER_PAGE, "Keywords": keyword,

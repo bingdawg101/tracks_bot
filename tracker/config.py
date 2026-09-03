@@ -60,6 +60,8 @@ class Settings(BaseModel):
     http_timeout_seconds: float = 20.0
     http_retries: int = 2
     max_concurrency: int = 8
+    # Hard ceiling per firm — a slow adapter becomes a fetch failure, never blocks the run.
+    firm_timeout_seconds: float = 75.0
 
     def enabled_firms(self) -> list[FirmConfig]:
         return [f for f in self.firms if f.enabled]

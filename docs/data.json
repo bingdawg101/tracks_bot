@@ -617,11 +617,29 @@
       "failure_count": 0
     },
     {
+      "name": "Olam Agri",
+      "slug": "olam-agri",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Optiver",
       "slug": "optiver",
       "enabled": true,
       "match_count": 0,
       "review_count": 1,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "STX Group",
+      "slug": "stx-group",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
       "roles": [],
       "failure_count": 0
     },

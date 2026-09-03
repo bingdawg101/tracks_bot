@@ -191,6 +191,33 @@ async def test_html_list_scrapes_rows_and_parses_location_from_url():
     assert grad.url == "https://ex.com/join-us/jobs/trading/london/graduate-trader-2027/"
 
 
+@respx.mock
+async def test_successfactors_parses_tiles_and_expands_iso_location():
+    frag = """
+    <ul>
+      <li class="job-tile job-id-9001" data-url="/job/Graduate-Commodities-Trader/9001/">
+        <div class="tiletitle"><span class="sr-only">Title</span> Graduate Commodities Trader</div>
+        <span class="sr-only">Country/Region</span> GB
+      </li>
+      <li class="job-tile job-id-9002" data-url="/job/Ops-Analyst/9002/">
+        <div class="tiletitle">Title Ops Analyst</div>
+        Country/Region SG
+      </li>
+    </ul>
+    """
+    respx.get("https://careers.ex.com/tile-search-results/").mock(
+        return_value=httpx.Response(200, text=frag))
+    firm = FirmConfig(slug="ex", name="Ex", adapter="successfactors",
+                      source={"host": "careers.ex.com"})
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+    assert {p.source_id for p in posts} == {"9001", "9002"}
+    grad = next(p for p in posts if p.source_id == "9001")
+    assert grad.title == "Graduate Commodities Trader"
+    assert grad.location == "United Kingdom"
+    assert grad.url == "https://careers.ex.com/job/Graduate-Commodities-Trader/9001/"
+
+
 def test_missing_token_raises():
     firm = FirmConfig(slug="acme", name="Acme", adapter="greenhouse", source={})
     with pytest.raises(AdapterError):

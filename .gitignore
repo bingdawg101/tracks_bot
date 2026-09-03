@@ -10,3 +10,4 @@ __pycache__/
 # Raw adapter payloads: kept locally for debugging a run, not committed.
 # The committed audit trail is the git history of state/*.json.
 state/raw/
+scratch/

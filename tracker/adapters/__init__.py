@@ -16,6 +16,7 @@ from .playwright_feed import PlaywrightFeedAdapter
 from .radancy import RadancyAdapter
 from .recruitee import RecruiteeAdapter
 from .smartrecruiters import SmartRecruitersAdapter
+from .successfactors import SuccessFactorsAdapter
 from .teamtailor import TeamtailorAdapter
 from .workable import WorkableAdapter
 from .workday import WorkdayAdapter
@@ -36,6 +37,7 @@ _REGISTRY: dict[str, type[Adapter]] = {
     "recruitee": RecruiteeAdapter,
     "teamtailor": TeamtailorAdapter,
     "radancy": RadancyAdapter,
+    "successfactors": SuccessFactorsAdapter,
 }
 
 

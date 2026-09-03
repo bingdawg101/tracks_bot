@@ -126,6 +126,8 @@ def _candidate_subpages(html: str, base: str) -> list[str]:
 
 _FILLER = {"the", "and", "group", "holdings", "international", "global", "co", "inc", "ltd",
            "llc", "plc", "sa", "ag", "as", "limited", "company", "corp", "corporation"}
+_GENERIC_HOSTS = {"jobs", "job", "careers", "career", "apply", "work", "join", "recruiting",
+                  "recruitment", "talent", "hire", "hiring", "people", "wd1", "wd3", "wd5"}
 
 
 def _candidate_tokens(name: str, url: str) -> list[str]:
@@ -133,22 +135,19 @@ def _candidate_tokens(name: str, url: str) -> list[str]:
     words = re.findall(r"[a-z0-9]+", name.lower())
     core = [w for w in words if w not in _FILLER] or words
     cands = [
-        "".join(words), "-".join(words),
         "".join(core), "-".join(core),
-        core[0] if core else "",
+        "".join(words),
         (core[0] + core[1]) if len(core) > 1 else "",
-        host,
+        (core[0] + "group") if core else "",
+        core[0] if core else "",
     ]
-    # common commodity-firm suffixes bolted onto the first word
-    for suf in ("group", "trading", "commodities", "energy", "partners", "capital"):
-        if core:
-            cands.append(core[0] + suf)
-            cands.append(f"{core[0]}-{suf}")
+    if host and host not in _GENERIC_HOSTS and not host.startswith("e-"):
+        cands.insert(0, host)
     seen: dict[str, None] = {}
     for c in cands:
-        if c and len(c) > 2:
+        if c and len(c) >= 4:          # short tokens ("act", "ocean") collide with unrelated boards
             seen.setdefault(c, None)
-    return list(seen)
+    return list(seen)[:6]
 
 
 async def _probe_apis(client: httpx.AsyncClient, tokens: list[str]) -> Detection | None:
@@ -177,32 +176,37 @@ async def _probe_apis(client: httpx.AsyncClient, tokens: list[str]) -> Detection
         try:
             r = await client.get(tmpl.format(t=tok))
             if r.status_code == 200 and ok(r.json()):
-                return Detection(ats, build(tok), "high", f"public {ats} API responds for '{tok}'")
+                return Detection(ats, build(tok), "guess",
+                                 f"{ats} board '{tok}' exists — VERIFY it's the right firm")
         except (httpx.HTTPError, ValueError):
             pass
         return None
 
-    tasks = [try_one(*c, tok) for c in checks for tok in tokens]
-    for coro in asyncio.as_completed(tasks):
-        hit = await coro
-        if hit:
-            return hit
+    tasks = [asyncio.ensure_future(try_one(*c, tok)) for c in checks for tok in tokens]
+    try:
+        for coro in asyncio.as_completed(tasks):
+            hit = await coro
+            if hit:
+                return hit
+    finally:
+        for t in tasks:
+            t.cancel()
     return None
 
 
-async def detect(url: str, name: str = "", *, render: bool = False) -> Detection:
+async def _detect_once(url: str, name: str, render: bool) -> Detection:
     origin = "/".join(url.split("/")[:3])
     hit = _scan(url)
     if hit:
         return hit
     async with httpx.AsyncClient(
-        timeout=15, follow_redirects=True, headers={"User-Agent": _UA}
+        timeout=12, follow_redirects=True, headers={"User-Agent": _UA}
     ) as client:
         html = await _fetch(client, url)
         hit = _scan(html)
         if hit:
             return hit
-        for sub in _candidate_subpages(html, origin):
+        for sub in _candidate_subpages(html, origin)[:3]:
             hit = _scan(await _fetch(client, sub))
             if hit:
                 hit.note += f" (via {sub})"
@@ -214,6 +218,13 @@ async def detect(url: str, name: str = "", *, render: bool = False) -> Detection
     if render:
         return await _detect_rendered(url)
     return Detection(None, {}, "none", "no static signature — retry with --render for a browser check")
+
+
+async def detect(url: str, name: str = "", *, render: bool = False) -> Detection:
+    try:
+        return await asyncio.wait_for(_detect_once(url, name, render), timeout=90 if render else 30)
+    except (TimeoutError, Exception) as exc:  # noqa: BLE001 - detection must never abort a batch
+        return Detection(None, {}, "none", f"detection error: {type(exc).__name__}")
 
 
 async def _detect_rendered(url: str) -> Detection:

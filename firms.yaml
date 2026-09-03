@@ -273,6 +273,16 @@ firms:
     adapter: teamtailor
     source: {token: axpogroup}   # verified 2026-09
 
+  - slug: stx-group
+    name: STX Group
+    adapter: greenhouse
+    source: {token: stxgroup}   # verified 2026-09 — "2027 Rotational Program - Environmental Commodities S&T"
+
+  - slug: olam-agri
+    name: Olam Agri
+    adapter: successfactors
+    source: {host: careers.olamagri.com}   # SF RMK. verified 2026-09
+
   - slug: vattenfall
     name: Vattenfall
     adapter: smartrecruiters

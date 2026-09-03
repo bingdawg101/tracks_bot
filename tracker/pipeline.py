@@ -71,16 +71,18 @@ async def _process_firm(
 ) -> FirmResult:
     prev = load_state(firm.slug, firm.name)
     flt = settings.merged_filter(firm)
+    budget = float(firm.source.get("timeout", settings.firm_timeout_seconds))
     try:
         adapter = get_adapter(firm)
-        raws = await adapter.fetch(client)
-    except (AdapterError, httpx.HTTPError) as exc:
-        new_state = record_failure(prev, str(exc))
+        raws = await asyncio.wait_for(adapter.fetch(client), timeout=budget)
+    except (AdapterError, httpx.HTTPError, TimeoutError) as exc:
+        msg = f"timed out after {budget:.0f}s" if isinstance(exc, TimeoutError) else str(exc)
+        new_state = record_failure(prev, msg)
         if persist:
             save_state(firm.slug, new_state)
         return FirmResult(
             slug=firm.slug, name=firm.name, ok=False,
-            error=str(exc), failure_count=new_state.failure_count,
+            error=msg, failure_count=new_state.failure_count,
         )
 
     postings = _classify_all(firm.name, raws, flt)
