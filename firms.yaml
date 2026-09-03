@@ -184,6 +184,9 @@ tiers:
   aqr: hedge_fund
   pharo-management: hedge_fund
   brevan-howard: hedge_fund
+  graham-capital: hedge_fund
+  crabel-capital: hedge_fund
+  lynx-asset-management: hedge_fund
   rbc: bank_other
   bmo: bank_other
   tp-icap: bank_other
@@ -569,6 +572,22 @@ firms:
     filters:
       include: [markets, trading, trader, quant, quantitative, "capital markets", sales,
                 structuring, securities, "global markets", derivatives]
+
+  # ---- Systematic / quant / CTA (batch 11, verified 2026-09-03) ----
+  - slug: graham-capital
+    name: Graham Capital Management
+    adapter: greenhouse
+    source: {token: grahamcapitalmanagement}   # verified 2026-09-03 (systematic macro; London quant research desk)
+
+  - slug: crabel-capital
+    name: Crabel Capital Management
+    adapter: greenhouse
+    source: {token: crabel}   # verified 2026-09-03 (short-term systematic CTA; sparse board)
+
+  - slug: lynx-asset-management
+    name: Lynx Asset Management
+    adapter: teamtailor
+    source: {token: lynxassetmanagement}   # verified 2026-09-03 (Swedish systematic/CTA; board currently empty)
 
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs

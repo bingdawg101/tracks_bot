@@ -1,0 +1,21 @@
+{
+  "firm": "Graham Capital Management",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4058503005": {
+      "firm": "Graham Capital Management",
+      "source_id": "4058503005",
+      "title": "Quantitative Research Analyst",
+      "location": "London, England, United Kingdom; New York, New York, United States; Norwalk, Connecticut, United States; West Palm Beach, Florida, United States",
+      "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4058503005?gh_jid=4058503005",
+      "department": "Quantitative Strategies",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 155,
+      "comp_label": "~£155k (est. £96–214k)",
+      "comp_basis": "hedge fund · quant research",
+      "first_seen": "2026-09-03T21:39:46.251736Z"
+    }
+  }
+}
