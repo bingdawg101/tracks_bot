@@ -74,9 +74,11 @@ def test_exclude_term_wins(flt):
     assert "senior" in reason
 
 
-def test_department_filter_downgrades_off_list_role(flt):
+def test_department_allowlist_is_a_hard_filter(flt):
     scoped = flt.model_copy(update={"departments": ["Quantitative Trading"]})
-    raw = _raw(title="Quantitative Researcher", department="Cybersecurity",
+    off = _raw(title="Quantitative Researcher", department="Cybersecurity",
+               employment_type="Summer Internship")
+    assert classify(off, scoped)[0] is MatchLevel.IGNORE
+    on = _raw(title="Quantitative Trader", department="Quantitative Trading",
               employment_type="Summer Internship")
-    level, _ = classify(raw, scoped)
-    assert level is MatchLevel.REVIEW  # eligible + London, but dept off-list => not a confident match
+    assert classify(on, scoped)[0] is MatchLevel.MATCH

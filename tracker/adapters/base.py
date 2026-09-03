@@ -39,14 +39,35 @@ class Adapter:
         retries: int = 2,
         **kwargs,
     ) -> dict | list:
+        return await self._request_json(client, "GET", url, retries=retries, **kwargs)
+
+    async def _post_json(
+        self,
+        client: httpx.AsyncClient,
+        url: str,
+        *,
+        retries: int = 2,
+        **kwargs,
+    ) -> dict | list:
+        return await self._request_json(client, "POST", url, retries=retries, **kwargs)
+
+    async def _request_json(
+        self,
+        client: httpx.AsyncClient,
+        method: str,
+        url: str,
+        *,
+        retries: int = 2,
+        **kwargs,
+    ) -> dict | list:
         last: Exception | None = None
         for attempt in range(retries + 1):
             try:
-                resp = await client.get(url, **kwargs)
+                resp = await client.request(method, url, **kwargs)
                 resp.raise_for_status()
                 return resp.json()
             except (httpx.HTTPError, ValueError) as exc:  # ValueError covers bad JSON
                 last = exc
                 if attempt < retries:
                     await asyncio.sleep(1.5 * (attempt + 1))
-        raise AdapterError(f"{self.firm.slug}: GET {url} failed: {last}") from last
+        raise AdapterError(f"{self.firm.slug}: {method} {url} failed: {last}") from last

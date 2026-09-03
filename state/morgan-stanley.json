@@ -1,0 +1,40 @@
+{
+  "firm": "Morgan Stanley",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "JR040144": {
+      "firm": "Morgan Stanley",
+      "source_id": "JR040144",
+      "title": "Institutional Equity, MSET Quantitative Research - Product",
+      "location": "London, United Kingdom",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/London-United-Kingdom/Institutional-Equity--MSET-Quantitative-Research---Client-Analytics_JR040144",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:22.995957Z"
+    },
+    "JR041630": {
+      "firm": "Morgan Stanley",
+      "source_id": "JR041630",
+      "title": "FID - UK Inflation Trader LN",
+      "location": "London, United Kingdom",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/London-United-Kingdom/FID---UK-Inflation-Trader-LN_JR041630",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:23.001709Z"
+    },
+    "PT-JR042206": {
+      "firm": "Morgan Stanley",
+      "source_id": "PT-JR042206",
+      "title": "Business Information Analytics Researcher - Director",
+      "location": "London, United Kingdom",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/London-United-Kingdom/Dir--P3--Business-Information-Services---Job-Level---Director_PT-JR042206",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:22.998066Z"
+    }
+  }
+}

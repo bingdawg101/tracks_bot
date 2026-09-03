@@ -2,6 +2,100 @@
   "repo": "bingdawg101/tracks_bot",
   "firms": [
     {
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "enabled": true,
+      "match_count": 14,
+      "review_count": 7,
+      "roles": [
+        {
+          "title": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/150661_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/150658_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/150666_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/175421_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/170675_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/175424_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/170874_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/170880_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Seasonal/Off-cycle Internship",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/170901_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 / EMEA / London / The Core Quantitative Strats / Summer Analyst",
+          "location": "London United Kingdom",
+          "url": "https://higher.gs.com/roles/175426_GS_CAMPUS",
+          "employment_type": ""
+        }
+      ],
+      "failure_count": 0
+    },
+    {
       "name": "Jump Trading",
       "slug": "jump-trading",
       "enabled": true,
@@ -78,11 +172,75 @@
       "failure_count": 0
     },
     {
+      "name": "JPMorgan",
+      "slug": "jpmorgan",
+      "enabled": true,
+      "match_count": 9,
+      "review_count": 24,
+      "roles": [
+        {
+          "title": "2027 Commercial & Investment Bank - Securities Services Leadership Programme - Summer Internship - London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774766",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Analyst\u2013 London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776860",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 Quantitative Research - Risk and Treasury - Off-Cycle - Associate \u2013 London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 Quantitative Research Markets Analyst Program \u2013 Off-Cycle Internship \u2013 London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775342",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 Quantitative Research Markets Associate Program \u2013 Off-Cycle Internship \u2013 London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 Quantitative Research \u2013 Asset Management - Off-Cycle - London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776770",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 \u2013 Global Markets \u2013 Summer Internship - London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780517",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 \u2013 Research \u2013 Summer Internship - London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780476",
+          "employment_type": ""
+        },
+        {
+          "title": "2027 \u2013 Sales \u2013 Summer Internship - London",
+          "location": "LONDON, LONDON, United Kingdom",
+          "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780555",
+          "employment_type": ""
+        }
+      ],
+      "failure_count": 0
+    },
+    {
       "name": "Jane Street",
       "slug": "jane-street",
       "enabled": true,
       "match_count": 9,
-      "review_count": 13,
+      "review_count": 1,
       "roles": [
         {
           "title": "Machine Learning Researcher",
@@ -310,6 +468,15 @@
       "failure_count": 0
     },
     {
+      "name": "Morgan Stanley",
+      "slug": "morgan-stanley",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 3,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Optiver",
       "slug": "optiver",
       "enabled": false,
@@ -326,20 +493,18 @@
       "review_count": 2,
       "roles": [],
       "failure_count": 0
-    }
-  ],
-  "history": [
+    },
     {
-      "firm": "Jane Street",
-      "source_id": "8537797002",
-      "title": "Sales and Trading",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
-      "match_level": "match",
-      "detected_at": "2026-09-03T16:00:37.664703Z",
-      "reason": "role 'trading', employment type 'Summer Internship', location 'london'"
+      "name": "Vitol",
+      "slug": "vitol",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
     }
   ],
-  "last_opening": "2026-09-03T16:00:37.664703Z",
-  "total_match": 32
+  "history": [],
+  "last_opening": "",
+  "total_match": 55
 }

@@ -99,14 +99,16 @@ def classify(raw: RawPosting, flt: FilterConfig) -> tuple[MatchLevel, str]:
     if elig is _Elig.STRONG_NO:
         return MatchLevel.IGNORE, elig_reason
 
-    # 4. Role match.
-    dept_ok = True
-    if flt.departments:
-        dept_ok = _sub_hit(dept, flt.departments) is not None
-    role_hit = _word_hit(role_field, flt.include or _DEFAULT_ROLE_HINTS)
-    role_ok = dept_ok and role_hit is not None
+    # 4. Department allowlist is a HARD filter — if the user named departments, a role
+    #    outside them is not for them, full stop (keeps big-bank dashboards clean).
+    if flt.departments and _sub_hit(dept, flt.departments) is None:
+        return MatchLevel.IGNORE, f"dept '{dept or '?'}' not in allowlist"
 
-    # 5. Decide.
+    # 5. Role match.
+    role_hit = _word_hit(role_field, flt.include or _DEFAULT_ROLE_HINTS)
+    role_ok = role_hit is not None
+
+    # 6. Decide.
     if role_ok and elig in (_Elig.STRONG_YES, _Elig.TITLE_YES):
         return MatchLevel.MATCH, f"role '{role_hit}', {elig_reason}, {loc_reason}"
 
@@ -118,8 +120,6 @@ def classify(raw: RawPosting, flt: FilterConfig) -> tuple[MatchLevel, str]:
     if role_ok and elig is _Elig.UNKNOWN:
         return MatchLevel.REVIEW, f"role '{role_hit}' but {elig_reason}, {loc_reason}"
     if not role_ok and elig in (_Elig.STRONG_YES, _Elig.TITLE_YES):
-        why = f"{elig_reason}, {loc_reason}, role wording unclear"
-        why += f" (dept '{dept}' off-list)" if flt.departments and not dept_ok else ""
-        return MatchLevel.REVIEW, why
+        return MatchLevel.REVIEW, f"{elig_reason}, {loc_reason}, role wording unclear"
 
     return MatchLevel.IGNORE, f"no role match ({elig_reason})"

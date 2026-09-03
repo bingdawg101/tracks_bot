@@ -3,28 +3,6 @@
   "failure_count": 0,
   "last_error": "",
   "tracked": {
-    "5866838002": {
-      "firm": "Jane Street",
-      "source_id": "5866838002",
-      "title": "Tools & Compilers Research and Development",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/5866838002?gh_jid=5866838002",
-      "department": "Software Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.137851Z"
-    },
-    "8072596002": {
-      "firm": "Jane Street",
-      "source_id": "8072596002",
-      "title": "Cybersecurity Analyst",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8072596002?gh_jid=8072596002",
-      "department": "Cybersecurity",
-      "employment_type": "Full-Time: New Grad",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.131735Z"
-    },
     "8080525002": {
       "firm": "Jane Street",
       "source_id": "8080525002",
@@ -34,7 +12,7 @@
       "department": "Trading Desk Operations",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.137890Z"
+      "first_seen": "2026-09-03T16:23:19.356246Z"
     },
     "8474407002": {
       "firm": "Jane Street",
@@ -45,7 +23,7 @@
       "department": "Quantitative Trading",
       "employment_type": "Summer Internship",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.136621Z"
+      "first_seen": "2026-09-03T16:23:19.355050Z"
     },
     "8474416002": {
       "firm": "Jane Street",
@@ -56,18 +34,7 @@
       "department": "Quantitative Research",
       "employment_type": "Summer Internship",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.136151Z"
-    },
-    "8518854002": {
-      "firm": "Jane Street",
-      "source_id": "8518854002",
-      "title": "Strategy and Product",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8518854002?gh_jid=8518854002",
-      "department": "Strategy and Product",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.137551Z"
+      "first_seen": "2026-09-03T16:23:19.354582Z"
     },
     "8537797002": {
       "firm": "Jane Street",
@@ -78,7 +45,7 @@
       "department": "Sales & Trading",
       "employment_type": "Summer Internship",
       "match_level": "match",
-      "first_seen": "2026-09-03T16:00:37.662067Z"
+      "first_seen": "2026-09-03T16:23:19.355247Z"
     },
     "8576270002": {
       "firm": "Jane Street",
@@ -89,7 +56,7 @@
       "department": "Quantitative Trading",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.136653Z"
+      "first_seen": "2026-09-03T16:23:19.355082Z"
     },
     "8576931002": {
       "firm": "Jane Street",
@@ -100,18 +67,7 @@
       "department": "Machine Learning",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.135195Z"
-    },
-    "8589868002": {
-      "firm": "Jane Street",
-      "source_id": "8589868002",
-      "title": "Software Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
-      "department": "Software Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.137153Z"
+      "first_seen": "2026-09-03T16:23:19.353633Z"
     },
     "8594416002": {
       "firm": "Jane Street",
@@ -122,7 +78,7 @@
       "department": "Machine Learning",
       "employment_type": "Summer Internship",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.134966Z"
+      "first_seen": "2026-09-03T16:23:19.353296Z"
     },
     "8600948002": {
       "firm": "Jane Street",
@@ -133,29 +89,7 @@
       "department": "Quantitative Research",
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.136221Z"
-    },
-    "8626146002": {
-      "firm": "Jane Street",
-      "source_id": "8626146002",
-      "title": "Linux Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
-      "department": "IT and Systems Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.134236Z"
-    },
-    "8647260002": {
-      "firm": "Jane Street",
-      "source_id": "8647260002",
-      "title": "Software Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
-      "department": "Software Engineering",
-      "employment_type": "Full-Time: New Grad",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.137291Z"
+      "first_seen": "2026-09-03T16:23:19.354651Z"
     },
     "8648474002": {
       "firm": "Jane Street",
@@ -166,62 +100,7 @@
       "department": "Machine Learning",
       "employment_type": "Summer Internship",
       "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.134690Z"
-    },
-    "8651274002": {
-      "firm": "Jane Street",
-      "source_id": "8651274002",
-      "title": "IT Operations Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8651274002?gh_jid=8651274002",
-      "department": "IT and Systems Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.133886Z"
-    },
-    "8651286002": {
-      "firm": "Jane Street",
-      "source_id": "8651286002",
-      "title": "Linux Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8651286002?gh_jid=8651286002",
-      "department": "IT and Systems Engineering",
-      "employment_type": "Full-Time: New Grad",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.134507Z"
-    },
-    "8651323002": {
-      "firm": "Jane Street",
-      "source_id": "8651323002",
-      "title": "Hardware Engineer (FPGA/ASIC)",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002",
-      "department": "Software Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.133415Z"
-    },
-    "8651405002": {
-      "firm": "Jane Street",
-      "source_id": "8651405002",
-      "title": "Hardware Engineer (FPGA/ASIC)",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8651405002?gh_jid=8651405002",
-      "department": "Software Engineering",
-      "employment_type": "Full-Time: New Grad",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.133354Z"
-    },
-    "8693554002": {
-      "firm": "Jane Street",
-      "source_id": "8693554002",
-      "title": "Procurement Specialist",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8693554002?gh_jid=8693554002",
-      "department": "IT and Systems Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.135831Z"
+      "first_seen": "2026-09-03T16:23:19.353020Z"
     },
     "8700980002": {
       "firm": "Jane Street",
@@ -232,18 +111,7 @@
       "department": "Trading Desk Operations",
       "employment_type": "Summer Internship",
       "match_level": "match",
-      "first_seen": "2026-09-03T15:36:10.138000Z"
-    },
-    "8755768002": {
-      "firm": "Jane Street",
-      "source_id": "8755768002",
-      "title": "Windows Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8755768002?gh_jid=8755768002",
-      "department": "IT and Systems Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "first_seen": "2026-09-03T15:36:10.138294Z"
+      "first_seen": "2026-09-03T16:23:19.356354Z"
     }
   }
 }

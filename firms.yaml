@@ -154,7 +154,38 @@ firms:
     adapter: greenhouse
     source: {token: virtu}            # verified 2026-09
 
-  # ---- Not on Greenhouse — need html/workday adapter (Phase 4) ----
+  # ---- Banks: sales & trading / global markets ----
+  - slug: goldman-sachs
+    name: Goldman Sachs
+    adapter: gs_higher
+    source: {}                         # higher.gs.com GraphQL, EARLY_CAREER + CAMPUS. verified 2026-09
+    filters:
+      departments:
+        - Global Banking & Markets
+        - Engineering
+        - Global Investment Research
+
+  - slug: jpmorgan
+    name: JPMorgan
+    adapter: oracle_orc
+    source: {host: jpmc.fa.oraclecloud.com, site: CX_1001}   # Oracle ORC. verified 2026-09
+    filters:
+      include: [markets, trading, trader, quant, quantitative, research, sales, structuring, securities]
+
+  - slug: morgan-stanley
+    name: Morgan Stanley
+    adapter: workday
+    source: {tenant: ms, wd: wd5, site: External}
+    # verified 2026-09. NOTE: this is the experienced-hire board. MS runs campus recruiting on
+    # Oleeo (morganstanley.tal.net) which needs a separate adapter — TODO Phase 4.
+
+  # ---- Commodity trading houses ----
+  - slug: vitol
+    name: Vitol
+    adapter: smartrecruiters
+    source: {company: Vitol}           # verified 2026-09
+
+  # ---- Not yet wired — ATS identified but needs the right site/token ----
   - slug: citadel
     name: Citadel
     adapter: greenhouse

@@ -1,0 +1,238 @@
+{
+  "firm": "Goldman Sachs",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "150658_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "150658_GS_CAMPUS",
+      "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150658_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.677974Z"
+    },
+    "150661_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "150661_GS_CAMPUS",
+      "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150661_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.678140Z"
+    },
+    "150666_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "150666_GS_CAMPUS",
+      "title": "2026 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150666_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.679388Z"
+    },
+    "150725_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "150725_GS_CAMPUS",
+      "title": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
+      "department": "Global Banking & Markets",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.670194Z"
+    },
+    "150728_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "150728_GS_CAMPUS",
+      "title": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
+      "department": "Global Banking & Markets",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.677305Z"
+    },
+    "170637_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170637_GS_CAMPUS",
+      "title": "2027 / EMEA / Birmingham / Engineering / Summer Analyst",
+      "location": "Birmingham United Kingdom",
+      "url": "https://higher.gs.com/roles/170637_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.666665Z"
+    },
+    "170644_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170644_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Engineering / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170644_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.657881Z"
+    },
+    "170675_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170675_GS_CAMPUS",
+      "title": "2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170675_GS_CAMPUS",
+      "department": "Global Banking & Markets",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.660738Z"
+    },
+    "170874_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170874_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170874_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.654002Z"
+    },
+    "170877_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170877_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.651364Z"
+    },
+    "170880_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170880_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Economics / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170880_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.664742Z"
+    },
+    "170901_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170901_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170901_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.658711Z"
+    },
+    "170927_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170927_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Investment Banking, Capital Solutions Group / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170927_GS_CAMPUS",
+      "department": "Global Banking & Markets",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.667403Z"
+    },
+    "170929_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170929_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Investment Banking, Classic / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170929_GS_CAMPUS",
+      "department": "Global Banking & Markets",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.646346Z"
+    },
+    "171437_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "171437_GS_CAMPUS",
+      "title": "2027 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/OffCycle",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/171437_GS_CAMPUS",
+      "department": "Global Banking & Markets",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.668143Z"
+    },
+    "175421_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "175421_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175421_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.665719Z"
+    },
+    "175423_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "175423_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Associate",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175423_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.667907Z"
+    },
+    "175424_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "175424_GS_CAMPUS",
+      "title": "2027 / EMEA / London / FICC and Equities (Sales and Trading) Quantitative Strats / Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175424_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.665875Z"
+    },
+    "175426_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "175426_GS_CAMPUS",
+      "title": "2027 / EMEA / London / The Core Quantitative Strats / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175426_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.650410Z"
+    },
+    "175427_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "175427_GS_CAMPUS",
+      "title": "2027 / EMEA / London / The Core Quantitative Strats / Summer Associate",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175427_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "review",
+      "first_seen": "2026-09-03T16:23:20.659027Z"
+    },
+    "175428_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "175428_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
+      "department": "Engineering Division",
+      "employment_type": "",
+      "match_level": "match",
+      "first_seen": "2026-09-03T16:23:20.662649Z"
+    }
+  }
+}

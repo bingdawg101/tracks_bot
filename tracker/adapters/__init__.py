@@ -3,13 +3,23 @@
 from __future__ import annotations
 
 from ..config import FirmConfig
+from .ashby import AshbyAdapter
 from .base import Adapter, AdapterError
 from .greenhouse import GreenhouseAdapter
+from .gs_higher import GsHigherAdapter
 from .lever import LeverAdapter
+from .oracle_orc import OracleOrcAdapter
+from .smartrecruiters import SmartRecruitersAdapter
+from .workday import WorkdayAdapter
 
 _REGISTRY: dict[str, type[Adapter]] = {
     "greenhouse": GreenhouseAdapter,
     "lever": LeverAdapter,
+    "ashby": AshbyAdapter,
+    "smartrecruiters": SmartRecruitersAdapter,
+    "workday": WorkdayAdapter,
+    "oracle_orc": OracleOrcAdapter,
+    "gs_higher": GsHigherAdapter,
 }
 
 
