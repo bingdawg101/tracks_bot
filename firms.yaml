@@ -166,6 +166,8 @@ tiers:
   gelber-group: elite_prop
   presto-labs: elite_prop
   flowdesk: elite_prop
+  galaxy-digital: elite_prop
+  wincent: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -179,7 +181,9 @@ tiers:
   voleon: hedge_fund
   gsa-capital: hedge_fund
   aqr: hedge_fund
+  pharo-management: hedge_fund
   tp-icap: bank_other
+  clear-street: bank_other
   tradition: bank_other
   schroders: bank_other
   invesco: bank_other
@@ -462,6 +466,16 @@ firms:
     adapter: smartrecruiters
     source: {company: flowdesk}   # verified 2026-09-03 (crypto MM, Paris)
 
+  - slug: galaxy-digital
+    name: Galaxy Digital
+    adapter: greenhouse
+    source: {token: galaxydigitalservices}   # verified 2026-09-03 (crypto trading/asset mgmt, NY/London)
+
+  - slug: wincent
+    name: Wincent
+    adapter: ashby
+    source: {token: wincent}   # verified 2026-09-03 (crypto MM / HFT / power, EU)
+
   # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
   - slug: man-group
     name: Man Group
@@ -517,6 +531,11 @@ firms:
     name: AQR Capital Management
     adapter: greenhouse
     source: {token: aqr}   # verified 2026-09-03 (Greenwich-heavy, London office)
+
+  - slug: pharo-management
+    name: Pharo Management
+    adapter: greenhouse
+    source: {token: pharomanagement}   # verified 2026-09-03 (global macro HF, London/NY)
 
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs
@@ -585,6 +604,14 @@ firms:
     adapter: workday
     source: {tenant: jefferies, wd: wd5, site: Jefferies_Careers}
     enabled: false   # Workday tenant confirmed but site returns 422 — need real site name
+
+  - slug: clear-street
+    name: Clear Street
+    adapter: greenhouse
+    source: {token: clearstreet}   # verified 2026-09-03 (fintech prime brokerage, NY)
+    filters:
+      include: [trading, trader, trade, markets, quant, quantitative, research, execution,
+                "prime", "securities lending", "active trading", structuring]
 
   - slug: tp-icap
     name: TP ICAP
