@@ -5,6 +5,8 @@ from __future__ import annotations
 from ..config import FirmConfig
 from .ashby import AshbyAdapter
 from .base import Adapter, AdapterError
+from .beesite import BeesiteAdapter
+from .glencore import GlencoreAdapter
 from .greenhouse import GreenhouseAdapter
 from .gs_higher import GsHigherAdapter
 from .lever import LeverAdapter
@@ -20,6 +22,8 @@ _REGISTRY: dict[str, type[Adapter]] = {
     "workday": WorkdayAdapter,
     "oracle_orc": OracleOrcAdapter,
     "gs_higher": GsHigherAdapter,
+    "beesite": BeesiteAdapter,
+    "glencore": GlencoreAdapter,
 }
 
 

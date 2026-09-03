@@ -459,9 +459,27 @@
       "failure_count": 0
     },
     {
+      "name": "Deutsche Bank",
+      "slug": "deutsche-bank",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 11,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Flow Traders",
       "slug": "flow-traders",
       "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Glencore",
+      "slug": "glencore",
+      "enabled": false,
       "match_count": 0,
       "review_count": 0,
       "roles": [],
@@ -480,6 +498,15 @@
       "name": "Optiver",
       "slug": "optiver",
       "enabled": false,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Trafigura",
+      "slug": "trafigura",
+      "enabled": true,
       "match_count": 0,
       "review_count": 0,
       "roles": [],

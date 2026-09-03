@@ -127,6 +127,45 @@ async def test_oracle_orc_paginates_and_flattens_locations():
     assert p.source_id == "1"
 
 
+@respx.mock
+async def test_beesite_handles_list_and_dict_fields():
+    payload = {"SearchResult": {"SearchResultCountAll": 1, "SearchResultItems": [{
+        "MatchedObjectId": "500",
+        "MatchedObjectDescriptor": {
+            "PositionTitle": "Graduate Programme - Markets",
+            "PositionURI": "/index.php?ac=jobad&id=500",
+            "PositionLocation": [{"CityName": "London", "CountryName": "United Kingdom"}],
+            "PositionOfferingType": [{"Name": "Praktikum"}],   # list form
+            "CareerLevel": {"Name": "Graduate"},               # dict form
+            "PublicationStartDate": "2026-09-01",
+        }}]}}
+    respx.get("https://api-db.beesite.de/search/").mock(
+        return_value=httpx.Response(200, json=payload))
+    firm = FirmConfig(slug="db", name="DB", adapter="beesite",
+                      source={"host": "api-db.beesite.de"})
+    async with httpx.AsyncClient() as client:
+        p = (await get_adapter(firm).fetch(client))[0]
+    assert p.employment_type == "Praktikum Graduate"
+    assert p.location == "London, United Kingdom"
+
+
+@respx.mock
+async def test_glencore_falls_back_to_highlights_for_location():
+    payload = {"totalResults": 1, "data": [{
+        "id": 42, "title": "Graduate Trader",
+        "city": "\u200b", "region": "\u200b", "country": "\u200b",
+        "highlights": ["Graduate Trader", "London - UK", "Marketing"],
+        "description": "<p>Join us</p>",
+    }]}
+    respx.get("https://www.glencore.com/.rest/api/v2/careers/").mock(
+        return_value=httpx.Response(200, json=payload))
+    firm = FirmConfig(slug="glencore", name="Glencore", adapter="glencore", source={})
+    async with httpx.AsyncClient() as client:
+        p = (await get_adapter(firm).fetch(client))[0]
+    assert p.location == "London - UK"
+    assert p.source_id == "42"
+
+
 def test_missing_token_raises():
     firm = FirmConfig(slug="acme", name="Acme", adapter="greenhouse", source={})
     with pytest.raises(AdapterError):

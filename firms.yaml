@@ -72,6 +72,14 @@ defaults:
     - apprenticeship
     - trainee
     - "co-op"
+    # German (Deutsche Bank et al.)
+    - praktikum
+    - praktikant
+    - werkstudent
+    - absolvent
+    - traineeprogramm
+    - berufseinstieg
+    - duales studium
   # Authoritative when the source tags a structured employment type.
   eligible_employment_types:
     - intern
@@ -179,11 +187,28 @@ firms:
     # verified 2026-09. NOTE: this is the experienced-hire board. MS runs campus recruiting on
     # Oleeo (morganstanley.tal.net) which needs a separate adapter — TODO Phase 4.
 
+  - slug: deutsche-bank
+    name: Deutsche Bank
+    adapter: beesite
+    source: {host: api-deutschebank.beesite.de}   # BeeSite ATS. verified 2026-09
+
   # ---- Commodity trading houses ----
   - slug: vitol
     name: Vitol
     adapter: smartrecruiters
     source: {company: Vitol}           # verified 2026-09
+
+  - slug: trafigura
+    name: Trafigura
+    adapter: workday
+    source: {tenant: trafigura, wd: wd3, site: TrafiguraCareerSite}   # verified 2026-09
+
+  - slug: glencore
+    name: Glencore
+    adapter: glencore
+    source: {}
+    enabled: false   # custom REST feed (glencore.com/.rest/api/v2/careers) — Cloudflare blocks
+                     # server-side fetch; needs the Playwright path (Phase 4)
 
   # ---- Not yet wired — ATS identified but needs the right site/token ----
   - slug: citadel
@@ -209,3 +234,19 @@ firms:
     adapter: greenhouse
     source: {token: optiver}
     enabled: false   # Greenhouse board is empty — moved to custom site (Phase 4)
+
+  # ---- ATS identified in research, adapter not built yet (Phase 4 part 3) ----
+  # Banks:
+  #   citi           -> Radancy careersite   (jobs.citi.com/search-jobs/results?...&format=json → HTML-in-JSON)
+  #   barclays       -> Oleeo / tal.net       (search.jobs.barclays; campus portal has bot-check)
+  #   morgan-stanley -> Oleeo / tal.net       (campus; the Workday entry above is experienced-only)
+  #   ubs            -> revisit (jobs.ubs.com path changed; likely Avature)
+  #   hsbc           -> Avature (mycareer.hsbc.com)
+  #   bnp-paribas    -> custom (group.bnpparibas)
+  #   socgen         -> custom (careers.societegenerale.com)
+  #   nomura         -> revisit
+  #   rbc            -> Eightfold / Phenom
+  #   jefferies      -> Workday (tenant TBD)
+  #   bofa           -> custom (careers.bankofamerica.com)
+  # Commodity houses:
+  #   gunvor, mercuria, cargill, koch, castleton, freepoint, hartree -> TBD
