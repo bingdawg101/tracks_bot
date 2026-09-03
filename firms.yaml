@@ -191,6 +191,7 @@ tiers:
   lynx-asset-management: hedge_fund
   bluecrest: hedge_fund
   walleye-capital: hedge_fund
+  caxton-associates: hedge_fund
   rbc: bank_other
   bmo: bank_other
   tp-icap: bank_other
@@ -602,6 +603,13 @@ firms:
     name: Lynx Asset Management
     adapter: teamtailor
     source: {token: lynxassetmanagement}   # verified 2026-09-03 (Swedish systematic/CTA; board currently empty)
+
+  - slug: caxton-associates
+    name: Caxton Associates
+    adapter: workable
+    source: {token: caxton}
+    enabled: false   # token confirmed from careers page (apply.workable.com/caxton); Workable API was
+                     # IP-rate-limiting (CF 1015) during setup — run `check` + `run --seed --only caxton-associates`, then enable
 
   - slug: bluecrest
     name: BlueCrest Capital Management
