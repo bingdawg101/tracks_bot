@@ -187,6 +187,8 @@ tiers:
   graham-capital: hedge_fund
   crabel-capital: hedge_fund
   lynx-asset-management: hedge_fund
+  bluecrest: hedge_fund
+  walleye-capital: hedge_fund
   rbc: bank_other
   bmo: bank_other
   tp-icap: bank_other
@@ -588,6 +590,17 @@ firms:
     name: Lynx Asset Management
     adapter: teamtailor
     source: {token: lynxassetmanagement}   # verified 2026-09-03 (Swedish systematic/CTA; board currently empty)
+
+  - slug: bluecrest
+    name: BlueCrest Capital Management
+    adapter: greenhouse
+    source: {token: bluecrestcapitalmanagement}   # verified 2026-09-03 (London macro/multi-strat; tech-heavy London board)
+
+  - slug: walleye-capital
+    name: Walleye Capital
+    adapter: greenhouse
+    source: {token: walleyecapital}
+    enabled: false   # greenhouse board exists but is empty — cannot verify it's the right firm; enable if roles appear
 
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs
