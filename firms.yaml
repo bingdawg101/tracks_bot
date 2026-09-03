@@ -151,6 +151,9 @@ tiers:
   morgan-stanley: bank_bulge
   deutsche-bank: bank_bulge
   citi: bank_bulge
+  barclays: bank_bulge
+  santander: bank_other
+  lloyds-banking-group: bank_other
   vitol: commodity_major
   trafigura: commodity_major
   louis-dreyfus: commodity_major
@@ -342,6 +345,36 @@ firms:
     filters:
       include: [markets, trading, trader, sales, quant, quantitative, research, structuring,
                 securities, execution, "e-trading"]
+
+  - slug: barclays
+    name: Barclays
+    adapter: workday
+    source: {tenant: barclays, wd: wd3, site: External_Career_Site_Barclays}   # verified 2026-09-03. Experienced board (campus is on Oleeo, bot-walled)
+    filters:
+      include: [markets, trading, trader, quant, quantitative, research, sales, structuring,
+                securities, "global markets", execution]
+
+  - slug: santander
+    name: Santander
+    adapter: workday
+    source: {tenant: santander, wd: wd3, site: SantanderCareers}   # verified 2026-09-03
+    filters:
+      include: [markets, trading, trader, quant, quantitative, research, sales, structuring,
+                securities, "corporate & investment banking", cib, "global markets"]
+
+  - slug: lloyds-banking-group
+    name: Lloyds Banking Group
+    adapter: workday
+    source: {tenant: lbg, wd: wd3, site: LBG_Careers}   # verified 2026-09-03
+    filters:
+      include: [markets, trading, trader, quant, quantitative, research, structuring,
+                "financial markets", "capital markets"]
+
+  - slug: jefferies
+    name: Jefferies
+    adapter: workday
+    source: {tenant: jefferies, wd: wd5, site: Jefferies_Careers}
+    enabled: false   # Workday tenant confirmed but site returns 422 — need real site name
 
   # ---- Commodity trading houses ----
   - slug: vitol
