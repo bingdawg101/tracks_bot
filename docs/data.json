@@ -1391,7 +1391,7 @@
       "tier": "hedge_fund",
       "match_count": 1,
       "review_count": 0,
-      "failure_count": 3,
+      "failure_count": 0,
       "cycle_note": "rolling"
     },
     {
@@ -2110,7 +2110,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
