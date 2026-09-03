@@ -164,6 +164,14 @@
       "source": "no 2027 London grad/intern posting yet on Greenhouse; XTX typically opens graduate trading analyst apps ~Oct-Nov \u2014 estimate"
     },
     {
+      "slug": "quadrature-capital",
+      "firm": "Quadrature Capital",
+      "programme": "Graduate + Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check shows only experienced roles; Quadrature (London quant fund) opens grad/intern ~Oct-Nov \u2014 estimate"
+    },
+    {
       "slug": "qube-rt",
       "firm": "Qube Research & Technologies",
       "programme": "Quant Research/Trading Internship 2027",
@@ -1802,7 +1810,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Invesco",
@@ -2012,7 +2020,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "RBC Capital Markets",

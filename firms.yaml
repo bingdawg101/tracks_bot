@@ -214,6 +214,12 @@ cycles:
     - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Amsterdam-HQ prop — rolling/ad-hoc"}
   valkyrie-trading:
     - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no public cycle info found — rolling assumed"}
+  quadrature-capital:
+    - {programme: "Graduate + Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check shows only experienced roles; Quadrature (London quant fund) opens grad/intern ~Oct-Nov — estimate"}
+  graviton-research-capital:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling,
+       source: "India-HQ HFT, campus hiring driven off Indian academic calendar — no London cycle found, rolling assumed"}
 
   # ---- Crypto market makers (predominantly rolling / year-round) ----
   wintermute:
