@@ -171,6 +171,7 @@ tiers:
   bp-trading: energy_utility
   vattenfall: energy_utility
   axpo: energy_utility
+  equinor: energy_utility
 
 firms:
   # ---- Quant trading / market makers (Greenhouse-backed) ----
@@ -476,6 +477,14 @@ firms:
     filters:
       include: [trading, trader, trade, commercial, commodity, commodities, market, markets,
                 origination, structuring, analyst]
+
+  - slug: equinor
+    name: Equinor
+    adapter: workday
+    source: {tenant: equinor, wd: wd3, site: EQNR}   # verified 2026-09-03 — oil major, trading desk in London
+    filters:
+      include: [trading, trader, trade, originator, origination, commercial, market, markets,
+                commodity, commodities, analyst, portfolio]
 
   - slug: castleton-cci
     name: Castleton Commodities International
