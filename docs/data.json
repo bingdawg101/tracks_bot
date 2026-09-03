@@ -4,20 +4,324 @@
   "fresh_days": 10,
   "soon": [
     {
-      "slug": "citadel",
-      "firm": "Citadel",
+      "slug": "flow-traders",
+      "firm": "Flow Traders",
+      "programme": "Graduate + Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "no early-careers posting in tracker; Flow Traders (Amsterdam) opens next-year grad/intern ~Sept-Oct \u2014 estimate"
+    },
+    {
+      "slug": "akuna-capital",
+      "firm": "Akuna Capital",
+      "programme": "Trading / Quant / Tech Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "penultimate-year internship; no London 2027 posting yet, Akuna opens ~Aug-Sept for next summer \u2014 estimate"
+    },
+    {
+      "slug": "chicago-trading-company",
+      "firm": "Chicago Trading Company",
+      "programme": "Campus / Graduate 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "no early-careers posting in tracker; CTC campus recruiting typically opens ~Aug-Sept \u2014 estimate"
+    },
+    {
+      "slug": "vatic-investments",
+      "firm": "Vatic Investments",
+      "programme": "New Grad + Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "no early-careers posting in tracker; Vatic opens new-grad/intern ~Aug-Sept \u2014 estimate"
+    },
+    {
+      "slug": "man-group",
+      "firm": "Man Group",
+      "programme": "AHL Quant Graduate + Summer Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "2026 AHL summer intern posting went live ~Sept 2025; 2027 cycle expected ~Sept 2026 \u2014 estimate"
+    },
+    {
+      "slug": "exoduspoint",
+      "firm": "ExodusPoint Capital",
       "programme": "Summer Internship 2027",
       "opens_display": "Sep 2026",
       "days_until": -2,
-      "source": "estimate \u2014 Citadel typically opens ~Sept for next summer; VERIFY"
+      "source": "ExodusPoint runs a 2027 Summer Internship Programme; no live London posting seen \u2014 estimate ~Sept-Oct"
     },
     {
-      "slug": "optiver",
-      "firm": "Optiver",
-      "programme": "Graduate & Internship 2027",
+      "slug": "worldquant",
+      "firm": "WorldQuant",
+      "programme": "IQC / Quant Research Internship",
       "opens_display": "Sep 2026",
       "days_until": -2,
-      "source": "estimate \u2014 Optiver typically opens EMEA grad/intern apps in Sept; VERIFY"
+      "source": "tracker check shows only experienced roles; WorldQuant intern/IQC intake typically ~Sept onwards \u2014 estimate"
+    },
+    {
+      "slug": "capstone-investment-advisors",
+      "firm": "Capstone Investment Advisors",
+      "programme": "Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "Capstone (vol arb) summer internship typically opens ~Aug-Sept \u2014 estimate, no live London posting seen"
+    },
+    {
+      "slug": "brevan-howard",
+      "firm": "Brevan Howard",
+      "programme": "Summer Internship 2027 -> 2027 Graduate Programme",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "targets penultimate-year students finishing before Jul 2027; no live 2027 London posting yet \u2014 estimate ~Sept-Oct"
+    },
+    {
+      "slug": "rbc",
+      "firm": "RBC Capital Markets",
+      "programme": "Capital Markets Summer Analyst 2027 (London)",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "RBC CM London S&T summer analyst typically opens ~Aug-Sept, rolling \u2014 estimate"
+    },
+    {
+      "slug": "bmo",
+      "firm": "BMO Capital Markets",
+      "programme": "Capital Markets Summer Analyst 2027 (London)",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "BMO CM London early-careers typically opens ~Aug-Sept \u2014 estimate"
+    },
+    {
+      "slug": "santander",
+      "firm": "Santander",
+      "programme": "CIB Summer Internship / Graduate 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "Santander CIB UK early-careers typically opens ~Sept-Oct \u2014 estimate"
+    },
+    {
+      "slug": "lloyds-banking-group",
+      "firm": "Lloyds Banking Group",
+      "programme": "Markets Graduate Programme 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "tracker check shows 0 roles; Lloyds grad schemes open ~Sept-Oct, some rolling \u2014 estimate"
+    },
+    {
+      "slug": "wellington-management",
+      "firm": "Wellington Management",
+      "programme": "Investment / Early Career Programme 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "tracker check shows only experienced trading roles; Wellington early-career intake ~Sept-Oct \u2014 estimate"
+    },
+    {
+      "slug": "cargill",
+      "firm": "Cargill",
+      "programme": "Trading / Commercial Graduate Programme 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "Cargill trading/commercial grad intake typically opens ~Sept-Oct, often rolling \u2014 estimate"
+    },
+    {
+      "slug": "shell-trading",
+      "firm": "Shell (Trading & Supply)",
+      "programme": "Graduate Programme 2027 (incl. Trading & Supply)",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "Shell Graduate Programme 2027 UK applications reported opening Sept 2026; includes commercial/trading \u2014 verify on shell.com/careers"
+    },
+    {
+      "slug": "cibc",
+      "firm": "CIBC Capital Markets",
+      "programme": "Capital Markets Graduate / Analyst 2027 (London)",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "CIBC CM London early-careers typically opens ~Sept \u2014 estimate"
+    },
+    {
+      "slug": "drw",
+      "firm": "DRW",
+      "programme": "Campus / Internship 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -2,
+      "source": "DRW campus intake typically opens ~Aug-Sept and fills rolling; disabled in tracker \u2014 estimate"
+    },
+    {
+      "slug": "da-vinci-derivatives",
+      "firm": "Da Vinci Derivatives",
+      "programme": "Graduate + Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "no 2027 posting on Greenhouse yet; Da Vinci (Amsterdam) opens grad/intern apps ~Oct \u2014 estimate"
+    },
+    {
+      "slug": "xtx-markets",
+      "firm": "XTX Markets",
+      "programme": "Trading Analyst Graduate + Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "no 2027 London grad/intern posting yet on Greenhouse; XTX typically opens graduate trading analyst apps ~Oct-Nov \u2014 estimate"
+    },
+    {
+      "slug": "qube-rt",
+      "firm": "Qube Research & Technologies",
+      "programme": "Quant Research/Trading Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check 2026-09-03 shows 2026 internship still live, no 2027 cycle yet; Qube opens next-summer internships ~Oct \u2014 estimate"
+    },
+    {
+      "slug": "mako-group",
+      "firm": "Mako Group",
+      "programme": "Graduate Trading Scheme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "no posting in tracker; Mako London graduate trading scheme typically opens ~Oct \u2014 estimate"
+    },
+    {
+      "slug": "maven-securities",
+      "firm": "Maven Securities",
+      "programme": "Graduate + Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check shows only experienced roles; Maven London grad/intern typically opens ~Oct-Nov \u2014 estimate"
+    },
+    {
+      "slug": "pdt-partners",
+      "firm": "PDT Partners",
+      "programme": "Software Engineering Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "PDT SWE-focused internship; no live London posting, typically opens ~autumn \u2014 estimate"
+    },
+    {
+      "slug": "winton",
+      "firm": "Winton",
+      "programme": "Graduate + Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check shows only experienced roles; Winton London grad/intern typically opens ~Oct \u2014 estimate"
+    },
+    {
+      "slug": "voleon",
+      "firm": "The Voleon Group",
+      "programme": "Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check: only 'Data Scientist (London)' experienced role; Voleon intern intake ~autumn \u2014 estimate"
+    },
+    {
+      "slug": "graham-capital",
+      "firm": "Graham Capital Management",
+      "programme": "Quantitative Research Internship",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check: QR analyst role open (multi-location, experienced-leaning); structured intern cycle unclear \u2014 estimate"
+    },
+    {
+      "slug": "crabel-capital",
+      "firm": "Crabel Capital Management",
+      "programme": "Internship 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "Crabel (systematic macro) internship typically opens ~autumn \u2014 estimate, no live London posting seen"
+    },
+    {
+      "slug": "bluecrest",
+      "firm": "BlueCrest Capital Management",
+      "programme": "Academy / Graduate 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "BlueCrest Academy programme typically opens ~Oct; sometimes rolling \u2014 estimate"
+    },
+    {
+      "slug": "tp-icap",
+      "firm": "TP ICAP",
+      "programme": "Graduate / Trainee Broker 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "TP ICAP grad/trainee-broker intake typically ~autumn, some rolling \u2014 estimate"
+    },
+    {
+      "slug": "tradition",
+      "firm": "Tradition",
+      "programme": "Graduate / Trainee Broker 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "Tradition trainee-broker intake typically ~autumn / rolling \u2014 estimate"
+    },
+    {
+      "slug": "invesco",
+      "firm": "Invesco",
+      "programme": "Graduate Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check shows only experienced roles; Invesco UK grad scheme typically opens ~autumn \u2014 estimate"
+    },
+    {
+      "slug": "m-and-g",
+      "firm": "M&G plc",
+      "programme": "Investment Graduate Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "M&G grad scheme typically opens ~Oct-Nov \u2014 estimate"
+    },
+    {
+      "slug": "state-street",
+      "firm": "State Street",
+      "programme": "Graduate Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "State Street UK grad programme typically opens ~Oct \u2014 estimate"
+    },
+    {
+      "slug": "northern-trust",
+      "firm": "Northern Trust",
+      "programme": "Graduate Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "Northern Trust UK grad programme typically opens ~Oct-Nov \u2014 estimate"
+    },
+    {
+      "slug": "legal-and-general",
+      "firm": "Legal & General",
+      "programme": "LGIM Graduate Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "tracker check shows only experienced roles; L&G/LGIM grad scheme typically opens ~Oct \u2014 estimate"
+    },
+    {
+      "slug": "louis-dreyfus",
+      "firm": "Louis Dreyfus Company",
+      "programme": "Graduate Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "LDC graduate programme typically opens ~autumn, region-dependent / rolling \u2014 estimate"
+    },
+    {
+      "slug": "viterra",
+      "firm": "Viterra",
+      "programme": "Graduate Trader Programme 2027",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "Viterra graduate trader programme typically opens ~autumn \u2014 estimate"
+    },
+    {
+      "slug": "vattenfall",
+      "firm": "Vattenfall",
+      "programme": "Graduate Programme 2027 (Trading / Analytics)",
+      "opens_display": "Oct 2026",
+      "days_until": 28,
+      "source": "Vattenfall grad/trainee intake typically ~autumn, some rolling \u2014 estimate"
+    },
+    {
+      "slug": "vitol",
+      "firm": "Vitol",
+      "programme": "Early Careers 2027 (London)",
+      "opens_display": "Dec 2026",
+      "days_until": 89,
+      "source": "Vitol early-careers page: London grad/final-year applications closed as of Sept 2026, site says check back in winter"
     }
   ],
   "fresh": [],
@@ -808,7 +1112,7 @@
       "match_count": 13,
       "review_count": 2,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Jump Trading",
@@ -818,7 +1122,7 @@
       "match_count": 11,
       "review_count": 6,
       "failure_count": 0,
-      "cycle_note": "rolling"
+      "cycle_note": "open"
     },
     {
       "name": "JPMorgan",
@@ -848,7 +1152,7 @@
       "match_count": 4,
       "review_count": 16,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Schroders",
@@ -858,7 +1162,7 @@
       "match_count": 3,
       "review_count": 17,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Tower Research Capital",
@@ -868,7 +1172,7 @@
       "match_count": 3,
       "review_count": 4,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "DV Trading",
@@ -878,7 +1182,7 @@
       "match_count": 2,
       "review_count": 8,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Hudson River Trading",
@@ -888,7 +1192,7 @@
       "match_count": 2,
       "review_count": 20,
       "failure_count": 0,
-      "cycle_note": "rolling"
+      "cycle_note": "open"
     },
     {
       "name": "Jump Crypto",
@@ -898,7 +1202,7 @@
       "match_count": 2,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Point72",
@@ -908,7 +1212,7 @@
       "match_count": 2,
       "review_count": 17,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Qube Research & Technologies",
@@ -918,7 +1222,7 @@
       "match_count": 2,
       "review_count": 18,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Aquatic Capital Management",
@@ -928,7 +1232,7 @@
       "match_count": 1,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Engelhart Commodities",
@@ -938,7 +1242,7 @@
       "match_count": 1,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Five Rings",
@@ -948,7 +1252,7 @@
       "match_count": 1,
       "review_count": 2,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "GSA Capital",
@@ -958,7 +1262,7 @@
       "match_count": 1,
       "review_count": 3,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Headlands Technologies",
@@ -968,7 +1272,7 @@
       "match_count": 1,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "IMC Trading",
@@ -978,7 +1282,7 @@
       "match_count": 1,
       "review_count": 4,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Old Mission Capital",
@@ -988,7 +1292,7 @@
       "match_count": 1,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Onyx Capital Group",
@@ -998,7 +1302,7 @@
       "match_count": 1,
       "review_count": 0,
       "failure_count": 3,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Wintermute",
@@ -1008,7 +1312,7 @@
       "match_count": 1,
       "review_count": 9,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "3Red Partners",
@@ -1018,7 +1322,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "AQR Capital Management",
@@ -1028,7 +1332,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Akuna Capital",
@@ -1038,7 +1342,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "AlphaGrep Securities",
@@ -1048,7 +1352,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Amber Group",
@@ -1058,7 +1362,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Auros",
@@ -1068,7 +1372,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Axpo",
@@ -1088,7 +1392,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "BMO Capital Markets",
@@ -1098,7 +1402,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "BP (Trading & Shipping)",
@@ -1108,7 +1412,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Barclays",
@@ -1118,7 +1422,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Belvedere Trading",
@@ -1128,7 +1432,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "BlackEdge Capital",
@@ -1138,7 +1442,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "BlackRock",
@@ -1148,7 +1452,7 @@
       "match_count": 0,
       "review_count": 8,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "BlueCrest Capital Management",
@@ -1158,7 +1462,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Brevan Howard",
@@ -1168,7 +1472,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "CIBC Capital Markets",
@@ -1178,7 +1482,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "COFCO International",
@@ -1198,7 +1502,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Capstone Investment Advisors",
@@ -1208,7 +1512,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Cargill",
@@ -1218,7 +1522,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Castleton Commodities International",
@@ -1248,7 +1552,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Citadel",
@@ -1258,7 +1562,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
+      "cycle_note": "open"
     },
     {
       "name": "Citadel Securities",
@@ -1268,7 +1572,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Citi",
@@ -1278,7 +1582,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Clear Street",
@@ -1288,7 +1592,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Crabel Capital Management",
@@ -1298,7 +1602,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "DRW",
@@ -1308,7 +1612,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Da Vinci Derivatives",
@@ -1318,7 +1622,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Deutsche Bank",
@@ -1328,7 +1632,7 @@
       "match_count": 0,
       "review_count": 11,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "ECOM Agroindustrial",
@@ -1358,7 +1662,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Equinor",
@@ -1368,7 +1672,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "closed for cycle"
     },
     {
       "name": "ExodusPoint Capital",
@@ -1378,7 +1682,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "FalconX",
@@ -1388,7 +1692,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Flow Traders",
@@ -1398,7 +1702,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Flowdesk",
@@ -1408,7 +1712,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Freepoint Commodities",
@@ -1428,7 +1732,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Galaxy Digital",
@@ -1438,7 +1742,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Gelber Group",
@@ -1448,7 +1752,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Geneva Trading",
@@ -1458,7 +1762,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Glencore",
@@ -1468,7 +1772,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Graham Capital Management",
@@ -1478,7 +1782,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Grasshopper",
@@ -1488,7 +1792,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Graviton Research Capital",
@@ -1508,7 +1812,7 @@
       "match_count": 0,
       "review_count": 2,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Jefferies",
@@ -1518,7 +1822,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Keyrock",
@@ -1528,7 +1832,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Kronos Research",
@@ -1538,7 +1842,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Legal & General",
@@ -1548,7 +1852,7 @@
       "match_count": 0,
       "review_count": 7,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Lloyds Banking Group",
@@ -1558,7 +1862,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Louis Dreyfus Company",
@@ -1568,7 +1872,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Lynx Asset Management",
@@ -1578,7 +1882,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "M&G plc",
@@ -1588,7 +1892,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "MET Group",
@@ -1608,7 +1912,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Man Group",
@@ -1618,7 +1922,7 @@
       "match_count": 0,
       "review_count": 4,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Maven Securities",
@@ -1628,7 +1932,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Morgan Stanley",
@@ -1638,7 +1942,7 @@
       "match_count": 0,
       "review_count": 3,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Northern Trust",
@@ -1648,7 +1952,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Olam Agri",
@@ -1668,7 +1972,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
+      "cycle_note": "open"
     },
     {
       "name": "PDT Partners",
@@ -1678,7 +1982,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Pharo Management",
@@ -1698,7 +2002,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Quadrature Capital",
@@ -1718,7 +2022,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "STX Group",
@@ -1728,7 +2032,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Santander",
@@ -1738,7 +2042,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Schonfeld Strategic Advisors",
@@ -1748,7 +2052,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Selini Capital",
@@ -1758,7 +2062,7 @@
       "match_count": 0,
       "review_count": 2,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Shell (Trading & Supply)",
@@ -1768,7 +2072,7 @@
       "match_count": 0,
       "review_count": 2,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Simplex Trading",
@@ -1778,7 +2082,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Statar Capital",
@@ -1798,7 +2102,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "TP ICAP",
@@ -1808,7 +2112,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "The Voleon Group",
@@ -1818,7 +2122,7 @@
       "match_count": 0,
       "review_count": 1,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Tradition",
@@ -1828,7 +2132,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Trafigura",
@@ -1838,7 +2142,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "closed for cycle"
     },
     {
       "name": "TransMarket Group",
@@ -1848,7 +2152,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Valkyrie Trading",
@@ -1858,7 +2162,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Vatic Investments",
@@ -1868,7 +2172,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Vattenfall",
@@ -1878,7 +2182,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Vesper",
@@ -1898,7 +2202,7 @@
       "match_count": 0,
       "review_count": 2,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "open"
     },
     {
       "name": "Viterra",
@@ -1908,7 +2212,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "Vitol",
@@ -1918,7 +2222,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Dec 2026"
     },
     {
       "name": "Vivienne Court Trading",
@@ -1928,7 +2232,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "WEBB Traders",
@@ -1938,7 +2242,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Walleye Capital",
@@ -1958,7 +2262,7 @@
       "match_count": 0,
       "review_count": 3,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Wincent",
@@ -1968,7 +2272,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "rolling"
     },
     {
       "name": "Winton",
@@ -1978,7 +2282,7 @@
       "match_count": 0,
       "review_count": 3,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "WorldQuant",
@@ -1988,7 +2292,7 @@
       "match_count": 0,
       "review_count": 3,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "XTX Markets",
@@ -1998,7 +2302,7 @@
       "match_count": 0,
       "review_count": 0,
       "failure_count": 0,
-      "cycle_note": "\u2014"
+      "cycle_note": "opens Oct 2026"
     }
   ],
   "history": [],

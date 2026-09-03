@@ -123,26 +123,343 @@ fresh_days: 10   # a matched role older than this (since first seen) is "probabl
 #   opens:  ISO date "2026-10-01" | month "2026-10" | window "2026-09..2026-11" | "rolling"
 # Populate every firm here. Verify against the firm's early-careers page.
 cycles:
+  # ---- Elite prop / market makers ----
   jane-street:
     - {programme: "Internships & New Grad", status: rolling, opens: rolling,
        source: "Jane Street accepts applications year-round"}
   hudson-river-trading:
-    - {programme: "Summer Internship / New Grad 2027", status: rolling, opens: rolling,
-       source: "HRT campus roles open on a rolling basis"}
+    - {programme: "Algo Dev Summer Internship 2027 + 2027 Grads", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: Summer 2027 intern + 2027 grad algo-dev roles live; HRT campus is effectively rolling"}
   jump-trading:
-    - {programme: "Campus 2027", status: rolling, opens: rolling, source: "rolling"}
+    - {programme: "Campus 2027 (Full-Time + Intern)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: ~11 Campus 2027 quant trader/researcher roles live; Jump campus hiring is rolling"}
+  jump-crypto:
+    - {programme: "Campus Crypto Researcher", status: rolling, opens: rolling,
+       source: "tracker check 2026-09-03: 2026 LDN crypto campus roles live; crypto arm hires rolling, no 2027 tag yet"}
   optiver:
-    - {programme: "Graduate & Internship 2027", status: not_yet_open, opens: "2026-09",
-       source: "estimate — Optiver typically opens EMEA grad/intern apps in Sept; VERIFY"}
+    - {programme: "Graduate & Internship 2027 (EMEA)", status: open, opens: "2026-08", year: 2027,
+       source: "Optiver recruitment FAQ: 2027 campus apps open end-Aug 2026, reviewed rolling; London + Amsterdam job pages live"}
+  five-rings:
+    - {programme: "Campus Full-Time 2027 + Summer Internship", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Campus Full Time 2027 - Quantitative Trader - London' live"}
+  imc:
+    - {programme: "Graduate + Trading Internship Summer 2027", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: Graduate ML Researcher + Summer 2027 intern roles live; IMC US interns live since Aug 2026"}
+  tower-research:
+    - {programme: "Quant Trader/Researcher Graduate 2027 + Summer Internship 2027", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 2027 grad programme + summer internship 2027 (2028 grads) roles live"}
+  headlands-technologies:
+    - {programme: "Quantitative Researcher New Grad", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Quantitative Researcher – New Grad' London live"}
+  old-mission-capital:
+    - {programme: "Quant Trader 2027 Graduate Program (Aug start)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: '2027 Graduate Program (August Start)' London live"}
+  virtu:
+    - {programme: "Summer Internship 2027", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: '2027 Summer Internship' (Client Support / Technical) London live"}
+  dv-trading:
+    - {programme: "Trading + SWE Internship Summer 2027 (DV Commodities)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Trading Intern - Summer 2027 (DV Commodities)' London live"}
+  xtx-markets:
+    - {programme: "Trading Analyst Graduate + Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "no 2027 London grad/intern posting yet on Greenhouse; XTX typically opens graduate trading analyst apps ~Oct-Nov — estimate"}
+  qube-rt:
+    - {programme: "Quant Research/Trading Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check 2026-09-03 shows 2026 internship still live, no 2027 cycle yet; Qube opens next-summer internships ~Oct — estimate"}
+  da-vinci-derivatives:
+    - {programme: "Graduate + Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "no 2027 posting on Greenhouse yet; Da Vinci (Amsterdam) opens grad/intern apps ~Oct — estimate"}
+  akuna-capital:
+    - {programme: "Trading / Quant / Tech Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "penultimate-year internship; no London 2027 posting yet, Akuna opens ~Aug-Sept for next summer — estimate"}
+  chicago-trading-company:
+    - {programme: "Campus / Graduate 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "no early-careers posting in tracker; CTC campus recruiting typically opens ~Aug-Sept — estimate"}
+  vatic-investments:
+    - {programme: "New Grad + Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "no early-careers posting in tracker; Vatic opens new-grad/intern ~Aug-Sept — estimate"}
+  mako-group:
+    - {programme: "Graduate Trading Scheme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "no posting in tracker; Mako London graduate trading scheme typically opens ~Oct — estimate"}
+  maven-securities:
+    - {programme: "Graduate + Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check shows only experienced roles; Maven London grad/intern typically opens ~Oct-Nov — estimate"}
+  flow-traders:
+    - {programme: "Graduate + Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "no early-careers posting in tracker; Flow Traders (Amsterdam) opens next-year grad/intern ~Sept-Oct — estimate"}
+  belvedere-trading:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling,
+       source: "Chicago options MM, minimal London early-careers footprint — rolling/ad-hoc"}
+  geneva-trading:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no structured London cycle found — rolling/ad-hoc"}
+  grasshopper:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Singapore-HQ prop, hires rolling — no fixed London cycle found"}
+  simplex-trading:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Chicago options MM — rolling/ad-hoc, no London cycle found"}
+  3red-partners:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no structured cycle found — rolling/ad-hoc"}
+  transmarket-group:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no structured London cycle found — rolling/ad-hoc"}
+  alphagrep:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "India/Singapore-HQ prop — rolling, no London early-careers cycle found"}
+  vivienne-court:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Australia-HQ prop — rolling, no London cycle found"}
+  blackedge-capital:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no public cycle info found — rolling assumed"}
+  gelber-group:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no public cycle info found — rolling assumed"}
+  eclipse-trading:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Hong Kong-HQ prop — rolling, no London cycle found"}
+  webb-traders:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Amsterdam-HQ prop — rolling/ad-hoc"}
+  valkyrie-trading:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "no public cycle info found — rolling assumed"}
+
+  # ---- Crypto market makers (predominantly rolling / year-round) ----
+  wintermute:
+    - {programme: "Graduate Algorithmic Trader 2027", status: open, opens: "2026-07", year: 2027,
+       source: "tracker check 2026-09-03: 'Graduate Algorithmic Trader 2027' London live; Wintermute also hires rolling"}
+  gsr-markets:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+  b2c2:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+  auros:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+  kronos-research:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto prop (Taiwan) — hires year-round"}
+  keyrock:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+  selini-capital:
+    - {programme: "Junior Quant Researcher", status: rolling, opens: rolling, source: "tracker check: junior + experienced QR roles open; crypto HF hires rolling"}
+  falconx:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto prime broker — hires year-round"}
+  amber-group:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto trading firm — hires year-round"}
+  presto-labs:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto quant prop — hires year-round"}
+  flowdesk:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+  galaxy-digital:
+    - {programme: "Analyst / Internship", status: rolling, opens: rolling, source: "crypto financial services — rolling; US-style summer analyst not confirmed for London"}
+  wincent:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+  caladan:
+    - {programme: "Graduate / Trading", status: rolling, opens: rolling, source: "crypto MM — hires year-round"}
+
+  # ---- Hedge funds / systematic ----
+  squarepoint:
+    - {programme: "Graduate + Quant Internship 2027", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: graduate quant dev/trading + Intern Quant Researcher + '2027' intern roles live"}
+  point72:
+    - {programme: "Academy / Quant Internship 2027", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Quantitative Researcher - Intern' + 'Quant Software Developer Intern' London live"}
+  schonfeld:
+    - {programme: "Summer Internship 2027", status: open, opens: "2026-07", year: 2027,
+       source: "Schonfeld 2027 Summer Internship expression-of-interest open incl. London (multi-manager, team-embedded)"}
+  gsa-capital:
+    - {programme: "Quantitative Researcher Internship", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Quantitative Researcher - Intern' London live"}
+  aqr:
+    - {programme: "Research Summer Analyst 2027", status: open, opens: "2026-06", year: 2027,
+       source: "AQR 2027 Research Summer Analyst opened 30 Jun 2026 (Greenwich; London office runs a parallel intake)"}
+  man-group:
+    - {programme: "AHL Quant Graduate + Summer Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "2026 AHL summer intern posting went live ~Sept 2025; 2027 cycle expected ~Sept 2026 — estimate"}
+  brevan-howard:
+    - {programme: "Summer Internship 2027 -> 2027 Graduate Programme", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "targets penultimate-year students finishing before Jul 2027; no live 2027 London posting yet — estimate ~Sept-Oct"}
+  exoduspoint:
+    - {programme: "Summer Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "ExodusPoint runs a 2027 Summer Internship Programme; no live London posting seen — estimate ~Sept-Oct"}
+  worldquant:
+    - {programme: "IQC / Quant Research Internship", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "tracker check shows only experienced roles; WorldQuant intern/IQC intake typically ~Sept onwards — estimate"}
+  winton:
+    - {programme: "Graduate + Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check shows only experienced roles; Winton London grad/intern typically opens ~Oct — estimate"}
+  capstone-investment-advisors:
+    - {programme: "Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "Capstone (vol arb) summer internship typically opens ~Aug-Sept — estimate, no live London posting seen"}
+  voleon:
+    - {programme: "Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check: only 'Data Scientist (London)' experienced role; Voleon intern intake ~autumn — estimate"}
+  pdt-partners:
+    - {programme: "Software Engineering Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "PDT SWE-focused internship; no live London posting, typically opens ~autumn — estimate"}
+  crabel-capital:
+    - {programme: "Internship 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "Crabel (systematic macro) internship typically opens ~autumn — estimate, no live London posting seen"}
+  bluecrest:
+    - {programme: "Academy / Graduate 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "BlueCrest Academy programme typically opens ~Oct; sometimes rolling — estimate"}
+  graham-capital:
+    - {programme: "Quantitative Research Internship", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check: QR analyst role open (multi-location, experienced-leaning); structured intern cycle unclear — estimate"}
+  schroders:  # asset manager but grouped here for the 2027 intern cycle
+    - {programme: "2027 Public Markets Internship (Equities / Quants / Multi-Asset)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: three '2027 Public Markets ... Internship Programme' roles live"}
+  pharo-management:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "macro HF, no public early-careers cycle found"}
+  lynx-asset-management:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling, source: "Swedish systematic manager — small early-careers footprint, rolling/ad-hoc"}
+  onyx-capital:
+    - {programme: "Graduate Programme", status: rolling, opens: rolling,
+       source: "energy-derivatives trading firm; graduate hiring is ad-hoc/rolling — no fixed cycle found"}
+
+  # ---- Banks: bulge bracket (UK summer 2027 + graduate) ----
   goldman-sachs:
-    - {programme: "Summer Analyst 2027", status: open, opens: "2026-07", year: 2027,
-       source: "GS summer 2027 opened ~July 2026 (historical); confirm on higher.gs.com"}
-  citadel:
-    - {programme: "Summer Internship 2027", status: not_yet_open, opens: "2026-09",
-       source: "estimate — Citadel typically opens ~Sept for next summer; VERIFY"}
+    - {programme: "Summer Analyst 2027 (S&T / Quant Strats / GIR)", status: open, opens: "2026-07", year: 2027,
+       source: "tracker check 2026-09-03: ~14 '2027 / EMEA / London' Summer Analyst + off-cycle roles live on higher.gs.com"}
   jpmorgan:
-    - {programme: "Summer 2027 (Markets / QR)", status: open, opens: "2026-08", year: 2027,
-       source: "estimate — JPM markets summer usually live by Aug/Sept; VERIFY"}
+    - {programme: "Global Markets Summer Internship 2027 + QR off-cycle", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: '2027 Global Markets Summer Internship - London' + 2027 QR off-cycle roles live"}
+  morgan-stanley:
+    - {programme: "Summer Analyst 2027 (S&T / Markets)", status: open, opens: "2026-09", year: 2027,
+       source: "US 2027 cycle closed Dec25-Jan26; London Markets portal opens ~Sept-Oct 2026, rolling — estimate, verify on ms.com"}
+  citi:
+    - {programme: "Markets Summer Analyst 2027 + Spring Week", status: open, opens: "2026-08", year: 2027,
+       source: "UK bulge-bracket summer 2027 portals open late Aug-Sept, rolling; spring week ~Oct — estimate, verify on Citi careers"}
+  barclays:
+    - {programme: "Markets Summer Analyst 2027 + Graduate", status: open, opens: "2026-08", year: 2027,
+       source: "Barclays opens summer analyst/grad portals late Aug-Sept, first-come rolling — estimate, verify on Barclays careers"}
+  deutsche-bank:
+    - {programme: "Global Markets Graduate + Summer Internship 2027", status: open, opens: "2026-09", year: 2027,
+       source: "DB careers: grad/intern apps open 'late summer / early autumn'; 2027 grads must finish studies by Jul 2027 — verify on careers.db.com"}
+
+  # ---- Banks: other / capital markets ----
+  santander:
+    - {programme: "CIB Summer Internship / Graduate 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "Santander CIB UK early-careers typically opens ~Sept-Oct — estimate"}
+  lloyds-banking-group:
+    - {programme: "Markets Graduate Programme 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "tracker check shows 0 roles; Lloyds grad schemes open ~Sept-Oct, some rolling — estimate"}
+  rbc:
+    - {programme: "Capital Markets Summer Analyst 2027 (London)", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "RBC CM London S&T summer analyst typically opens ~Aug-Sept, rolling — estimate"}
+  bmo:
+    - {programme: "Capital Markets Summer Analyst 2027 (London)", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "BMO CM London early-careers typically opens ~Aug-Sept — estimate"}
+  cibc:
+    - {programme: "Capital Markets Graduate / Analyst 2027 (London)", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "CIBC CM London early-careers typically opens ~Sept — estimate"}
+  jefferies:
+    - {programme: "Summer Analyst 2027 (London)", status: open, opens: "2026-06", year: 2027,
+       source: "Jefferies runs early London summer analyst cycle (often live by summer 2026); disabled in tracker — verify"}
+
+  # ---- Asset managers ----
+  blackrock:
+    - {programme: "2027 Summer Internship + Placement + Off-cycle (EMEA)", status: open, opens: "2026-06", year: 2027,
+       source: "tracker check 2026-09-03: '2027 Summer Internship / Placement / Off-cycle Program - EMEA' London all live"}
+  invesco:
+    - {programme: "Graduate Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check shows only experienced roles; Invesco UK grad scheme typically opens ~autumn — estimate"}
+  m-and-g:
+    - {programme: "Investment Graduate Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "M&G grad scheme typically opens ~Oct-Nov — estimate"}
+  wellington-management:
+    - {programme: "Investment / Early Career Programme 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "tracker check shows only experienced trading roles; Wellington early-career intake ~Sept-Oct — estimate"}
+  state-street:
+    - {programme: "Graduate Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "State Street UK grad programme typically opens ~Oct — estimate"}
+  northern-trust:
+    - {programme: "Graduate Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "Northern Trust UK grad programme typically opens ~Oct-Nov — estimate"}
+  legal-and-general:
+    - {programme: "LGIM Graduate Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check shows only experienced roles; L&G/LGIM grad scheme typically opens ~Oct — estimate"}
+
+  # ---- Inter-dealer brokers / other ----
+  tp-icap:
+    - {programme: "Graduate / Trainee Broker 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "TP ICAP grad/trainee-broker intake typically ~autumn, some rolling — estimate"}
+  tradition:
+    - {programme: "Graduate / Trainee Broker 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "Tradition trainee-broker intake typically ~autumn / rolling — estimate"}
+  clear-street:
+    - {programme: "Graduate / Internship", status: rolling, opens: rolling,
+       source: "broker-dealer, growing London office — hires rolling, no fixed early-careers cycle found"}
+
+  # ---- Commodity houses ----
+  glencore:
+    - {programme: "2027 Commercial Graduate Programme (London)", status: open, opens: "2026-07-01", closes: "2026-10-09", year: 2027,
+       source: "Glencore UK Greenhouse: 2027 Commercial Graduate Programme opened 1 Jul 2026, closes 9 Oct 2026"}
+  trafigura:
+    - {programme: "Commercial Graduate Programme 2027", status: closed, opens: "2026-01", year: 2027,
+       source: "Trafigura 2027 Commercial Graduate Programme applications closed (Geneva/Houston/Singapore, not London); next cycle 2028"}
+  vitol:
+    - {programme: "Early Careers 2027 (London)", status: not_yet_open, opens: "2026-12", year: 2027,
+       source: "Vitol early-careers page: London grad/final-year applications closed as of Sept 2026, site says check back in winter"}
+  louis-dreyfus:
+    - {programme: "Graduate Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "LDC graduate programme typically opens ~autumn, region-dependent / rolling — estimate"}
+  cargill:
+    - {programme: "Trading / Commercial Graduate Programme 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "Cargill trading/commercial grad intake typically opens ~Sept-Oct, often rolling — estimate"}
+  engelhart:
+    - {programme: "Commodity Trading Analytics Internship", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Commodity Trading Analytics Internship Program' London live"}
+  viterra:
+    - {programme: "Graduate Trader Programme 2027", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "Viterra graduate trader programme typically opens ~autumn — estimate"}
+  stx-group:
+    - {programme: "Graduate Trader / Trainee", status: rolling, opens: rolling,
+       source: "environmental-commodities trading; trainee-trader hiring is rolling — no fixed cycle found"}
+  ecom:
+    - {programme: "Graduate / Trainee", status: unknown, opens: "", source: "ECOM Agroindustrial — no public early-careers cycle found"}
+  freepoint:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "Freepoint Commodities — early-careers hiring appears ad-hoc, nothing published"}
+  olam-agri:
+    - {programme: "Graduate Trainee Programme", status: unknown, opens: "", source: "Olam Agri runs regional grad trainee schemes; no London cycle found"}
+  met-group:
+    - {programme: "Graduate / Junior Trader", status: unknown, opens: "", source: "MET Group (energy) — no public early-careers cycle found"}
+  vesper:
+    - {programme: "Graduate / Analyst", status: unknown, opens: "", source: "Vesper (dairy market intel/trading) — small firm, no public cycle found"}
+
+  # ---- Energy / utilities ----
+  shell-trading:
+    - {programme: "Graduate Programme 2027 (incl. Trading & Supply)", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "Shell Graduate Programme 2027 UK applications reported opening Sept 2026; includes commercial/trading — verify on shell.com/careers"}
+  bp-trading:
+    - {programme: "Graduate Programme 2027 (Trading & Shipping)", status: open, opens: "2026-07", year: 2027,
+       source: "BP Graduate Programme 2027 reported open since ~July 2026; includes supply, trading & shipping"}
+  equinor:
+    - {programme: "Market Analysis & Trading Graduate Programme 2027 (London)", status: closed, opens: "2026-07", closes: "2026-08-27", year: 2027,
+       source: "Equinor 2027 Market Analysis & Trading graduate programme applications closed 27 Aug 2026"}
+  vattenfall:
+    - {programme: "Graduate Programme 2027 (Trading / Analytics)", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "Vattenfall grad/trainee intake typically ~autumn, some rolling — estimate"}
+  axpo:
+    - {programme: "Graduate / Trainee Programme", status: unknown, opens: "", source: "Axpo trainee/grad hiring appears ad-hoc — nothing published for 2027"}
+
+  # ---- Additional / disabled-in-tracker firms (kept for the calendar) ----
+  aquatic:
+    - {programme: "Quantitative Researcher Internship Summer 2027", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-03: 'Quantitative Researcher, Intern (Summer 2027)' Chicago/London live"}
+  sig:
+    - {programme: "Quant Trader/Researcher Graduate 2027 + Summer Internship 2027", status: open, opens: "2026-07", year: 2027,
+       source: "tracker check 2026-09-03: ~13 'Graduate: 2027' and 'Internship: Summer 2027' London roles live; SIG reviews rolling"}
+  citadel:
+    - {programme: "Summer Internship 2027", status: open, opens: "2026-07", year: 2027,
+       source: "Citadel 2027 summer intern postings live since ~July 2026, filled rolling (disabled in tracker)"}
+  citadel-securities:
+    - {programme: "Summer Internship 2027", status: open, opens: "2026-07", year: 2027,
+       source: "Citadel Securities 2027 summer intern postings live since ~July 2026, filled rolling (disabled in tracker)"}
+  drw:
+    - {programme: "Campus / Internship 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "DRW campus intake typically opens ~Aug-Sept and fills rolling; disabled in tracker — estimate"}
+  caxton-associates:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "macro HF, no public early-careers cycle found (disabled in tracker)"}
+  walleye-capital:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "multi-manager HF, no public London early-careers cycle found (disabled in tracker)"}
+  castleton-cci:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "Castleton Commodities — no public early-careers cycle found (disabled in tracker)"}
+  edf-trading:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "EDF Trading — early-careers hiring appears ad-hoc (disabled in tracker)"}
+  statar-capital:
+    - {programme: "Graduate / Internship", status: unknown, opens: "", source: "Statar (natgas HF) — no public early-careers cycle found (disabled in tracker)"}
+  cofco-international:
+    - {programme: "Graduate Trainee Programme", status: unknown, opens: "", source: "COFCO International — regional grad schemes, no London cycle found (disabled in tracker)"}
 
 # Pay tier per firm (drives the comp estimate used to rank roles — money first).
 # elite_prop | hedge_fund | bank_bulge | bank_other | commodity_major | commodity_other | energy_utility
