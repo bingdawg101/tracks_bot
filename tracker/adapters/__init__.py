@@ -12,6 +12,7 @@ from .gs_higher import GsHigherAdapter
 from .html_list import HtmlListAdapter
 from .lever import LeverAdapter
 from .oracle_orc import OracleOrcAdapter
+from .phenom import PhenomAdapter
 from .playwright_feed import PlaywrightFeedAdapter
 from .radancy import RadancyAdapter
 from .recruitee import RecruiteeAdapter
@@ -38,6 +39,7 @@ _REGISTRY: dict[str, type[Adapter]] = {
     "teamtailor": TeamtailorAdapter,
     "radancy": RadancyAdapter,
     "successfactors": SuccessFactorsAdapter,
+    "phenom": PhenomAdapter,
 }
 
 

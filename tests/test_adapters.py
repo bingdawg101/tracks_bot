@@ -218,6 +218,35 @@ async def test_successfactors_parses_tiles_and_expands_iso_location():
     assert grad.url == "https://careers.ex.com/job/Graduate-Commodities-Trader/9001/"
 
 
+@respx.mock
+async def test_phenom_extracts_embedded_ddo_jobs():
+    ddo = {
+        "eagerLoadRefineSearch": {
+            "totalHits": 2,
+            "data": {"jobs": [
+                {"title": "2027 Markets Analyst Programme", "jobId": "R-1",
+                 "location": "London, United Kingdom", "type": "Full time",
+                 "category": "Capital Markets", "postedDate": "2026-09-01T00:00:00Z",
+                 "applyUrl": "https://jobs.x.com/apply/R-1",
+                 "descriptionTeaser": "Join our graduate markets programme."},
+                {"title": "Senior FX Trader", "jobId": "R-2", "location": "New York",
+                 "type": "Full time"},
+            ]},
+        }
+    }
+    page = "<html><body><script>window.phApp = {}; phApp.ddo = " + json.dumps(ddo) + ";</script></body></html>"
+    respx.get("https://jobs.x.com/en/search-results").mock(
+        return_value=httpx.Response(200, text=page))
+    firm = FirmConfig(slug="x", name="X", adapter="phenom",
+                      source={"host": "jobs.x.com", "path": "/en/search-results"})
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+    grad = next(p for p in posts if p.source_id == "R-1")
+    assert grad.title == "2027 Markets Analyst Programme"
+    assert grad.location == "London, United Kingdom"
+    assert grad.url == "https://jobs.x.com/apply/R-1"
+
+
 def test_missing_token_raises():
     firm = FirmConfig(slug="acme", name="Acme", adapter="greenhouse", source={})
     with pytest.raises(AdapterError):
