@@ -169,6 +169,8 @@ tiers:
   galaxy-digital: elite_prop
   wincent: elite_prop
   sig: elite_prop
+  jump-crypto: elite_prop
+  grasshopper: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -484,6 +486,16 @@ firms:
     name: Wincent
     adapter: ashby
     source: {token: wincent}   # verified 2026-09-03 (crypto MM / HFT / power, EU)
+
+  - slug: jump-crypto
+    name: Jump Crypto
+    adapter: greenhouse
+    source: {token: jumpcrypto}   # verified 2026-09-03 (Jump's crypto arm; live London campus crypto-researcher roles)
+
+  - slug: grasshopper
+    name: Grasshopper
+    adapter: greenhouse
+    source: {token: grasshopperasia}   # verified 2026-09-03 (Singapore prop MM; Asia-only board)
 
   - slug: sig
     name: Susquehanna International Group
