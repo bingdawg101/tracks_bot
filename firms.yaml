@@ -170,6 +170,13 @@ tiers:
   aqr: hedge_fund
   tp-icap: bank_other
   tradition: bank_other
+  schroders: bank_other
+  invesco: bank_other
+  m-and-g: bank_other
+  wellington-management: bank_other
+  state-street: bank_other
+  northern-trust: bank_other
+  legal-and-general: bank_other
   goldman-sachs: bank_bulge
   jpmorgan: bank_bulge
   morgan-stanley: bank_bulge
@@ -520,6 +527,63 @@ firms:
     name: Tradition
     adapter: smartrecruiters
     source: {company: tradition}   # verified 2026-09-03 (interdealer broker, London)
+
+  # ---- Asset managers / custodians with trading & markets desks (batch 7) ----
+  - slug: schroders
+    name: Schroders
+    adapter: oracle_orc
+    source: {host: ekbq.fa.em2.oraclecloud.com, site: CX_2}   # verified 2026-09-03
+    filters:
+      include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
+                "portfolio manager", "fixed income", equities, multi-asset, markets, structuring]
+
+  - slug: invesco
+    name: Invesco
+    adapter: workday
+    source: {tenant: invesco, wd: wd1, site: IVZ}   # verified 2026-09-03 (234 roles)
+    filters:
+      include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
+                "portfolio manager", "fixed income", equities, markets, etf]
+
+  - slug: m-and-g
+    name: M&G plc
+    adapter: workday
+    source: {tenant: mgpru, wd: wd3, site: mandgprudential}   # verified 2026-09-03
+    filters:
+      include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
+                "portfolio manager", "fixed income", equities, markets, credit]
+
+  - slug: wellington-management
+    name: Wellington Management
+    adapter: workday
+    source: {tenant: wellington, wd: wd5, site: External}   # verified 2026-09-03 (Boston-heavy)
+    filters:
+      include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
+                "portfolio manager", "fixed income", equities, markets]
+
+  - slug: state-street
+    name: State Street
+    adapter: workday
+    source: {tenant: statestreet, wd: wd1, site: Global}   # verified 2026-09-03 (1200+ roles — tight filter)
+    filters:
+      include: [trading, trader, "global markets", "capital markets", fx, "foreign exchange",
+                quant, quantitative, "securities finance", "portfolio", structuring]
+
+  - slug: northern-trust
+    name: Northern Trust
+    adapter: workday
+    source: {tenant: ntrs, wd: wd1, site: northerntrust}   # verified 2026-09-03 (660+ roles — tight filter)
+    filters:
+      include: [trading, trader, "capital markets", "global markets", fx, "foreign exchange",
+                quant, quantitative, "securities finance", "front office"]
+
+  - slug: legal-and-general
+    name: Legal & General
+    adapter: smartrecruiters
+    source: {company: legalandgeneral}   # verified 2026-09-03 (LGIM investment mgmt)
+    filters:
+      include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
+                "portfolio manager", "fixed income", "front office", markets, credit]
 
   # ---- Commodity trading houses ----
   - slug: vitol

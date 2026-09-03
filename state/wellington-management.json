@@ -1,0 +1,49 @@
+{
+  "firm": "Wellington Management",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "R94212": {
+      "firm": "Wellington Management",
+      "source_id": "R94212",
+      "title": "Trade Coordinator, Fixed Income",
+      "location": "London, United Kingdom",
+      "url": "https://wellington.wd5.myworkdayjobs.com/job/London-United-Kingdom/Trade-Coordinator--Fixed-Income_R94212-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 72,
+      "comp_label": "~£72k (est. £56–88k)",
+      "comp_basis": "bank other · sales trading",
+      "first_seen": "2026-09-03T20:39:58.852183Z"
+    },
+    "R94597": {
+      "firm": "Wellington Management",
+      "source_id": "R94597",
+      "title": "EMEA Emerging Market Debt Trader",
+      "location": "London, United Kingdom",
+      "url": "https://wellington.wd5.myworkdayjobs.com/job/London-United-Kingdom/EMEA-Emerging-Market-Debt-Trader_R94597-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-09-03T20:39:58.847411Z"
+    },
+    "R94635": {
+      "firm": "Wellington Management",
+      "source_id": "R94635",
+      "title": "Trade Operations Analyst",
+      "location": "London, United Kingdom",
+      "url": "https://wellington.wd5.myworkdayjobs.com/job/London-United-Kingdom/Trade-Operations-Analyst_R94635-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-09-03T20:39:58.845859Z"
+    }
+  }
+}
