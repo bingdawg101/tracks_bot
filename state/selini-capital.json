@@ -1,0 +1,35 @@
+{
+  "firm": "Selini Capital",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4805443008": {
+      "firm": "Selini Capital",
+      "source_id": "4805443008",
+      "title": "Experienced Quantitative Researcher",
+      "location": "London, Singapore",
+      "url": "https://job-boards.greenhouse.io/selinicapital/jobs/4805443008",
+      "department": "Quant Research",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
+      "first_seen": "2026-09-03T20:27:45.853503Z"
+    },
+    "4890973008": {
+      "firm": "Selini Capital",
+      "source_id": "4890973008",
+      "title": "Junior Quantitative Researcher",
+      "location": "London, Singapore",
+      "url": "https://job-boards.greenhouse.io/selinicapital/jobs/4890973008",
+      "department": "Quant Research",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 180,
+      "comp_label": "~£180k (est. £112–248k)",
+      "comp_basis": "elite prop · quant research",
+      "first_seen": "2026-09-03T20:27:45.855474Z"
+    }
+  }
+}

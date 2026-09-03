@@ -148,6 +148,13 @@ tiers:
   auros: elite_prop
   kronos-research: elite_prop
   keyrock: elite_prop
+  wintermute: elite_prop
+  selini-capital: elite_prop
+  3red-partners: elite_prop
+  transmarket-group: elite_prop
+  simplex-trading: elite_prop
+  falconx: elite_prop
+  eclipse-trading: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -340,6 +347,41 @@ firms:
     name: Keyrock
     adapter: ashby
     source: {token: keyrock}   # verified 2026-09-03 (crypto MM, London)
+
+  - slug: wintermute
+    name: Wintermute
+    adapter: lever
+    source: {token: wintermute-trading}   # verified 2026-09-03 (crypto MM, London desk)
+
+  - slug: selini-capital
+    name: Selini Capital
+    adapter: greenhouse
+    source: {token: selinicapital}   # verified 2026-09-03 (London/Singapore quant)
+
+  - slug: 3red-partners
+    name: 3Red Partners
+    adapter: greenhouse
+    source: {token: 3redpartners}   # verified 2026-09-03 (Chicago/Amsterdam prop)
+
+  - slug: transmarket-group
+    name: TransMarket Group
+    adapter: greenhouse
+    source: {token: transmarketgroup}   # verified 2026-09-03 (Chicago-heavy, intern programs)
+
+  - slug: simplex-trading
+    name: Simplex Trading
+    adapter: greenhouse
+    source: {token: simplextrading}   # verified 2026-09-03 (Chicago)
+
+  - slug: falconx
+    name: FalconX
+    adapter: greenhouse
+    source: {token: falconx}   # verified 2026-09-03 (crypto prime broker, US-heavy)
+
+  - slug: eclipse-trading
+    name: Eclipse Trading
+    adapter: greenhouse
+    source: {token: eclipsetrading}   # verified 2026-09-03 (HK/Sydney prop)
 
   # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
   - slug: man-group
