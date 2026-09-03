@@ -25,11 +25,25 @@ jobs:
         with:
           enable-cache: true
 
+      - name: Detect browser need
+        id: browser
+        run: |
+          if grep -Eq 'adapter:\s*playwright' firms.yaml || grep -Eq 'render:\s*true' firms.yaml; then
+            echo "needed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Cache Playwright
+        if: steps.browser.outputs.needed == 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}
+
       - name: Install
         run: |
-          if grep -Eq '^\s*adapter:\s*(playwright|html)\b' firms.yaml && grep -Eq 'render:\s*true|adapter:\s*playwright' firms.yaml; then
+          if [ "${{ steps.browser.outputs.needed }}" = "true" ]; then
             uv sync --extra browser
-            uv run playwright install --with-deps chromium
+            uv run playwright install chromium
           else
             uv sync
           fi
