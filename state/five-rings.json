@@ -1,0 +1,45 @@
+{
+  "firm": "Five Rings",
+  "last_run": "2026-09-03T15:26:07.673559Z",
+  "last_success": "2026-09-03T15:26:07.673559Z",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "5255367008": {
+      "firm": "Five Rings",
+      "source_id": "5255367008",
+      "title": "Campus Full Time 2027 - Quantitative Trader - London",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
+      "department": "Quantitative Trading",
+      "employment_type": "Full-time",
+      "match_level": "match",
+      "match_reason": "role 'trader', title mentions 'campus', location 'london'",
+      "first_seen": "2026-09-03T15:24:39.113877Z"
+    },
+    "5349905008": {
+      "firm": "Five Rings",
+      "source_id": "5349905008",
+      "title": "Campus Full Time 2027 - Software Developer - London",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349905008",
+      "department": "Software Development",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "match_reason": "title mentions 'campus', location 'london', role wording unclear",
+      "first_seen": "2026-09-03T15:24:39.114018Z"
+    },
+    "4043325008": {
+      "firm": "Five Rings",
+      "source_id": "4043325008",
+      "title": "Experienced/Lateral - Trading Assistant",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4043325008",
+      "department": "Trading Operations",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
+      "first_seen": "2026-09-03T15:24:39.114756Z"
+    }
+  }
+}

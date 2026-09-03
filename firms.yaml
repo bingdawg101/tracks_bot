@@ -1,0 +1,180 @@
+# Careers Tracker configuration.
+#
+# Each firm entry:
+#   slug:     stable id used in CLI + state filenames
+#   name:     display name
+#   adapter:  greenhouse | lever   (more adapters land in later phases)
+#   source:   adapter connection settings, e.g. {token: janestreet}
+#   enabled:  set false to pause a firm without deleting its config
+#   filters:  per-firm overrides; lists are MERGED with `defaults` below
+#
+# Filter semantics (see tracker/filters.py):
+#   - a posting is IGNORED if its title/department contains any `exclude` term
+#   - `locations`: posting location (or body) must contain one of these; empty => any
+#   - `eligibility_terms`: graduate / final-year / internship signal in title or body
+#   - `include`: role keyword; match + eligibility + location => MATCH (alert)
+#   - fits location + eligibility but not `include` => REVIEW (soft alert, dashboard)
+
+defaults:
+  include:
+    - trader
+    - trading
+    - quant
+    - quantitative
+    - research
+    - researcher
+    - sales and trading
+    - global markets
+    - commodities
+    - commodity
+    - structuring
+    - strats
+    - execution
+    - market maker
+    - market making
+  exclude:
+    - senior
+    - vice president
+    - "vp,"
+    - executive director
+    - managing director
+    - lead
+    - head of
+    - manager
+    - "director,"
+    - principal
+    - staff
+    - experienced hire
+    - "10+ years"
+    - devops
+    - site reliability
+    - recruiter
+    - talent acquisition
+  locations:
+    - london
+    - united kingdom
+    - "uk"
+    - england
+  eligibility_terms:
+    - graduate
+    - grad
+    - intern
+    - internship
+    - placement
+    - "final year"
+    - "final-year"
+    - penultimate
+    - summer analyst
+    - "off-cycle"
+    - "off cycle"
+    - campus
+    - apprentice
+    - apprenticeship
+    - trainee
+    - "co-op"
+  # Authoritative when the source tags a structured employment type.
+  eligible_employment_types:
+    - intern
+    - graduate
+    - "new grad"
+    - "co-op"
+    - "co op"
+    - placement
+    - campus
+    - student
+    - apprentice
+    - trainee
+  excluded_employment_types:
+    - experienced
+    - permanent
+    - "full-time: experienced"
+    - "experienced hire"
+
+failure_alert_threshold: 3
+http_timeout_seconds: 20.0
+http_retries: 2
+max_concurrency: 8
+
+firms:
+  # ---- Quant trading / market makers (Greenhouse-backed) ----
+  - slug: jane-street
+    name: Jane Street
+    adapter: greenhouse
+    source: {token: janestreet}
+    filters:
+      departments:
+        - Quantitative Trading
+        - Quantitative Research
+        - Sales & Trading
+        - Trading Desk Operations
+        - Machine Learning
+
+  - slug: hudson-river-trading
+    name: Hudson River Trading
+    adapter: greenhouse
+    source: {token: wehrtyou}          # verified 2026-09
+
+  - slug: five-rings
+    name: Five Rings
+    adapter: greenhouse
+    source: {token: fiveringsllc}      # verified 2026-09
+
+  - slug: squarepoint
+    name: Squarepoint Capital
+    adapter: greenhouse
+    source: {token: squarepointcapital}  # verified 2026-09
+
+  - slug: aquatic
+    name: Aquatic Capital Management
+    adapter: greenhouse
+    source: {token: aquaticcapitalmanagement}  # verified 2026-09
+
+  - slug: imc
+    name: IMC Trading
+    adapter: greenhouse
+    source: {token: imc}              # verified 2026-09
+
+  - slug: jump-trading
+    name: Jump Trading
+    adapter: greenhouse
+    source: {token: jumptrading}      # verified 2026-09
+
+  - slug: tower-research
+    name: Tower Research Capital
+    adapter: greenhouse
+    source: {token: towerresearchcapital}  # verified 2026-09
+
+  - slug: flow-traders
+    name: Flow Traders
+    adapter: greenhouse
+    source: {token: flowtraders}      # verified 2026-09
+
+  - slug: virtu
+    name: Virtu Financial
+    adapter: greenhouse
+    source: {token: virtu}            # verified 2026-09
+
+  # ---- Not on Greenhouse — need html/workday adapter (Phase 4) ----
+  - slug: citadel
+    name: Citadel
+    adapter: greenhouse
+    source: {token: citadel}
+    enabled: false   # custom careers site (Phase 4)
+
+  - slug: citadel-securities
+    name: Citadel Securities
+    adapter: greenhouse
+    source: {token: citadelsecurities}
+    enabled: false   # custom careers site (Phase 4)
+
+  - slug: drw
+    name: DRW
+    adapter: greenhouse
+    source: {token: drwholdingsllc}
+    enabled: false   # not a public Greenhouse board — verify ATS (Phase 4)
+
+  - slug: optiver
+    name: Optiver
+    adapter: greenhouse
+    source: {token: optiver}
+    enabled: false   # Greenhouse board is empty — moved to custom site (Phase 4)

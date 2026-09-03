@@ -1,0 +1,33 @@
+{
+  "firm": "Virtu Financial",
+  "last_run": "2026-09-03T15:26:08.151333Z",
+  "last_success": "2026-09-03T15:26:08.151333Z",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "8746197002": {
+      "firm": "Virtu Financial",
+      "source_id": "8746197002",
+      "title": "2027 Summer Internship - Client Support",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8746197002",
+      "department": "Internships",
+      "employment_type": "",
+      "match_level": "review",
+      "match_reason": "title mentions 'internship', location 'london', role wording unclear",
+      "first_seen": "2026-09-03T15:24:39.240647Z"
+    },
+    "8745933002": {
+      "firm": "Virtu Financial",
+      "source_id": "8745933002",
+      "title": "2027 Summer Internship - Technical",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8745933002",
+      "department": "Internships",
+      "employment_type": "",
+      "match_level": "review",
+      "match_reason": "title mentions 'internship', location 'london', role wording unclear",
+      "first_seen": "2026-09-03T15:24:39.240750Z"
+    }
+  }
+}

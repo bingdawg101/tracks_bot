@@ -1,0 +1,69 @@
+{
+  "firm": "IMC Trading",
+  "last_run": "2026-09-03T15:26:07.963253Z",
+  "last_success": "2026-09-03T15:26:07.963253Z",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4658374101": {
+      "firm": "IMC Trading",
+      "source_id": "4658374101",
+      "title": "Commodities Broker Trader",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4658374101",
+      "department": "Trading",
+      "employment_type": "",
+      "match_level": "review",
+      "match_reason": "role 'trader' but no eligibility signal, location 'london'",
+      "first_seen": "2026-09-03T15:24:38.951551Z"
+    },
+    "4658369101": {
+      "firm": "IMC Trading",
+      "source_id": "4658369101",
+      "title": "Commodities Volatility Trader",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4658369101",
+      "department": "Trading",
+      "employment_type": "",
+      "match_level": "review",
+      "match_reason": "role 'trader' but no eligibility signal, location 'london'",
+      "first_seen": "2026-09-03T15:24:38.952383Z"
+    },
+    "4914883101": {
+      "firm": "IMC Trading",
+      "source_id": "4914883101",
+      "title": "Graduate Machine Learning Researcher - London",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
+      "department": "Machine Learning Engineering",
+      "employment_type": "",
+      "match_level": "match",
+      "match_reason": "role 'researcher', title mentions 'graduate', location 'london'",
+      "first_seen": "2026-09-03T15:24:38.953934Z"
+    },
+    "4588833101": {
+      "firm": "IMC Trading",
+      "source_id": "4588833101",
+      "title": "Quantitative Researcher - Equities",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4588833101",
+      "department": "Quantitative Research",
+      "employment_type": "",
+      "match_level": "review",
+      "match_reason": "role 'quantitative', description mentions 'graduate' (unconfirmed), location 'london'",
+      "first_seen": "2026-09-03T15:24:38.958239Z"
+    },
+    "4742842101": {
+      "firm": "IMC Trading",
+      "source_id": "4742842101",
+      "title": "Trading Strategy Software Engineer",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4742842101",
+      "department": "Development (Group)",
+      "employment_type": "",
+      "match_level": "review",
+      "match_reason": "role 'trading' but no eligibility signal, location 'london'",
+      "first_seen": "2026-09-03T15:24:38.960842Z"
+    }
+  }
+}

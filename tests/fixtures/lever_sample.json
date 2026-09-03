@@ -1,0 +1,16 @@
+[
+  {
+    "id": "abc-123",
+    "text": "Graduate Quantitative Researcher",
+    "hostedUrl": "https://jobs.lever.co/acme/abc-123",
+    "applyUrl": "https://jobs.lever.co/acme/abc-123/apply",
+    "categories": {
+      "location": "London, UK",
+      "team": "Research",
+      "commitment": "Intern",
+      "department": "Quant"
+    },
+    "descriptionPlain": "Join our graduate research programme.",
+    "createdAt": 1723000000000
+  }
+]

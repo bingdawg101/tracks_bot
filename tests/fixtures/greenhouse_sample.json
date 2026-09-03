@@ -1,0 +1,30 @@
+{
+  "jobs": [
+    {
+      "id": 111,
+      "title": "Quantitative Trader",
+      "absolute_url": "https://example.com/apply/111",
+      "location": {"name": "London, England, United Kingdom"},
+      "departments": [{"name": "Quantitative Trading"}],
+      "metadata": [
+        {"name": "Employment Type", "value": "Summer Internship", "value_type": "single_select"},
+        {"name": "Duration", "value": "May-August", "value_type": "single_select"}
+      ],
+      "updated_at": "2026-08-27T15:52:07-04:00",
+      "content": "&lt;p&gt;Trade on &lt;b&gt;pricing&lt;/b&gt; inefficiencies.&lt;/p&gt;"
+    },
+    {
+      "id": 222,
+      "title": "Senior Quantitative Trader",
+      "absolute_url": "https://example.com/apply/222",
+      "location": {"name": "London, England, United Kingdom"},
+      "departments": [{"name": "Quantitative Trading"}],
+      "metadata": [
+        {"name": "Employment Type", "value": "Full-Time: Experienced", "value_type": "single_select"}
+      ],
+      "updated_at": "2026-08-27T15:52:07-04:00",
+      "content": "Experienced hire."
+    }
+  ],
+  "meta": {"total": 2}
+}
