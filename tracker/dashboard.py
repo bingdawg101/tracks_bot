@@ -57,10 +57,11 @@ _TEMPLATE = Template(
 <h2 class="big">&#128309; Opening soon &mdash; get ready ({{ soon|length }})</h2>
 {% if soon %}
 <table class="cal">
-<tr><th>When</th><th>Firm</th><th>Programme</th><th>Basis</th></tr>
+<tr><th>When</th><th>Expected</th><th>Firm</th><th>Programme</th><th>Basis</th></tr>
 {% for c in soon %}
 <tr>
-  <td class="soon n">{% if c.days_until <= 0 %}now / overdue{% elif c.days_until < 31 %}{{ c.days_until }}d &mdash; {{ c.opens_display }}{% else %}{{ c.opens_display }}{% endif %}</td>
+  <td class="soon n">{{ c.when }}</td>
+  <td class="n tag">{{ c.opens_display }}{% if c.estimate %} <span title="estimate">~</span>{% endif %}</td>
   <td>{{ c.firm }}</td>
   <td>{{ c.programme }}</td>
   <td class="tag">{{ c.source }}</td>

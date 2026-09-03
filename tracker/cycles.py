@@ -92,7 +92,11 @@ def _parse_window(spec: str) -> tuple[date | None, date | None]:
 
 def upcoming(cycles_by_firm: dict[str, list[Cycle]], within_days: int = 120,
              firm_names: dict[str, str] | None = None) -> list[dict]:
-    """Flattened, date-sorted list of cycles expected to open within `within_days`."""
+    """Flattened, date-sorted list of cycles expected to open within `within_days`.
+
+    `when`: "overdue" (a hard date now past), "opening now — verify" (a month estimate
+    for the current/past month), "Nd" (days away), or the month label.
+    """
     names = firm_names or {}
     now = utcnow().date()
     rows: list[dict] = []
@@ -100,16 +104,25 @@ def upcoming(cycles_by_firm: dict[str, list[Cycle]], within_days: int = 120,
         for cyc in cycles:
             if cyc.status not in (CycleStatus.NOT_YET_OPEN, CycleStatus.UNKNOWN):
                 continue
-            dleft = cyc.days_until_open(now)
-            if dleft is None or dleft < -14 or dleft > within_days:
+            earliest, latest = cyc.open_window()
+            if not (earliest or latest):
                 continue
+            exact = bool(_DATE.match(cyc.opens.strip()))
+            dleft = ((earliest or latest) - now).days
+            # sort key: exact dates by their day; month estimates by end-of-month
+            sort_day = ((latest or earliest) - now).days if not exact else dleft
+            if sort_day < -21 or sort_day > within_days:
+                continue
+            if dleft > 0:
+                when = f"{dleft}d"
+            elif exact:
+                when = "overdue — check now"
+            else:
+                when = "opening ~now — verify"
             rows.append({
-                "slug": slug,
-                "firm": names.get(slug, slug),
-                "programme": cyc.programme,
-                "opens_display": cyc.opens_display(),
-                "days_until": dleft,
-                "source": cyc.source,
+                "slug": slug, "firm": names.get(slug, slug), "programme": cyc.programme,
+                "opens_display": cyc.opens_display(), "days_until": dleft,
+                "when": when, "estimate": not exact, "source": cyc.source,
             })
-    rows.sort(key=lambda r: r["days_until"])
+    rows.sort(key=lambda r: (r["days_until"], r["firm"]))
     return rows
