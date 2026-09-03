@@ -1,0 +1,21 @@
+{
+  "firm": "Maven Securities",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "7588726": {
+      "firm": "Maven Securities",
+      "source_id": "7588726",
+      "title": "Quant Trader - Equity Options",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/maventrading/jobs/7588726",
+      "department": "Options Market Making",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
+      "first_seen": "2026-09-03T21:00:22.301728Z"
+    }
+  }
+}

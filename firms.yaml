@@ -162,6 +162,10 @@ tiers:
   blackedge-capital: elite_prop
   alphagrep: elite_prop
   caladan: elite_prop
+  maven-securities: elite_prop
+  gelber-group: elite_prop
+  presto-labs: elite_prop
+  flowdesk: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -184,6 +188,7 @@ tiers:
   state-street: bank_other
   northern-trust: bank_other
   legal-and-general: bank_other
+  blackrock: bank_other
   goldman-sachs: bank_bulge
   jpmorgan: bank_bulge
   morgan-stanley: bank_bulge
@@ -437,6 +442,26 @@ firms:
     adapter: greenhouse
     source: {token: caladan}   # verified 2026-09-03 (crypto MM, Singapore)
 
+  - slug: maven-securities
+    name: Maven Securities
+    adapter: greenhouse
+    source: {token: maventrading}   # verified 2026-09-03 (London options MM)
+
+  - slug: gelber-group
+    name: Gelber Group
+    adapter: greenhouse
+    source: {token: gelbergroup}   # verified 2026-09-03 (Chicago/NY/Amsterdam prop)
+
+  - slug: presto-labs
+    name: Presto Labs
+    adapter: lever
+    source: {token: prestolabs}   # verified 2026-09-03 (crypto quant HFT, Singapore/Korea)
+
+  - slug: flowdesk
+    name: Flowdesk
+    adapter: smartrecruiters
+    source: {company: flowdesk}   # verified 2026-09-03 (crypto MM, Paris)
+
   # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
   - slug: man-group
     name: Man Group
@@ -627,6 +652,15 @@ firms:
     filters:
       include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
                 "portfolio manager", "fixed income", "front office", markets, credit]
+
+  - slug: blackrock
+    name: BlackRock
+    adapter: radancy
+    source: {host: careers.blackrock.com}   # verified 2026-09-03 (Radancy/TalentBrew, 298 roles)
+    filters:
+      include: [trading, trader, trade, dealer, dealing, quant, quantitative, research,
+                "portfolio manager", "fixed income", equities, markets, structuring,
+                "systematic", "index", "ETF", "risk"]
 
   # ---- Commodity trading houses ----
   - slug: vitol
