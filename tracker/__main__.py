@@ -100,7 +100,13 @@ async def _run_pipeline(args: argparse.Namespace) -> int:
         print("dashboard: docs/index.html")
 
     threshold = settings.failure_alert_threshold
-    hard_fail = [r for r in result.unhealthy if r.failure_count >= threshold]
+    # Rate-limits / timeouts are transient — log but don't cry wolf; only real breakage
+    # (404 / 500 / parse errors) counts toward the health alert.
+    transient = re.compile(r"429|rate.?limit|timed out|timeout|temporarily|503", re.IGNORECASE)
+    hard_fail = [
+        r for r in result.unhealthy
+        if r.failure_count >= threshold and not transient.search(r.error)
+    ]
     if hard_fail:
         names = ", ".join(f"{r.slug} (x{r.failure_count})" for r in hard_fail)
         print(f"\nADAPTER HEALTH: {names} — needs attention", file=sys.stderr)
