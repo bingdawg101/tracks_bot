@@ -35,7 +35,6 @@ def save_state(slug: str, state: FirmState) -> None:
 
 
 def record_failure(state: FirmState, error: str) -> FirmState:
-    state.last_run = utcnow()
     state.failure_count += 1
     state.last_error = error
     return state
@@ -96,8 +95,6 @@ def apply_success(
 
     new_state = FirmState(
         firm=firm_name,
-        last_run=now,
-        last_success=now,
         failure_count=0,
         last_error="",
         tracked=tracked_now,

@@ -1,7 +1,5 @@
 {
   "firm": "Hudson River Trading",
-  "last_run": "2026-09-03T15:26:07.746099Z",
-  "last_success": "2026-09-03T15:26:07.746099Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'research' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.766310Z"
+      "first_seen": "2026-09-03T15:36:09.994990Z"
     },
     "7972584": {
       "firm": "Hudson River Trading",
@@ -27,7 +25,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'research' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.767594Z"
+      "first_seen": "2026-09-03T15:36:09.996234Z"
     },
     "8161767": {
       "firm": "Hudson River Trading",
@@ -39,7 +37,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'researcher' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.768939Z"
+      "first_seen": "2026-09-03T15:36:09.997464Z"
     },
     "8161770": {
       "firm": "Hudson River Trading",
@@ -51,7 +49,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'researcher' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.770249Z"
+      "first_seen": "2026-09-03T15:36:09.998689Z"
     },
     "8052050": {
       "firm": "Hudson River Trading",
@@ -63,7 +61,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.771491Z"
+      "first_seen": "2026-09-03T15:36:09.999866Z"
     },
     "8059845": {
       "firm": "Hudson River Trading",
@@ -75,7 +73,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.772757Z"
+      "first_seen": "2026-09-03T15:36:10.001065Z"
     },
     "7964062": {
       "firm": "Hudson River Trading",
@@ -87,7 +85,7 @@
       "employment_type": "Intern",
       "match_level": "match",
       "match_reason": "role 'trading', employment type 'Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.772809Z"
+      "first_seen": "2026-09-03T15:36:10.001114Z"
     },
     "8059837": {
       "firm": "Hudson River Trading",
@@ -99,7 +97,7 @@
       "employment_type": "Intern",
       "match_level": "match",
       "match_reason": "role 'trading', employment type 'Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.772862Z"
+      "first_seen": "2026-09-03T15:36:10.001164Z"
     },
     "7867883": {
       "firm": "Hudson River Trading",
@@ -111,7 +109,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.774467Z"
+      "first_seen": "2026-09-03T15:36:10.002639Z"
     },
     "7162019": {
       "firm": "Hudson River Trading",
@@ -123,7 +121,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'research' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.777559Z"
+      "first_seen": "2026-09-03T15:36:10.005591Z"
     },
     "7353090": {
       "firm": "Hudson River Trading",
@@ -135,7 +133,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'research' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.778995Z"
+      "first_seen": "2026-09-03T15:36:10.007019Z"
     },
     "7247998": {
       "firm": "Hudson River Trading",
@@ -147,7 +145,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.780817Z"
+      "first_seen": "2026-09-03T15:36:10.008781Z"
     },
     "7900186": {
       "firm": "Hudson River Trading",
@@ -159,7 +157,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.782305Z"
+      "first_seen": "2026-09-03T15:36:10.010214Z"
     },
     "8046074": {
       "firm": "Hudson River Trading",
@@ -171,7 +169,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.783732Z"
+      "first_seen": "2026-09-03T15:36:10.011589Z"
     },
     "7564973": {
       "firm": "Hudson River Trading",
@@ -183,7 +181,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.785310Z"
+      "first_seen": "2026-09-03T15:36:10.013140Z"
     },
     "7706309": {
       "firm": "Hudson River Trading",
@@ -195,7 +193,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.786573Z"
+      "first_seen": "2026-09-03T15:36:10.014367Z"
     },
     "7583922": {
       "firm": "Hudson River Trading",
@@ -207,7 +205,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'research', description mentions 'grad' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:24:38.786971Z"
+      "first_seen": "2026-09-03T15:36:10.014765Z"
     },
     "7392942": {
       "firm": "Hudson River Trading",
@@ -219,7 +217,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.788610Z"
+      "first_seen": "2026-09-03T15:36:10.016392Z"
     },
     "6703954": {
       "firm": "Hudson River Trading",
@@ -231,7 +229,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.791141Z"
+      "first_seen": "2026-09-03T15:36:10.018880Z"
     },
     "8052083": {
       "firm": "Hudson River Trading",
@@ -243,7 +241,7 @@
       "employment_type": "Intern",
       "match_level": "review",
       "match_reason": "employment type 'Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:38.791362Z"
+      "first_seen": "2026-09-03T15:36:10.019100Z"
     },
     "7398013": {
       "firm": "Hudson River Trading",
@@ -255,7 +253,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'research', description mentions 'grad' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:24:38.791772Z"
+      "first_seen": "2026-09-03T15:36:10.019506Z"
     },
     "8046163": {
       "firm": "Hudson River Trading",
@@ -267,7 +265,7 @@
       "employment_type": "Full-Time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.793478Z"
+      "first_seen": "2026-09-03T15:36:10.021235Z"
     }
   }
 }

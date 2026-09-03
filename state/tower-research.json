@@ -1,7 +1,5 @@
 {
   "firm": "Tower Research Capital",
-  "last_run": "2026-09-03T15:26:07.799959Z",
-  "last_success": "2026-09-03T15:26:07.799959Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:39.042081Z"
+      "first_seen": "2026-09-03T15:36:10.055496Z"
     },
     "7080219": {
       "firm": "Tower Research Capital",
@@ -27,7 +25,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:39.043719Z"
+      "first_seen": "2026-09-03T15:36:10.057014Z"
     },
     "8113986": {
       "firm": "Tower Research Capital",
@@ -39,7 +37,7 @@
       "employment_type": "",
       "match_level": "match",
       "match_reason": "role 'trading', title mentions 'internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.043952Z"
+      "first_seen": "2026-09-03T15:36:10.057235Z"
     },
     "4986715": {
       "firm": "Tower Research Capital",
@@ -51,7 +49,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "role 'trader' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:39.045507Z"
+      "first_seen": "2026-09-03T15:36:10.058629Z"
     },
     "8037824": {
       "firm": "Tower Research Capital",
@@ -63,7 +61,7 @@
       "employment_type": "",
       "match_level": "match",
       "match_reason": "role 'trader', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.045555Z"
+      "first_seen": "2026-09-03T15:36:10.058674Z"
     },
     "8037860": {
       "firm": "Tower Research Capital",
@@ -75,7 +73,7 @@
       "employment_type": "",
       "match_level": "match",
       "match_reason": "role 'trader', title mentions 'internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.045657Z"
+      "first_seen": "2026-09-03T15:36:10.058769Z"
     },
     "7722018": {
       "firm": "Tower Research Capital",
@@ -87,7 +85,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:39.054519Z"
+      "first_seen": "2026-09-03T15:36:10.067344Z"
     }
   }
 }

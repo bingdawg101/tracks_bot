@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Careers Tracker</title>
+<style>
+  :root { color-scheme: light dark; --bg:#fff; --fg:#111; --muted:#666; --line:#e3e3e3;
+    --match:#0a7d32; --review:#8a6d00; --fail:#b00020; --card:#fafafa; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#14151a; --fg:#e8e8e8; --muted:#9aa0a6;
+    --line:#2a2c33; --match:#4ccf6f; --review:#e0b53d; --fail:#ff6b81; --card:#1c1d23; } }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    background:var(--bg); color:var(--fg); padding:24px; max-width:1000px; margin:0 auto; }
+  h1 { font-size:20px; margin:0 0 4px; } h2 { font-size:15px; margin:28px 0 10px; }
+  .meta { color:var(--muted); font-size:13px; margin-bottom:16px; }
+  a { color:inherit; } table { border-collapse:collapse; width:100%; font-size:13.5px; }
+  th,td { text-align:left; padding:7px 10px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { color:var(--muted); font-weight:600; }
+  .n { font-variant-numeric:tabular-nums; } .ok{color:var(--match)} .warn{color:var(--review)} .bad{color:var(--fail)}
+  .pill { display:inline-block; padding:1px 7px; border-radius:10px; font-size:12px;
+    border:1px solid var(--line); }
+  ul.roles { margin:4px 0 0; padding-left:18px; } ul.roles li { margin:2px 0; }
+  .tag { color:var(--muted); font-size:12px; }
+  .hist li { margin:3px 0; } code { background:var(--card); padding:1px 4px; border-radius:4px; }
+</style></head><body>
+<h1>Careers Tracker</h1>
+<div class="meta">
+  Grad / final-year / internship roles &mdash; commodities, quant, S&amp;T, global markets &mdash; London/UK.<br>
+  Content updated 2026-09-03 15:00 UTC &middot;
+  <img alt="workflow status" src="https://img.shields.io/github/actions/workflow/status/bingdawg101/tracks_bot/check.yml?label=last%20check">
+  &middot; <a href="https://github.com/bingdawg101/tracks_bot/actions/workflows/check.yml">run history</a>
+</div>
+
+<h2>Open matching roles (32)</h2>
+<table>
+<tr><th>Firm</th><th class="n">Match</th><th class="n">Review</th><th>Roles</th><th>Health</th></tr>
+
+<tr>
+  <td>Jump Trading</td>
+  <td class="n">11</td>
+  <td class="n">6</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=7976923">Campus AI Researcher, PhD/Postdoc (Full-Time)</a>
+        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=7976964">Campus AI Researcher, PhD/Postdoc (Intern)</a>
+        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=7217856">Campus Crypto Researcher (Full-Time)</a>
+        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=7362318">Campus Crypto Researcher (Intern)</a>
+        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=7977132">Campus ML Research Engineer (Full-Time)</a>
+        <span class="tag">&mdash; London &middot; Full-time - Campus</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=7977145">Campus ML Research Engineer (Intern)</a>
+        <span class="tag">&mdash; London &middot; Jump Trading - Intern</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=8050796">Campus Quantitative Researcher (Full-Time)</a>
+        <span class="tag">&mdash; London; Amsterdam &middot; Full-time - Campus</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=8010307">Campus Quantitative Researcher (Intern)</a>
+        <span class="tag">&mdash; London; Amsterdam &middot; Jump Trading - Intern</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=8059384">Campus Quantitative Researcher (M1/M2 Intern)</a>
+        <span class="tag">&mdash; London; Paris &middot; Jump Trading - Intern</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=8050801">Campus Quantitative Trader (Full-Time)</a>
+        <span class="tag">&mdash; London; Amsterdam &middot; Full-time - Campus</span>
+      </li><li>
+        <a href="https://www.jumptrading.com/hr/job?gh_jid=8050772">Campus Quantitative Trader (Intern)</a>
+        <span class="tag">&mdash; London; Amsterdam &middot; Jump Trading - Intern</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Jane Street</td>
+  <td class="n">9</td>
+  <td class="n">13</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002">Machine Learning Researcher</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002">Machine Learning Researcher</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002">Quantitative Researcher</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002">Quantitative Researcher</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002">Quantitative Trader</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002">Quantitative Trader</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002">Sales and Trading</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002">Trading Desk Operations Engineer</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Full-Time: New Grad</span>
+      </li><li>
+        <a href="https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002">Trading Desk Operations Engineer</a>
+        <span class="tag">&mdash; London, England, United Kingdom &middot; Summer Internship</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Squarepoint Capital</td>
+  <td class="n">4</td>
+  <td class="n">16</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610">Graduate Quant Developer</a>
+        <span class="tag">&mdash; London, Montreal, Singapore &middot; Employee-Regular</span>
+      </li><li>
+        <a href="https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081">Graduate Trading Applications Specialist</a>
+        <span class="tag">&mdash; London, Montreal, New York, Houston, Hong Kong &middot; Employee-Regular</span>
+      </li><li>
+        <a href="https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853">Intern Quant Researcher</a>
+        <span class="tag">&mdash; London, Paris, New York, Singapore, Hong Kong &middot; Intern Full-time</span>
+      </li><li>
+        <a href="https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021">Trading Infrastructure Specialist – Graduate Programme</a>
+        <span class="tag">&mdash; London, Montreal, Hong Kong, New York, Singapore &middot; Employee-Regular</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Tower Research Capital</td>
+  <td class="n">3</td>
+  <td class="n">4</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://www.tower-research.com/open-positions/?gh_jid=8113986">Quantitative Research Internship - 6 Months, Central Execution Research</a>
+        <span class="tag">&mdash; London</span>
+      </li><li>
+        <a href="https://www.tower-research.com/open-positions/?gh_jid=8037824">Quantitative Trader/Researcher Graduate Programme 2027</a>
+        <span class="tag">&mdash; London</span>
+      </li><li>
+        <a href="https://www.tower-research.com/open-positions/?gh_jid=8037860">Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)</a>
+        <span class="tag">&mdash; London</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Hudson River Trading</td>
+  <td class="n">2</td>
+  <td class="n">20</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062">Algorithm Development (Quant Research & Trading) Internship – Summer 2027</a>
+        <span class="tag">&mdash; London, United Kingdom; New York, NY, United States; Singapore &middot; Intern</span>
+      </li><li>
+        <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837">Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027</a>
+        <span class="tag">&mdash; London, United Kingdom; New York, NY, United States; Singapore &middot; Intern</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Aquatic Capital Management</td>
+  <td class="n">1</td>
+  <td class="n">1</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002">Quantitative Researcher, Intern (Summer 2027)</a>
+        <span class="tag">&mdash; Chicago; London</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Five Rings</td>
+  <td class="n">1</td>
+  <td class="n">2</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008">Campus Full Time 2027 - Quantitative Trader - London</a>
+        <span class="tag">&mdash; London &middot; Full-time</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>IMC Trading</td>
+  <td class="n">1</td>
+  <td class="n">4</td>
+  <td>
+    <ul class="roles">
+      <li>
+        <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4914883101">Graduate Machine Learning Researcher - London</a>
+        <span class="tag">&mdash; London, United Kingdom</span>
+      </li>
+    </ul>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Citadel</td>
+  <td class="n">0</td>
+  <td class="n">0</td>
+  <td>
+    <span class="tag">&mdash;</span>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Citadel Securities</td>
+  <td class="n">0</td>
+  <td class="n">0</td>
+  <td>
+    <span class="tag">&mdash;</span>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>DRW</td>
+  <td class="n">0</td>
+  <td class="n">0</td>
+  <td>
+    <span class="tag">&mdash;</span>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Flow Traders</td>
+  <td class="n">0</td>
+  <td class="n">0</td>
+  <td>
+    <span class="tag">&mdash;</span>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Optiver</td>
+  <td class="n">0</td>
+  <td class="n">0</td>
+  <td>
+    <span class="tag">&mdash;</span>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+<tr>
+  <td>Virtu Financial</td>
+  <td class="n">0</td>
+  <td class="n">2</td>
+  <td>
+    <span class="tag">&mdash;</span>
+  </td>
+  <td><span class="ok">ok</span></td>
+</tr>
+
+</table>
+
+<h2>Recent openings</h2>
+<div class="tag">Nothing detected yet &mdash; baseline established, watching for changes.</div>
+
+</body></html>

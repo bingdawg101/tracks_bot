@@ -107,8 +107,11 @@ async def run(
     only: list[str] | None = None,
     persist: bool = True,
     dry_run: bool = False,
+    seed: bool = False,
     notifier: TelegramNotifier | None = None,
 ) -> RunResult:
+    # seed: establish the baseline for (new) firms — persist state, but emit no history
+    # entries and no alerts for what's already open.
     firms = settings.enabled_firms()
     if only:
         wanted = set(only)
@@ -133,9 +136,9 @@ async def run(
     run_result = RunResult(results=list(results), started_at=started)
 
     events = run_result.events
-    if events and persist:
+    if events and persist and not seed:
         _append_history(events)
-    if events and notifier and not dry_run:
+    if events and notifier and not dry_run and not seed:
         await notifier.send_events(events)
 
     return run_result

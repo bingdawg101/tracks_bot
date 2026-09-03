@@ -1,7 +1,5 @@
 {
   "firm": "Five Rings",
-  "last_run": "2026-09-03T15:26:07.673559Z",
-  "last_success": "2026-09-03T15:26:07.673559Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "Full-time",
       "match_level": "match",
       "match_reason": "role 'trader', title mentions 'campus', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.113877Z"
+      "first_seen": "2026-09-03T15:36:10.072724Z"
     },
     "5349905008": {
       "firm": "Five Rings",
@@ -27,7 +25,7 @@
       "employment_type": "Full-time",
       "match_level": "review",
       "match_reason": "title mentions 'campus', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.114018Z"
+      "first_seen": "2026-09-03T15:36:10.072856Z"
     },
     "4043325008": {
       "firm": "Five Rings",
@@ -39,7 +37,7 @@
       "employment_type": "Full-time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:39.114756Z"
+      "first_seen": "2026-09-03T15:36:10.073556Z"
     }
   }
 }

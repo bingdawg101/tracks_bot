@@ -1,7 +1,5 @@
 {
   "firm": "Squarepoint Capital",
-  "last_run": "2026-09-03T15:26:07.864240Z",
-  "last_success": "2026-09-03T15:26:07.864240Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "Full-time",
       "match_level": "review",
       "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.822336Z"
+      "first_seen": "2026-09-03T15:36:09.930521Z"
     },
     "7918610": {
       "firm": "Squarepoint Capital",
@@ -27,7 +25,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "match",
       "match_reason": "role 'quant', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.822472Z"
+      "first_seen": "2026-09-03T15:36:09.930679Z"
     },
     "6040910": {
       "firm": "Squarepoint Capital",
@@ -39,7 +37,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "title mentions 'graduate', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:38.822528Z"
+      "first_seen": "2026-09-03T15:36:09.930744Z"
     },
     "6100081": {
       "firm": "Squarepoint Capital",
@@ -51,7 +49,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "match",
       "match_reason": "role 'trading', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.822568Z"
+      "first_seen": "2026-09-03T15:36:09.930791Z"
     },
     "7340149": {
       "firm": "Squarepoint Capital",
@@ -63,7 +61,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'execution' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.823044Z"
+      "first_seen": "2026-09-03T15:36:09.931338Z"
     },
     "243853": {
       "firm": "Squarepoint Capital",
@@ -75,7 +73,7 @@
       "employment_type": "Intern Full-time",
       "match_level": "match",
       "match_reason": "role 'quant', employment type 'Intern Full-time', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.825526Z"
+      "first_seen": "2026-09-03T15:36:09.934017Z"
     },
     "7231006": {
       "firm": "Squarepoint Capital",
@@ -87,7 +85,7 @@
       "employment_type": "Employee-Intern",
       "match_level": "review",
       "match_reason": "employment type 'Employee-Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:38.825587Z"
+      "first_seen": "2026-09-03T15:36:09.934083Z"
     },
     "5929246": {
       "firm": "Squarepoint Capital",
@@ -99,7 +97,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'commodities', description mentions 'internship' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:24:38.825880Z"
+      "first_seen": "2026-09-03T15:36:09.934404Z"
     },
     "8044880": {
       "firm": "Squarepoint Capital",
@@ -111,7 +109,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'research', description mentions 'internship' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:24:38.826152Z"
+      "first_seen": "2026-09-03T15:36:09.934696Z"
     },
     "3851879": {
       "firm": "Squarepoint Capital",
@@ -123,7 +121,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'trader', description mentions 'graduate' (unconfirmed), location 'london'",
-      "first_seen": "2026-09-03T15:24:38.827073Z"
+      "first_seen": "2026-09-03T15:36:09.935667Z"
     },
     "6034466": {
       "firm": "Squarepoint Capital",
@@ -135,7 +133,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.828132Z"
+      "first_seen": "2026-09-03T15:36:09.936791Z"
     },
     "239376": {
       "firm": "Squarepoint Capital",
@@ -147,7 +145,7 @@
       "employment_type": "Full-time",
       "match_level": "review",
       "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.828688Z"
+      "first_seen": "2026-09-03T15:36:09.937389Z"
     },
     "6069464": {
       "firm": "Squarepoint Capital",
@@ -159,7 +157,7 @@
       "employment_type": "Full-time",
       "match_level": "review",
       "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.829319Z"
+      "first_seen": "2026-09-03T15:36:09.938073Z"
     },
     "3277003": {
       "firm": "Squarepoint Capital",
@@ -171,7 +169,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.841195Z"
+      "first_seen": "2026-09-03T15:36:09.950521Z"
     },
     "1433622": {
       "firm": "Squarepoint Capital",
@@ -183,7 +181,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'quant' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.841661Z"
+      "first_seen": "2026-09-03T15:36:09.951003Z"
     },
     "6977749": {
       "firm": "Squarepoint Capital",
@@ -195,7 +193,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'trader' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.842549Z"
+      "first_seen": "2026-09-03T15:36:09.951902Z"
     },
     "2167156": {
       "firm": "Squarepoint Capital",
@@ -207,7 +205,7 @@
       "employment_type": "Full-time",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.854501Z"
+      "first_seen": "2026-09-03T15:36:09.963918Z"
     },
     "6420505": {
       "firm": "Squarepoint Capital",
@@ -219,7 +217,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.855289Z"
+      "first_seen": "2026-09-03T15:36:09.964704Z"
     },
     "6099883": {
       "firm": "Squarepoint Capital",
@@ -231,7 +229,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "review",
       "match_reason": "role 'trading' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.856171Z"
+      "first_seen": "2026-09-03T15:36:09.965607Z"
     },
     "7757021": {
       "firm": "Squarepoint Capital",
@@ -243,7 +241,7 @@
       "employment_type": "Employee-Regular",
       "match_level": "match",
       "match_reason": "role 'trading', title mentions 'graduate', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.856217Z"
+      "first_seen": "2026-09-03T15:36:09.965654Z"
     }
   }
 }

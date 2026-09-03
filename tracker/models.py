@@ -81,11 +81,16 @@ def stable_id(*parts: str) -> str:
 
 
 class FirmState(BaseModel):
-    """Persisted per-firm state, committed back to the repo each run."""
+    """Persisted per-firm state, committed back to the repo.
+
+    Deliberately contains NO per-run timestamp: the file changes only on a meaningful
+    event (tracked postings change, or a failure streak starts/ends), so the workflow's
+    commit-back stays quiet on "no news" runs. Live freshness comes from the Actions run
+    history, not from git. `first_seen` on each Posting is the only time field and is
+    written once then carried forward.
+    """
 
     firm: str
-    last_run: datetime | None = None
-    last_success: datetime | None = None
     failure_count: int = 0
     last_error: str = ""
     # source_id -> serialised Posting for everything currently matching (MATCH or REVIEW)

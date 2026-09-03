@@ -1,7 +1,5 @@
 {
   "firm": "Aquatic Capital Management",
-  "last_run": "2026-09-03T15:26:07.760049Z",
-  "last_success": "2026-09-03T15:26:07.760049Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "role 'quantitative' but no eligibility signal, location 'london'",
-      "first_seen": "2026-09-03T15:24:38.710814Z"
+      "first_seen": "2026-09-03T15:36:09.882698Z"
     },
     "8489186002": {
       "firm": "Aquatic Capital Management",
@@ -27,7 +25,7 @@
       "employment_type": "",
       "match_level": "match",
       "match_reason": "role 'quantitative', title mentions 'intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.711016Z"
+      "first_seen": "2026-09-03T15:36:09.882881Z"
     }
   }
 }

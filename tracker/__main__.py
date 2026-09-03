@@ -15,6 +15,7 @@ import sys
 
 import httpx
 
+from . import dashboard
 from .config import load_settings, telegram_creds
 from .notify import TelegramNotifier
 from .pipeline import run
@@ -71,6 +72,7 @@ async def _run_pipeline(args: argparse.Namespace) -> int:
         only=only,
         persist=not args.no_persist,
         dry_run=args.dry_run,
+        seed=args.seed,
         notifier=notifier,
     )
 
@@ -87,6 +89,10 @@ async def _run_pipeline(args: argparse.Namespace) -> int:
         print(f"  \U0001f6a8 {ev.firm}: {ev.title} — {ev.location}")
         if args.dry_run and ev.url:
             print(f"     {ev.url}")
+
+    if not args.no_persist:
+        dashboard.render(settings, repo=os.environ.get("GITHUB_REPOSITORY"))
+        print("dashboard: docs/index.html")
 
     threshold = settings.failure_alert_threshold
     hard_fail = [r for r in result.unhealthy if r.failure_count >= threshold]
@@ -133,6 +139,8 @@ def main(argv: list[str] | None = None) -> int:
     p_run = sub.add_parser("run", help="run the full pipeline")
     p_run.add_argument("--dry-run", action="store_true", help="never send Telegram messages")
     p_run.add_argument("--no-persist", action="store_true", help="do not write state/history")
+    p_run.add_argument("--seed", action="store_true",
+                       help="establish baseline: persist state but log no history / send no alerts")
     p_run.add_argument("--only", help="comma-separated firm slugs")
 
     p_check = sub.add_parser("check", help="fetch + classify one firm, print only")
@@ -140,11 +148,16 @@ def main(argv: list[str] | None = None) -> int:
 
     sub.add_parser("list", help="list configured firms")
     sub.add_parser("whoami", help="discover Telegram chat id")
+    sub.add_parser("dashboard", help="regenerate docs/ from current state")
 
     args = parser.parse_args(argv)
 
     if args.cmd == "list":
         return _cmd_list(args)
+    if args.cmd == "dashboard":
+        dashboard.render(load_settings(), repo=os.environ.get("GITHUB_REPOSITORY"))
+        print("wrote docs/index.html")
+        return 0
     if args.cmd == "check":
         return asyncio.run(_run_check(args.slug))
     if args.cmd == "whoami":

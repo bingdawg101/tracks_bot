@@ -1,7 +1,5 @@
 {
   "firm": "Virtu Financial",
-  "last_run": "2026-09-03T15:26:08.151333Z",
-  "last_success": "2026-09-03T15:26:08.151333Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "title mentions 'internship', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.240647Z"
+      "first_seen": "2026-09-03T15:36:10.285580Z"
     },
     "8745933002": {
       "firm": "Virtu Financial",
@@ -27,7 +25,7 @@
       "employment_type": "",
       "match_level": "review",
       "match_reason": "title mentions 'internship', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.240750Z"
+      "first_seen": "2026-09-03T15:36:10.285691Z"
     }
   }
 }

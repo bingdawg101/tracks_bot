@@ -28,8 +28,8 @@ def test_failure_never_closes_tracked_roles():
     prev, _ = apply_success(FirmState(firm="ACME"), "ACME", [_p("a")])
     failed = record_failure(prev, "boom: 503")
     assert failed.failure_count == 1
+    assert failed.last_error == "boom: 503"
     assert failed.matching_ids() == {"a"}  # unchanged
-    assert failed.last_success is None or failed.last_success == prev.last_success
 
 
 def test_reopen_after_all_roles_closed_emits_opening():

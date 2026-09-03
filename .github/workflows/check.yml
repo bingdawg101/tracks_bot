@@ -1,0 +1,48 @@
+name: check
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"        # GitHub queues these; real cadence is ~5-20 min
+  workflow_dispatch:              # manual "Run workflow" button
+  repository_dispatch:            # external cron (cron-job.org) POSTs event_type: poll
+    types: [poll]
+
+permissions:
+  contents: write                 # commit state/ + docs/ + history.json back
+
+concurrency:
+  group: careers-tracker
+  cancel-in-progress: false       # let an in-flight run finish before the next starts
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install
+        run: uv sync
+
+      - name: Run tracker
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: uv run python -m tracker run
+
+      - name: Commit state changes
+        if: ${{ !cancelled() }}       # persist failure_count even when the run step fails
+        run: |
+          git config user.name  "careers-tracker[bot]"
+          git config user.email "careers-tracker@users.noreply.github.com"
+          git add state/ docs/ history.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          fi

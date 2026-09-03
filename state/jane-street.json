@@ -1,7 +1,5 @@
 {
   "firm": "Jane Street",
-  "last_run": "2026-09-03T15:26:07.914781Z",
-  "last_success": "2026-09-03T15:26:07.914781Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "review",
       "match_reason": "employment type 'Full-Time: New Grad', location 'london', role wording unclear (dept 'Cybersecurity' off-list)",
-      "first_seen": "2026-09-03T15:24:38.900658Z"
+      "first_seen": "2026-09-03T15:36:10.131735Z"
     },
     "8651405002": {
       "firm": "Jane Street",
@@ -27,7 +25,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "review",
       "match_reason": "employment type 'Full-Time: New Grad', location 'london', role wording unclear (dept 'Software Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.902322Z"
+      "first_seen": "2026-09-03T15:36:10.133354Z"
     },
     "8651323002": {
       "firm": "Jane Street",
@@ -39,7 +37,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'Software Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.902384Z"
+      "first_seen": "2026-09-03T15:36:10.133415Z"
     },
     "8651274002": {
       "firm": "Jane Street",
@@ -51,7 +49,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.902852Z"
+      "first_seen": "2026-09-03T15:36:10.133886Z"
     },
     "8626146002": {
       "firm": "Jane Street",
@@ -63,7 +61,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.903200Z"
+      "first_seen": "2026-09-03T15:36:10.134236Z"
     },
     "8651286002": {
       "firm": "Jane Street",
@@ -75,7 +73,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "review",
       "match_reason": "employment type 'Full-Time: New Grad', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.903478Z"
+      "first_seen": "2026-09-03T15:36:10.134507Z"
     },
     "8648474002": {
       "firm": "Jane Street",
@@ -87,7 +85,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:38.903666Z"
+      "first_seen": "2026-09-03T15:36:10.134690Z"
     },
     "8594416002": {
       "firm": "Jane Street",
@@ -99,7 +97,7 @@
       "employment_type": "Summer Internship",
       "match_level": "match",
       "match_reason": "role 'researcher', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.903944Z"
+      "first_seen": "2026-09-03T15:36:10.134966Z"
     },
     "8576931002": {
       "firm": "Jane Street",
@@ -111,7 +109,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
       "match_reason": "role 'researcher', employment type 'Full-Time: New Grad', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.904171Z"
+      "first_seen": "2026-09-03T15:36:10.135195Z"
     },
     "8693554002": {
       "firm": "Jane Street",
@@ -123,7 +121,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.904804Z"
+      "first_seen": "2026-09-03T15:36:10.135831Z"
     },
     "8474416002": {
       "firm": "Jane Street",
@@ -135,7 +133,7 @@
       "employment_type": "Summer Internship",
       "match_level": "match",
       "match_reason": "role 'quantitative', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.905123Z"
+      "first_seen": "2026-09-03T15:36:10.136151Z"
     },
     "8600948002": {
       "firm": "Jane Street",
@@ -147,7 +145,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
       "match_reason": "role 'quantitative', employment type 'Full-Time: New Grad', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.905191Z"
+      "first_seen": "2026-09-03T15:36:10.136221Z"
     },
     "8474407002": {
       "firm": "Jane Street",
@@ -159,7 +157,7 @@
       "employment_type": "Summer Internship",
       "match_level": "match",
       "match_reason": "role 'trader', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.905588Z"
+      "first_seen": "2026-09-03T15:36:10.136621Z"
     },
     "8576270002": {
       "firm": "Jane Street",
@@ -171,7 +169,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
       "match_reason": "role 'trader', employment type 'Full-Time: New Grad', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.905620Z"
+      "first_seen": "2026-09-03T15:36:10.136653Z"
     },
     "8537797002": {
       "firm": "Jane Street",
@@ -183,7 +181,7 @@
       "employment_type": "Summer Internship",
       "match_level": "match",
       "match_reason": "role 'trading', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.905784Z"
+      "first_seen": "2026-09-03T15:36:10.136818Z"
     },
     "8589868002": {
       "firm": "Jane Street",
@@ -195,7 +193,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'Software Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.906119Z"
+      "first_seen": "2026-09-03T15:36:10.137153Z"
     },
     "8647260002": {
       "firm": "Jane Street",
@@ -207,7 +205,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "review",
       "match_reason": "employment type 'Full-Time: New Grad', location 'london', role wording unclear (dept 'Software Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.906258Z"
+      "first_seen": "2026-09-03T15:36:10.137291Z"
     },
     "8518854002": {
       "firm": "Jane Street",
@@ -219,7 +217,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'Strategy and Product' off-list)",
-      "first_seen": "2026-09-03T15:24:38.906519Z"
+      "first_seen": "2026-09-03T15:36:10.137551Z"
     },
     "5866838002": {
       "firm": "Jane Street",
@@ -231,7 +229,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'Software Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.906817Z"
+      "first_seen": "2026-09-03T15:36:10.137851Z"
     },
     "8080525002": {
       "firm": "Jane Street",
@@ -243,7 +241,7 @@
       "employment_type": "Full-Time: New Grad",
       "match_level": "match",
       "match_reason": "role 'trading', employment type 'Full-Time: New Grad', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.906857Z"
+      "first_seen": "2026-09-03T15:36:10.137890Z"
     },
     "8700980002": {
       "firm": "Jane Street",
@@ -255,7 +253,7 @@
       "employment_type": "Summer Internship",
       "match_level": "match",
       "match_reason": "role 'trading', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:24:38.906964Z"
+      "first_seen": "2026-09-03T15:36:10.138000Z"
     },
     "8755768002": {
       "firm": "Jane Street",
@@ -267,7 +265,7 @@
       "employment_type": "Summer Internship",
       "match_level": "review",
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
-      "first_seen": "2026-09-03T15:24:38.907261Z"
+      "first_seen": "2026-09-03T15:36:10.138294Z"
     }
   }
 }

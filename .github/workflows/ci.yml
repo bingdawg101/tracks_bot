@@ -1,0 +1,21 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+    paths: ["tracker/**", "tests/**", "pyproject.toml", "firms.yaml"]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+      - run: uv sync --extra dev
+      - run: uv run ruff check .
+      - run: uv run pytest -q
+      - name: firms.yaml is valid
+        run: uv run python -m tracker list

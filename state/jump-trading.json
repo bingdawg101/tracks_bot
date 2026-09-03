@@ -1,7 +1,5 @@
 {
   "firm": "Jump Trading",
-  "last_run": "2026-09-03T15:26:07.998045Z",
-  "last_success": "2026-09-03T15:26:07.998045Z",
   "failure_count": 0,
   "last_error": "",
   "tracked": {
@@ -15,7 +13,7 @@
       "employment_type": "Full-time - Campus",
       "match_level": "match",
       "match_reason": "role 'researcher', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.101505Z"
+      "first_seen": "2026-09-03T15:36:10.332726Z"
     },
     "7976964": {
       "firm": "Jump Trading",
@@ -27,7 +25,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
       "match_reason": "role 'researcher', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.101555Z"
+      "first_seen": "2026-09-03T15:36:10.332776Z"
     },
     "7217856": {
       "firm": "Jump Trading",
@@ -39,7 +37,7 @@
       "employment_type": "Full-time - Campus",
       "match_level": "match",
       "match_reason": "role 'researcher', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.101637Z"
+      "first_seen": "2026-09-03T15:36:10.332858Z"
     },
     "7362318": {
       "firm": "Jump Trading",
@@ -51,7 +49,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
       "match_reason": "role 'researcher', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.101679Z"
+      "first_seen": "2026-09-03T15:36:10.332903Z"
     },
     "7975008": {
       "firm": "Jump Trading",
@@ -63,7 +61,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
       "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.101806Z"
+      "first_seen": "2026-09-03T15:36:10.333044Z"
     },
     "7974391": {
       "firm": "Jump Trading",
@@ -75,7 +73,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
       "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.101900Z"
+      "first_seen": "2026-09-03T15:36:10.333141Z"
     },
     "7977132": {
       "firm": "Jump Trading",
@@ -87,7 +85,7 @@
       "employment_type": "Full-time - Campus",
       "match_level": "match",
       "match_reason": "role 'research', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.101944Z"
+      "first_seen": "2026-09-03T15:36:10.333188Z"
     },
     "7977145": {
       "firm": "Jump Trading",
@@ -99,7 +97,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
       "match_reason": "role 'research', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.101985Z"
+      "first_seen": "2026-09-03T15:36:10.333232Z"
     },
     "8050796": {
       "firm": "Jump Trading",
@@ -111,7 +109,7 @@
       "employment_type": "Full-time - Campus",
       "match_level": "match",
       "match_reason": "role 'quantitative', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.102063Z"
+      "first_seen": "2026-09-03T15:36:10.333316Z"
     },
     "8010307": {
       "firm": "Jump Trading",
@@ -123,7 +121,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
       "match_reason": "role 'quantitative', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.102169Z"
+      "first_seen": "2026-09-03T15:36:10.333433Z"
     },
     "8059384": {
       "firm": "Jump Trading",
@@ -135,7 +133,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
       "match_reason": "role 'quantitative', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.102213Z"
+      "first_seen": "2026-09-03T15:36:10.333481Z"
     },
     "8050801": {
       "firm": "Jump Trading",
@@ -147,7 +145,7 @@
       "employment_type": "Full-time - Campus",
       "match_level": "match",
       "match_reason": "role 'trader', employment type 'Full-time - Campus', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.102400Z"
+      "first_seen": "2026-09-03T15:36:10.333683Z"
     },
     "8050772": {
       "firm": "Jump Trading",
@@ -159,7 +157,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "match",
       "match_reason": "role 'trader', employment type 'Jump Trading - Intern', location 'london'",
-      "first_seen": "2026-09-03T15:24:39.102536Z"
+      "first_seen": "2026-09-03T15:36:10.333824Z"
     },
     "7975026": {
       "firm": "Jump Trading",
@@ -171,7 +169,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
       "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.102596Z"
+      "first_seen": "2026-09-03T15:36:10.333888Z"
     },
     "7215943": {
       "firm": "Jump Trading",
@@ -183,7 +181,7 @@
       "employment_type": "Full-time - Campus",
       "match_level": "review",
       "match_reason": "employment type 'Full-time - Campus', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.102732Z"
+      "first_seen": "2026-09-03T15:36:10.334034Z"
     },
     "8000323": {
       "firm": "Jump Trading",
@@ -195,7 +193,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
       "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.102867Z"
+      "first_seen": "2026-09-03T15:36:10.334178Z"
     },
     "7974943": {
       "firm": "Jump Trading",
@@ -207,7 +205,7 @@
       "employment_type": "Jump Trading - Intern",
       "match_level": "review",
       "match_reason": "employment type 'Jump Trading - Intern', location 'london', role wording unclear",
-      "first_seen": "2026-09-03T15:24:39.102999Z"
+      "first_seen": "2026-09-03T15:36:10.334324Z"
     }
   }
 }
