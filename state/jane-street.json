@@ -51,18 +51,6 @@
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
       "first_seen": "2026-09-03T15:36:10.133886Z"
     },
-    "8626146002": {
-      "firm": "Jane Street",
-      "source_id": "8626146002",
-      "title": "Linux Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
-      "department": "IT and Systems Engineering",
-      "employment_type": "Summer Internship",
-      "match_level": "review",
-      "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
-      "first_seen": "2026-09-03T15:36:10.134236Z"
-    },
     "8651286002": {
       "firm": "Jane Street",
       "source_id": "8651286002",
@@ -74,6 +62,18 @@
       "match_level": "review",
       "match_reason": "employment type 'Full-Time: New Grad', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
       "first_seen": "2026-09-03T15:36:10.134507Z"
+    },
+    "8626146002": {
+      "firm": "Jane Street",
+      "source_id": "8626146002",
+      "title": "Linux Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
+      "department": "IT and Systems Engineering",
+      "employment_type": "Summer Internship",
+      "match_level": "review",
+      "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
+      "first_seen": "2026-09-03T15:36:10.134236Z"
     },
     "8648474002": {
       "firm": "Jane Street",
@@ -123,18 +123,6 @@
       "match_reason": "employment type 'Summer Internship', location 'london', role wording unclear (dept 'IT and Systems Engineering' off-list)",
       "first_seen": "2026-09-03T15:36:10.135831Z"
     },
-    "8474416002": {
-      "firm": "Jane Street",
-      "source_id": "8474416002",
-      "title": "Quantitative Researcher",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
-      "department": "Quantitative Research",
-      "employment_type": "Summer Internship",
-      "match_level": "match",
-      "match_reason": "role 'quantitative', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.136151Z"
-    },
     "8600948002": {
       "firm": "Jane Street",
       "source_id": "8600948002",
@@ -146,6 +134,18 @@
       "match_level": "match",
       "match_reason": "role 'quantitative', employment type 'Full-Time: New Grad', location 'london'",
       "first_seen": "2026-09-03T15:36:10.136221Z"
+    },
+    "8474416002": {
+      "firm": "Jane Street",
+      "source_id": "8474416002",
+      "title": "Quantitative Researcher",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
+      "department": "Quantitative Research",
+      "employment_type": "Summer Internship",
+      "match_level": "match",
+      "match_reason": "role 'quantitative', employment type 'Summer Internship', location 'london'",
+      "first_seen": "2026-09-03T15:36:10.136151Z"
     },
     "8474407002": {
       "firm": "Jane Street",
