@@ -166,6 +166,10 @@ tiers:
   winton: hedge_fund
   capstone-investment-advisors: hedge_fund
   voleon: hedge_fund
+  gsa-capital: hedge_fund
+  aqr: hedge_fund
+  tp-icap: bank_other
+  tradition: bank_other
   goldman-sachs: bank_bulge
   jpmorgan: bank_bulge
   morgan-stanley: bank_bulge
@@ -429,6 +433,16 @@ firms:
     adapter: ashby
     source: {token: voleon}   # verified 2026-09-03 (US-only ML fund)
 
+  - slug: gsa-capital
+    name: GSA Capital
+    adapter: greenhouse
+    source: {token: gsacapital}   # verified 2026-09-03 (London quant)
+
+  - slug: aqr
+    name: AQR Capital Management
+    adapter: greenhouse
+    source: {token: aqr}   # verified 2026-09-03 (Greenwich-heavy, London office)
+
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs
     name: Goldman Sachs
@@ -496,6 +510,16 @@ firms:
     adapter: workday
     source: {tenant: jefferies, wd: wd5, site: Jefferies_Careers}
     enabled: false   # Workday tenant confirmed but site returns 422 — need real site name
+
+  - slug: tp-icap
+    name: TP ICAP
+    adapter: smartrecruiters
+    source: {company: tpicap}   # verified 2026-09-03 (interdealer broker, London)
+
+  - slug: tradition
+    name: Tradition
+    adapter: smartrecruiters
+    source: {company: tradition}   # verified 2026-09-03 (interdealer broker, London)
 
   # ---- Commodity trading houses ----
   - slug: vitol
@@ -566,6 +590,12 @@ firms:
     name: Olam Agri
     adapter: successfactors
     source: {host: careers.olamagri.com}   # SF RMK. verified 2026-09
+
+  - slug: cofco-international
+    name: COFCO International
+    adapter: successfactors
+    source: {host: careers.cofcointernational.com}
+    enabled: false   # SF RMK parses titles but tiles carry NO location — every row IGNOREd. Needs data-url slug parsing.
 
   - slug: vattenfall
     name: Vattenfall

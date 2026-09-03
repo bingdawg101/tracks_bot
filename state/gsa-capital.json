@@ -1,0 +1,63 @@
+{
+  "firm": "GSA Capital",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "8119016002": {
+      "firm": "GSA Capital",
+      "source_id": "8119016002",
+      "title": "Quantitative Researcher",
+      "location": "London",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8119016002",
+      "department": "Research",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 155,
+      "comp_label": "~£155k (est. £96–214k)",
+      "comp_basis": "hedge fund · quant research",
+      "first_seen": "2026-09-03T20:36:20.441295Z"
+    },
+    "8518528002": {
+      "firm": "GSA Capital",
+      "source_id": "8518528002",
+      "title": "Women in Trading & Technology Insight Programme - 2027",
+      "location": "London",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8518528002",
+      "department": "Onsite events",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
+      "first_seen": "2026-09-03T20:36:20.443367Z"
+    },
+    "8570661002": {
+      "firm": "GSA Capital",
+      "source_id": "8570661002",
+      "title": "Quantitative Researcher - Intern",
+      "location": "London, New York",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
+      "department": "Campus",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 136,
+      "comp_label": "~£136k (est. £84–188k)",
+      "comp_basis": "hedge fund · quant research · internship",
+      "first_seen": "2026-09-03T20:36:20.441530Z"
+    },
+    "8570668002": {
+      "firm": "GSA Capital",
+      "source_id": "8570668002",
+      "title": "Software Developer - Intern",
+      "location": "London",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570668002",
+      "department": "Campus",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 106,
+      "comp_label": "~£106k (est. £66–146k)",
+      "comp_basis": "hedge fund · swe · internship",
+      "first_seen": "2026-09-03T20:36:20.442238Z"
+    }
+  }
+}
