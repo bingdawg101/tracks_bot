@@ -183,6 +183,9 @@ tiers:
   gsa-capital: hedge_fund
   aqr: hedge_fund
   pharo-management: hedge_fund
+  brevan-howard: hedge_fund
+  rbc: bank_other
+  bmo: bank_other
   tp-icap: bank_other
   clear-street: bank_other
   tradition: bank_other
@@ -545,6 +548,27 @@ firms:
     name: Pharo Management
     adapter: greenhouse
     source: {token: pharomanagement}   # verified 2026-09-03 (global macro HF, London/NY)
+
+  - slug: brevan-howard
+    name: Brevan Howard
+    adapter: phenom
+    source: {host: careers.brevanhoward.com, path: /gb/en/search-results}   # verified 2026-09-03 (Phenom; small board, London HQ)
+
+  - slug: rbc
+    name: RBC Capital Markets
+    adapter: phenom
+    source: {host: jobs.rbc.com, path: /ca/en/search-results, keyword: "markets trading trader quant sales structuring"}   # verified 2026-09-03 (Phenom; Canada-heavy, London CM desk)
+    filters:
+      include: [markets, trading, trader, quant, quantitative, "capital markets", sales,
+                structuring, securities, "global markets", derivatives, "sales & trading"]
+
+  - slug: bmo
+    name: BMO Capital Markets
+    adapter: phenom
+    source: {host: jobs.bmo.com, path: /us/en/search-results, keyword: "markets trading trader quant sales structuring"}   # verified 2026-09-03 (Phenom; NA-heavy, London desk)
+    filters:
+      include: [markets, trading, trader, quant, quantitative, "capital markets", sales,
+                structuring, securities, "global markets", derivatives]
 
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs
