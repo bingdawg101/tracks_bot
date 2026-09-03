@@ -13,11 +13,17 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
+# Headless-browser path for JS-only / bot-walled career sites. Install with:
+#   uv sync --extra browser && uv run playwright install chromium
+browser = [
+    "playwright>=1.44",
+]
 dev = [
     "pytest>=8.2",
     "pytest-asyncio>=0.23",
     "respx>=0.21",
     "ruff>=0.5",
+    "playwright>=1.44",
 ]
 
 [project.scripts]
@@ -45,3 +51,4 @@ ignore = ["B008", "UP042"]
 [tool.ruff.lint.per-file-ignores]
 "tests/*" = ["ARG001", "F841", "RUF059"]
 "tracker/__main__.py" = ["ARG001"]
+"tracker/render.py" = ["S110", "BLE001"]

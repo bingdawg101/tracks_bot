@@ -26,7 +26,13 @@ jobs:
           enable-cache: true
 
       - name: Install
-        run: uv sync
+        run: |
+          if grep -Eq '^\s*adapter:\s*(playwright|html)\b' firms.yaml && grep -Eq 'render:\s*true|adapter:\s*playwright' firms.yaml; then
+            uv sync --extra browser
+            uv run playwright install --with-deps chromium
+          else
+            uv sync
+          fi
 
       - name: Run tracker
         env:

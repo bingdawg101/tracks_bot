@@ -231,9 +231,13 @@ firms:
 
   - slug: optiver
     name: Optiver
-    adapter: greenhouse
-    source: {token: optiver}
-    enabled: false   # Greenhouse board is empty — moved to custom site (Phase 4)
+    adapter: html
+    source:
+      url: https://www.optiver.com/join-us/jobs/
+      render: true
+      rows: 'a[href*="/join-us/jobs/"]'
+      location_from_url: '/join-us/jobs/[^/]+/([^/]+)/'
+    # verified 2026-09 — server-rendered list, needs browser
 
   # ---- ATS identified in research, adapter not built yet (Phase 4 part 3) ----
   # Banks:

@@ -11,12 +11,15 @@ from __future__ import annotations
 import argparse
 import asyncio
 import os
+import re
 import sys
+from pathlib import Path
 
 import httpx
 
 from . import dashboard
 from .config import load_settings, telegram_creds
+from .detect import detect, yaml_stub
 from .notify import TelegramNotifier
 from .pipeline import run
 
@@ -107,6 +110,47 @@ async def _run_pipeline(args: argparse.Namespace) -> int:
     return 0
 
 
+def _slugify(name: str) -> str:
+    s = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    return s or "firm"
+
+
+def _parse_detect_file(path: str) -> list[tuple[str, str, str]]:
+    """Lines of 'Name, url' or 'slug | Name | url' → (slug, name, url) triples."""
+    jobs: list[tuple[str, str, str]] = []
+    for raw in Path(path).read_text().splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in re.split(r"\s*[|,]\s*", line, maxsplit=2)]
+        if len(parts) == 3:
+            jobs.append((parts[0], parts[1], parts[2]))
+        elif len(parts) == 2:
+            jobs.append((_slugify(parts[0]), parts[0], parts[1]))
+        else:
+            jobs.append((_slugify(parts[0]), parts[0], parts[0]))
+    return jobs
+
+
+async def _run_detect(args: argparse.Namespace) -> int:
+    if args.file:
+        jobs = _parse_detect_file(args.file)
+    else:
+        name = args.name or args.url.split("/")[2].replace("www.", "")
+        jobs = [(args.slug or _slugify(name), name, args.url)]
+
+    sem = asyncio.Semaphore(2 if args.render else 6)
+
+    async def one(slug, name, url):
+        async with sem:
+            d = await detect(url, name, render=args.render)
+        return yaml_stub(slug, name, d)
+
+    stubs = await asyncio.gather(*(one(s, n, u) for s, n, u in jobs))
+    print("\n".join(stubs))
+    return 0
+
+
 async def _run_whoami() -> int:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
     if not token:
@@ -150,6 +194,14 @@ def main(argv: list[str] | None = None) -> int:
     sub.add_parser("whoami", help="discover Telegram chat id")
     sub.add_parser("dashboard", help="regenerate docs/ from current state")
 
+    p_det = sub.add_parser("detect", help="identify a firm's ATS and print a firms.yaml stub")
+    p_det.add_argument("url", nargs="?", help="careers page URL")
+    p_det.add_argument("--name", help="firm display name")
+    p_det.add_argument("--slug", help="firm slug")
+    p_det.add_argument("--file", help="batch: file of 'Name, url' or 'slug | Name | url' lines")
+    p_det.add_argument("--render", action="store_true",
+                       help="fall back to a headless browser (needs: uv sync --extra browser)")
+
     args = parser.parse_args(argv)
 
     if args.cmd == "list":
@@ -160,6 +212,11 @@ def main(argv: list[str] | None = None) -> int:
         return 0
     if args.cmd == "check":
         return asyncio.run(_run_check(args.slug))
+    if args.cmd == "detect":
+        if not args.url and not args.file:
+            print("give a URL or --file", file=sys.stderr)
+            return 2
+        return asyncio.run(_run_detect(args))
     if args.cmd == "whoami":
         return asyncio.run(_run_whoami())
     if args.cmd == "run":

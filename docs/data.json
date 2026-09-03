@@ -497,9 +497,9 @@
     {
       "name": "Optiver",
       "slug": "optiver",
-      "enabled": false,
+      "enabled": true,
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "roles": [],
       "failure_count": 0
     },

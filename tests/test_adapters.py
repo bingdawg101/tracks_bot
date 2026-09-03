@@ -166,6 +166,31 @@ async def test_glencore_falls_back_to_highlights_for_location():
     assert p.source_id == "42"
 
 
+@respx.mock
+async def test_html_list_scrapes_rows_and_parses_location_from_url():
+    page = """
+    <html><body>
+      <a href="/join-us/jobs/trading/london/graduate-trader-2027/">Graduate Trader (2027)</a>
+      <a href="/join-us/jobs/tech/amsterdam/fpga-engineer/">FPGA Engineer</a>
+      <a href="/about">Not a job</a>
+    </body></html>
+    """
+    respx.get("https://ex.com/careers").mock(return_value=httpx.Response(200, text=page))
+    firm = FirmConfig(slug="ex", name="Ex", adapter="html", source={
+        "url": "https://ex.com/careers",
+        "rows": 'a[href*="/join-us/jobs/"]',
+        "location_from_url": r"/jobs/[^/]+/([^/]+)/",
+        "url_prefix": "https://ex.com",
+    })
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+    assert len(posts) == 2
+    grad = posts[0]
+    assert grad.title == "Graduate Trader (2027)"
+    assert grad.location == "london"
+    assert grad.url == "https://ex.com/join-us/jobs/trading/london/graduate-trader-2027/"
+
+
 def test_missing_token_raises():
     firm = FirmConfig(slug="acme", name="Acme", adapter="greenhouse", source={})
     with pytest.raises(AdapterError):
