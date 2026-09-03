@@ -25,6 +25,8 @@ class FilterConfig(BaseModel):
     exclude: list[str] = Field(default_factory=list)
     # Location must contain one of these (substring). Empty => any location passes.
     locations: list[str] = Field(default_factory=list)
+    # ...but is rejected if it also contains one of these (kills "London, Ontario" etc).
+    location_excludes: list[str] = Field(default_factory=list)
     # Optional: department/team must contain one of these (substring). Empty => any.
     departments: list[str] = Field(default_factory=list)
     # Terms that signal graduate / final-year / internship eligibility (word-boundary,
@@ -73,6 +75,7 @@ class Settings(BaseModel):
             include=_dedupe(d.include + f.include),
             exclude=_dedupe(d.exclude + f.exclude),
             locations=_dedupe(d.locations + f.locations),
+            location_excludes=_dedupe(d.location_excludes + f.location_excludes),
             departments=_dedupe(d.departments + f.departments),
             eligibility_terms=_dedupe(d.eligibility_terms + f.eligibility_terms),
             eligible_employment_types=_dedupe(

@@ -7,6 +7,7 @@ then matches known ATS URL signatures against links, script srcs and inline text
 
 from __future__ import annotations
 
+import asyncio
 import json
 import re
 from dataclasses import dataclass
@@ -123,15 +124,26 @@ def _candidate_subpages(html: str, base: str) -> list[str]:
     return list(seen)[:6]
 
 
+_FILLER = {"the", "and", "group", "holdings", "international", "global", "co", "inc", "ltd",
+           "llc", "plc", "sa", "ag", "as", "limited", "company", "corp", "corporation"}
+
+
 def _candidate_tokens(name: str, url: str) -> list[str]:
     host = url.split("/")[2].replace("www.", "").split(".")[0] if "://" in url else ""
     words = re.findall(r"[a-z0-9]+", name.lower())
-    joined = "".join(words)
+    core = [w for w in words if w not in _FILLER] or words
     cands = [
-        joined, "-".join(words), words[0] if words else "",
-        (words[0] + words[1]) if len(words) > 1 else "",
+        "".join(words), "-".join(words),
+        "".join(core), "-".join(core),
+        core[0] if core else "",
+        (core[0] + core[1]) if len(core) > 1 else "",
         host,
     ]
+    # common commodity-firm suffixes bolted onto the first word
+    for suf in ("group", "trading", "commodities", "energy", "partners", "capital"):
+        if core:
+            cands.append(core[0] + suf)
+            cands.append(f"{core[0]}-{suf}")
     seen: dict[str, None] = {}
     for c in cands:
         if c and len(c) > 2:
@@ -153,16 +165,28 @@ async def _probe_apis(client: httpx.AsyncClient, tokens: list[str]) -> Detection
         ("recruitee", "https://{t}.recruitee.com/api/offers/",
          lambda j: isinstance(j, dict) and j.get("offers"), lambda t: {"token": t}),
         ("teamtailor", "https://{t}.teamtailor.com/jobs.json",
-         lambda j: isinstance(j, (list, dict)), lambda t: {"token": t}),
+         lambda j: isinstance(j, dict) and j.get("items"), lambda t: {"token": t}),
+        ("workable", "https://apply.workable.com/api/v1/widget/accounts/{t}?details=true",
+         lambda j: isinstance(j, dict) and j.get("jobs"), lambda t: {"token": t}),
+        ("personio", "https://{t}.jobs.personio.com/search.json",
+         lambda j: isinstance(j, list) and j, lambda t: {"token": t}),
+        ("personio", "https://{t}.jobs.personio.de/search.json",
+         lambda j: isinstance(j, list) and j, lambda t: {"token": t}),
     ]
-    for ats, tmpl, ok, build in checks:
-        for tok in tokens:
-            try:
-                r = await client.get(tmpl.format(t=tok))
-                if r.status_code == 200 and ok(r.json()):
-                    return Detection(ats, build(tok), "high", f"public {ats} API responds for '{tok}'")
-            except (httpx.HTTPError, ValueError):
-                continue
+    async def try_one(ats, tmpl, ok, build, tok):
+        try:
+            r = await client.get(tmpl.format(t=tok))
+            if r.status_code == 200 and ok(r.json()):
+                return Detection(ats, build(tok), "high", f"public {ats} API responds for '{tok}'")
+        except (httpx.HTTPError, ValueError):
+            pass
+        return None
+
+    tasks = [try_one(*c, tok) for c in checks for tok in tokens]
+    for coro in asyncio.as_completed(tasks):
+        hit = await coro
+        if hit:
+            return hit
     return None
 
 

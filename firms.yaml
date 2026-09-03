@@ -53,8 +53,21 @@ defaults:
   locations:
     - london
     - united kingdom
-    - "uk"
+    - ", uk"
+    - "(uk)"
+    - "uk）"
     - england
+    - britain
+  location_excludes:            # kill "London, Ontario" / "Kyiv, Ukraine" etc.
+    - ontario
+    - canada
+    - kentucky
+    - ukraine
+    - ", oh"
+    - ", ky"
+    - ", on"
+    - arkansas
+    - new london
   eligibility_terms:
     - graduate
     - grad
@@ -192,6 +205,14 @@ firms:
     adapter: beesite
     source: {host: api-deutschebank.beesite.de}   # BeeSite ATS. verified 2026-09
 
+  - slug: citi
+    name: Citi
+    adapter: radancy
+    source: {host: jobs.citi.com, keyword: "markets trading sales"}   # Radancy. verified 2026-09
+    filters:
+      include: [markets, trading, trader, sales, quant, quantitative, research, structuring,
+                securities, execution, "e-trading"]
+
   # ---- Commodity trading houses ----
   - slug: vitol
     name: Vitol
@@ -238,6 +259,19 @@ firms:
     name: Viterra
     adapter: workday
     source: {tenant: viterra, wd: wd3, site: External-CAN}   # verified 2026-09
+
+  - slug: cargill
+    name: Cargill
+    adapter: radancy
+    source: {host: careers.cargill.com, lang: en, keyword: "trading trader"}   # Radancy. verified 2026-09
+    filters:
+      include: [trading, trader, trade, merchandising, merchandiser, risk, origination,
+                commercial, "supply chain", analyst]
+
+  - slug: axpo
+    name: Axpo
+    adapter: teamtailor
+    source: {token: axpogroup}   # verified 2026-09
 
   - slug: vattenfall
     name: Vattenfall

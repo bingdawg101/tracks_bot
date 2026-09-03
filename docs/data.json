@@ -461,11 +461,29 @@
           "employment_type": "Full-time"
         }
       ],
+      "failure_count": 2
+    },
+    {
+      "name": "Axpo",
+      "slug": "axpo",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
       "failure_count": 0
     },
     {
       "name": "BP (Trading & Shipping)",
       "slug": "bp-trading",
+      "enabled": true,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Cargill",
+      "slug": "cargill",
       "enabled": true,
       "match_count": 0,
       "review_count": 0,
@@ -494,6 +512,15 @@
       "name": "Citadel Securities",
       "slug": "citadel-securities",
       "enabled": false,
+      "match_count": 0,
+      "review_count": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Citi",
+      "slug": "citi",
+      "enabled": true,
       "match_count": 0,
       "review_count": 0,
       "roles": [],

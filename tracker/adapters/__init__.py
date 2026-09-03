@@ -13,6 +13,7 @@ from .html_list import HtmlListAdapter
 from .lever import LeverAdapter
 from .oracle_orc import OracleOrcAdapter
 from .playwright_feed import PlaywrightFeedAdapter
+from .radancy import RadancyAdapter
 from .recruitee import RecruiteeAdapter
 from .smartrecruiters import SmartRecruitersAdapter
 from .teamtailor import TeamtailorAdapter
@@ -34,6 +35,7 @@ _REGISTRY: dict[str, type[Adapter]] = {
     "workable": WorkableAdapter,
     "recruitee": RecruiteeAdapter,
     "teamtailor": TeamtailorAdapter,
+    "radancy": RadancyAdapter,
 }
 
 

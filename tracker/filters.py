@@ -89,9 +89,13 @@ def classify(raw: RawPosting, flt: FilterConfig) -> tuple[MatchLevel, str]:
     # 2. Location gate.
     loc_reason = "no location filter"
     if flt.locations:
-        loc_hit = _sub_hit(location or clean_text(raw.description), flt.locations)
+        loc_field = location or clean_text(raw.description)
+        loc_hit = _sub_hit(loc_field, flt.locations)
         if not loc_hit:
             return MatchLevel.IGNORE, f"location '{location or '?'}' not in scope"
+        neg = _sub_hit(loc_field, flt.location_excludes) if flt.location_excludes else None
+        if neg:
+            return MatchLevel.IGNORE, f"location '{location}' excluded by '{neg}'"
         loc_reason = f"location '{loc_hit}'"
 
     # 3. Eligibility.
