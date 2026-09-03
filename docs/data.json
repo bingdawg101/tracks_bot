@@ -603,7 +603,7 @@
           "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
         }
       ],
-      "failure_count": 2
+      "failure_count": 3
     },
     {
       "name": "Point72",
@@ -1181,6 +1181,17 @@
       "slug": "castleton-cci",
       "enabled": false,
       "tier": "",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Caxton Associates",
+      "slug": "caxton-associates",
+      "enabled": false,
+      "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
