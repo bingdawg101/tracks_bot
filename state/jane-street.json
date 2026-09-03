@@ -171,18 +171,6 @@
       "match_reason": "role 'trader', employment type 'Full-Time: New Grad', location 'london'",
       "first_seen": "2026-09-03T15:36:10.136653Z"
     },
-    "8537797002": {
-      "firm": "Jane Street",
-      "source_id": "8537797002",
-      "title": "Sales and Trading",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
-      "department": "Sales & Trading",
-      "employment_type": "Summer Internship",
-      "match_level": "match",
-      "match_reason": "role 'trading', employment type 'Summer Internship', location 'london'",
-      "first_seen": "2026-09-03T15:36:10.136818Z"
-    },
     "8589868002": {
       "firm": "Jane Street",
       "source_id": "8589868002",
