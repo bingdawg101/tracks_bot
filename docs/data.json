@@ -262,6 +262,122 @@
       "failure_count": 0
     },
     {
+      "name": "Susquehanna International Group",
+      "slug": "sig",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 13,
+      "review_count": 2,
+      "top_comp_k": 180,
+      "roles": [
+        {
+          "title": "Quantitative Researcher - Graduate: 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11033/login",
+          "employment_type": "",
+          "comp_k": 180,
+          "comp_label": "~\u00a3180k (est. \u00a3112\u2013248k)"
+        },
+        {
+          "title": "Quantitative Systematic Trader - Graduate: 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11032/login",
+          "employment_type": "Intern",
+          "comp_k": 175,
+          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+        },
+        {
+          "title": "Quantitative Systematic Trading Internship: Summer 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11006/login",
+          "employment_type": "Intern",
+          "comp_k": 175,
+          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+        },
+        {
+          "title": "Quantitative Trader - Graduate: 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11031/login",
+          "employment_type": "Intern",
+          "comp_k": 175,
+          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+        },
+        {
+          "title": "Quantitative Trading Internship: Summer 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11005/login",
+          "employment_type": "Intern",
+          "comp_k": 175,
+          "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+        },
+        {
+          "title": "Trading Systems Engineer Graduate: 2027 (London)",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11347/login",
+          "employment_type": "",
+          "comp_k": 170,
+          "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
+        },
+        {
+          "title": "Quantitative Research Internship: Summer 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11007/login",
+          "employment_type": "",
+          "comp_k": 166,
+          "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
+        },
+        {
+          "title": "Trading Systems Engineering Internship: Summer 2027 (London)",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11334/login",
+          "employment_type": "",
+          "comp_k": 156,
+          "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
+        },
+        {
+          "title": "Quantitative Strategy Developer Graduate: 2027 (London)",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11344/login",
+          "employment_type": "",
+          "comp_k": 140,
+          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
+        },
+        {
+          "title": "Software Developer Graduate: September 2027 London",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11336/login",
+          "employment_type": "",
+          "comp_k": 140,
+          "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
+        },
+        {
+          "title": "Fixed Income Trading Analyst | Early Careers",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/10827/login",
+          "employment_type": "Intern",
+          "comp_k": 138,
+          "comp_label": "~\u00a3138k (est. \u00a386\u2013190k)"
+        },
+        {
+          "title": "Quantitative Strategy Developer Internship: Summer 2027 (London)",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11333/login",
+          "employment_type": "",
+          "comp_k": 129,
+          "comp_label": "~\u00a3129k (est. \u00a380\u2013178k)"
+        },
+        {
+          "title": "Equity Research Internship: Summer 2027",
+          "location": "London, United Kingdom",
+          "url": "https://careers-sig.icims.com/jobs/11085/login",
+          "employment_type": "Intern",
+          "comp_k": 101,
+          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
       "name": "Headlands Technologies",
       "slug": "headlands-technologies",
       "enabled": true,
@@ -533,6 +649,34 @@
           "employment_type": "",
           "comp_k": 136,
           "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
+        }
+      ],
+      "failure_count": 0
+    },
+    {
+      "name": "Jump Crypto",
+      "slug": "jump-crypto",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 0,
+      "top_comp_k": 110,
+      "roles": [
+        {
+          "title": "Campus Full-Time Crypto Researcher 2026 LDN",
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
+          "employment_type": "Full-time - Campus",
+          "comp_k": 110,
+          "comp_label": "~\u00a3110k (est. \u00a368\u2013152k)"
+        },
+        {
+          "title": "Campus Intern Crypto Researcher 2026 LDN",
+          "location": "London",
+          "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
+          "employment_type": "Jump Trading - Intern",
+          "comp_k": 101,
+          "comp_label": "~\u00a3101k (est. \u00a363\u2013139k)"
         }
       ],
       "failure_count": 0
@@ -890,6 +1034,17 @@
       "failure_count": 0
     },
     {
+      "name": "BMO Capital Markets",
+      "slug": "bmo",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "BP (Trading & Shipping)",
       "slug": "bp-trading",
       "enabled": true,
@@ -940,6 +1095,28 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 8,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "BlueCrest Capital Management",
+      "slug": "bluecrest",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Brevan Howard",
+      "slug": "brevan-howard",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
       "top_comp_k": 0,
       "roles": [],
       "failure_count": 0
@@ -1059,6 +1236,17 @@
       "slug": "clear-street",
       "enabled": true,
       "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Crabel Capital Management",
+      "slug": "crabel-capital",
+      "enabled": true,
+      "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -1253,6 +1441,28 @@
       "failure_count": 0
     },
     {
+      "name": "Graham Capital Management",
+      "slug": "graham-capital",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Grasshopper",
+      "slug": "grasshopper",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Graviton Research Capital",
       "slug": "graviton-research-capital",
       "enabled": true,
@@ -1334,6 +1544,17 @@
       "slug": "louis-dreyfus",
       "enabled": true,
       "tier": "commodity_major",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "Lynx Asset Management",
+      "slug": "lynx-asset-management",
+      "enabled": true,
+      "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
       "top_comp_k": 0,
@@ -1477,6 +1698,17 @@
       "slug": "quadrature-capital",
       "enabled": true,
       "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 1,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
+      "name": "RBC Capital Markets",
+      "slug": "rbc",
+      "enabled": true,
+      "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
       "top_comp_k": 0,
@@ -1726,6 +1958,17 @@
       "failure_count": 0
     },
     {
+      "name": "Walleye Capital",
+      "slug": "walleye-capital",
+      "enabled": false,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 0,
+      "top_comp_k": 0,
+      "roles": [],
+      "failure_count": 0
+    },
+    {
       "name": "Wellington Management",
       "slug": "wellington-management",
       "enabled": true,
@@ -1783,5 +2026,5 @@
   ],
   "history": [],
   "last_opening": "",
-  "total_match": 70
+  "total_match": 85
 }
