@@ -10,6 +10,7 @@ from .glencore import GlencoreAdapter
 from .greenhouse import GreenhouseAdapter
 from .gs_higher import GsHigherAdapter
 from .html_list import HtmlListAdapter
+from .jibe import JibeAdapter
 from .lever import LeverAdapter
 from .oracle_orc import OracleOrcAdapter
 from .phenom import PhenomAdapter
@@ -25,6 +26,7 @@ from .workday import WorkdayAdapter
 _REGISTRY: dict[str, type[Adapter]] = {
     "greenhouse": GreenhouseAdapter,
     "lever": LeverAdapter,
+    "jibe": JibeAdapter,
     "ashby": AshbyAdapter,
     "smartrecruiters": SmartRecruitersAdapter,
     "workday": WorkdayAdapter,

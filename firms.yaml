@@ -168,6 +168,7 @@ tiers:
   flowdesk: elite_prop
   galaxy-digital: elite_prop
   wincent: elite_prop
+  sig: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -475,6 +476,14 @@ firms:
     name: Wincent
     adapter: ashby
     source: {token: wincent}   # verified 2026-09-03 (crypto MM / HFT / power, EU)
+
+  - slug: sig
+    name: Susquehanna International Group
+    adapter: jibe
+    source: {host: careers.sig.com}   # verified 2026-09-03 (Jibe JSON API; London/Dublin desks)
+    filters:
+      include: [trader, trading, quant, quantitative, research, "assistant trader",
+                "financial analyst", strategy, "software", technology]
 
   # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
   - slug: man-group

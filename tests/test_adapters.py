@@ -219,6 +219,40 @@ async def test_successfactors_parses_tiles_and_expands_iso_location():
 
 
 @respx.mock
+async def test_jibe_parses_data_envelope_and_paginates():
+    def page(slugs):
+        return {
+            "count": 3,
+            "totalCount": 3,
+            "jobs": [
+                {"data": {
+                    "req_id": s, "slug": s, "title": f"Graduate Trader {s}",
+                    "full_location": "London, United Kingdom",
+                    "employment_type": "FULL_TIME",
+                    "categories": [{"name": "Campus"}],
+                    "department": "Trading",
+                    "posted_date": "2026-09-01T21:00:00+0000",
+                    "apply_url": f"https://careers-sig.icims.com/jobs/{s}/login",
+                    "description": "<p>Join our <strong>graduate</strong> programme.</p>",
+                }}
+                for s in slugs
+            ],
+        }
+    respx.get("https://careers.sig.com/api/jobs").mock(
+        return_value=httpx.Response(200, json=page(["10900", "10901", "10902"]))
+    )
+    firm = FirmConfig(slug="sig", name="SIG", adapter="jibe", source={"host": "careers.sig.com"})
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+    assert {p.source_id for p in posts} == {"10900", "10901", "10902"}
+    p = posts[0]
+    assert p.location == "London, United Kingdom"
+    assert p.employment_type == "Full Time"
+    assert p.url.endswith("/jobs/10900/login")
+    assert "<" not in p.description and "graduate" in p.description
+
+
+@respx.mock
 async def test_phenom_extracts_embedded_ddo_jobs():
     ddo = {
         "eagerLoadRefineSearch": {
