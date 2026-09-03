@@ -1,0 +1,21 @@
+{
+  "firm": "The Voleon Group",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "5c966855-af8b-4bf5-9f58-6701e1cc2238": {
+      "firm": "The Voleon Group",
+      "source_id": "5c966855-af8b-4bf5-9f58-6701e1cc2238",
+      "title": "Data Scientist (London)",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/voleon/5c966855-af8b-4bf5-9f58-6701e1cc2238",
+      "department": "Research",
+      "employment_type": "FullTime",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-09-03T20:21:38.419240Z"
+    }
+  }
+}

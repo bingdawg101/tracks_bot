@@ -139,6 +139,15 @@ tiers:
   old-mission-capital: elite_prop
   chicago-trading-company: elite_prop
   qube-rt: elite_prop
+  dv-trading: elite_prop
+  geneva-trading: elite_prop
+  vatic-investments: elite_prop
+  mako-group: elite_prop
+  gsr-markets: elite_prop
+  b2c2: elite_prop
+  auros: elite_prop
+  kronos-research: elite_prop
+  keyrock: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
   man-group: hedge_fund
@@ -146,6 +155,10 @@ tiers:
   schonfeld: hedge_fund
   pdt-partners: hedge_fund
   exoduspoint: hedge_fund
+  worldquant: hedge_fund
+  winton: hedge_fund
+  capstone-investment-advisors: hedge_fund
+  voleon: hedge_fund
   goldman-sachs: bank_bulge
   jpmorgan: bank_bulge
   morgan-stanley: bank_bulge
@@ -283,6 +296,51 @@ firms:
     adapter: greenhouse
     source: {token: quberesearchandtechnologies}   # verified 2026-09-03 (heavy London grad/intern presence)
 
+  - slug: dv-trading
+    name: DV Trading
+    adapter: greenhouse
+    source: {token: dvtrading}   # verified 2026-09-03
+
+  - slug: geneva-trading
+    name: Geneva Trading
+    adapter: greenhouse
+    source: {token: genevatrading}   # verified 2026-09-03 (Chicago/Dublin)
+
+  - slug: vatic-investments
+    name: Vatic Investments
+    adapter: greenhouse
+    source: {token: vaticlabs}   # verified 2026-09-03 (NY-heavy)
+
+  - slug: mako-group
+    name: Mako Group
+    adapter: greenhouse
+    source: {token: mako}   # verified 2026-09-03 (London options MM)
+
+  - slug: gsr-markets
+    name: GSR Markets
+    adapter: greenhouse
+    source: {token: gsrmarkets}   # verified 2026-09-03 (crypto MM, London desk)
+
+  - slug: b2c2
+    name: B2C2
+    adapter: greenhouse
+    source: {token: b2c2}   # verified 2026-09-03 (crypto MM)
+
+  - slug: auros
+    name: Auros
+    adapter: greenhouse
+    source: {token: aurosglobal}   # verified 2026-09-03 (crypto MM)
+
+  - slug: kronos-research
+    name: Kronos Research
+    adapter: greenhouse
+    source: {token: kronosresearch}   # verified 2026-09-03 (crypto/quant, Taiwan-heavy)
+
+  - slug: keyrock
+    name: Keyrock
+    adapter: ashby
+    source: {token: keyrock}   # verified 2026-09-03 (crypto MM, London)
+
   # ---- Multi-strat hedge funds (batch 1, verified 2026-09-03) ----
   - slug: man-group
     name: Man Group
@@ -308,6 +366,26 @@ firms:
     name: ExodusPoint Capital
     adapter: greenhouse
     source: {token: exoduspoint}   # verified 2026-09-03 (sparse board)
+
+  - slug: worldquant
+    name: WorldQuant
+    adapter: greenhouse
+    source: {token: worldquant}   # verified 2026-09-03
+
+  - slug: winton
+    name: Winton
+    adapter: greenhouse
+    source: {token: winton}   # verified 2026-09-03 (London systematic)
+
+  - slug: capstone-investment-advisors
+    name: Capstone Investment Advisors
+    adapter: greenhouse
+    source: {token: capstoneinvestmentadvisors}   # verified 2026-09-03 (NY-heavy)
+
+  - slug: voleon
+    name: The Voleon Group
+    adapter: ashby
+    source: {token: voleon}   # verified 2026-09-03 (US-only ML fund)
 
   # ---- Banks: sales & trading / global markets ----
   - slug: goldman-sachs

@@ -1,0 +1,49 @@
+{
+  "firm": "Winton",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4574638101": {
+      "firm": "Winton",
+      "source_id": "4574638101",
+      "title": "Data Engineer, Quantitative Platform",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4574638101",
+      "department": "Software Development",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-09-03T20:21:38.451317Z"
+    },
+    "4868964101": {
+      "firm": "Winton",
+      "source_id": "4868964101",
+      "title": "Data Analyst, Quantitative Platform",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4868964101",
+      "department": "Software Development",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-09-03T20:21:38.448446Z"
+    },
+    "4875778101": {
+      "firm": "Winton",
+      "source_id": "4875778101",
+      "title": "Quantitative Developer, Commodities",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4875778101",
+      "department": "IMR",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-09-03T20:21:38.453278Z"
+    }
+  }
+}

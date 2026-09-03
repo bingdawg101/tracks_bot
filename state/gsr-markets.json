@@ -1,0 +1,21 @@
+{
+  "firm": "GSR Markets",
+  "failure_count": 0,
+  "last_error": "",
+  "tracked": {
+    "4873187101": {
+      "firm": "GSR Markets",
+      "source_id": "4873187101",
+      "title": "Quant Trader (DeFi)",
+      "location": "London; Zug",
+      "url": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4873187101",
+      "department": "Markets",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
+      "first_seen": "2026-09-03T20:21:38.245329Z"
+    }
+  }
+}
