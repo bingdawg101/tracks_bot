@@ -414,7 +414,17 @@
       "source": "Vitol early-careers page: London grad/final-year applications closed as of Sept 2026, site says check back in winter"
     }
   ],
-  "fresh": [],
+  "fresh": [
+    {
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 170,
+      "age_days": 0
+    }
+  ],
   "stale": [
     {
       "firm": "Jane Street",
@@ -585,15 +595,6 @@
       "url": "https://careers-sig.icims.com/jobs/11032/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 0
-    },
-    {
-      "firm": "Jane Street",
-      "title": "Trading Desk Operations Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002",
-      "employment_type": "Full-Time: New Grad",
-      "comp_k": 170,
       "age_days": 0
     },
     {
@@ -2030,7 +2031,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2395,7 +2396,20 @@
       "cycle_note": "opens Oct 2026"
     }
   ],
-  "history": [],
-  "last_opening": "",
+  "history": [
+    {
+      "firm": "Jane Street",
+      "source_id": "8782247002",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+      "match_level": "match",
+      "detected_at": "2026-09-04T14:57:36.486044Z",
+      "reason": "role 'trading', employment type 'Full-Time: New Grad', location 'london'",
+      "comp_k": 170,
+      "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
+    }
+  ],
+  "last_opening": "2026-09-04T14:57:36.486044Z",
   "total_match": 85
 }

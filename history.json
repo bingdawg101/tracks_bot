@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "firm": "Jane Street",
+    "source_id": "8782247002",
+    "title": "Trading Desk Operations Engineer",
+    "location": "London, England, United Kingdom",
+    "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+    "match_level": "match",
+    "detected_at": "2026-09-04T14:57:36.486044Z",
+    "reason": "role 'trading', employment type 'Full-Time: New Grad', location 'london'",
+    "comp_k": 170,
+    "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
+  }
+]
