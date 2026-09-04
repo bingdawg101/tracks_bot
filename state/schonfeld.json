@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · sales trading",
       "first_seen": "2026-09-03T20:09:21.387209Z",
       "baseline": true
+    },
+    "8172053": {
+      "firm": "Schonfeld Strategic Advisors",
+      "source_id": "8172053",
+      "title": "2027 Risk Analyst (DMFI) Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
+      "department": "Internship",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 75,
+      "comp_label": "~£75k (est. £46–103k)",
+      "comp_basis": "hedge fund · risk ops · internship",
+      "first_seen": "2026-09-04T22:34:54.327301Z",
+      "baseline": false
     }
   }
 }

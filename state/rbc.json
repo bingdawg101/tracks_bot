@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R-0000186708": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000186708",
+      "title": "Wealth and Investments Client Administrative Services Associate",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Wealth-and-Investments-Client-Administrative-Services-Associate_R-0000186708/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-04T22:34:59.838138Z",
+      "baseline": false
+    }
+  }
 }

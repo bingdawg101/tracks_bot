@@ -541,7 +541,7 @@
       "url": "https://careers-sig.icims.com/jobs/11033/login",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Jane Street",
@@ -577,7 +577,7 @@
       "url": "https://careers-sig.icims.com/jobs/11005/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Susquehanna International Group",
@@ -586,7 +586,7 @@
       "url": "https://careers-sig.icims.com/jobs/11006/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Susquehanna International Group",
@@ -595,7 +595,7 @@
       "url": "https://careers-sig.icims.com/jobs/11031/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Susquehanna International Group",
@@ -604,7 +604,7 @@
       "url": "https://careers-sig.icims.com/jobs/11032/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Wintermute",
@@ -622,7 +622,7 @@
       "url": "https://careers-sig.icims.com/jobs/11347/login",
       "employment_type": "",
       "comp_k": 170,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Jane Street",
@@ -721,7 +721,7 @@
       "url": "https://careers-sig.icims.com/jobs/11007/login",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Jane Street",
@@ -748,7 +748,7 @@
       "url": "https://careers-sig.icims.com/jobs/11334/login",
       "employment_type": "",
       "comp_k": 156,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Squarepoint Capital",
@@ -775,7 +775,7 @@
       "url": "https://careers-sig.icims.com/jobs/11336/login",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Susquehanna International Group",
@@ -784,7 +784,7 @@
       "url": "https://careers-sig.icims.com/jobs/11344/login",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Onyx Capital Group",
@@ -811,7 +811,7 @@
       "url": "https://careers-sig.icims.com/jobs/10827/login",
       "employment_type": "Intern",
       "comp_k": 138,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Squarepoint Capital",
@@ -856,7 +856,7 @@
       "url": "https://careers-sig.icims.com/jobs/11333/login",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Squarepoint Capital",
@@ -892,7 +892,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Point72",
@@ -937,7 +937,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Susquehanna International Group",
@@ -946,7 +946,7 @@
       "url": "https://careers-sig.icims.com/jobs/11085/login",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Goldman Sachs",
@@ -1839,7 +1839,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 5,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2039,7 +2039,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2069,7 +2069,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
