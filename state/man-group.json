@@ -48,6 +48,36 @@
       "comp_basis": "hedge fund · quant trading",
       "first_seen": "2026-09-03T20:09:21.472620Z",
       "baseline": true
+    },
+    "4969142101": {
+      "firm": "Man Group",
+      "source_id": "4969142101",
+      "title": "Quant Researcher Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "department": "Systematic",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 141,
+      "comp_label": "~£141k (est. £87–195k)",
+      "comp_basis": "hedge fund · quant trading · internship",
+      "first_seen": "2026-09-04T18:14:45.166439Z",
+      "baseline": false
+    },
+    "4969143101": {
+      "firm": "Man Group",
+      "source_id": "4969143101",
+      "title": "IDI Summer 2027 Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969143101",
+      "department": "Systematic",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 141,
+      "comp_label": "~£141k (est. £87–195k)",
+      "comp_basis": "hedge fund · quant trading · internship",
+      "first_seen": "2026-09-04T18:14:45.156244Z",
+      "baseline": false
     }
   }
 }

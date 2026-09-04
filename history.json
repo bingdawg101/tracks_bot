@@ -10,5 +10,17 @@
     "reason": "role 'trading', employment type 'Full-Time: New Grad', location 'london'",
     "comp_k": 170,
     "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
+  },
+  {
+    "firm": "Man Group",
+    "source_id": "4969142101",
+    "title": "Quant Researcher Internship",
+    "location": "London",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+    "match_level": "match",
+    "detected_at": "2026-09-04T18:14:45.177050Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'internship', location 'london'",
+    "comp_k": 141,
+    "comp_label": "~\u00a3141k (est. \u00a387\u2013195k)"
   }
 ]

@@ -108,6 +108,21 @@
       "comp_basis": "bank other · trading",
       "first_seen": "2026-09-03T20:39:52.520385Z",
       "baseline": true
+    },
+    "744000147560274": {
+      "firm": "Legal & General",
+      "source_id": "744000147560274",
+      "title": "Fixed Income Trader - Rates",
+      "location": "London, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000147560274",
+      "department": "SMDD GLOBAL TRADING TEAM - 646001",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 72,
+      "comp_label": "~£72k (est. £56–88k)",
+      "comp_basis": "bank other · sales trading",
+      "first_seen": "2026-09-04T18:14:56.661390Z",
+      "baseline": false
     }
   }
 }
