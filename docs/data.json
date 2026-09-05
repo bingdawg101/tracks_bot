@@ -416,21 +416,21 @@
   ],
   "fresh": [
     {
-      "firm": "Man Group",
-      "title": "Quant Researcher Internship",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "employment_type": "",
-      "comp_k": 141,
-      "age_days": 0
-    },
-    {
       "firm": "Jane Street",
       "title": "Trading Desk Operations Engineer",
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
+      "age_days": 1
+    },
+    {
+      "firm": "Man Group",
+      "title": "Quant Researcher Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "employment_type": "",
+      "comp_k": 141,
       "age_days": 1
     }
   ],
@@ -793,7 +793,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Jane Street",
@@ -991,7 +991,7 @@
       "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
       "employment_type": "",
       "comp_k": 63,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Goldman Sachs",
