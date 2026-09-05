@@ -416,15 +416,6 @@
   ],
   "fresh": [
     {
-      "firm": "Jane Street",
-      "title": "Trading Desk Operations Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
-      "employment_type": "Full-Time: New Grad",
-      "comp_k": 170,
-      "age_days": 0
-    },
-    {
       "firm": "Man Group",
       "title": "Quant Researcher Internship",
       "location": "London",
@@ -432,6 +423,15 @@
       "employment_type": "",
       "comp_k": 141,
       "age_days": 0
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 170,
+      "age_days": 1
     }
   ],
   "stale": [
