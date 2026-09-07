@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "JR101584": {
+      "firm": "Brevan Howard",
+      "source_id": "JR101584",
+      "title": "2027 Summer Internship Program – Trading, London",
+      "location": "London, United Kingdom",
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584/apply",
+      "department": "Graduate Group",
+      "employment_type": "Intern (Fixed Term) (Trainee)",
+      "match_level": "match",
+      "comp_k": 123,
+      "comp_label": "~£123k (est. £76–170k)",
+      "comp_basis": "hedge fund · trading · internship",
+      "first_seen": "2026-09-07T15:15:31.108630Z",
+      "baseline": false
+    }
+  }
 }

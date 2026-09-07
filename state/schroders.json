@@ -259,21 +259,6 @@
       "first_seen": "2026-09-03T20:39:53.168628Z",
       "baseline": true
     },
-    "1998": {
-      "firm": "Schroders",
-      "source_id": "1998",
-      "title": "2027 Wealth Management (Portfolio Management) Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1998",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T20:39:53.169057Z",
-      "baseline": true
-    },
     "1999": {
       "firm": "Schroders",
       "source_id": "1999",
@@ -303,6 +288,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-03T20:39:53.169780Z",
       "baseline": true
+    },
+    "2013": {
+      "firm": "Schroders",
+      "source_id": "2013",
+      "title": "2027 Wealth Management (Portfolio Management) Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2013",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-07T15:15:35.666177Z",
+      "baseline": false
     }
   }
 }
