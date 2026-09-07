@@ -78,6 +78,21 @@
       "comp_basis": "elite prop · quant research",
       "first_seen": "2026-09-03T16:23:19.404911Z",
       "baseline": true
+    },
+    "4969550101": {
+      "firm": "IMC Trading",
+      "source_id": "4969550101",
+      "title": "EU Campus | London Networking Event 1 Oct",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4969550101",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
+      "first_seen": "2026-09-07T09:38:29.927307Z",
+      "baseline": false
     }
   }
 }

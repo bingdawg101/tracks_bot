@@ -1289,7 +1289,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 1,
-      "review_count": 4,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2089,7 +2089,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
