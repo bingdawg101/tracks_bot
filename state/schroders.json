@@ -229,6 +229,21 @@
       "first_seen": "2026-09-03T20:39:53.174383Z",
       "baseline": true
     },
+    "1982": {
+      "firm": "Schroders",
+      "source_id": "1982",
+      "title": "Trade Operations Analyst 2",
+      "location": "Horsham, West Sussex, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1982",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-09-08T09:16:23.630653Z",
+      "baseline": false
+    },
     "1996": {
       "firm": "Schroders",
       "source_id": "1996",

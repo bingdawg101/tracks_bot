@@ -3,21 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "2c02ad9003d35e18": {
-      "firm": "Optiver",
-      "source_id": "2c02ad9003d35e18",
-      "title": "Graduate Software Engineer",
-      "location": "london",
-      "url": "https://www.optiver.com/join-us/jobs/technology/london/graduate-software-engineer/",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 140,
-      "comp_label": "~£140k (est. £87–193k)",
-      "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:51:26.300159Z",
-      "baseline": true
-    }
-  }
+  "tracked": {}
 }
