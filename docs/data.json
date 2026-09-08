@@ -470,21 +470,21 @@
       "age_days": 1
     },
     {
-      "firm": "Man Group",
-      "title": "Quant Researcher Internship",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "employment_type": "",
-      "comp_k": 141,
-      "age_days": 3
-    },
-    {
       "firm": "Jane Street",
       "title": "Trading Desk Operations Engineer",
       "location": "London, England, United Kingdom",
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
+      "age_days": 4
+    },
+    {
+      "firm": "Man Group",
+      "title": "Quant Researcher Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
+      "employment_type": "",
+      "comp_k": 141,
       "age_days": 4
     }
   ],
@@ -532,7 +532,7 @@
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
       "employment_type": "Full-time",
       "comp_k": 190,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Jane Street",
@@ -586,7 +586,7 @@
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Susquehanna International Group",
@@ -838,7 +838,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Jane Street",
@@ -874,7 +874,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "GSA Capital",
@@ -946,7 +946,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
       "employment_type": "",
       "comp_k": 106,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Jump Trading",
@@ -973,7 +973,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Jump Crypto",
@@ -1036,7 +1036,7 @@
       "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
       "employment_type": "",
       "comp_k": 63,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Goldman Sachs",
@@ -1704,7 +1704,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 9,
+      "review_count": 8,
       "failure_count": 0,
       "cycle_note": "open"
     },

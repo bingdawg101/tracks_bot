@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "210700032": {
-      "firm": "JPMorgan",
-      "source_id": "210700032",
-      "title": "Markets Treasury - Resource Management & Analytics - Associate",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700032",
-      "department": "Finance",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 58,
-      "comp_label": "~£58k (est. £45–71k)",
-      "comp_basis": "bank bulge · risk ops",
-      "first_seen": "2026-09-03T16:23:37.817586Z",
-      "baseline": true
-    },
     "210715011": {
       "firm": "JPMorgan",
       "source_id": "210715011",
@@ -152,6 +137,21 @@
       "comp_label": "~£66k (est. £51–81k)",
       "comp_basis": "bank bulge · quant research · internship",
       "first_seen": "2026-09-07T15:15:44.983138Z",
+      "baseline": false
+    },
+    "210788686": {
+      "firm": "JPMorgan",
+      "source_id": "210788686",
+      "title": "Software Engineer III - Fullstack Research Technolgy PubDist",
+      "location": "Ciudad Autónoma de Buenos Aires, Argentina; GLASGOW, LANARKSHIRE, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788686",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 70,
+      "comp_label": "~£70k (est. £55–85k)",
+      "comp_basis": "bank bulge · swe",
+      "first_seen": "2026-09-08T20:13:33.959628Z",
       "baseline": false
     }
   }
