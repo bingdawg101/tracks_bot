@@ -70,5 +70,29 @@
     "reason": "firm went from 0 to 3 matching roles \u2014 role 'sales', title mentions 'internship', location 'london'",
     "comp_k": 56,
     "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
+  },
+  {
+    "firm": "Qube Research & Technologies",
+    "source_id": "8785833002",
+    "title": "2027 - Internship, Quantitative Research",
+    "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+    "match_level": "match",
+    "detected_at": "2026-09-08T17:32:56.051896Z",
+    "reason": "role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 166,
+    "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
+  },
+  {
+    "firm": "Qube Research & Technologies",
+    "source_id": "8773084002",
+    "title": "2027 - Internship, Software Engineering and Quantitative Development",
+    "location": "London, Paris, Wroc\u0142aw, Zurich",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+    "match_level": "match",
+    "detected_at": "2026-09-08T17:32:56.051896Z",
+    "reason": "role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 129,
+    "comp_label": "~\u00a3129k (est. \u00a380\u2013178k)"
   }
 ]

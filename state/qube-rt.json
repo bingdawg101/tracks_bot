@@ -79,21 +79,6 @@
       "first_seen": "2026-09-03T20:09:21.293338Z",
       "baseline": true
     },
-    "8052341002": {
-      "firm": "Qube Research & Technologies",
-      "source_id": "8052341002",
-      "title": "2026 - Internship, Quantitative Research/Trading",
-      "location": "Aarhus, Dubai, Geneva, London, Paris, Zurich, Budapest",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8052341002",
-      "department": "Internship - Research/Trading",
-      "employment_type": "Intern",
-      "match_level": "match",
-      "comp_k": 166,
-      "comp_label": "~£166k (est. £103–229k)",
-      "comp_basis": "elite prop · quant research · internship",
-      "first_seen": "2026-09-03T20:09:21.282256Z",
-      "baseline": true
-    },
     "8088244002": {
       "firm": "Qube Research & Technologies",
       "source_id": "8088244002",
@@ -303,6 +288,81 @@
       "comp_basis": "elite prop · swe",
       "first_seen": "2026-09-03T20:09:21.314909Z",
       "baseline": true
+    },
+    "8773084002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8773084002",
+      "title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "location": "London, Paris, Wrocław, Zurich",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "department": "Internship - Technology",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
+      "first_seen": "2026-09-08T17:32:55.972808Z",
+      "baseline": false
+    },
+    "8773447002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8773447002",
+      "title": "2027 Internship/Graduate - Infrastructure Engineering",
+      "location": "London, Paris",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773447002",
+      "department": "Internship - Technology",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
+      "first_seen": "2026-09-08T17:32:55.972115Z",
+      "baseline": false
+    },
+    "8777760002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8777760002",
+      "title": "2027 Internship - Security Engineering",
+      "location": "London, Paris",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+      "department": "Internship - Technology",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-09-08T17:32:55.972681Z",
+      "baseline": false
+    },
+    "8777855002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8777855002",
+      "title": "2027 Internship/Graduate - FPGA Engineering",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777855002",
+      "department": "Internship - Technology",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
+      "first_seen": "2026-09-08T17:32:55.971961Z",
+      "baseline": false
+    },
+    "8785833002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8785833002",
+      "title": "2027 - Internship, Quantitative Research",
+      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "department": "Internship - Research/Trading",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 166,
+      "comp_label": "~£166k (est. £103–229k)",
+      "comp_basis": "elite prop · quant research · internship",
+      "first_seen": "2026-09-08T17:32:55.972417Z",
+      "baseline": false
     }
   }
 }
