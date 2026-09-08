@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "156669": {
+      "firm": "Lloyds Banking Group",
+      "source_id": "156669",
+      "title": "Associate – Structuring, Transaction Banking Solutions",
+      "location": "London",
+      "url": "https://lbg.wd3.myworkdayjobs.com/job/London/Associate---Structuring--Transaction-Banking-Solutions_156669-2",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 72,
+      "comp_label": "~£72k (est. £56–88k)",
+      "comp_basis": "bank other · structuring",
+      "first_seen": "2026-09-08T13:42:08.542977Z",
+      "baseline": false
+    }
+  }
 }

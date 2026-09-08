@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R20297": {
+      "firm": "M&G plc",
+      "source_id": "R20297",
+      "title": "Associate, Origination & Execution",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Associate--Origination---Execution_R20297",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-09-08T13:42:07.228635Z",
+      "baseline": false
+    }
+  }
 }

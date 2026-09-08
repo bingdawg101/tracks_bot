@@ -19,6 +19,21 @@
       "first_seen": "2026-09-03T16:23:37.817586Z",
       "baseline": true
     },
+    "210715011": {
+      "firm": "JPMorgan",
+      "source_id": "210715011",
+      "title": "Sales & Marketing - Commodities Institutional Sales - Analyst or Associate",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210715011",
+      "department": "Client Management",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-09-08T13:42:15.289826Z",
+      "baseline": false
+    },
     "210775302": {
       "firm": "JPMorgan",
       "source_id": "210775302",
@@ -48,6 +63,21 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-09-03T16:23:37.805590Z",
       "baseline": true
+    },
+    "210787065": {
+      "firm": "JPMorgan",
+      "source_id": "210787065",
+      "title": "Global Rates - JPY Trader – Associate",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787065",
+      "department": "Program Analysts & Associate",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-09-08T13:42:15.292392Z",
+      "baseline": false
     },
     "210787139": {
       "firm": "JPMorgan",
