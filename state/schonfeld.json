@@ -33,6 +33,21 @@
       "comp_basis": "hedge fund · risk ops · internship",
       "first_seen": "2026-09-04T22:34:54.327301Z",
       "baseline": false
+    },
+    "8187178": {
+      "firm": "Schonfeld Strategic Advisors",
+      "source_id": "8187178",
+      "title": "2027 DMFI Quant Research Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+      "department": "Internship",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 136,
+      "comp_label": "~£136k (est. £84–188k)",
+      "comp_basis": "hedge fund · quant research · internship",
+      "first_seen": "2026-09-08T22:43:15.375719Z",
+      "baseline": false
     }
   }
 }
