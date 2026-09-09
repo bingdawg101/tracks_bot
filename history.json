@@ -106,5 +106,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'intern', location 'london'",
     "comp_k": 136,
     "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
+  },
+  {
+    "firm": "Goldman Sachs",
+    "source_id": "170863_GS_CAMPUS",
+    "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+    "location": "London United Kingdom",
+    "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+    "match_level": "match",
+    "detected_at": "2026-09-09T14:10:01.487263Z",
+    "reason": "role 'research', title mentions 'summer analyst', location 'london'",
+    "comp_k": 43,
+    "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
   }
 ]

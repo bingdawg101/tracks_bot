@@ -124,6 +124,21 @@
       "first_seen": "2026-09-03T16:23:20.660738Z",
       "baseline": true
     },
+    "170863_GS_CAMPUS": {
+      "firm": "Goldman Sachs",
+      "source_id": "170863_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "department": "Global Investment Research Division",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 43,
+      "comp_label": "~£43k (est. £34–52k)",
+      "comp_basis": "bank bulge · other · internship",
+      "first_seen": "2026-09-09T14:10:01.467362Z",
+      "baseline": false
+    },
     "170874_GS_CAMPUS": {
       "firm": "Goldman Sachs",
       "source_id": "170874_GS_CAMPUS",

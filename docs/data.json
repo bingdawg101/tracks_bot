@@ -443,6 +443,15 @@
       "age_days": 0
     },
     {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
       "firm": "Brevan Howard",
       "title": "2027 Summer Internship Program \u2013 Trading, London",
       "location": "London, United Kingdom",
@@ -1172,7 +1181,7 @@
       "slug": "goldman-sachs",
       "enabled": true,
       "tier": "bank_bulge",
-      "match_count": 14,
+      "match_count": 15,
       "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
@@ -2380,6 +2389,18 @@
   ],
   "history": [
     {
+      "firm": "Goldman Sachs",
+      "source_id": "170863_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "match_level": "match",
+      "detected_at": "2026-09-09T14:10:01.487263Z",
+      "reason": "role 'research', title mentions 'summer analyst', location 'london'",
+      "comp_k": 43,
+      "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+    },
+    {
       "firm": "Schonfeld Strategic Advisors",
       "source_id": "8187178",
       "title": "2027 DMFI Quant Research Intern",
@@ -2488,6 +2509,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-08T22:43:15.388461Z",
-  "total_match": 83
+  "last_opening": "2026-09-09T14:10:01.487263Z",
+  "total_match": 84
 }
