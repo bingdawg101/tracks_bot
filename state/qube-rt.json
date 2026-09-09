@@ -229,6 +229,21 @@
       "first_seen": "2026-09-03T20:09:21.321237Z",
       "baseline": true
     },
+    "8623972002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8623972002",
+      "title": "2027 - Internship, Data Engineering",
+      "location": "Paris, London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002",
+      "department": "Internship - Technology",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 129,
+      "comp_label": "~£129k (est. £80–178k)",
+      "comp_basis": "elite prop · swe · internship",
+      "first_seen": "2026-09-09T09:54:32.891328Z",
+      "baseline": false
+    },
     "8660588002": {
       "firm": "Qube Research & Technologies",
       "source_id": "8660588002",
@@ -293,7 +308,7 @@
       "firm": "Qube Research & Technologies",
       "source_id": "8773084002",
       "title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "location": "London, Paris, Wrocław, Zurich",
+      "location": "London, Paris, Wrocław, Zurich, Dubai",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "department": "Internship - Technology",
       "employment_type": "",
@@ -352,7 +367,7 @@
     "8785833002": {
       "firm": "Qube Research & Technologies",
       "source_id": "8785833002",
-      "title": "2027 - Internship, Quantitative Research",
+      "title": "2027 - Internship, Quantitative Research and Trading",
       "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
       "department": "Internship - Research/Trading",

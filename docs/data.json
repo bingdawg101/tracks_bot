@@ -417,7 +417,7 @@
   "fresh": [
     {
       "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Quantitative Research",
+      "title": "2027 - Internship, Quantitative Research and Trading",
       "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
       "employment_type": "",
@@ -436,7 +436,7 @@
     {
       "firm": "Qube Research & Technologies",
       "title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "location": "London, Paris, Wroc\u0142aw, Zurich",
+      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "employment_type": "",
       "comp_k": 129,
@@ -1233,7 +1233,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 3,
-      "review_count": 21,
+      "review_count": 22,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
