@@ -288,21 +288,6 @@
       "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T16:23:19.176062Z",
       "baseline": true
-    },
-    "8044880": {
-      "firm": "Squarepoint Capital",
-      "source_id": "8044880",
-      "title": "Junior Credit Fundamental Research Analyst",
-      "location": "London, New York, Paris",
-      "url": "https://www.squarepoint-capital.com/open-opportunities?id=8044880&gh_jid=8044880",
-      "department": "Investment",
-      "employment_type": "Employee-Regular",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £59–131k)",
-      "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T16:23:19.179792Z",
-      "baseline": true
     }
   }
 }
