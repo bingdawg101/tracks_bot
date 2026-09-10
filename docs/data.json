@@ -1232,7 +1232,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 3,
-      "review_count": 6,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2032,7 +2032,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
