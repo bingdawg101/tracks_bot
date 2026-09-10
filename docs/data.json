@@ -1192,7 +1192,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 13,
-      "review_count": 2,
+      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1232,7 +1232,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 3,
-      "review_count": 5,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2062,7 +2062,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "open"
     },
