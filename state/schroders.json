@@ -318,6 +318,36 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-07T15:15:35.666177Z",
       "baseline": false
+    },
+    "2043": {
+      "firm": "Schroders",
+      "source_id": "2043",
+      "title": "2027 Public Markets Equities Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 72,
+      "comp_label": "~£72k (est. £56–88k)",
+      "comp_basis": "bank other · sales trading",
+      "first_seen": "2026-09-10T17:26:42.428522Z",
+      "baseline": false
+    },
+    "2044": {
+      "firm": "Schroders",
+      "source_id": "2044",
+      "title": "2027 Public Markets Multi-Asset Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-10T17:26:42.428664Z",
+      "baseline": false
     }
   }
 }

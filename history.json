@@ -118,5 +118,29 @@
     "reason": "role 'research', title mentions 'summer analyst', location 'london'",
     "comp_k": 43,
     "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "2043",
+    "title": "2027 Public Markets Equities Graduate Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
+    "match_level": "match",
+    "detected_at": "2026-09-10T17:26:42.434041Z",
+    "reason": "role 'equities', title mentions 'graduate', location 'london'",
+    "comp_k": 72,
+    "comp_label": "~\u00a372k (est. \u00a356\u201388k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "2044",
+    "title": "2027 Public Markets Multi-Asset Graduate Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
+    "match_level": "match",
+    "detected_at": "2026-09-10T17:26:42.434041Z",
+    "reason": "role 'multi-asset', title mentions 'graduate', location 'london'",
+    "comp_k": 55,
+    "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
   }
 ]

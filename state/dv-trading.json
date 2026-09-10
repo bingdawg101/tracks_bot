@@ -153,6 +153,21 @@
       "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T20:21:38.297531Z",
       "baseline": true
+    },
+    "4732700005": {
+      "firm": "DV Trading",
+      "source_id": "4732700005",
+      "title": "Client Platforms Engineer Intern - Summer 2027",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732700005",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-09-10T17:26:36.002571Z",
+      "baseline": false
     }
   }
 }
