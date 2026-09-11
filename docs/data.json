@@ -422,7 +422,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
       "employment_type": "",
       "comp_k": 72,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Schroders",
@@ -431,16 +431,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
       "employment_type": "",
       "comp_k": 55,
-      "age_days": 0
-    },
-    {
-      "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Quantitative Research and Trading",
-      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
-      "employment_type": "",
-      "comp_k": 166,
-      "age_days": 2
+      "age_days": 1
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -449,15 +440,6 @@
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 2
-    },
-    {
-      "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
-      "employment_type": "",
-      "comp_k": 129,
       "age_days": 2
     },
     {
@@ -470,6 +452,24 @@
       "age_days": 2
     },
     {
+      "firm": "Qube Research & Technologies",
+      "title": "2027 - Internship, Quantitative Research and Trading",
+      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "employment_type": "",
+      "comp_k": 166,
+      "age_days": 3
+    },
+    {
+      "firm": "Qube Research & Technologies",
+      "title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "employment_type": "",
+      "comp_k": 129,
+      "age_days": 3
+    },
+    {
       "firm": "Brevan Howard",
       "title": "2027 Summer Internship Program \u2013 Trading, London",
       "location": "London, United Kingdom",
@@ -479,31 +479,13 @@
       "age_days": 4
     },
     {
-      "firm": "JPMorgan",
-      "title": "2027 Quantitative Research Markets Analyst Program \u2013 Off-Cycle Internship \u2013 London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788659",
-      "employment_type": "",
-      "comp_k": 66,
-      "age_days": 4
-    },
-    {
-      "firm": "JPMorgan",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788236",
-      "employment_type": "",
-      "comp_k": 59,
-      "age_days": 4
-    },
-    {
-      "firm": "JPMorgan",
-      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788352",
-      "employment_type": "",
-      "comp_k": 56,
-      "age_days": 4
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 170,
+      "age_days": 7
     },
     {
       "firm": "Man Group",
@@ -512,15 +494,6 @@
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
       "employment_type": "",
       "comp_k": 141,
-      "age_days": 6
-    },
-    {
-      "firm": "Jane Street",
-      "title": "Trading Desk Operations Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
-      "employment_type": "Full-Time: New Grad",
-      "comp_k": 170,
       "age_days": 7
     }
   ],
@@ -874,7 +847,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jane Street",
@@ -1072,7 +1045,7 @@
       "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
       "employment_type": "",
       "comp_k": 63,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1224,16 +1197,6 @@
       "tier": "hedge_fund",
       "match_count": 4,
       "review_count": 15,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "JPMorgan",
-      "slug": "jpmorgan",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 3,
-      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1723,7 +1686,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 7,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1906,6 +1869,16 @@
       "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
+    },
+    {
+      "name": "JPMorgan",
+      "slug": "jpmorgan",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 0,
+      "review_count": 6,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Jefferies",
@@ -2525,5 +2498,5 @@
     }
   ],
   "last_opening": "2026-09-10T17:26:42.434041Z",
-  "total_match": 83
+  "total_match": 80
 }
