@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "R201954": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R201954",
+      "title": "Energy Analyst",
+      "location": "London York Road",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Energy-Analyst_R201954",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
+      "first_seen": "2026-09-11T09:30:50.345115Z",
+      "baseline": false
+    },
     "R208302": {
       "firm": "Shell (Trading & Supply)",
       "source_id": "R208302",

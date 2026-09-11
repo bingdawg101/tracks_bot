@@ -2053,7 +2053,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2103,7 +2103,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2143,7 +2143,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
