@@ -434,15 +434,6 @@
       "age_days": 0
     },
     {
-      "firm": "Goldman Sachs",
-      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 43,
-      "age_days": 1
-    },
-    {
       "firm": "Qube Research & Technologies",
       "title": "2027 - Internship, Quantitative Research and Trading",
       "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
@@ -470,13 +461,22 @@
       "age_days": 2
     },
     {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 2
+    },
+    {
       "firm": "Brevan Howard",
       "title": "2027 Summer Internship Program \u2013 Trading, London",
       "location": "London, United Kingdom",
       "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584/apply",
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 123,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "firm": "JPMorgan",
@@ -485,7 +485,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788659",
       "employment_type": "",
       "comp_k": 66,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "firm": "JPMorgan",
@@ -494,7 +494,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788236",
       "employment_type": "",
       "comp_k": 59,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "firm": "JPMorgan",
@@ -503,16 +503,7 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788352",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 3
-    },
-    {
-      "firm": "Jane Street",
-      "title": "Trading Desk Operations Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
-      "employment_type": "Full-Time: New Grad",
-      "comp_k": 170,
-      "age_days": 6
+      "age_days": 4
     },
     {
       "firm": "Man Group",
@@ -522,6 +513,15 @@
       "employment_type": "",
       "comp_k": 141,
       "age_days": 6
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 170,
+      "age_days": 7
     }
   ],
   "stale": [
@@ -532,7 +532,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 190,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Five Rings",
@@ -541,7 +541,7 @@
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
       "employment_type": "Full-time",
       "comp_k": 190,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -550,7 +550,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
       "employment_type": "Full-time - Campus",
       "comp_k": 190,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Tower Research Capital",
@@ -559,7 +559,7 @@
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8037824",
       "employment_type": "",
       "comp_k": 190,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Old Mission Capital",
@@ -577,7 +577,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 180,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jane Street",
@@ -586,7 +586,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 180,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "IMC Trading",
@@ -595,7 +595,7 @@
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -604,7 +604,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7977132",
       "employment_type": "Full-time - Campus",
       "comp_k": 180,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -613,7 +613,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
       "employment_type": "Full-time - Campus",
       "comp_k": 180,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Headlands Technologies",
@@ -640,7 +640,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
       "employment_type": "Summer Internship",
       "comp_k": 175,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -649,7 +649,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8050772",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 175,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Tower Research Capital",
@@ -658,7 +658,7 @@
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Susquehanna International Group",
@@ -721,7 +721,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
       "employment_type": "Summer Internship",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jane Street",
@@ -730,7 +730,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
       "employment_type": "Summer Internship",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Hudson River Trading",
@@ -739,7 +739,7 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
       "employment_type": "Intern",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Hudson River Trading",
@@ -748,7 +748,7 @@
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
       "employment_type": "Intern",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Aquatic Capital Management",
@@ -757,7 +757,7 @@
       "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -766,7 +766,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7977145",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -775,7 +775,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8010307",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -784,7 +784,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8059384",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Tower Research Capital",
@@ -793,7 +793,7 @@
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8113986",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Susquehanna International Group",
@@ -811,7 +811,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
       "employment_type": "Summer Internship",
       "comp_k": 156,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "DV Trading",
@@ -838,7 +838,7 @@
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6100081&gh_jid=6100081",
       "employment_type": "Employee-Regular",
       "comp_k": 140,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Squarepoint Capital",
@@ -847,7 +847,7 @@
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
       "employment_type": "Employee-Regular",
       "comp_k": 140,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Susquehanna International Group",
@@ -883,7 +883,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8537797002?gh_jid=8537797002",
       "employment_type": "Summer Internship",
       "comp_k": 138,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Susquehanna International Group",
@@ -901,7 +901,7 @@
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853",
       "employment_type": "Intern Full-time",
       "comp_k": 136,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Point72",
@@ -946,7 +946,7 @@
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610",
       "employment_type": "Employee-Regular",
       "comp_k": 120,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -955,7 +955,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7217856",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -964,7 +964,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7976923",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Crypto",
@@ -991,7 +991,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7362318",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Jump Trading",
@@ -1000,7 +1000,7 @@
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7976964",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Qube Research & Technologies",
@@ -1036,7 +1036,7 @@
       "url": "https://higher.gs.com/roles/175421_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 66,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1045,7 +1045,7 @@
       "url": "https://higher.gs.com/roles/175424_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 66,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1054,7 +1054,7 @@
       "url": "https://higher.gs.com/roles/175426_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 66,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1063,7 +1063,7 @@
       "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 66,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Engelhart Commodities",
@@ -1081,7 +1081,7 @@
       "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 59,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1090,7 +1090,7 @@
       "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 59,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1099,7 +1099,7 @@
       "url": "https://higher.gs.com/roles/170675_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 59,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Schroders",
@@ -1117,7 +1117,7 @@
       "url": "https://higher.gs.com/roles/170874_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1126,7 +1126,7 @@
       "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1135,7 +1135,7 @@
       "url": "https://higher.gs.com/roles/170880_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Goldman Sachs",
@@ -1144,7 +1144,7 @@
       "url": "https://higher.gs.com/roles/170901_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Schroders",
@@ -1263,7 +1263,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 2,
-      "review_count": 9,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1674,7 +1674,7 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "open"
     },
     {
@@ -2103,7 +2103,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
