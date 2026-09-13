@@ -434,15 +434,6 @@
       "age_days": 3
     },
     {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Research Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
-      "employment_type": "",
-      "comp_k": 136,
-      "age_days": 4
-    },
-    {
       "firm": "Goldman Sachs",
       "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
       "location": "London United Kingdom",
@@ -458,6 +449,15 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
       "employment_type": "",
       "comp_k": 166,
+      "age_days": 5
+    },
+    {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Research Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+      "employment_type": "",
+      "comp_k": 136,
       "age_days": 5
     },
     {
@@ -946,7 +946,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Point72",
@@ -991,7 +991,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Susquehanna International Group",
@@ -1036,15 +1036,6 @@
       "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 66,
-      "age_days": 10
-    },
-    {
-      "firm": "Engelhart Commodities",
-      "title": "Commodity Trading Analytics Internship Program",
-      "location": "London, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164581",
-      "employment_type": "",
-      "comp_k": 63,
       "age_days": 10
     },
     {
@@ -1138,7 +1129,7 @@
       "age_days": 10
     }
   ],
-  "stale_firms": 21,
+  "stale_firms": 20,
   "firms": [
     {
       "name": "Susquehanna International Group",
@@ -1279,16 +1270,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
-    },
-    {
-      "name": "Engelhart Commodities",
-      "slug": "engelhart",
-      "enabled": true,
-      "tier": "commodity_other",
-      "match_count": 1,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "open"
     },
     {
       "name": "Five Rings",
@@ -1719,6 +1700,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "rolling"
+    },
+    {
+      "name": "Engelhart Commodities",
+      "slug": "engelhart",
+      "enabled": true,
+      "tier": "commodity_other",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Equinor",
@@ -2498,5 +2489,5 @@
     }
   ],
   "last_opening": "2026-09-10T17:26:42.434041Z",
-  "total_match": 80
+  "total_match": 79
 }
