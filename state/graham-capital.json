@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-03T21:39:46.251736Z",
       "baseline": true
+    },
+    "4733835005": {
+      "firm": "Graham Capital Management",
+      "source_id": "4733835005",
+      "title": "2027 Graham Capital Summer Internship – London",
+      "location": "London, England, United Kingdom",
+      "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4733835005?gh_jid=4733835005",
+      "department": "Internships",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-09-14T22:27:40.002798Z",
+      "baseline": false
     }
   }
 }
