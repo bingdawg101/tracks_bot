@@ -4,36 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "63472": {
-      "firm": "Deutsche Bank",
-      "source_id": "63472",
-      "title": "Quantitative Developer, Trading and Client Controls (TaCC)",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=63472",
-      "department": "",
-      "employment_type": "Unbefristet Vice President",
-      "match_level": "review",
-      "comp_k": 90,
-      "comp_label": "~£90k (est. £70–110k)",
-      "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-03T16:36:16.963834Z",
-      "baseline": true
-    },
-    "69771": {
-      "firm": "Deutsche Bank",
-      "source_id": "69771",
-      "title": "Quantitative Strategist Flow Rates",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=69771",
-      "department": "",
-      "employment_type": "Unbefristet Associate",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £74–116k)",
-      "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-09-03T16:36:16.963964Z",
-      "baseline": true
-    },
     "71226": {
       "firm": "Deutsche Bank",
       "source_id": "71226",
