@@ -48,6 +48,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-11T17:20:11.550726Z",
       "baseline": false
+    },
+    "R-0000187707": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000187707",
+      "title": "Attribution Analyst (12 month Fixed Term Contract)",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Attribution-Analyst--12-month-Fixed-Term-Contract-_R-0000187707/apply",
+      "department": "Technology | Analytics | Research",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-14T19:06:30.183377Z",
+      "baseline": false
     }
   }
 }
