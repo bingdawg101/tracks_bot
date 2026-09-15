@@ -416,6 +416,24 @@
   ],
   "fresh": [
     {
+      "firm": "Brevan Howard",
+      "title": "AI & Quantitative Analyst, London",
+      "location": "London, United Kingdom",
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
+      "employment_type": "Intern (Fixed Term) (Trainee)",
+      "comp_k": 84,
+      "age_days": 0
+    },
+    {
+      "firm": "BlackRock",
+      "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London London, England 09/15/2026",
+      "location": "London, England",
+      "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
+      "employment_type": "",
+      "comp_k": 38,
+      "age_days": 0
+    },
+    {
       "firm": "Schroders",
       "title": "2027 Public Markets Equities Graduate Programme",
       "location": "London, United Kingdom",
@@ -432,15 +450,6 @@
       "employment_type": "",
       "comp_k": 55,
       "age_days": 4
-    },
-    {
-      "firm": "Goldman Sachs",
-      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 43,
-      "age_days": 5
     },
     {
       "firm": "Qube Research & Technologies",
@@ -470,6 +479,15 @@
       "age_days": 6
     },
     {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 6
+    },
+    {
       "firm": "Brevan Howard",
       "title": "2027 Summer Internship Program \u2013 Trading, London",
       "location": "London, United Kingdom",
@@ -477,15 +495,6 @@
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 123,
       "age_days": 7
-    },
-    {
-      "firm": "Jane Street",
-      "title": "Trading Desk Operations Engineer",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
-      "employment_type": "Full-Time: New Grad",
-      "comp_k": 170,
-      "age_days": 10
     },
     {
       "firm": "Man Group",
@@ -667,6 +676,15 @@
       "url": "https://careers-sig.icims.com/jobs/11032/login",
       "employment_type": "Intern",
       "comp_k": 175,
+      "age_days": 11
+    },
+    {
+      "firm": "Jane Street",
+      "title": "Trading Desk Operations Engineer",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
+      "employment_type": "Full-Time: New Grad",
+      "comp_k": 170,
       "age_days": 11
     },
     {
@@ -1168,7 +1186,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 5,
-      "review_count": 18,
+      "review_count": 17,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1201,6 +1219,16 @@
       "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
+    },
+    {
+      "name": "Brevan Howard",
+      "slug": "brevan-howard",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 2,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "DV Trading",
@@ -1253,14 +1281,14 @@
       "cycle_note": "open"
     },
     {
-      "name": "Brevan Howard",
-      "slug": "brevan-howard",
+      "name": "BlackRock",
+      "slug": "blackrock",
       "enabled": true,
-      "tier": "hedge_fund",
+      "tier": "bank_other",
       "match_count": 1,
-      "review_count": 0,
+      "review_count": 9,
       "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
+      "cycle_note": "open"
     },
     {
       "name": "Five Rings",
@@ -1483,16 +1511,6 @@
       "cycle_note": "rolling"
     },
     {
-      "name": "BlackRock",
-      "slug": "blackrock",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 9,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "BlueCrest Capital Management",
       "slug": "bluecrest",
       "enabled": true,
@@ -1609,7 +1627,7 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "open"
     },
     {
@@ -1908,7 +1926,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2228,7 +2246,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2334,6 +2352,30 @@
     }
   ],
   "history": [
+    {
+      "firm": "BlackRock",
+      "source_id": "100661849296",
+      "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London London, England 09/15/2026",
+      "location": "London, England",
+      "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
+      "match_level": "match",
+      "detected_at": "2026-09-15T15:10:21.907585Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+      "comp_k": 38,
+      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+    },
+    {
+      "firm": "Brevan Howard",
+      "source_id": "JR101605",
+      "title": "AI & Quantitative Analyst, London",
+      "location": "London, United Kingdom",
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
+      "match_level": "match",
+      "detected_at": "2026-09-15T15:10:05.888070Z",
+      "reason": "role 'quantitative', employment type 'Intern (Fixed Term) (Trainee)', location 'london'",
+      "comp_k": 84,
+      "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
+    },
     {
       "firm": "Schroders",
       "source_id": "2044",
@@ -2479,6 +2521,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-10T17:26:42.434041Z",
-  "total_match": 78
+  "last_opening": "2026-09-15T15:10:21.907585Z",
+  "total_match": 80
 }

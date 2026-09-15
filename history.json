@@ -142,5 +142,29 @@
     "reason": "role 'multi-asset', title mentions 'graduate', location 'london'",
     "comp_k": 55,
     "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+  },
+  {
+    "firm": "Brevan Howard",
+    "source_id": "JR101605",
+    "title": "AI & Quantitative Analyst, London",
+    "location": "London, United Kingdom",
+    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
+    "match_level": "match",
+    "detected_at": "2026-09-15T15:10:05.888070Z",
+    "reason": "role 'quantitative', employment type 'Intern (Fixed Term) (Trainee)', location 'london'",
+    "comp_k": 84,
+    "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
+  },
+  {
+    "firm": "BlackRock",
+    "source_id": "100661849296",
+    "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London London, England 09/15/2026",
+    "location": "London, England",
+    "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
+    "match_level": "match",
+    "detected_at": "2026-09-15T15:10:21.907585Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 38,
+    "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
   }
 ]
