@@ -34,6 +34,21 @@
       "first_seen": "2026-09-11T09:30:50.345115Z",
       "baseline": false
     },
+    "R205154": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R205154",
+      "title": "Shell Assessed Internship Programme 2027 – United Kingdom",
+      "location": "London - Shell Centre",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London---Shell-Centre/Shell-Assessed-Internship-Programme-2027---United-Kingdom_R205154",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 36,
+      "comp_label": "~£36k (est. £28–44k)",
+      "comp_basis": "energy utility · other · internship",
+      "first_seen": "2026-09-15T00:51:04.412640Z",
+      "baseline": false
+    },
     "R208302": {
       "firm": "Shell (Trading & Supply)",
       "source_id": "R208302",
@@ -48,6 +63,36 @@
       "comp_basis": "energy utility · structuring",
       "first_seen": "2026-09-03T17:34:27.248691Z",
       "baseline": true
+    },
+    "R210016": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R210016",
+      "title": "Information & Digital Technology (IDT) - Shell Graduate Programme 2027 - United Kingdom",
+      "location": "London - Shell Centre",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London---Shell-Centre/Information---Digital-Technology--IDT----Shell-Graduate-Programme-2027---United-Kingdom_R210016",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
+      "first_seen": "2026-09-15T00:51:04.412431Z",
+      "baseline": false
+    },
+    "R210018": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R210018",
+      "title": "Finance - Shell Graduate Programme 2027 - United Kingdom",
+      "location": "London - Shell Centre",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London---Shell-Centre/Finance---Shell-Graduate-Programme-2027---United-Kingdom_R210018",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 48,
+      "comp_label": "~£48k (est. £37–59k)",
+      "comp_basis": "energy utility · risk ops",
+      "first_seen": "2026-09-15T00:51:04.412233Z",
+      "baseline": false
     }
   }
 }
