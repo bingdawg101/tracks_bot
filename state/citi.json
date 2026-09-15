@@ -1,7 +1,7 @@
 {
   "firm": "Citi",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "citi: GET https://jobs.citi.com/search-jobs/results failed: Expecting value: line 3 column 1 (char 4)",
   "established": true,
   "tracked": {}
 }
