@@ -425,6 +425,24 @@
       "age_days": 0
     },
     {
+      "firm": "The Voleon Group",
+      "title": "Research Intern (London)",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
+      "employment_type": "Intern",
+      "comp_k": 84,
+      "age_days": 0
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 0
+    },
+    {
       "firm": "Brevan Howard",
       "title": "AI & Quantitative Analyst, London",
       "location": "London, United Kingdom",
@@ -532,7 +550,7 @@
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
       "employment_type": "Full-time",
       "comp_k": 190,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Jane Street",
@@ -586,7 +604,7 @@
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Susquehanna International Group",
@@ -784,7 +802,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
       "employment_type": "",
       "comp_k": 156,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Susquehanna International Group",
@@ -874,7 +892,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "GSA Capital",
@@ -883,7 +901,7 @@
       "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "DV Trading",
@@ -892,7 +910,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Susquehanna International Group",
@@ -946,7 +964,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
       "employment_type": "",
       "comp_k": 106,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Jump Trading",
@@ -973,7 +991,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Jump Crypto",
@@ -1087,22 +1105,22 @@
   "stale_firms": 19,
   "firms": [
     {
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 12,
+      "review_count": 7,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Susquehanna International Group",
       "slug": "sig",
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 12,
       "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "Goldman Sachs",
-      "slug": "goldman-sachs",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 11,
-      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1305,6 +1323,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "rolling"
+    },
+    {
+      "name": "The Voleon Group",
+      "slug": "voleon",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "3Red Partners",
@@ -1802,7 +1830,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2097,16 +2125,6 @@
       "cycle_note": "opens Oct 2026"
     },
     {
-      "name": "The Voleon Group",
-      "slug": "voleon",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 0,
-      "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "opens Oct 2026"
-    },
-    {
       "name": "Tradition",
       "slug": "tradition",
       "enabled": true,
@@ -2299,6 +2317,30 @@
   ],
   "history": [
     {
+      "firm": "Goldman Sachs",
+      "source_id": "170877_GS_CAMPUS",
+      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
+      "match_level": "match",
+      "detected_at": "2026-09-16T21:26:02.427753Z",
+      "reason": "role 'research', title mentions 'internship', location 'london'",
+      "comp_k": 43,
+      "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+    },
+    {
+      "firm": "The Voleon Group",
+      "source_id": "ef2b0892-1772-4240-a535-4043d66d848e",
+      "title": "Research Intern (London)",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
+      "match_level": "match",
+      "detected_at": "2026-09-16T21:26:01.372850Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'research', employment type 'Intern', location 'london'",
+      "comp_k": 84,
+      "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
+    },
+    {
       "firm": "Schonfeld Strategic Advisors",
       "source_id": "8207942",
       "title": "2027 DMFI Quant Developer Intern",
@@ -2479,6 +2521,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-16T18:17:44.894258Z",
-  "total_match": 74
+  "last_opening": "2026-09-16T21:26:02.427753Z",
+  "total_match": 76
 }

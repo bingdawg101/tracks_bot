@@ -178,5 +178,29 @@
     "reason": "role 'quant', title mentions 'intern', location 'london'",
     "comp_k": 106,
     "comp_label": "~\u00a3106k (est. \u00a366\u2013146k)"
+  },
+  {
+    "firm": "The Voleon Group",
+    "source_id": "ef2b0892-1772-4240-a535-4043d66d848e",
+    "title": "Research Intern (London)",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
+    "match_level": "match",
+    "detected_at": "2026-09-16T21:26:01.372850Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'research', employment type 'Intern', location 'london'",
+    "comp_k": 84,
+    "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
+  },
+  {
+    "firm": "Goldman Sachs",
+    "source_id": "170877_GS_CAMPUS",
+    "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
+    "location": "London United Kingdom",
+    "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
+    "match_level": "match",
+    "detected_at": "2026-09-16T21:26:02.427753Z",
+    "reason": "role 'research', title mentions 'internship', location 'london'",
+    "comp_k": 43,
+    "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
   }
 ]

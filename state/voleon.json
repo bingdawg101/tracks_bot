@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-03T20:21:38.419240Z",
       "baseline": true
+    },
+    "ef2b0892-1772-4240-a535-4043d66d848e": {
+      "firm": "The Voleon Group",
+      "source_id": "ef2b0892-1772-4240-a535-4043d66d848e",
+      "title": "Research Intern (London)",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
+      "department": "Research",
+      "employment_type": "Intern",
+      "match_level": "match",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-09-16T21:26:01.372755Z",
+      "baseline": false
     }
   }
 }
