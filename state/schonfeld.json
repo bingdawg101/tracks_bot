@@ -78,6 +78,21 @@
       "comp_basis": "hedge fund · trading",
       "first_seen": "2026-09-16T14:23:52.032671Z",
       "baseline": false
+    },
+    "8207942": {
+      "firm": "Schonfeld Strategic Advisors",
+      "source_id": "8207942",
+      "title": "2027 DMFI Quant Developer Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "department": "Internship",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 106,
+      "comp_label": "~£106k (est. £66–146k)",
+      "comp_basis": "hedge fund · swe · internship",
+      "first_seen": "2026-09-16T18:17:44.877511Z",
+      "baseline": false
     }
   }
 }

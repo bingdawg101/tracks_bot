@@ -166,5 +166,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
     "comp_k": 38,
     "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+  },
+  {
+    "firm": "Schonfeld Strategic Advisors",
+    "source_id": "8207942",
+    "title": "2027 DMFI Quant Developer Intern",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+    "match_level": "match",
+    "detected_at": "2026-09-16T18:17:44.894258Z",
+    "reason": "role 'quant', title mentions 'intern', location 'london'",
+    "comp_k": 106,
+    "comp_label": "~\u00a3106k (est. \u00a366\u2013146k)"
   }
 ]

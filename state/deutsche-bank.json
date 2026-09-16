@@ -79,19 +79,19 @@
       "first_seen": "2026-09-03T16:36:16.949967Z",
       "baseline": true
     },
-    "74593": {
+    "74691": {
       "firm": "Deutsche Bank",
-      "source_id": "74593",
-      "title": "Equity Derivatives Trader",
+      "source_id": "74691",
+      "title": "Core Quantitative Strategic Analytics Developer",
       "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=74593",
+      "url": "/index.php?ac=jobad&id=74691",
       "department": "",
       "employment_type": "Unbefristet Vice President",
       "match_level": "review",
-      "comp_k": 85,
-      "comp_label": "~£85k (est. £66–104k)",
-      "comp_basis": "bank bulge · sales trading",
-      "first_seen": "2026-09-15T22:07:26.229631Z",
+      "comp_k": 70,
+      "comp_label": "~£70k (est. £55–85k)",
+      "comp_basis": "bank bulge · swe",
+      "first_seen": "2026-09-16T18:17:49.295652Z",
       "baseline": false
     }
   }
