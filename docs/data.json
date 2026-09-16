@@ -452,15 +452,6 @@
       "age_days": 5
     },
     {
-      "firm": "Goldman Sachs",
-      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 43,
-      "age_days": 6
-    },
-    {
       "firm": "Qube Research & Technologies",
       "title": "2027 - Internship, Quantitative Research and Trading",
       "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
@@ -485,6 +476,15 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "employment_type": "",
       "comp_k": 129,
+      "age_days": 7
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
       "age_days": 7
     },
     {
@@ -677,15 +677,6 @@
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
       "age_days": 11
-    },
-    {
-      "firm": "Wintermute",
-      "title": "Graduate Algorithmic Trader 2027",
-      "location": "London",
-      "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517",
-      "employment_type": "Full-time",
-      "comp_k": 170,
-      "age_days": 12
     },
     {
       "firm": "Susquehanna International Group",
@@ -1138,7 +1129,7 @@
       "age_days": 12
     }
   ],
-  "stale_firms": 21,
+  "stale_firms": 20,
   "firms": [
     {
       "name": "Goldman Sachs",
@@ -1366,17 +1357,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 1,
-      "review_count": 3,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "Wintermute",
-      "slug": "wintermute",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 10,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2076,7 +2057,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2321,6 +2302,16 @@
       "cycle_note": "rolling"
     },
     {
+      "name": "Wintermute",
+      "slug": "wintermute",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 10,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Winton",
       "slug": "winton",
       "enabled": true,
@@ -2522,5 +2513,5 @@
     }
   ],
   "last_opening": "2026-09-15T15:10:21.907585Z",
-  "total_match": 80
+  "total_match": 79
 }

@@ -63,6 +63,21 @@
       "comp_basis": "hedge fund · quant research · internship",
       "first_seen": "2026-09-08T22:43:15.375719Z",
       "baseline": false
+    },
+    "8203953": {
+      "firm": "Schonfeld Strategic Advisors",
+      "source_id": "8203953",
+      "title": "Trading Assistant",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8203953",
+      "department": "DMFI COO Office",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
+      "first_seen": "2026-09-16T14:23:52.032671Z",
+      "baseline": false
     }
   }
 }
