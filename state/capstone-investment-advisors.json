@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "8387489002": {
+      "firm": "Capstone Investment Advisors",
+      "source_id": "8387489002",
+      "title": "Sr Quantitative Analyst",
+      "location": "London, England",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8387489002",
+      "department": "Tech - Quant",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-09-16T00:16:43.396384Z",
+      "baseline": false
+    }
+  }
 }
