@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "RQ115209": {
+      "firm": "BP (Trading & Shipping)",
+      "source_id": "RQ115209",
+      "title": "Treasury Finance Analyst",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Treasury-Finance-Analyst_RQ115209-2",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 48,
+      "comp_label": "~£48k (est. £37–59k)",
+      "comp_basis": "energy utility · risk ops",
+      "first_seen": "2026-09-17T12:12:42.734532Z",
+      "baseline": false
+    }
+  }
 }
