@@ -18,6 +18,21 @@
       "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T20:21:38.245329Z",
       "baseline": true
+    },
+    "4978886101": {
+      "firm": "GSR Markets",
+      "source_id": "4978886101",
+      "title": "Quant Developer",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/gsrmarkets/jobs/4978886101",
+      "department": "Quantitative Development",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-09-17T17:02:02.136862Z",
+      "baseline": false
     }
   }
 }

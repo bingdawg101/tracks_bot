@@ -93,6 +93,21 @@
       "comp_basis": "hedge fund · quant trading · internship",
       "first_seen": "2026-09-04T18:14:45.156244Z",
       "baseline": false
+    },
+    "4978934101": {
+      "firm": "Man Group",
+      "source_id": "4978934101",
+      "title": "2027 Summer Technology Internship Programme",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978934101",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-09-17T17:02:02.796244Z",
+      "baseline": false
     }
   }
 }
