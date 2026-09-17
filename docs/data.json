@@ -416,15 +416,6 @@
   ],
   "fresh": [
     {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Developer Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
-      "employment_type": "",
-      "comp_k": 106,
-      "age_days": 0
-    },
-    {
       "firm": "The Voleon Group",
       "title": "Research Intern (London)",
       "location": "London",
@@ -441,6 +432,15 @@
       "employment_type": "",
       "comp_k": 43,
       "age_days": 0
+    },
+    {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Developer Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "employment_type": "",
+      "comp_k": 106,
+      "age_days": 1
     },
     {
       "firm": "Brevan Howard",
@@ -461,30 +461,12 @@
       "age_days": 2
     },
     {
-      "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Quantitative Research and Trading",
-      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
-      "employment_type": "",
-      "comp_k": 166,
-      "age_days": 8
-    },
-    {
       "firm": "Schonfeld Strategic Advisors",
       "title": "2027 DMFI Quant Research Intern",
       "location": "London, England, United Kingdom",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 8
-    },
-    {
-      "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
-      "employment_type": "",
-      "comp_k": 129,
       "age_days": 8
     },
     {
@@ -495,6 +477,24 @@
       "employment_type": "",
       "comp_k": 43,
       "age_days": 8
+    },
+    {
+      "firm": "Qube Research & Technologies",
+      "title": "2027 - Internship, Quantitative Research and Trading",
+      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "employment_type": "",
+      "comp_k": 166,
+      "age_days": 9
+    },
+    {
+      "firm": "Qube Research & Technologies",
+      "title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "employment_type": "",
+      "comp_k": 129,
+      "age_days": 9
     },
     {
       "firm": "Brevan Howard",
@@ -550,7 +550,7 @@
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
       "employment_type": "Full-time",
       "comp_k": 190,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Jane Street",
@@ -604,7 +604,7 @@
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Susquehanna International Group",
@@ -820,7 +820,7 @@
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
       "employment_type": "",
       "comp_k": 141,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Squarepoint Capital",
@@ -865,7 +865,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Jane Street",
@@ -892,7 +892,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "GSA Capital",
@@ -964,7 +964,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
       "employment_type": "",
       "comp_k": 106,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Jump Trading",
@@ -991,7 +991,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Jump Crypto",
@@ -2030,7 +2030,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 7,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
