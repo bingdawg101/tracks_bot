@@ -48,6 +48,21 @@
       "comp_basis": "bank other · risk ops",
       "first_seen": "2026-09-03T20:39:58.845859Z",
       "baseline": true
+    },
+    "R94724": {
+      "firm": "Wellington Management",
+      "source_id": "R94724",
+      "title": "EMEA Financing Trader",
+      "location": "London, United Kingdom",
+      "url": "https://wellington.wd5.myworkdayjobs.com/job/London-United-Kingdom/EMEA-Financing-Trader_R94724-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-09-18T14:26:38.586208Z",
+      "baseline": false
     }
   }
 }

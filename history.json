@@ -202,5 +202,77 @@
     "reason": "role 'research', title mentions 'internship', location 'london'",
     "comp_k": 43,
     "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "2043",
+    "title": "2027 Public Markets Equities Graduate Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
+    "match_level": "match",
+    "detected_at": "2026-09-18T14:26:31.278946Z",
+    "reason": "firm went from 0 to 5 matching roles \u2014 role 'equities', title mentions 'graduate', location 'london'",
+    "comp_k": 72,
+    "comp_label": "~\u00a372k (est. \u00a356\u201388k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "2044",
+    "title": "2027 Public Markets Multi-Asset Graduate Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
+    "match_level": "match",
+    "detected_at": "2026-09-18T14:26:31.278946Z",
+    "reason": "firm went from 0 to 5 matching roles \u2014 role 'multi-asset', title mentions 'graduate', location 'london'",
+    "comp_k": 55,
+    "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "1940",
+    "title": "2027 Public Markets Equities Internship Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+    "match_level": "match",
+    "detected_at": "2026-09-18T14:26:31.278946Z",
+    "reason": "firm went from 0 to 5 matching roles \u2014 role 'equities', title mentions 'internship', location 'london'",
+    "comp_k": 50,
+    "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "1941",
+    "title": "2027 Public Markets Quants Internship Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+    "match_level": "match",
+    "detected_at": "2026-09-18T14:26:31.278946Z",
+    "reason": "firm went from 0 to 5 matching roles \u2014 role 'markets', title mentions 'internship', location 'london'",
+    "comp_k": 38,
+    "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+  },
+  {
+    "firm": "Schroders",
+    "source_id": "1942",
+    "title": "2027 Public Markets Multi-Asset Internship Programme",
+    "location": "London, United Kingdom",
+    "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+    "match_level": "match",
+    "detected_at": "2026-09-18T14:26:31.278946Z",
+    "reason": "firm went from 0 to 5 matching roles \u2014 role 'multi-asset', title mentions 'internship', location 'london'",
+    "comp_k": 38,
+    "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+  },
+  {
+    "firm": "CIBC Capital Markets",
+    "source_id": "2619190",
+    "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+    "location": "London, GBR",
+    "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
+    "match_level": "match",
+    "detected_at": "2026-09-18T14:26:59.617454Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'global markets', title mentions 'intern', location 'london'",
+    "comp_k": 50,
+    "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
   }
 ]

@@ -416,6 +416,60 @@
   ],
   "fresh": [
     {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Equities Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
+      "employment_type": "",
+      "comp_k": 72,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Multi-Asset Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
+      "employment_type": "",
+      "comp_k": 55,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Equities Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
+      "firm": "CIBC Capital Markets",
+      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Quants Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+      "employment_type": "",
+      "comp_k": 38,
+      "age_days": 0
+    },
+    {
+      "firm": "Schroders",
+      "title": "2027 Public Markets Multi-Asset Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+      "employment_type": "",
+      "comp_k": 38,
+      "age_days": 0
+    },
+    {
       "firm": "Schonfeld Strategic Advisors",
       "title": "2027 DMFI Quant Developer Intern",
       "location": "London, England, United Kingdom",
@@ -1218,6 +1272,16 @@
       "cycle_note": "open"
     },
     {
+      "name": "Schroders",
+      "slug": "schroders",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 5,
+      "review_count": 16,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Squarepoint Capital",
       "slug": "squarepoint",
       "enabled": true,
@@ -1303,7 +1367,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 4,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1326,6 +1390,16 @@
       "review_count": 8,
       "failure_count": 0,
       "cycle_note": "open"
+    },
+    {
+      "name": "CIBC Capital Markets",
+      "slug": "cibc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 1,
+      "review_count": 2,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Five Rings",
@@ -1546,16 +1620,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
-    },
-    {
-      "name": "CIBC Capital Markets",
-      "slug": "cibc",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "COFCO International",
@@ -2103,7 +2167,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 6,
+      "review_count": 8,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2126,16 +2190,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
-    },
-    {
-      "name": "Schroders",
-      "slug": "schroders",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "open"
     },
     {
       "name": "Selini Capital",
@@ -2333,7 +2387,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2389,6 +2443,78 @@
     }
   ],
   "history": [
+    {
+      "firm": "CIBC Capital Markets",
+      "source_id": "2619190",
+      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
+      "match_level": "match",
+      "detected_at": "2026-09-18T14:26:59.617454Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'global markets', title mentions 'intern', location 'london'",
+      "comp_k": 50,
+      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+    },
+    {
+      "firm": "Schroders",
+      "source_id": "1942",
+      "title": "2027 Public Markets Multi-Asset Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
+      "match_level": "match",
+      "detected_at": "2026-09-18T14:26:31.278946Z",
+      "reason": "firm went from 0 to 5 matching roles \u2014 role 'multi-asset', title mentions 'internship', location 'london'",
+      "comp_k": 38,
+      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+    },
+    {
+      "firm": "Schroders",
+      "source_id": "1941",
+      "title": "2027 Public Markets Quants Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
+      "match_level": "match",
+      "detected_at": "2026-09-18T14:26:31.278946Z",
+      "reason": "firm went from 0 to 5 matching roles \u2014 role 'markets', title mentions 'internship', location 'london'",
+      "comp_k": 38,
+      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+    },
+    {
+      "firm": "Schroders",
+      "source_id": "1940",
+      "title": "2027 Public Markets Equities Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
+      "match_level": "match",
+      "detected_at": "2026-09-18T14:26:31.278946Z",
+      "reason": "firm went from 0 to 5 matching roles \u2014 role 'equities', title mentions 'internship', location 'london'",
+      "comp_k": 50,
+      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+    },
+    {
+      "firm": "Schroders",
+      "source_id": "2044",
+      "title": "2027 Public Markets Multi-Asset Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
+      "match_level": "match",
+      "detected_at": "2026-09-18T14:26:31.278946Z",
+      "reason": "firm went from 0 to 5 matching roles \u2014 role 'multi-asset', title mentions 'graduate', location 'london'",
+      "comp_k": 55,
+      "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+    },
+    {
+      "firm": "Schroders",
+      "source_id": "2043",
+      "title": "2027 Public Markets Equities Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
+      "match_level": "match",
+      "detected_at": "2026-09-18T14:26:31.278946Z",
+      "reason": "firm went from 0 to 5 matching roles \u2014 role 'equities', title mentions 'graduate', location 'london'",
+      "comp_k": 72,
+      "comp_label": "~\u00a372k (est. \u00a356\u201388k)"
+    },
     {
       "firm": "Goldman Sachs",
       "source_id": "170877_GS_CAMPUS",
@@ -2594,6 +2720,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-16T21:26:02.427753Z",
-  "total_match": 83
+  "last_opening": "2026-09-18T14:26:59.617454Z",
+  "total_match": 89
 }

@@ -3,5 +3,51 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "2619190": {
+      "firm": "CIBC Capital Markets",
+      "source_id": "2619190",
+      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 50,
+      "comp_label": "~£50k (est. £39–61k)",
+      "comp_basis": "bank other · sales trading · internship",
+      "first_seen": "2026-09-18T14:26:59.602001Z",
+      "baseline": false
+    },
+    "2619191": {
+      "firm": "CIBC Capital Markets",
+      "source_id": "2619191",
+      "title": "Global Transaction Banking Summer Intern - 10 week Summer Programme - June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Transaction-Banking-Summer-Intern---10-week-Summer-Programme---June---September-2027_2619191-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:26:59.602131Z",
+      "baseline": false
+    },
+    "2619192": {
+      "firm": "CIBC Capital Markets",
+      "source_id": "2619192",
+      "title": "Investment Banking Summer Intern - 14 Week Summer Programme - June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Investment-Banking-Summer-Intern---14-Week-Summer-Programme---June---September-2027_2619192",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:26:59.601869Z",
+      "baseline": false
+    }
+  }
 }
