@@ -1,0 +1,23 @@
+{
+  "firm": "ING",
+  "failure_count": 0,
+  "last_error": "",
+  "established": true,
+  "tracked": {
+    "REQ-10120556": {
+      "firm": "ING",
+      "source_id": "REQ-10120556",
+      "title": "Financial Institution Financing Sales - VP",
+      "location": "London",
+      "url": "https://ing.wd3.myworkdayjobs.com/job/London/Financial-Institution-Financing-Sales---VP_REQ-10120556-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-18T14:58:49.128163Z",
+      "baseline": true
+    }
+  }
+}

@@ -8,6 +8,13 @@ job list is served as an HTML fragment:
          <div class="tiletitle">Title  Some Title</div>
          ... Country/Region  GB ... </li>
 
+Some tenants (Mizuho, COFCO International, ...) run a sparser tile template with NO
+Location/Country/City field at all — only a repeated Title. Those tenants still encode the
+city as the FIRST hyphen-separated token of the data-url slug (e.g.
+"/job/London-Market-Risk-VP-Lond/12345/" -> "London"), so we fall back to that when no
+label match is found. A wrong guess here just fails the location filter (IGNORE), never a
+false MATCH, so it's a safe fallback.
+
 Configure as:  source: {host: careers.olamagri.com}
 Optionally:    source: {host: ..., loc_label: "Location"}   # label preceding the location text
 """
@@ -16,12 +23,15 @@ from __future__ import annotations
 
 import json
 import re
+from urllib.parse import unquote
 
 import httpx
 from selectolax.parser import HTMLParser
 
 from ..models import RawPosting, clean_text, stable_id
 from .base import Adapter, AdapterError
+
+_SLUG_CITY_RE = re.compile(r"^/job/([A-Za-z][A-Za-z.]+)-")
 
 _PAGE = 100
 _MAX_PAGES = 10
@@ -84,6 +94,10 @@ class SuccessFactorsAdapter(Adapter):
                     if lm:
                         location = _expand_location(clean_text(lm.group(1)))
                         break
+                if not location:
+                    sm = _SLUG_CITY_RE.match(unquote(data_url))
+                    if sm:
+                        location = clean_text(sm.group(1))
                 rows.append(
                     RawPosting(
                         source_id=cid,

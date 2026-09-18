@@ -219,6 +219,30 @@ async def test_successfactors_parses_tiles_and_expands_iso_location():
 
 
 @respx.mock
+async def test_successfactors_falls_back_to_slug_city_when_no_location_field():
+    frag = """
+    <ul>
+      <li class="job-tile job-id-7001" data-url="/job/London-Market-Risk-VP-Lond/7001/">
+        <div class="tiletitle">Title Market Risk VP</div>
+      </li>
+      <li class="job-tile job-id-7002" data-url="/job/Canarana-Classificador-III-Mato/7002/">
+        <div class="tiletitle">Title Classificador III</div>
+      </li>
+    </ul>
+    """
+    respx.get("https://careers.noloc.com/tile-search-results/").mock(
+        return_value=httpx.Response(200, text=frag))
+    firm = FirmConfig(slug="noloc", name="NoLoc", adapter="successfactors",
+                      source={"host": "careers.noloc.com"})
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+    london = next(p for p in posts if p.source_id == "7001")
+    assert london.location == "London"
+    other = next(p for p in posts if p.source_id == "7002")
+    assert other.location == "Canarana"
+
+
+@respx.mock
 async def test_jibe_parses_data_envelope_and_paginates():
     def page(slugs):
         return {
@@ -324,6 +348,29 @@ async def test_eightfold_paginates_and_extracts_positions():
     assert intern.url == "https://x.eightfold.ai/careers/job/1"
     grad = next(p for p in posts if p.source_id == "REQ-3")
     assert grad.title == "2027 Graduate Quantitative Developer, London"
+
+
+@respx.mock
+async def test_natixis_paginates_and_extracts_items():
+    page0 = {"data": {"total": 1, "items": [
+        {"post_id": 1, "title": "Intern &#8211; Sales &amp; Structuring (12 months)",
+         "localisation": "London", "contract": ["Internship"], "sector": ["Investment banking"],
+         "job": ["Analyst"], "brand": ["Natixis CIB London"],
+         "link": {"url": "/en/job/intern-lcm"}, "description": "Join our team."},
+    ]}}
+
+    respx.post("https://recrutement.natixis.com/app/wp-json/bpce/v1/search/jobs").mock(
+        return_value=httpx.Response(200, json=page0))
+    firm = FirmConfig(slug="natixis", name="Natixis", adapter="natixis", source={})
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+
+    assert len(posts) == 1
+    p = posts[0]
+    assert p.title == "Intern – Sales & Structuring (12 months)"
+    assert p.location == "London"
+    assert p.employment_type == "Internship"
+    assert p.url == "https://recrutement.natixis.com/en/job/intern-lcm"
 
 
 def test_missing_token_raises():

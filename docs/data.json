@@ -1,6 +1,6 @@
 {
   "repo": "bingdawg101/tracks_bot",
-  "enabled_count": 113,
+  "enabled_count": 121,
   "fresh_days": 10,
   "soon": [
     {
@@ -134,6 +134,16 @@
       "source": "2026 AHL summer intern posting went live ~Sept 2025; 2027 cycle expected ~Sept 2026 \u2014 estimate"
     },
     {
+      "slug": "mizuho",
+      "firm": "Mizuho",
+      "programme": "Global Markets / Banking Summer Internship + Graduate 2027",
+      "opens_display": "Sep 2026",
+      "days_until": -17,
+      "when": "opening ~now \u2014 verify",
+      "estimate": true,
+      "source": "Mizuho EMEA runs a Sept-Oct internship application window (GRB/Bright Network); board (careers.mizuhoemea.com) shows only experienced-hire London roles as of 2026-09-18 \u2014 estimate"
+    },
+    {
       "slug": "rbc",
       "firm": "RBC Capital Markets",
       "programme": "Capital Markets Summer Analyst 2027 (London)",
@@ -232,6 +242,16 @@
       "when": "13d",
       "estimate": true,
       "source": "tracker check: QR analyst role open (multi-location, experienced-leaning); structured intern cycle unclear \u2014 estimate"
+    },
+    {
+      "slug": "ing",
+      "firm": "ING",
+      "programme": "Financial Markets Graduate Programme + Internship",
+      "opens_display": "Oct 2026",
+      "days_until": 13,
+      "when": "13d",
+      "estimate": true,
+      "source": "tracker check 2026-09-18: ING wholesale-banking Workday board shows only an internship post in Brussels \u2014 London-specific cycle timing unconfirmed, estimate"
     },
     {
       "slug": "invesco",
@@ -749,7 +769,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Susquehanna International Group",
@@ -1211,6 +1231,42 @@
       "age_days": 0
     },
     {
+      "firm": "MUFG",
+      "title": "2027 MUFG UK Summer Analyst Programme: Structured Trading Group",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD",
+      "employment_type": "",
+      "comp_k": 55,
+      "age_days": 0
+    },
+    {
+      "firm": "Commerzbank",
+      "title": "Intern \u2013 Data Scientist (AI Focus)\u2013 Commodity trading desk",
+      "location": "London, Gro\u00dfbritannien",
+      "url": "https://coba-beesite-production-frontend.app.beesite.de/index.php?ac=jobad&id=61322",
+      "employment_type": "Off-cycle Internship",
+      "comp_k": 55,
+      "age_days": 0
+    },
+    {
+      "firm": "MUFG",
+      "title": "2027 MUFG UK Summer Analyst Programme: Credit Sales and Trading",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Credit-Sales-and-Trading_10079355-WD",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
+      "firm": "Natixis",
+      "title": "Intern \u2013 UK Business Management Sales & Structuring (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-uk-business-management-sales-structuring-12-months-2",
+      "employment_type": "Internship",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
       "firm": "Goldman Sachs",
       "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Commodities / Seasonal/Off-cycle Internship",
       "location": "London United Kingdom",
@@ -1238,7 +1294,7 @@
       "age_days": 14
     }
   ],
-  "stale_firms": 21,
+  "stale_firms": 24,
   "firms": [
     {
       "name": "Goldman Sachs",
@@ -1371,6 +1427,16 @@
       "cycle_note": "rolling"
     },
     {
+      "name": "MUFG",
+      "slug": "mufg",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 2,
+      "review_count": 4,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Point72",
       "slug": "point72",
       "enabled": true,
@@ -1419,6 +1485,16 @@
       "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
+    },
+    {
+      "name": "Commerzbank",
+      "slug": "commerzbank",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 1,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Five Rings",
@@ -1479,6 +1555,16 @@
       "review_count": 3,
       "failure_count": 0,
       "cycle_note": "\u2014"
+    },
+    {
+      "name": "Natixis",
+      "slug": "natixis",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 1,
+      "review_count": 2,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Old Mission Capital",
@@ -1653,7 +1739,7 @@
     {
       "name": "COFCO International",
       "slug": "cofco-international",
-      "enabled": false,
+      "enabled": true,
       "tier": "",
       "match_count": 0,
       "review_count": 0,
@@ -1789,6 +1875,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
+    },
+    {
+      "name": "Danske Bank",
+      "slug": "danske-bank",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "rolling"
     },
     {
       "name": "Deutsche Bank",
@@ -1991,6 +2087,16 @@
       "cycle_note": "opens Sep 2026"
     },
     {
+      "name": "ING",
+      "slug": "ing",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "opens Oct 2026"
+    },
+    {
       "name": "Invesco",
       "slug": "invesco",
       "enabled": true,
@@ -2121,6 +2227,16 @@
       "cycle_note": "opens Oct 2026"
     },
     {
+      "name": "Mizuho",
+      "slug": "mizuho",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
+    },
+    {
       "name": "Morgan Stanley",
       "slug": "morgan-stanley",
       "enabled": true,
@@ -2129,6 +2245,16 @@
       "review_count": 1,
       "failure_count": 0,
       "cycle_note": "open"
+    },
+    {
+      "name": "Nordea",
+      "slug": "nordea",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "\u2014"
     },
     {
       "name": "Northern Trust",
@@ -2760,5 +2886,5 @@
     }
   ],
   "last_opening": "2026-09-18T14:26:59.617454Z",
-  "total_match": 90
+  "total_match": 94
 }

@@ -1,0 +1,53 @@
+{
+  "firm": "Natixis",
+  "failure_count": 0,
+  "last_error": "",
+  "established": true,
+  "tracked": {
+    "19346": {
+      "firm": "Natixis",
+      "source_id": "19346",
+      "title": "V.I.E. - 12 months - Financial Planning & Analysis F/M - London",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/v-i-e-12-months-financial-planning-analysis-f-m-london-2",
+      "department": "",
+      "employment_type": "International Volunteer Program",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:58:47.171352Z",
+      "baseline": true
+    },
+    "20336": {
+      "firm": "Natixis",
+      "source_id": "20336",
+      "title": "Intern – UK Business Management Sales & Structuring (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-uk-business-management-sales-structuring-12-months-2",
+      "department": "Other",
+      "employment_type": "Internship",
+      "match_level": "match",
+      "comp_k": 50,
+      "comp_label": "~£50k (est. £39–61k)",
+      "comp_basis": "bank other · structuring · internship",
+      "first_seen": "2026-09-18T14:58:47.157699Z",
+      "baseline": true
+    },
+    "20354": {
+      "firm": "Natixis",
+      "source_id": "20354",
+      "title": "Intern - Leveraged Capital Markets (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-leveraged-capital-markets-12-months-2",
+      "department": "Other",
+      "employment_type": "Internship",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:58:47.155946Z",
+      "baseline": true
+    }
+  }
+}

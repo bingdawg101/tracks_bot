@@ -337,6 +337,27 @@ cycles:
   hsbc:
     - {programme: "Global Markets / Investment Banking Graduate + Internship 2027 (London)", status: not_yet_open, opens: "2026-09", year: 2027,
        source: "tracker check 2026-09-18: apply.careers.hsbc.com/emergingtalent live with Markets S&T / IB / RM graduate+internship 2027 roles for Hong Kong, Singapore, Taipei, NY, SF, Beijing — no London posting yet, opens on the same board when it lands"}
+  mufg:
+    - {programme: "MUFG UK Analyst Programme 2027 (Capital Markets / Transaction Banking / GCIB)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-18: '2027 MUFG UK Analyst/Summer Analyst Programme' London roles live on MUFG-EarlyCareers Workday site"}
+  ing:
+    - {programme: "Financial Markets Graduate Programme + Internship", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "tracker check 2026-09-18: ING wholesale-banking Workday board shows only an internship post in Brussels — London-specific cycle timing unconfirmed, estimate"}
+  natixis:
+    - {programme: "Natixis CIB London Internship (12 months) + VIE", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-18: 'Intern - Leveraged Capital Markets (12 months)' + 'Intern - UK Business Management Sales & Structuring (12 months)' London live"}
+  mizuho:
+    - {programme: "Global Markets / Banking Summer Internship + Graduate 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "Mizuho EMEA runs a Sept-Oct internship application window (GRB/Bright Network); board (careers.mizuhoemea.com) shows only experienced-hire London roles as of 2026-09-18 — estimate"}
+  danske-bank:
+    - {programme: "London Markets / Capital Markets Internship", status: rolling, opens: rolling,
+       source: "small London office (~90 staff); historical Loan Capital Markets internship postings (Bright Network) but no fixed annual cycle found — rolling/ad-hoc"}
+  commerzbank:
+    - {programme: "London Internship (Commodity Trading Desk / Markets)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-18: 'Intern - Data Scientist (AI Focus) - Commodity trading desk' London live on BeeSite board"}
+  nordea:
+    - {programme: "Markets Summer Internship + Graduate Programme", status: unknown, opens: "",
+       source: "Nordea Markets summer internship is Copenhagen-based; no confirmed London early-careers cycle found — board (careers.nordea.com) currently 0 UK roles"}
 
   # ---- Banks: other / capital markets ----
   santander:
@@ -570,6 +591,13 @@ tiers:
   citi: bank_bulge
   barclays: bank_bulge
   hsbc: bank_bulge
+  mufg: bank_other
+  ing: bank_other
+  natixis: bank_other
+  mizuho: bank_other
+  danske-bank: bank_other
+  commerzbank: bank_other
+  nordea: bank_other
   santander: bank_other
   lloyds-banking-group: bank_other
   cibc: bank_other
@@ -1207,7 +1235,8 @@ firms:
     name: COFCO International
     adapter: successfactors
     source: {host: careers.cofcointernational.com}
-    enabled: false   # SF RMK parses titles but tiles carry NO location — every row IGNOREd. Needs data-url slug parsing.
+    # re-enabled 2026-09-18 — successfactors.py now has a slug-city fallback for tiles with no
+    # Location field (see tracker/adapters/successfactors.py). Verified with `check`.
 
   - slug: vattenfall
     name: Vattenfall
@@ -1297,6 +1326,65 @@ firms:
     # as of 2026-09-18 (board currently shows Hong Kong/Singapore/Taipei/NY/SF/Beijing only) —
     # correctly 0 matches, not a false negative; London 2027 cycle not yet open per cycles: below.
 
+  # ---- Banks: global markets / S&T grad schemes (batch 3, verified 2026-09-18) ----
+  - slug: mufg
+    name: MUFG
+    adapter: workday
+    source: {tenant: mufgub, wd: wd3, site: MUFG-EarlyCareers}
+    # dedicated early-careers Workday site (linked from mufgcampus.com), separate from the
+    # "MUFG-Careers" experienced-hire board. Real London "2027 MUFG UK Analyst/Summer Analyst
+    # Programme" roles live.
+
+  - slug: ing
+    name: ING
+    adapter: workday
+    source: {tenant: ing, wd: wd3, site: ICSGBLCOR}
+    filters:
+      include: [trading, trader, markets, quant, quantitative, research, sales, structuring,
+                "financial markets", "capital markets", internship, intern]
+    # ING Wholesale Banking Workday site (careers.ing.com); UK country facet applied
+    # automatically by the workday adapter.
+
+  - slug: natixis
+    name: Natixis
+    adapter: natixis
+    source: {}
+    # bespoke JSON API (recrutement.natixis.com), found via the search widget's own XHR
+    # (from/size pagination, not the "page" param the URL suggests). 13 London roles incl. 2
+    # genuine 12-month Internship contracts + a VIE placement.
+
+  - slug: mizuho
+    name: Mizuho
+    adapter: successfactors
+    source: {host: careers.mizuhoemea.com}
+    # SuccessFactors RMK board found via mizuhogroup.com/emea/careers. Sparse tile template
+    # with no Location field (fixed successfactors.py with a slug-city fallback for exactly
+    # this). Currently only experienced-hire (VP/AVP/Director) roles live for London —
+    # correctly 0 matches now, will alert when a grad/intern role appears.
+
+  - slug: danske-bank
+    name: Danske Bank
+    adapter: oracle_orc
+    source: {host: ejqi.fa.ocs.oraclecloud.eu, site: CX_1001}
+    # Oracle Recruiting Cloud board (danskebank.com/careers/apply). Confirmed Danske Bank has
+    # run London Loan Capital Markets internships historically (Bright Network); currently
+    # 0 UK roles on the board.
+
+  - slug: commerzbank
+    name: Commerzbank
+    adapter: beesite
+    source: {host: api-jobs.commerzbank.com}
+    # BeeSite ATS (same platform as Deutsche Bank), found via jobs.commerzbank.com's own
+    # search XHR. Live London role: "Intern - Data Scientist (AI Focus) - Commodity trading desk".
+
+  - slug: nordea
+    name: Nordea
+    adapter: successfactors
+    source: {host: careers.nordea.com}
+    # SuccessFactors RMK board (careers.nordea.com). Currently 0 UK roles (Nordea Markets
+    # internships are Copenhagen-based); board is real and will alert if/when a London role
+    # appears.
+
   # ---- Not yet wired — ATS identified but needs the right site/token ----
   - slug: citadel
     name: Citadel
@@ -1346,9 +1434,30 @@ firms:
   #     — see the hsbc firm entry above. The `mycareer.hsbc.com` Avature dead-end noted earlier is
   #     superseded by this: `apply.careers.hsbc.com/emergingtalent` is HSBC's actual dedicated
   #     grad/intern SuccessFactors board (linked from hsbc.com/careers/students-and-graduates).
-  #   bnp-paribas    -> custom (group.bnpparibas)
-  #   socgen         -> custom (careers.societegenerale.com)
-  #   nomura         -> revisit
+  #   bnp-paribas    -> custom (group.bnpparibas); 2026-09-18 --render on careers.bnpparibas.co.uk
+  #     and group.bnpparibas found no job feed at all (marketing pages only) — revisit with the
+  #     actual search/results URL, not the landing pages, next time.
+  #   socgen         -> custom (careers.societegenerale.com); 2026-09-18: it's a Sinequa/Coveo-style
+  #     "Quantum" search engine at search-proxy.php (POST JSON, {"profile":"ces_profile_sgcareers",
+  #     "query":{"advanced":[...]}}) — found the exact POST body via render capture, but the
+  #     endpoint 404s without a valid session/cookie from the initial page load. Needs a
+  #     bespoke adapter that GETs the search page first to pick up cookies, then POSTs.
+  #   standard-chartered -> 2026-09-18: sc.com/en/global-careers links to
+  #     jobs.standardchartered.com which is SuccessFactors, but a NEWER React-based RMK widget
+  #     ("rmk-jobs-search" served from performancemanager.successfactors.eu) — not the classic
+  #     tile-search-results template our successfactors adapter handles. The classic endpoint
+  #     404s on this tenant; the new widget's real data call wasn't captured in the render
+  #     window. detect's generic token-probe guessed a totally wrong `recruitee` board
+  #     ('standard' — a German demo/test company) — do NOT use that guess.
+  #   natwest-markets -> Jobvite (jobs.natwestgroup.com) — no adapter yet.
+  #   abn-amro       -> 2026-09-18: careers.abnamro.com no longer resolves (DNS failure, checked
+  #     twice); werkenbijabnamro.nl/en/vacancies loads but shows 0 current vacancies and no
+  #     obvious ATS branding. Revisit later — site may be mid-migration.
+  #   credit-agricole-cib -> Talentsoft (casa-cacib-recrute.talent-soft.com) — no adapter yet.
+  #   unicredit, intesa-sanpaolo, rabobank -> 2026-09-18 --render found no job feed on the
+  #     pages tried (careers.unicredit.eu, group.intesasanpaolo.com students-and-graduates,
+  #     rabobank.jobs) — worth retrying with the actual search-results URL, not landing pages.
+  #   nomura         -> Oleeo/tal.net (confirmed again 2026-09-18) — no adapter yet.
   #   rbc            -> Eightfold / Phenom (rbc is wired on `phenom` already — see firm entry above)
   #   jefferies      -> Workday (tenant TBD)
   #   bofa           -> custom (careers.bankofamerica.com)
