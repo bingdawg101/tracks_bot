@@ -520,15 +520,6 @@
       "age_days": 0
     },
     {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Developer Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
-      "employment_type": "",
-      "comp_k": 106,
-      "age_days": 1
-    },
-    {
       "firm": "The Voleon Group",
       "title": "Research Intern (London)",
       "location": "London",
@@ -545,6 +536,15 @@
       "employment_type": "",
       "comp_k": 43,
       "age_days": 1
+    },
+    {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Developer Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "employment_type": "",
+      "comp_k": 106,
+      "age_days": 2
     },
     {
       "firm": "Brevan Howard",
@@ -915,7 +915,7 @@
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
       "employment_type": "",
       "comp_k": 141,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Squarepoint Capital",
@@ -1913,7 +1913,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "rolling"
     },
     {
