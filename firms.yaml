@@ -334,6 +334,9 @@ cycles:
   deutsche-bank:
     - {programme: "Global Markets Graduate + Summer Internship 2027", status: open, opens: "2026-09", year: 2027,
        source: "DB careers: grad/intern apps open 'late summer / early autumn'; 2027 grads must finish studies by Jul 2027 — verify on careers.db.com"}
+  hsbc:
+    - {programme: "Global Markets / Investment Banking Graduate + Internship 2027 (London)", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "tracker check 2026-09-18: apply.careers.hsbc.com/emergingtalent live with Markets S&T / IB / RM graduate+internship 2027 roles for Hong Kong, Singapore, Taipei, NY, SF, Beijing — no London posting yet, opens on the same board when it lands"}
 
   # ---- Banks: other / capital markets ----
   santander:
@@ -566,6 +569,7 @@ tiers:
   deutsche-bank: bank_bulge
   citi: bank_bulge
   barclays: bank_bulge
+  hsbc: bank_bulge
   santander: bank_other
   lloyds-banking-group: bank_other
   cibc: bank_other
@@ -1276,6 +1280,23 @@ firms:
     source: {host: campusjobs.mlp.com, domain: mlp.com, location: "London, United Kingdom"}
     # verified 2026-09 — dedicated Eightfold campus board (separate host from experienced-hire board)
 
+  - slug: marshall-wace
+    name: Marshall Wace
+    adapter: greenhouse
+    source: {token: mwinternshipprogram}
+    # verified 2026-09-18 — dedicated internship-programme Greenhouse board (the "marshallwace"
+    # board found earlier is the experienced-hire board and is empty via the public API)
+
+  - slug: hsbc
+    name: HSBC
+    adapter: successfactors
+    source: {host: apply.careers.hsbc.com/emergingtalent}
+    # verified 2026-09-18 — dedicated "emergingtalent" SuccessFactors RMK board (separate from
+    # the general careers.hsbc.com board), found via the "find-a-programme" page's apply links.
+    # Tiles DO carry a "Location" field here (unlike cofco-international). No live London role
+    # as of 2026-09-18 (board currently shows Hong Kong/Singapore/Taipei/NY/SF/Beijing only) —
+    # correctly 0 matches, not a false negative; London 2027 cycle not yet open per cycles: below.
+
   # ---- Not yet wired — ATS identified but needs the right site/token ----
   - slug: citadel
     name: Citadel
@@ -1308,15 +1329,39 @@ firms:
   # ---- ATS identified in research, adapter not built yet (Phase 4 part 3) ----
   # Banks:
   #   citi           -> Radancy careersite   (jobs.citi.com/search-jobs/results?...&format=json → HTML-in-JSON)
+  #     2026-09-18: a full-batch audit run hit transient FETCH FAILED on citi/blackrock/cargill
+  #     (all three on radancy/workday-radancy) at once — looked like a Radancy-wide break, but a
+  #     plain re-`check` of all three immediately after succeeded fine (blackrock: 1 MATCH + 8
+  #     REVIEW; citi/cargill: fetch OK, genuinely 0 open UK roles right now). Confirmed transient
+  #     (concurrent-run network blip), not a regression — no adapter fix needed.
   #   barclays       -> Oleeo / tal.net       (search.jobs.barclays; campus portal has bot-check)
   #   morgan-stanley -> Oleeo / tal.net       (campus; the Workday entry above is experienced-only)
-  #   ubs            -> revisit (jobs.ubs.com path changed; likely Avature)
-  #   hsbc           -> Avature (mycareer.hsbc.com)
+  #   ubs            -> 2026-09-18 retried with --render: NOT Avature. jobs.ubs.com/TGnewUI is
+  #     BrassRing/Kenexa — page loads fine under a real browser (no bot-wall for a rendered
+  #     client) and exposes an AJAX endpoint (jobs.ubs.com/TgNewUI/Search/Ajax/HomeSearch), but it
+  #     needs a real search POST (category/keyword criteria) to return jobs — an empty GET/load
+  #     returns `{"Questions": []}`. Needs a bespoke BrassRing adapter that POSTs a search
+  #     payload; punted for this session (needs the exact POST body reverse-engineered).
+  #   hsbc           -> WIRED 2026-09-18 as `successfactors` (apply.careers.hsbc.com/emergingtalent)
+  #     — see the hsbc firm entry above. The `mycareer.hsbc.com` Avature dead-end noted earlier is
+  #     superseded by this: `apply.careers.hsbc.com/emergingtalent` is HSBC's actual dedicated
+  #     grad/intern SuccessFactors board (linked from hsbc.com/careers/students-and-graduates).
   #   bnp-paribas    -> custom (group.bnpparibas)
   #   socgen         -> custom (careers.societegenerale.com)
   #   nomura         -> revisit
-  #   rbc            -> Eightfold / Phenom
+  #   rbc            -> Eightfold / Phenom (rbc is wired on `phenom` already — see firm entry above)
   #   jefferies      -> Workday (tenant TBD)
   #   bofa           -> custom (careers.bankofamerica.com)
   # Commodity houses:
   #   gunvor, mercuria, cargill, koch, castleton, freepoint, hartree -> TBD
+  # ---- Dead ends re-retried 2026-09-18 with --render, still no crackable ATS ----
+  #   rokos capital (rokoscapital.com/careers)  -> static Next.js marketing page, apply via
+  #     careers@rokoscapital.com only, no ATS at all.
+  #   balyasny (bamfunds.com/careers/*)         -> links out to a Salesforce Experience Cloud site
+  #     (bambusdev.my.site.com, Aura/Lightning app) — no plain job feed, would need real Aura
+  #     action calls (fwuid/descriptor tokens) reverse-engineered. Not attempted this session.
+  #   aspect capital, millburn, lmr partners    -> rendered fine, no job-board links found at all
+  #     (Millburn's only "custom JSON feed" hit was Lucky Orange analytics, a false positive).
+  #   transtrend, element capital, andurand capital, westbeck capital -> no careers/ATS presence
+  #     found even via web search; apply-by-email only (Transtrend explicitly: stage@transtrend.com).
+  #   36 south capital advisors -> no dedicated careers page found at all.

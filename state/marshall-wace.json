@@ -1,0 +1,68 @@
+{
+  "firm": "Marshall Wace",
+  "failure_count": 0,
+  "last_error": "",
+  "established": true,
+  "tracked": {
+    "8598324002": {
+      "firm": "Marshall Wace",
+      "source_id": "8598324002",
+      "title": "Technology Intern - London - 2027",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8598324002",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:31:53.149622Z",
+      "baseline": true
+    },
+    "8620541002": {
+      "firm": "Marshall Wace",
+      "source_id": "8620541002",
+      "title": "AI Placement - 2027 (Imperial 6 month placement, April - September 2027)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8620541002",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:31:53.148624Z",
+      "baseline": true
+    },
+    "8772688002": {
+      "firm": "Marshall Wace",
+      "source_id": "8772688002",
+      "title": "Quant Research Intern - London - 2027",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
+      "department": "TOPS",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 56,
+      "comp_label": "~£56k (est. £44–68k)",
+      "comp_basis": "bank other · quant research · internship",
+      "first_seen": "2026-09-18T14:31:53.149038Z",
+      "baseline": true
+    },
+    "8772729002": {
+      "firm": "Marshall Wace",
+      "source_id": "8772729002",
+      "title": "Human Capital Placement Year",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772729002",
+      "department": "Human Capital",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-18T14:31:53.148902Z",
+      "baseline": true
+    }
+  }
+}
