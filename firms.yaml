@@ -464,6 +464,18 @@ cycles:
        source: "Vattenfall grad/trainee intake typically ~autumn, some rolling — estimate"}
   axpo:
     - {programme: "Graduate / Trainee Programme", status: unknown, opens: "", source: "Axpo trainee/grad hiring appears ad-hoc — nothing published for 2027"}
+  gunvor:
+    - {programme: "Global Graduate Program + off-cycle Internships", status: rolling, opens: rolling,
+       source: "Gunvor internships are ad-hoc/off-cycle by business need, not a fixed yearly programme; Global Graduate Program requires degree by Jun 2027 — rolling/ad-hoc for London specifically"}
+  statkraft:
+    - {programme: "Graduate / Summer Internship", status: not_yet_open, opens: "2026-10", year: 2027,
+       source: "Statkraft summer positions typically announced early spring for the following summer; UK board (SmartRecruiters) currently shows only experienced-hire grid/wind roles — estimate"}
+  uniper:
+    - {programme: "Uniper Graduate Program + Internships", status: not_yet_open, opens: "2027-01", year: 2027,
+       source: "Uniper's next trainee positions expected to be published 'beginning of 2027' per its own careers site; UK board currently shows only experienced-hire roles"}
+  centrica:
+    - {programme: "Technology / Finance / People Graduate Scheme 2027", status: not_yet_open, opens: "2026-09", year: 2027,
+       source: "Centrica UK grad schemes (Technology/Finance/People) typically open ~Sept-Nov with Nov deadlines (Bright Network); board is Workday, not yet showing 2027 postings as of 2026-09-18 — estimate"}
 
   # ---- Additional / disabled-in-tracker firms (kept for the calendar) ----
   aquatic:
@@ -619,6 +631,10 @@ tiers:
   vattenfall: energy_utility
   axpo: energy_utility
   equinor: energy_utility
+  gunvor: commodity_major
+  statkraft: energy_utility
+  uniper: energy_utility
+  centrica: energy_utility
 
 firms:
   # ---- Quant trading / market makers (Greenhouse-backed) ----
@@ -1277,6 +1293,35 @@ firms:
       include: [trading, trader, trade, originator, origination, commercial, market, markets,
                 commodity, commodities, analyst, portfolio]
 
+  # ---- Commodity / energy majors (batch 1, verified 2026-09-18) ----
+  - slug: gunvor
+    name: Gunvor Group
+    adapter: workday
+    source: {tenant: gunvor, wd: wd3, site: Gunvor_Careers}
+    # confirmed genuine London gas-trading office (Gunvor UK Ltd); board currently has 0
+    # UK-tagged roles (38 total, mostly Geneva/Singapore/Houston).
+
+  - slug: statkraft
+    name: Statkraft
+    adapter: smartrecruiters
+    source: {company: statkraft1}
+    # SmartRecruiters board; 14 UK-tagged roles live (London/Glasgow/Scotland grid & wind
+    # roles), all experienced-hire right now — correctly 0 matches, board is real.
+
+  - slug: uniper
+    name: Uniper
+    adapter: successfactors
+    source: {host: jobs.uniper.energy}
+    # SuccessFactors RMK board, found via the students-and-graduates page's own apply link.
+    # 1 live London role (Commercial Lawyer, experienced-hire) — board is real.
+
+  - slug: centrica
+    name: Centrica
+    adapter: workday
+    source: {tenant: centrica, wd: wd3, site: Centrica}
+    # Centrica's main Workday board, found via centricaenergy.com/career/vacancies. 57 total
+    # roles, UK country facet applied automatically.
+
   - slug: cibc
     name: CIBC Capital Markets
     adapter: workday
@@ -1462,7 +1507,41 @@ firms:
   #   jefferies      -> Workday (tenant TBD)
   #   bofa           -> custom (careers.bankofamerica.com)
   # Commodity houses:
-  #   gunvor, mercuria, cargill, koch, castleton, freepoint, hartree -> TBD
+  #   gunvor -> WIRED 2026-09-18 as `workday` — see firm entry above.
+  #   mercuria, koch, hartree -> TBD
+  #   mercuria       -> 2026-09-18: mercuria.com/careers rendered fine but no job feed found —
+  #     likely a static/proactive-application-only page (no ATS); revisit if a real vacancies
+  #     sub-page turns up.
+  #   marex          -> 2026-09-18: marex.com/careers/career-opportunities rendered, no job feed
+  #     found; the individual job pages (e.g. .../86dc2823d7d601-marex-uk-graduate-programme-2027)
+  #     look custom-hashed-slug, worth a direct --render detect on one of those next time.
+  #   adm            -> 2026-09-18: adm.com/en-us/culture-and-careers rendered, no job feed found.
+  #   bunge          -> SuccessFactors (jobs.bunge.com, classic tile-search-results template,
+  #     works). 400 roles checked across 4 pages, 0 UK/London — Bunge's London office/grad
+  #     presence for trading unconfirmed; not enabled without a confirmed London angle.
+  #   czarnikow      -> uses Occupop ATS (job-listing.occupop.com) — no adapter yet; the JSON
+  #     hit detect found was just an i18n locale file, not the real feed.
+  #   wilmar         -> detect timed out 2026-09-18, not retried.
+  #   sucden-financial -> careers page explicitly showed 0 open roles at check time; detect's
+  #     JSON hit was just a Cookiebot consent config, not a real feed.
+  # Energy / utilities (batch, checked 2026-09-18):
+  #   uniper, statkraft, centrica -> WIRED — see firm entries above.
+  #   rwe            -> custom AWS API Gateway (096wvaisra.execute-api.eu-central-1.amazonaws.com
+  #     /prod/jobs_total is public and returns {"total_jobs": N}, but /prod/jobs (the actual
+  #     listing) 403s with "Missing Authentication Token" — needs an API key or the real path;
+  #     RWE Supply & Trading genuinely has ~2000 staff across Essen/London/Swindon so worth
+  #     revisiting.
+  #   orsted         -> custom endpoint orsted.com/api/jobs/jobList identified via --render, but
+  #     it's behind an Azure WAF (403/405 on direct requests) — needs the exact browser-fidelity
+  #     request reproduced, not attempted further this session.
+  #   national-grid  -> careers.nationalgrid.com is behind a Cloudflare Turnstile challenge page
+  #     even for a headless render ("Just a moment...") — fully blocked. detect's token-probe
+  #     guessed a totally wrong `greenhouse` board ('national' — a Quebec PR firm); do NOT use.
+  #   sse            -> careers.sse.com/jobs/search rendered but no known ATS signature and no
+  #     embedded JSON found; may be a bespoke build — revisit with a longer render wait/scroll.
+  #   drax           -> moved to draxgroup.csod.com (Cornerstone OnDemand) — no adapter yet.
+  #   naturgy, iberdrola -> not reached this session (only a shallow detect attempted; Naturgy's
+  #     JSON hit was a Cookiebot config, a false positive) — revisit with the real vacancies page.
   # ---- Dead ends re-retried 2026-09-18 with --render, still no crackable ATS ----
   #   rokos capital (rokoscapital.com/careers)  -> static Next.js marketing page, apply via
   #     careers@rokoscapital.com only, no ATS at all.
