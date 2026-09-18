@@ -281,6 +281,51 @@ async def test_phenom_extracts_embedded_ddo_jobs():
     assert grad.url == "https://jobs.x.com/apply/R-1"
 
 
+@respx.mock
+async def test_eightfold_paginates_and_extracts_positions():
+    page0 = {
+        "count": 3,
+        "positions": [
+            {"id": 1, "name": "2027 Quantitative Researcher Intern, London",
+             "location": "London, United Kingdom", "department": "Trading",
+             "display_job_id": "REQ-1", "ats_job_id": "REQ-1",
+             "canonicalPositionUrl": "https://x.eightfold.ai/careers/job/1",
+             "job_description": ""},
+            {"id": 2, "name": "Compliance Analyst", "location": "London, United Kingdom",
+             "department": "Compliance", "display_job_id": "REQ-2", "ats_job_id": "REQ-2",
+             "canonicalPositionUrl": "https://x.eightfold.ai/careers/job/2", "job_description": ""},
+        ],
+    }
+    page1 = {
+        "count": 3,
+        "positions": [
+            {"id": 3, "name": "2027 Graduate Quantitative Developer, London",
+             "location": "London, United Kingdom", "department": "Trading",
+             "display_job_id": "REQ-3", "ats_job_id": "REQ-3",
+             "canonicalPositionUrl": "https://x.eightfold.ai/careers/job/3", "job_description": ""},
+        ],
+    }
+
+    def responder(request):
+        start = int(request.url.params.get("start", "0"))
+        return httpx.Response(200, json=page0 if start == 0 else page1)
+
+    respx.get("https://campusjobs.x.com/api/apply/v2/jobs").mock(side_effect=responder)
+    firm = FirmConfig(slug="x", name="X", adapter="eightfold",
+                      source={"host": "campusjobs.x.com", "domain": "x.com",
+                              "location": "London, United Kingdom"})
+    async with httpx.AsyncClient() as client:
+        posts = await get_adapter(firm).fetch(client)
+
+    assert len(posts) == 3
+    intern = next(p for p in posts if p.source_id == "REQ-1")
+    assert intern.title == "2027 Quantitative Researcher Intern, London"
+    assert intern.department == "Trading"
+    assert intern.url == "https://x.eightfold.ai/careers/job/1"
+    grad = next(p for p in posts if p.source_id == "REQ-3")
+    assert grad.title == "2027 Graduate Quantitative Developer, London"
+
+
 def test_missing_token_raises():
     firm = FirmConfig(slug="acme", name="Acme", adapter="greenhouse", source={})
     with pytest.raises(AdapterError):

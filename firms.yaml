@@ -311,6 +311,9 @@ cycles:
   onyx-capital:
     - {programme: "Graduate Programme", status: rolling, opens: rolling,
        source: "energy-derivatives trading firm; graduate hiring is ad-hoc/rolling — no fixed cycle found"}
+  millennium:
+    - {programme: "2027 Campus Internships (London)", status: open, opens: "2026-08", year: 2027,
+       source: "tracker check 2026-09-18: campusjobs.mlp.com lists ~14 '2027 ... Intern, London' roles (Trading, Quant, Finance, Ops) live"}
 
   # ---- Banks: bulge bracket (UK summer 2027 + graduate) ----
   goldman-sachs:
@@ -524,6 +527,7 @@ tiers:
   grasshopper: elite_prop
   squarepoint: hedge_fund
   onyx-capital: hedge_fund
+  millennium: hedge_fund
   man-group: hedge_fund
   point72: hedge_fund
   schonfeld: hedge_fund
@@ -1265,6 +1269,12 @@ firms:
     adapter: lever
     source: {token: statarcapital}
     enabled: false   # lever board returns 0 — verify token
+
+  - slug: millennium
+    name: Millennium Management
+    adapter: eightfold
+    source: {host: campusjobs.mlp.com, domain: mlp.com, location: "London, United Kingdom"}
+    # verified 2026-09 — dedicated Eightfold campus board (separate host from experienced-hire board)
 
   # ---- Not yet wired — ATS identified but needs the right site/token ----
   - slug: citadel

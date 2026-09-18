@@ -1,6 +1,6 @@
 {
   "repo": "bingdawg101/tracks_bot",
-  "enabled_count": 110,
+  "enabled_count": 111,
   "fresh_days": 10,
   "soon": [
     {
@@ -461,15 +461,6 @@
       "age_days": 2
     },
     {
-      "firm": "Goldman Sachs",
-      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 43,
-      "age_days": 8
-    },
-    {
       "firm": "Qube Research & Technologies",
       "title": "2027 - Internship, Quantitative Research and Trading",
       "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
@@ -494,6 +485,15 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "employment_type": "",
       "comp_k": 129,
+      "age_days": 9
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
       "age_days": 9
     },
     {
@@ -904,6 +904,15 @@
       "age_days": 14
     },
     {
+      "firm": "Millennium Management",
+      "title": "2027 Quantitative Researcher Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778828",
+      "employment_type": "",
+      "comp_k": 136,
+      "age_days": 0
+    },
+    {
       "firm": "DV Trading",
       "title": "Software Engineer Intern - Summer 2027 (DV Commodities)",
       "location": "London",
@@ -920,6 +929,60 @@
       "employment_type": "",
       "comp_k": 129,
       "age_days": 14
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Applied AI Engineer Intern, London",
+      "location": "London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778829",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Corporate Access Services Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778817",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Data & Research Strategy Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778834",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Quantitative Developer Intern, London",
+      "location": "London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819517",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Trading Services Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819921",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
     },
     {
       "firm": "Squarepoint Capital",
@@ -1102,7 +1165,7 @@
       "age_days": 14
     }
   ],
-  "stale_firms": 19,
+  "stale_firms": 20,
   "firms": [
     {
       "name": "Goldman Sachs",
@@ -1143,6 +1206,16 @@
       "review_count": 1,
       "failure_count": 0,
       "cycle_note": "rolling"
+    },
+    {
+      "name": "Millennium Management",
+      "slug": "millennium",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 7,
+      "review_count": 7,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Squarepoint Capital",
@@ -2522,5 +2595,5 @@
     }
   ],
   "last_opening": "2026-09-16T21:26:02.427753Z",
-  "total_match": 76
+  "total_match": 83
 }

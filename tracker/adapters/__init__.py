@@ -6,6 +6,7 @@ from ..config import FirmConfig
 from .ashby import AshbyAdapter
 from .base import Adapter, AdapterError
 from .beesite import BeesiteAdapter
+from .eightfold import EightfoldAdapter
 from .glencore import GlencoreAdapter
 from .greenhouse import GreenhouseAdapter
 from .gs_higher import GsHigherAdapter
@@ -42,6 +43,7 @@ _REGISTRY: dict[str, type[Adapter]] = {
     "radancy": RadancyAdapter,
     "successfactors": SuccessFactorsAdapter,
     "phenom": PhenomAdapter,
+    "eightfold": EightfoldAdapter,
 }
 
 
