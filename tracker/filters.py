@@ -56,9 +56,11 @@ def _sub_hit(haystack: str, needles) -> str | None:
 def _eligibility(raw: RawPosting, flt: FilterConfig) -> tuple[_Elig, str]:
     etype = clean_text(raw.employment_type)
     if etype:
-        if flt.eligible_employment_types and _sub_hit(etype, flt.eligible_employment_types):
+        # Word-boundary, not substring — "intern" must not match inside "International",
+        # "grad" must not match inside "Upgrade", etc.
+        if flt.eligible_employment_types and _word_hit(etype, flt.eligible_employment_types):
             return _Elig.STRONG_YES, f"employment type '{etype}'"
-        if flt.excluded_employment_types and _sub_hit(etype, flt.excluded_employment_types):
+        if flt.excluded_employment_types and _word_hit(etype, flt.excluded_employment_types):
             # Only decisive if it isn't also an eligible term (handled above).
             return _Elig.STRONG_NO, f"employment type '{etype}'"
         # Type present but unrecognised — fall through to text signals, don't guess.

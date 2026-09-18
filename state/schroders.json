@@ -199,6 +199,21 @@
       "first_seen": "2026-09-18T14:26:31.275419Z",
       "baseline": false
     },
+    "1954": {
+      "firm": "Schroders",
+      "source_id": "1954",
+      "title": "2027 Finance Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1954",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-09-18T15:15:50.204464Z",
+      "baseline": false
+    },
     "1955": {
       "firm": "Schroders",
       "source_id": "1955",

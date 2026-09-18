@@ -13,6 +13,6 @@ def flt() -> FilterConfig:
         locations=["london", "united kingdom"],
         departments=[],
         eligibility_terms=["graduate", "intern", "internship", "campus", "placement", "grad"],
-        eligible_employment_types=["intern", "graduate", "new grad", "campus"],
+        eligible_employment_types=["intern", "internship", "graduate", "new grad", "campus"],
         excluded_employment_types=["experienced", "permanent"],
     )

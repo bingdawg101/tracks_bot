@@ -39,6 +39,23 @@ def test_word_boundary_intern_does_not_match_internal(flt):
     assert level is MatchLevel.IGNORE
 
 
+def test_employment_type_word_boundary_intern_does_not_match_international(flt):
+    # "intern" is a literal substring of "International" — the structured employment_type
+    # check must not treat an "International Assignment" role as an internship.
+    raw = _raw(title="Relationship Manager", department="Quantitative Trading",
+              employment_type="International Assignment")
+    level, _ = classify(raw, flt)
+    assert level is not MatchLevel.MATCH
+
+
+def test_employment_type_internship_still_matches_intern_token(flt):
+    # but the real word "Internship" must still match the "intern" eligibility token.
+    raw = _raw(title="Quantitative Trader", department="Quantitative Trading",
+              employment_type="Internship")
+    level, _ = classify(raw, flt)
+    assert level is MatchLevel.MATCH
+
+
 def test_word_boundary_grad_does_not_match_upgrade(flt):
     # "upgrades" must not register as the eligibility term "grad"; with no role hit either
     # this is a clean IGNORE.

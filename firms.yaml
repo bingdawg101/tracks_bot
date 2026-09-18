@@ -96,6 +96,9 @@ defaults:
   # Authoritative when the source tags a structured employment type.
   eligible_employment_types:
     - intern
+    - interns
+    - internship
+    - internships
     - graduate
     - "new grad"
     - "co-op"
