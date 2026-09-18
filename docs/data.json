@@ -1250,7 +1250,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 1,
-      "review_count": 9,
+      "review_count": 8,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2030,7 +2030,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 6,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
