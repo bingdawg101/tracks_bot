@@ -520,15 +520,6 @@
       "age_days": 1
     },
     {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Developer Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
-      "employment_type": "",
-      "comp_k": 106,
-      "age_days": 2
-    },
-    {
       "firm": "The Voleon Group",
       "title": "Research Intern (London)",
       "location": "London",
@@ -545,6 +536,15 @@
       "employment_type": "",
       "comp_k": 43,
       "age_days": 2
+    },
+    {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Developer Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "employment_type": "",
+      "comp_k": 106,
+      "age_days": 3
     },
     {
       "firm": "Brevan Howard",
@@ -565,30 +565,12 @@
       "age_days": 4
     },
     {
-      "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Quantitative Research and Trading",
-      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
-      "employment_type": "",
-      "comp_k": 166,
-      "age_days": 10
-    },
-    {
       "firm": "Schonfeld Strategic Advisors",
       "title": "2027 DMFI Quant Research Intern",
       "location": "London, England, United Kingdom",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 10
-    },
-    {
-      "firm": "Qube Research & Technologies",
-      "title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
-      "employment_type": "",
-      "comp_k": 129,
       "age_days": 10
     },
     {
@@ -873,6 +855,15 @@
       "age_days": 16
     },
     {
+      "firm": "Qube Research & Technologies",
+      "title": "2027 - Internship, Quantitative Research and Trading",
+      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
+      "employment_type": "",
+      "comp_k": 166,
+      "age_days": 11
+    },
+    {
       "firm": "Susquehanna International Group",
       "title": "Quantitative Research Internship: Summer 2027",
       "location": "London, United Kingdom",
@@ -915,7 +906,7 @@
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
       "employment_type": "",
       "comp_k": 141,
-      "age_days": 14
+      "age_days": 15
     },
     {
       "firm": "Squarepoint Capital",
@@ -960,7 +951,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Jane Street",
@@ -1006,6 +997,15 @@
       "employment_type": "",
       "comp_k": 136,
       "age_days": 1
+    },
+    {
+      "firm": "Qube Research & Technologies",
+      "title": "2027 - Internship, Software Engineering and Quantitative Development",
+      "location": "London, Paris, Wroc\u0142aw, Zurich, Dubai",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
+      "employment_type": "",
+      "comp_k": 129,
+      "age_days": 11
     },
     {
       "firm": "DV Trading",
