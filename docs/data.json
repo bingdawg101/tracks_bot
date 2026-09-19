@@ -520,13 +520,22 @@
       "age_days": 1
     },
     {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Developer Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "employment_type": "",
+      "comp_k": 106,
+      "age_days": 3
+    },
+    {
       "firm": "The Voleon Group",
       "title": "Research Intern (London)",
       "location": "London",
       "url": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
       "employment_type": "Intern",
       "comp_k": 84,
-      "age_days": 2
+      "age_days": 3
     },
     {
       "firm": "Goldman Sachs",
@@ -535,15 +544,6 @@
       "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 2
-    },
-    {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Developer Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
-      "employment_type": "",
-      "comp_k": 106,
       "age_days": 3
     },
     {
@@ -563,15 +563,6 @@
       "employment_type": "",
       "comp_k": 38,
       "age_days": 4
-    },
-    {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Research Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
-      "employment_type": "",
-      "comp_k": 136,
-      "age_days": 10
     },
     {
       "firm": "Goldman Sachs",
@@ -690,7 +681,7 @@
       "url": "https://careers-sig.icims.com/jobs/11033/login",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Jane Street",
@@ -726,7 +717,7 @@
       "url": "https://careers-sig.icims.com/jobs/11005/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Susquehanna International Group",
@@ -735,7 +726,7 @@
       "url": "https://careers-sig.icims.com/jobs/11006/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Susquehanna International Group",
@@ -744,7 +735,7 @@
       "url": "https://careers-sig.icims.com/jobs/11031/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Susquehanna International Group",
@@ -753,7 +744,7 @@
       "url": "https://careers-sig.icims.com/jobs/11032/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Jane Street",
@@ -771,7 +762,7 @@
       "url": "https://careers-sig.icims.com/jobs/11347/login",
       "employment_type": "",
       "comp_k": 170,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Jane Street",
@@ -870,7 +861,7 @@
       "url": "https://careers-sig.icims.com/jobs/11007/login",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Jane Street",
@@ -897,7 +888,7 @@
       "url": "https://careers-sig.icims.com/jobs/11334/login",
       "employment_type": "",
       "comp_k": 156,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Man Group",
@@ -933,7 +924,7 @@
       "url": "https://careers-sig.icims.com/jobs/11336/login",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Susquehanna International Group",
@@ -942,7 +933,7 @@
       "url": "https://careers-sig.icims.com/jobs/11344/login",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Onyx Capital Group",
@@ -979,6 +970,15 @@
       "employment_type": "",
       "comp_k": 136,
       "age_days": 16
+    },
+    {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Research Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
+      "employment_type": "",
+      "comp_k": 136,
+      "age_days": 11
     },
     {
       "firm": "GSA Capital",
@@ -1023,7 +1023,7 @@
       "url": "https://careers-sig.icims.com/jobs/11333/login",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Brevan Howard",
@@ -1122,7 +1122,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Point72",
@@ -1167,7 +1167,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Susquehanna International Group",
@@ -1176,7 +1176,7 @@
       "url": "https://careers-sig.icims.com/jobs/11085/login",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Goldman Sachs",
@@ -1314,7 +1314,7 @@
       "age_days": 16
     }
   ],
-  "stale_firms": 25,
+  "stale_firms": 26,
   "firms": [
     {
       "name": "Goldman Sachs",
@@ -2372,7 +2372,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 5,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
