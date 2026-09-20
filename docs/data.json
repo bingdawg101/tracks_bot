@@ -472,7 +472,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
       "employment_type": "",
       "comp_k": 72,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Schroders",
@@ -481,7 +481,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
       "employment_type": "",
       "comp_k": 55,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Schroders",
@@ -490,7 +490,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "CIBC Capital Markets",
@@ -499,7 +499,7 @@
       "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Schroders",
@@ -508,7 +508,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Schroders",
@@ -517,7 +517,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -563,15 +563,6 @@
       "employment_type": "",
       "comp_k": 38,
       "age_days": 4
-    },
-    {
-      "firm": "Goldman Sachs",
-      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 43,
-      "age_days": 10
     }
   ],
   "stale": [
@@ -996,7 +987,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Qube Research & Technologies",
@@ -1041,7 +1032,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Millennium Management",
@@ -1050,7 +1041,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778817",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Millennium Management",
@@ -1059,7 +1050,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778834",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Millennium Management",
@@ -1068,7 +1059,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Millennium Management",
@@ -1077,7 +1068,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Millennium Management",
@@ -1086,7 +1077,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "Squarepoint Capital",
@@ -1248,7 +1239,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 1
+      "age_days": 2
     },
     {
       "firm": "MUFG",
@@ -1285,6 +1276,15 @@
       "employment_type": "Internship",
       "comp_k": 50,
       "age_days": 1
+    },
+    {
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
+      "employment_type": "",
+      "comp_k": 43,
+      "age_days": 11
     },
     {
       "firm": "Goldman Sachs",
