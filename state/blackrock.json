@@ -1,7 +1,7 @@
 {
   "firm": "BlackRock",
-  "failure_count": 1,
-  "last_error": "blackrock: GET https://careers.blackrock.com/search-jobs/results failed: ",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "100661849296": {

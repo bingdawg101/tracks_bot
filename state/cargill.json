@@ -1,7 +1,7 @@
 {
   "firm": "Cargill",
-  "failure_count": 1,
-  "last_error": "cargill: GET https://careers.cargill.com/en/search-jobs/results failed: ",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }

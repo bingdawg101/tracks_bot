@@ -48,6 +48,21 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-21T15:56:11.364394Z",
       "baseline": false
+    },
+    "20397": {
+      "firm": "Natixis",
+      "source_id": "20397",
+      "title": "Intern - UK Risk Solutions (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-uk-risk-solutions-12-months-2",
+      "department": "Other",
+      "employment_type": "Internship",
+      "match_level": "review",
+      "comp_k": 36,
+      "comp_label": "~£36k (est. £28–44k)",
+      "comp_basis": "bank other · risk ops · internship",
+      "first_seen": "2026-09-21T20:17:47.744185Z",
+      "baseline": false
     }
   }
 }
