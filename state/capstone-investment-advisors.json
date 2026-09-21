@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-16T00:16:43.396384Z",
       "baseline": false
+    },
+    "8828058002": {
+      "firm": "Capstone Investment Advisors",
+      "source_id": "8828058002",
+      "title": "Summer 2027 - Investment Internship LDN",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002",
+      "department": "Internship Program",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-09-21T23:22:42.627182Z",
+      "baseline": false
     }
   }
 }
