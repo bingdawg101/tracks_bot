@@ -64,21 +64,6 @@
       "first_seen": "2026-09-03T16:23:20.657881Z",
       "baseline": true
     },
-    "170675_GS_CAMPUS": {
-      "firm": "Goldman Sachs",
-      "source_id": "170675_GS_CAMPUS",
-      "title": "2027 / EMEA / London / FICC & Equities (Sales & Trading) / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170675_GS_CAMPUS",
-      "department": "Global Banking & Markets",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 59,
-      "comp_label": "~£59k (est. £46–72k)",
-      "comp_basis": "bank bulge · sales trading · internship",
-      "first_seen": "2026-09-03T16:23:20.660738Z",
-      "baseline": true
-    },
     "170863_GS_CAMPUS": {
       "firm": "Goldman Sachs",
       "source_id": "170863_GS_CAMPUS",
@@ -152,36 +137,6 @@
       "comp_label": "~£43k (est. £34–52k)",
       "comp_basis": "bank bulge · other · internship",
       "first_seen": "2026-09-03T16:23:20.658711Z",
-      "baseline": true
-    },
-    "170927_GS_CAMPUS": {
-      "firm": "Goldman Sachs",
-      "source_id": "170927_GS_CAMPUS",
-      "title": "2027 / EMEA / London / Investment Banking, Capital Solutions Group / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170927_GS_CAMPUS",
-      "department": "Global Banking & Markets",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 43,
-      "comp_label": "~£43k (est. £34–52k)",
-      "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:20.667403Z",
-      "baseline": true
-    },
-    "170929_GS_CAMPUS": {
-      "firm": "Goldman Sachs",
-      "source_id": "170929_GS_CAMPUS",
-      "title": "2027 / EMEA / London / Investment Banking, Classic / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170929_GS_CAMPUS",
-      "department": "Global Banking & Markets",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 43,
-      "comp_label": "~£43k (est. £34–52k)",
-      "comp_basis": "bank bulge · other · internship",
-      "first_seen": "2026-09-03T16:23:20.646346Z",
       "baseline": true
     },
     "171437_GS_CAMPUS": {

@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R0077971": {
+      "firm": "Centrica",
+      "source_id": "R0077971",
+      "title": "Quantitative Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Quantitative-Analyst_R0077971",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
+      "first_seen": "2026-09-21T15:56:01.382788Z",
+      "baseline": false
+    }
+  }
 }

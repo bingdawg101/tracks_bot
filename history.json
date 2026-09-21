@@ -274,5 +274,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'global markets', title mentions 'intern', location 'london'",
     "comp_k": 50,
     "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+  },
+  {
+    "firm": "Millennium Management",
+    "source_id": "REQ-30186",
+    "title": "2027 Data & Research Strategy Intern, London",
+    "location": "London, London, United Kingdom",
+    "url": "https://mlp.eightfold.ai/careers/job/755957778834",
+    "match_level": "match",
+    "detected_at": "2026-09-21T15:55:59.578442Z",
+    "reason": "role 'research', title mentions 'intern', location 'london'",
+    "comp_k": 123,
+    "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
   }
 ]

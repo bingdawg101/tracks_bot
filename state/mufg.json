@@ -93,6 +93,36 @@
       "comp_basis": "bank other · trading · internship",
       "first_seen": "2026-09-18T14:58:44.289034Z",
       "baseline": true
+    },
+    "10079457-WD": {
+      "firm": "MUFG",
+      "source_id": "10079457-WD",
+      "title": "2027 MUFG UK Apprenticeship Programme: Strategy and Business Reporting",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Apprenticeship-Programme--Strategy-and-Business-Reporting_10079457-WD",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-21T15:56:06.675499Z",
+      "baseline": false
+    },
+    "10079515-WD": {
+      "firm": "MUFG",
+      "source_id": "10079515-WD",
+      "title": "2027 MUFG UK Apprenticeship Programme: Structured Finance - Portfolio & Asset Management",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Apprenticeship-Programme---Structured-Finance---Portfolio---Asset-Management_10079515-WD",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-09-21T15:56:06.675290Z",
+      "baseline": false
     }
   }
 }

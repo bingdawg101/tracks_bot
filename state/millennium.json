@@ -19,6 +19,36 @@
       "first_seen": "2026-09-18T14:21:38.785150Z",
       "baseline": true
     },
+    "REQ-30175": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30175",
+      "title": "2027 Marketing and Communications Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778881",
+      "department": "Branding & Communications",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-09-21T15:55:59.578262Z",
+      "baseline": false
+    },
+    "REQ-30179": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30179",
+      "title": "2027 Compliance Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778849",
+      "department": "Compliance",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 75,
+      "comp_label": "~£75k (est. £46–103k)",
+      "comp_basis": "hedge fund · risk ops · internship",
+      "first_seen": "2026-09-21T15:55:59.577872Z",
+      "baseline": false
+    },
     "REQ-30183": {
       "firm": "Millennium Management",
       "source_id": "REQ-30183",
@@ -49,6 +79,21 @@
       "first_seen": "2026-09-18T14:21:38.788870Z",
       "baseline": true
     },
+    "REQ-30186": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30186",
+      "title": "2027 Data & Research Strategy Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778834",
+      "department": "Execution Services",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 123,
+      "comp_label": "~£123k (est. £76–170k)",
+      "comp_basis": "hedge fund · trading · internship",
+      "first_seen": "2026-09-21T15:55:59.577758Z",
+      "baseline": false
+    },
     "REQ-30191": {
       "firm": "Millennium Management",
       "source_id": "REQ-30191",
@@ -78,6 +123,21 @@
       "comp_basis": "hedge fund · risk ops · internship",
       "first_seen": "2026-09-18T14:21:38.790251Z",
       "baseline": true
+    },
+    "REQ-30200": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30200",
+      "title": "2027 Operations & Middle Office Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957778854",
+      "department": "Operations & Middle Office",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 75,
+      "comp_label": "~£75k (est. £46–103k)",
+      "comp_basis": "hedge fund · risk ops · internship",
+      "first_seen": "2026-09-21T15:55:59.578006Z",
+      "baseline": false
     },
     "REQ-30208": {
       "firm": "Millennium Management",

@@ -19,19 +19,19 @@
       "first_seen": "2026-09-18T14:26:34.673665Z",
       "baseline": false
     },
-    "R-0000188044": {
+    "R-0000188025": {
       "firm": "RBC Capital Markets",
-      "source_id": "R-0000188044",
+      "source_id": "R-0000188025",
       "title": "Associate, Wealth Management",
       "location": "Edinburgh, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/144-MORRISON-STREETEDINBURGH/Associate--Wealth-Management_R-0000188044/apply",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/144-MORRISON-STREETEDINBURGH/Associate--Wealth-Management_R-0000188025/apply",
       "department": "Customer Service | Client Advice | Sales",
       "employment_type": "Full time",
       "match_level": "review",
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-16T18:17:57.757516Z",
+      "first_seen": "2026-09-21T15:55:32.418747Z",
       "baseline": false
     },
     "R-0000188068": {
@@ -62,6 +62,21 @@
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-18T10:03:47.164696Z",
+      "baseline": false
+    },
+    "R-0000188310": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000188310",
+      "title": "Associate, Wealth Management",
+      "location": "Edinburgh, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/144-MORRISON-STREETEDINBURGH/Associate--Wealth-Management_R-0000188310/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-21T15:55:32.418310Z",
       "baseline": false
     },
     "R-0000188315": {

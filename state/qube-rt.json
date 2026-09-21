@@ -199,21 +199,6 @@
       "first_seen": "2026-09-03T20:09:21.318898Z",
       "baseline": true
     },
-    "8587596002": {
-      "firm": "Qube Research & Technologies",
-      "source_id": "8587596002",
-      "title": "Quantitative Support Engineer",
-      "location": "London",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8587596002",
-      "department": "Trading-QDP",
-      "employment_type": "Full-time",
-      "match_level": "review",
-      "comp_k": 170,
-      "comp_label": "~£170k (est. £105–235k)",
-      "comp_basis": "elite prop · trading",
-      "first_seen": "2026-09-03T20:09:21.324675Z",
-      "baseline": true
-    },
     "8607638002": {
       "firm": "Qube Research & Technologies",
       "source_id": "8607638002",
@@ -377,6 +362,21 @@
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-08T17:32:55.972417Z",
+      "baseline": false
+    },
+    "8826941002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8826941002",
+      "title": "Energy Trading Full Stack Engineer – Spark",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8826941002",
+      "department": "Technology-Risk&P/L",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
+      "first_seen": "2026-09-21T15:55:24.263056Z",
       "baseline": false
     }
   }
