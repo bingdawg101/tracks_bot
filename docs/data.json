@@ -1045,15 +1045,6 @@
     },
     {
       "firm": "Millennium Management",
-      "title": "2027 Data & Research Strategy Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957778834",
-      "employment_type": "",
-      "comp_k": 123,
-      "age_days": 2
-    },
-    {
-      "firm": "Millennium Management",
       "title": "2027 Quantitative Developer Intern, London",
       "location": "London, United Kingdom",
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
@@ -1361,8 +1352,8 @@
       "slug": "millennium",
       "enabled": true,
       "tier": "hedge_fund",
-      "match_count": 7,
-      "review_count": 7,
+      "match_count": 6,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1712,7 +1703,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2632,7 +2623,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 0,
-      "review_count": 10,
+      "review_count": 9,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2946,5 +2937,5 @@
     }
   ],
   "last_opening": "2026-09-18T14:26:59.617454Z",
-  "total_match": 94
+  "total_match": 93
 }
