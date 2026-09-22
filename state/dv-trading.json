@@ -168,6 +168,21 @@
       "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-22T16:54:00.290465Z",
       "baseline": false
+    },
+    "4736720005": {
+      "firm": "DV Trading",
+      "source_id": "4736720005",
+      "title": "Junior Trading Operations Analyst",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4736720005",
+      "department": "DV Equities",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 150,
+      "comp_label": "~£150k (est. £93–207k)",
+      "comp_basis": "elite prop · sales trading",
+      "first_seen": "2026-09-22T19:59:57.920072Z",
+      "baseline": false
     }
   }
 }

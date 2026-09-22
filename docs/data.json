@@ -511,15 +511,6 @@
       "age_days": 4
     },
     {
-      "firm": "Schonfeld Strategic Advisors",
-      "title": "2027 DMFI Quant Developer Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
-      "employment_type": "",
-      "comp_k": 106,
-      "age_days": 5
-    },
-    {
       "firm": "The Voleon Group",
       "title": "Research Intern (London)",
       "location": "London",
@@ -536,6 +527,15 @@
       "employment_type": "",
       "comp_k": 43,
       "age_days": 5
+    },
+    {
+      "firm": "Schonfeld Strategic Advisors",
+      "title": "2027 DMFI Quant Developer Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
+      "employment_type": "",
+      "comp_k": 106,
+      "age_days": 6
     },
     {
       "firm": "Brevan Howard",
@@ -834,7 +834,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Susquehanna International Group",
@@ -879,7 +879,7 @@
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
       "employment_type": "",
       "comp_k": 141,
-      "age_days": 17
+      "age_days": 18
     },
     {
       "firm": "Squarepoint Capital",
@@ -924,7 +924,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 18
+      "age_days": 19
     },
     {
       "firm": "Jane Street",
@@ -987,7 +987,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "DV Trading",
@@ -1385,7 +1385,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 2,
-      "review_count": 9,
+      "review_count": 10,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1425,7 +1425,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 17,
+      "review_count": 16,
       "failure_count": 0,
       "cycle_note": "open"
     },
