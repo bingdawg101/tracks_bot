@@ -286,5 +286,17 @@
     "reason": "role 'research', title mentions 'intern', location 'london'",
     "comp_k": 123,
     "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+  },
+  {
+    "firm": "JPMorgan",
+    "source_id": "210792010",
+    "title": "2027 Quantitative Research \u2013 Asset Management - Summer Analyst Internship - London",
+    "location": "LONDON, LONDON, United Kingdom",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
+    "match_level": "match",
+    "detected_at": "2026-09-22T12:06:50.204376Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 66,
+    "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
   }
 ]

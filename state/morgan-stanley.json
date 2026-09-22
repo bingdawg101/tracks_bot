@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "JR036766": {
+      "firm": "Morgan Stanley",
+      "source_id": "JR036766",
+      "title": "Investment Management - Trading Assistant - Analyst",
+      "location": "London, United Kingdom",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/London-United-Kingdom/Investment-Management---Trading-Assistant---Analyst_JR036766",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-09-22T12:06:40.261181Z",
+      "baseline": false
+    },
     "PT-JR042206": {
       "firm": "Morgan Stanley",
       "source_id": "PT-JR042206",
@@ -18,6 +33,21 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-09-03T16:23:22.998066Z",
       "baseline": true
+    },
+    "PT-JR043325": {
+      "firm": "Morgan Stanley",
+      "source_id": "PT-JR043325",
+      "title": "Algorithmic Trading Engineer - ED",
+      "location": "London, United Kingdom",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/London-United-Kingdom/App-Dev-Team-Mgmt--Application-Development----Job-Level---Executive-Director_PT-JR043325",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-09-22T12:06:40.261365Z",
+      "baseline": false
     }
   }
 }
