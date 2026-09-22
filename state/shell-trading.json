@@ -93,6 +93,21 @@
       "comp_basis": "energy utility · risk ops",
       "first_seen": "2026-09-15T00:51:04.412233Z",
       "baseline": false
+    },
+    "R211199": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R211199",
+      "title": "Products Freight Analyst",
+      "location": "London York Road",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Products-Freight-Analyst_R211199",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
+      "first_seen": "2026-09-22T16:54:20.939949Z",
+      "baseline": false
     }
   }
 }

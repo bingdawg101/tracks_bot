@@ -78,6 +78,21 @@
       "comp_basis": "bank bulge · swe",
       "first_seen": "2026-09-16T18:17:49.295652Z",
       "baseline": false
+    },
+    "75821": {
+      "firm": "Deutsche Bank",
+      "source_id": "75821",
+      "title": "Anti-Financial Crime (AFC) Operations Transformation Execution",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=75821",
+      "department": "",
+      "employment_type": "Unbefristet Director Director",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-09-22T16:54:04.516210Z",
+      "baseline": false
     }
   }
 }

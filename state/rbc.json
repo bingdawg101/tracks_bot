@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "R-0000185854": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000185854",
+      "title": "Wealth Advice Implementation Support Specialist",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Wealth-Advice-Implementation-Support-Specialist_R-0000185854-2/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-22T16:54:05.871959Z",
+      "baseline": false
+    },
     "R-0000186716": {
       "firm": "RBC Capital Markets",
       "source_id": "R-0000186716",
@@ -32,21 +47,6 @@
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-21T15:55:32.418747Z",
-      "baseline": false
-    },
-    "R-0000188202": {
-      "firm": "RBC Capital Markets",
-      "source_id": "R-0000188202",
-      "title": "Analyst, ICCM Fund",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--ICCM-Fund_R-0000188202-1/apply",
-      "department": "Customer Service | Client Advice | Sales",
-      "employment_type": "Full time",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-09-18T10:03:47.164696Z",
       "baseline": false
     },
     "R-0000188310": {

@@ -153,6 +153,21 @@
       "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-10T17:26:36.002571Z",
       "baseline": false
+    },
+    "4736603005": {
+      "firm": "DV Trading",
+      "source_id": "4736603005",
+      "title": "Security Engineer Intern - Summer 2027",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4736603005",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-09-22T16:54:00.290465Z",
+      "baseline": false
     }
   }
 }
