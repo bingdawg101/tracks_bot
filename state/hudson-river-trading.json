@@ -348,6 +348,21 @@
       "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-17T12:12:05.677947Z",
       "baseline": false
+    },
+    "8222413": {
+      "firm": "Hudson River Trading",
+      "source_id": "8222413",
+      "title": "Data Scientist Intern - 2027",
+      "location": "London, United Kingdom",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413",
+      "department": "Algo",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-09-22T22:53:16.046910Z",
+      "baseline": false
     }
   }
 }
