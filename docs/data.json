@@ -466,12 +466,12 @@
   ],
   "fresh": [
     {
-      "firm": "JPMorgan",
-      "title": "2027 Quantitative Research \u2013 Asset Management - Summer Analyst Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
+      "firm": "Goldman Sachs",
+      "title": "2027 / EMEA / London / FICC & Equities, Sales & Trading / Apprentice Programme",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/174813_GS_CAMPUS",
       "employment_type": "",
-      "comp_k": 66,
+      "comp_k": 85,
       "age_days": 0
     },
     {
@@ -484,13 +484,22 @@
       "age_days": 1
     },
     {
+      "firm": "JPMorgan",
+      "title": "2027 Quantitative Research \u2013 Asset Management - Summer Analyst Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
+      "employment_type": "",
+      "comp_k": 66,
+      "age_days": 1
+    },
+    {
       "firm": "Schroders",
       "title": "2027 Public Markets Equities Internship Programme",
       "location": "London, United Kingdom",
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "CIBC Capital Markets",
@@ -499,7 +508,7 @@
       "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Schroders",
@@ -508,7 +517,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -544,7 +553,7 @@
       "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 84,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "BlackRock",
@@ -553,7 +562,7 @@
       "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 7
+      "age_days": 8
     }
   ],
   "stale": [
@@ -735,7 +744,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
-      "age_days": 18
+      "age_days": 19
     },
     {
       "firm": "Susquehanna International Group",
@@ -978,7 +987,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Qube Research & Technologies",
@@ -1014,7 +1023,7 @@
       "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584/apply",
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 123,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Millennium Management",
@@ -1023,7 +1032,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Millennium Management",
@@ -1032,7 +1041,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778817",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Millennium Management",
@@ -1041,7 +1050,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Millennium Management",
@@ -1050,7 +1059,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Millennium Management",
@@ -1059,7 +1068,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Squarepoint Capital",
@@ -1212,7 +1221,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "MUFG",
@@ -1221,7 +1230,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD",
       "employment_type": "",
       "comp_k": 55,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Commerzbank",
@@ -1230,7 +1239,7 @@
       "url": "https://coba-beesite-production-frontend.app.beesite.de/index.php?ac=jobad&id=61322",
       "employment_type": "Off-cycle Internship",
       "comp_k": 55,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "MUFG",
@@ -1239,7 +1248,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Credit-Sales-and-Trading_10079355-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Natixis",
@@ -1248,7 +1257,7 @@
       "url": "https://recrutement.natixis.com/en/job/intern-uk-business-management-sales-structuring-12-months-2",
       "employment_type": "Internship",
       "comp_k": 50,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Goldman Sachs",
@@ -1257,7 +1266,7 @@
       "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Goldman Sachs",
@@ -1290,22 +1299,22 @@
   "stale_firms": 26,
   "firms": [
     {
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 12,
+      "review_count": 7,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Susquehanna International Group",
       "slug": "sig",
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 12,
       "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "Goldman Sachs",
-      "slug": "goldman-sachs",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 11,
-      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1425,7 +1434,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 16,
+      "review_count": 17,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1465,7 +1474,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 1,
-      "review_count": 8,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1535,7 +1544,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 1,
-      "review_count": 1,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2345,7 +2354,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 5,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2641,6 +2650,18 @@
     }
   ],
   "history": [
+    {
+      "firm": "Goldman Sachs",
+      "source_id": "174813_GS_CAMPUS",
+      "title": "2027 / EMEA / London / FICC & Equities, Sales & Trading / Apprentice Programme",
+      "location": "London United Kingdom",
+      "url": "https://higher.gs.com/roles/174813_GS_CAMPUS",
+      "match_level": "match",
+      "detected_at": "2026-09-23T15:30:32.999054Z",
+      "reason": "role 'trading', title mentions 'apprentice', location 'london'",
+      "comp_k": 85,
+      "comp_label": "~\u00a385k (est. \u00a366\u2013104k)"
+    },
     {
       "firm": "JPMorgan",
       "source_id": "210792010",
@@ -2942,6 +2963,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-22T12:06:50.204376Z",
-  "total_match": 91
+  "last_opening": "2026-09-23T15:30:32.999054Z",
+  "total_match": 92
 }

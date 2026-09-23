@@ -273,6 +273,21 @@
       "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-03T20:09:21.600149Z",
       "baseline": true
+    },
+    "8782933002": {
+      "firm": "Point72",
+      "source_id": "8782933002",
+      "title": "Macro Analyst, Market Intelligence, Europe",
+      "location": "London, UK",
+      "url": "https://boards.greenhouse.io/point72/jobs/8782933002?gh_jid=8782933002",
+      "department": "MI - Proprietary Research",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-09-23T15:30:32.037625Z",
+      "baseline": false
     }
   }
 }

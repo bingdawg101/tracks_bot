@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "210788343": {
+      "firm": "JPMorgan",
+      "source_id": "210788343",
+      "title": "Markets Technology Strategy and Business Management - Associate",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788343",
+      "department": "Strategy & Development",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-09-23T15:30:47.284026Z",
+      "baseline": false
+    },
     "210792010": {
       "firm": "JPMorgan",
       "source_id": "210792010",
@@ -32,6 +47,21 @@
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-09-18T17:48:36.831099Z",
+      "baseline": false
+    },
+    "210793950": {
+      "firm": "JPMorgan",
+      "source_id": "210793950",
+      "title": "Quantitative Trading & Research – Rates Quantitative Trader – Analyst or Associate",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793950",
+      "department": "Product/Investment Mgmt",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant trading",
+      "first_seen": "2026-09-23T15:30:47.290514Z",
       "baseline": false
     }
   }
