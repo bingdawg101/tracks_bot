@@ -63,6 +63,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-18T14:26:34.674122Z",
       "baseline": false
+    },
+    "R-0000188705": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000188705",
+      "title": "Wealth Administrator Assistant",
+      "location": "Edinburgh, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/144-MORRISON-STREETEDINBURGH/Wealth-Administrator-Assistant_R-0000188705/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-23T11:23:23.995078Z",
+      "baseline": false
     }
   }
 }

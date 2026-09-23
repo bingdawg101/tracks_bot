@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "1350": {
-      "firm": "Schroders",
-      "source_id": "1350",
-      "title": "Quantitative Analyst",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1350",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-09-22T12:06:40.456450Z",
-      "baseline": false
-    },
     "1940": {
       "firm": "Schroders",
       "source_id": "1940",
