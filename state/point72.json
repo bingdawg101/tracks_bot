@@ -64,21 +64,6 @@
       "first_seen": "2026-09-03T20:09:21.604296Z",
       "baseline": true
     },
-    "7587888002": {
-      "firm": "Point72",
-      "source_id": "7587888002",
-      "title": "Quantitative Researcher",
-      "location": "London",
-      "url": "https://boards.greenhouse.io/point72/jobs/7587888002?gh_jid=7587888002",
-      "department": "Quant Management",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 155,
-      "comp_label": "~£155k (est. £96–214k)",
-      "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.618912Z",
-      "baseline": true
-    },
     "7752293002": {
       "firm": "Point72",
       "source_id": "7752293002",
@@ -122,21 +107,6 @@
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-03T20:09:21.620582Z",
-      "baseline": true
-    },
-    "8050478002": {
-      "firm": "Point72",
-      "source_id": "8050478002",
-      "title": "Low-Latency Market Data Engineer",
-      "location": "New York, London",
-      "url": "https://boards.greenhouse.io/point72/jobs/8050478002?gh_jid=8050478002",
-      "department": "Quant Management",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 120,
-      "comp_label": "~£120k (est. £74–166k)",
-      "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:09:21.612732Z",
       "baseline": true
     },
     "8056172002": {
