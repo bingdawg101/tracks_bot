@@ -79,21 +79,6 @@
       "first_seen": "2026-09-03T16:23:19.259739Z",
       "baseline": true
     },
-    "7398013": {
-      "firm": "Hudson River Trading",
-      "source_id": "7398013",
-      "title": "Software Engineer - Python",
-      "location": "Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013",
-      "department": "Research & Development Platform",
-      "employment_type": "Full-Time",
-      "match_level": "review",
-      "comp_k": 140,
-      "comp_label": "~£140k (est. £87–193k)",
-      "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:23:19.262878Z",
-      "baseline": true
-    },
     "7564973": {
       "firm": "Hudson River Trading",
       "source_id": "7564973",
@@ -107,21 +92,6 @@
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.256428Z",
-      "baseline": true
-    },
-    "7583922": {
-      "firm": "Hudson River Trading",
-      "source_id": "7583922",
-      "title": "Research Engineer",
-      "location": "London, United Kingdom; New York, NY, United States",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7583922",
-      "department": "Research & Development Platform",
-      "employment_type": "Full-Time",
-      "match_level": "review",
-      "comp_k": 110,
-      "comp_label": "~£110k (est. £68–152k)",
-      "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.258087Z",
       "baseline": true
     },
     "7706309": {
