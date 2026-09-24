@@ -78,6 +78,36 @@
       "comp_basis": "bank other · sales trading",
       "first_seen": "2026-09-04T18:14:56.661390Z",
       "baseline": false
+    },
+    "744000151564399": {
+      "firm": "Legal & General",
+      "source_id": "744000151564399",
+      "title": "Junior Onboarding Consultant",
+      "location": "Brighton and Hove, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000151564399",
+      "department": "PRT - PRICING EXECUTION - 423003",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-09-24T10:17:26.781876Z",
+      "baseline": false
+    },
+    "744000151568140": {
+      "firm": "Legal & General",
+      "source_id": "744000151568140",
+      "title": "Research Analyst",
+      "location": "London, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000151568140",
+      "department": "SMDA MULTI ASSET - 641016",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-24T10:17:26.781611Z",
+      "baseline": false
     }
   }
 }
