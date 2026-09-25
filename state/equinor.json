@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "JR107239": {
+      "firm": "Equinor",
+      "source_id": "JR107239",
+      "title": "Summer Internship 2027 UK - Market Analysis & Trading",
+      "location": "London, Great Britain",
+      "url": "https://equinor.wd3.myworkdayjobs.com/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "energy utility · trading · internship",
+      "first_seen": "2026-09-25T00:45:19.033869Z",
+      "baseline": false
+    }
+  }
 }

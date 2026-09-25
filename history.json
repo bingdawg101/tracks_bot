@@ -322,5 +322,17 @@
     "reason": "role 'trading', employment type 'Intern (Fixed Term) (Trainee)', location 'london'",
     "comp_k": 141,
     "comp_label": "~\u00a3141k (est. \u00a387\u2013195k)"
+  },
+  {
+    "firm": "Equinor",
+    "source_id": "JR107239",
+    "title": "Summer Internship 2027 UK - Market Analysis & Trading",
+    "location": "London, Great Britain",
+    "url": "https://equinor.wd3.myworkdayjobs.com/job/London-Great-Britain/Summer-Internship-2027-UK---Market-Analysis---Trading_JR107239",
+    "match_level": "match",
+    "detected_at": "2026-09-25T00:45:19.034808Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 55,
+    "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
   }
 ]
