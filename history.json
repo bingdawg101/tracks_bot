@@ -334,5 +334,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
     "comp_k": 55,
     "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+  },
+  {
+    "firm": "Winton",
+    "source_id": "4986765101",
+    "title": "Quantitative Developer, Graduate",
+    "location": "London, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+    "match_level": "match",
+    "detected_at": "2026-09-25T10:28:39.467043Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'graduate', location 'london'",
+    "comp_k": 120,
+    "comp_label": "~\u00a3120k (est. \u00a374\u2013166k)"
   }
 ]

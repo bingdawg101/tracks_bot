@@ -475,6 +475,15 @@
       "age_days": 0
     },
     {
+      "firm": "Winton",
+      "title": "Quantitative Developer, Graduate",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+      "employment_type": "",
+      "comp_k": 120,
+      "age_days": 0
+    },
+    {
       "firm": "Equinor",
       "title": "Summer Internship 2027 UK - Market Analysis & Trading",
       "location": "London, Great Britain",
@@ -515,15 +524,6 @@
       "title": "2027 Public Markets Equities Internship Programme",
       "location": "London, United Kingdom",
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
-      "employment_type": "",
-      "comp_k": 50,
-      "age_days": 6
-    },
-    {
-      "firm": "CIBC Capital Markets",
-      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
-      "location": "London, GBR",
-      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
       "employment_type": "",
       "comp_k": 50,
       "age_days": 6
@@ -1497,16 +1497,6 @@
       "cycle_note": "open"
     },
     {
-      "name": "CIBC Capital Markets",
-      "slug": "cibc",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 1,
-      "review_count": 3,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
-    },
-    {
       "name": "Commerzbank",
       "slug": "commerzbank",
       "enabled": true,
@@ -1629,6 +1619,16 @@
     {
       "name": "The Voleon Group",
       "slug": "voleon",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "opens Oct 2026"
+    },
+    {
+      "name": "Winton",
+      "slug": "winton",
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 1,
@@ -1775,6 +1775,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
+    },
+    {
+      "name": "CIBC Capital Markets",
+      "slug": "cibc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 3,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "COFCO International",
@@ -2637,16 +2647,6 @@
       "cycle_note": "open"
     },
     {
-      "name": "Winton",
-      "slug": "winton",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 0,
-      "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "opens Oct 2026"
-    },
-    {
       "name": "WorldQuant",
       "slug": "worldquant",
       "enabled": true,
@@ -2668,6 +2668,18 @@
     }
   ],
   "history": [
+    {
+      "firm": "Winton",
+      "source_id": "4986765101",
+      "title": "Quantitative Developer, Graduate",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+      "match_level": "match",
+      "detected_at": "2026-09-25T10:28:39.467043Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'graduate', location 'london'",
+      "comp_k": 120,
+      "comp_label": "~\u00a3120k (est. \u00a374\u2013166k)"
+    },
     {
       "firm": "Equinor",
       "source_id": "JR107239",
@@ -3005,6 +3017,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-25T00:45:19.034808Z",
+  "last_opening": "2026-09-25T10:28:39.467043Z",
   "total_match": 94
 }

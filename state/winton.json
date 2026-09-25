@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T20:21:38.453278Z",
       "baseline": true
+    },
+    "4986765101": {
+      "firm": "Winton",
+      "source_id": "4986765101",
+      "title": "Quantitative Developer, Graduate",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+      "department": "IMR",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-09-25T10:28:39.464374Z",
+      "baseline": false
     }
   }
 }
