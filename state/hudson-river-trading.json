@@ -363,6 +363,21 @@
       "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-22T22:53:16.046910Z",
       "baseline": false
+    },
+    "8234195": {
+      "firm": "Hudson River Trading",
+      "source_id": "8234195",
+      "title": "Software Engineer - Applied AI",
+      "location": "London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8234195",
+      "department": "Research & Development Platform",
+      "employment_type": "Full-Time",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-09-26T05:54:53.393038Z",
+      "baseline": false
     }
   }
 }
