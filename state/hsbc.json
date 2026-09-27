@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "1373218757": {
+      "firm": "HSBC",
+      "source_id": "1373218757",
+      "title": "Relationship Management - Commercial Banking - Degree Apprenticeship",
+      "location": "London, GB, E14 5HQ",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Relationship-Management-Commercial-Banking-Degree-Apprenticeship-E14-5HQ/1373218757/",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 80,
+      "comp_label": "~£80k (est. £62–98k)",
+      "comp_basis": "bank bulge · commercial",
+      "first_seen": "2026-09-27T23:18:02.895804Z",
+      "baseline": false
+    }
+  }
 }

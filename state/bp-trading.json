@@ -3,21 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "RQ114679": {
-      "firm": "BP (Trading & Shipping)",
-      "source_id": "RQ114679",
-      "title": "Executive Reward Analyst",
-      "location": "GB: London - SJS",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/GB-London---SJS/Executive-Reward-Analyst_RQ114679-2",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 52,
-      "comp_label": "~£52k (est. £41–63k)",
-      "comp_basis": "energy utility · other",
-      "first_seen": "2026-09-21T15:56:08.167196Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }
