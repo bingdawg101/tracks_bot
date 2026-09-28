@@ -48,6 +48,21 @@
       "comp_basis": "bank other · trading",
       "first_seen": "2026-09-18T14:26:38.586208Z",
       "baseline": false
+    },
+    "R94930": {
+      "firm": "Wellington Management",
+      "source_id": "R94930",
+      "title": "2027 Investment Platform Industrial Placement Internship Programme (London)",
+      "location": "London, United Kingdom",
+      "url": "https://wellington.wd5.myworkdayjobs.com/job/London-United-Kingdom/XMLNAME-2027-Investment-Platform-Industrial-Placement-Internship-Programme--London-_R94930",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-28T16:04:10.707715Z",
+      "baseline": false
     }
   }
 }

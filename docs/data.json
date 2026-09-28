@@ -472,15 +472,6 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 2
-    },
-    {
-      "firm": "Brevan Howard",
-      "title": "2027 Summer Internship Program \u2013 Systematic Trading, London",
-      "location": "London, United Kingdom",
-      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619/apply",
-      "employment_type": "Intern (Fixed Term) (Trainee)",
-      "comp_k": 141,
       "age_days": 3
     },
     {
@@ -493,13 +484,22 @@
       "age_days": 3
     },
     {
+      "firm": "Brevan Howard",
+      "title": "2027 Summer Internship Program \u2013 Systematic Trading, London",
+      "location": "London, United Kingdom",
+      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--London_JR101619/apply",
+      "employment_type": "Intern (Fixed Term) (Trainee)",
+      "comp_k": 141,
+      "age_days": 4
+    },
+    {
       "firm": "Goldman Sachs",
       "title": "2027 / EMEA / London / FICC & Equities, Sales & Trading / Apprentice Programme",
       "location": "London United Kingdom",
       "url": "https://higher.gs.com/roles/174813_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 85,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Millennium Management",
@@ -508,7 +508,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778834",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 6
+      "age_days": 7
     },
     {
       "firm": "Schroders",
@@ -517,7 +517,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1940",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Schroders",
@@ -526,7 +526,7 @@
       "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 9
+      "age_days": 10
     }
   ],
   "stale": [
@@ -708,7 +708,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
-      "age_days": 23
+      "age_days": 24
     },
     {
       "firm": "Susquehanna International Group",
@@ -951,7 +951,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Qube Research & Technologies",
@@ -987,7 +987,7 @@
       "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584/apply",
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 123,
-      "age_days": 20
+      "age_days": 21
     },
     {
       "firm": "Millennium Management",
@@ -996,7 +996,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Millennium Management",
@@ -1005,7 +1005,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778817",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Millennium Management",
@@ -1014,7 +1014,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Millennium Management",
@@ -1023,7 +1023,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Millennium Management",
@@ -1032,7 +1032,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Squarepoint Capital",
@@ -1048,15 +1048,6 @@
       "title": "Campus Crypto Researcher (Full-Time)",
       "location": "London",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7217856",
-      "employment_type": "Full-time - Campus",
-      "comp_k": 110,
-      "age_days": 24
-    },
-    {
-      "firm": "Jump Trading",
-      "title": "Campus AI Researcher, PhD/Postdoc (Full-Time)",
-      "location": "London",
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7976923",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
       "age_days": 24
@@ -1149,7 +1140,7 @@
       "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 84,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Goldman Sachs",
@@ -1212,7 +1203,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "MUFG",
@@ -1221,7 +1212,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD",
       "employment_type": "",
       "comp_k": 55,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Commerzbank",
@@ -1230,7 +1221,7 @@
       "url": "https://coba-beesite-production-frontend.app.beesite.de/index.php?ac=jobad&id=61322",
       "employment_type": "Off-cycle Internship",
       "comp_k": 55,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "MUFG",
@@ -1239,7 +1230,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Credit-Sales-and-Trading_10079355-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Natixis",
@@ -1248,7 +1239,7 @@
       "url": "https://recrutement.natixis.com/en/job/intern-uk-business-management-sales-structuring-12-months-2",
       "employment_type": "Internship",
       "comp_k": 50,
-      "age_days": 9
+      "age_days": 10
     },
     {
       "firm": "Goldman Sachs",
@@ -1293,7 +1284,7 @@
       "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 12
+      "age_days": 13
     }
   ],
   "stale_firms": 28,
@@ -1323,7 +1314,7 @@
       "slug": "jump-trading",
       "enabled": true,
       "tier": "elite_prop",
-      "match_count": 11,
+      "match_count": 10,
       "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
@@ -1444,7 +1435,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 4,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1544,7 +1535,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 1,
-      "review_count": 6,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2144,7 +2135,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2604,7 +2595,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -3000,5 +2991,5 @@
     }
   ],
   "last_opening": "2026-09-25T10:28:39.467043Z",
-  "total_match": 92
+  "total_match": 91
 }
