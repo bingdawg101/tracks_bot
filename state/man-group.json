@@ -93,6 +93,36 @@
       "comp_basis": "hedge fund · other · internship",
       "first_seen": "2026-09-17T17:02:02.796244Z",
       "baseline": false
+    },
+    "4988791101": {
+      "firm": "Man Group",
+      "source_id": "4988791101",
+      "title": "Trading Summer 2027 Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
+      "department": "Trading",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 123,
+      "comp_label": "~£123k (est. £76–170k)",
+      "comp_basis": "hedge fund · trading · internship",
+      "first_seen": "2026-09-28T21:54:25.975881Z",
+      "baseline": false
+    },
+    "4988792101": {
+      "firm": "Man Group",
+      "source_id": "4988792101",
+      "title": "Investment Risk 2027 Summer Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988792101",
+      "department": "Investment Risk",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 75,
+      "comp_label": "~£75k (est. £46–103k)",
+      "comp_basis": "hedge fund · risk ops · internship",
+      "first_seen": "2026-09-28T21:54:25.946344Z",
+      "baseline": false
     }
   }
 }
