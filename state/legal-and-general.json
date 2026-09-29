@@ -93,6 +93,36 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-24T10:17:26.781611Z",
       "baseline": false
+    },
+    "744000152472085": {
+      "firm": "Legal & General",
+      "source_id": "744000152472085",
+      "title": "PRT - Transitions Director",
+      "location": "London, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000152472085",
+      "department": "PRT - ORIGINATION AND EXECUTION - 401331",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-09-29T19:28:27.170678Z",
+      "baseline": false
+    },
+    "744000152472984": {
+      "firm": "Legal & General",
+      "source_id": "744000152472984",
+      "title": "PRT - Transitions Director",
+      "location": "Brighton and Hove, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000152472984",
+      "department": "PRT - ORIGINATION AND EXECUTION - 401331",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-09-29T19:28:27.170924Z",
+      "baseline": false
     }
   }
 }
