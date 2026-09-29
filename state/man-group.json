@@ -123,6 +123,21 @@
       "comp_basis": "hedge fund · risk ops · internship",
       "first_seen": "2026-09-28T21:54:25.946344Z",
       "baseline": false
+    },
+    "4989438101": {
+      "firm": "Man Group",
+      "source_id": "4989438101",
+      "title": "Global Funds Treasury Summer 2027 Internship",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4989438101",
+      "department": "Finance",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 75,
+      "comp_label": "~£75k (est. £46–103k)",
+      "comp_basis": "hedge fund · risk ops · internship",
+      "first_seen": "2026-09-29T14:15:29.275890Z",
+      "baseline": false
     }
   }
 }

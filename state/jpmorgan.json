@@ -33,21 +33,6 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-09-23T15:30:47.284026Z",
       "baseline": false
-    },
-    "210795465": {
-      "firm": "JPMorgan",
-      "source_id": "210795465",
-      "title": "Sales & Marketing - Commodities Institutional Sales - Associate",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795465",
-      "department": "Program Analysts & Associate",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 62,
-      "comp_label": "~£62k (est. £48–76k)",
-      "comp_basis": "bank bulge · other",
-      "first_seen": "2026-09-28T16:04:34.541873Z",
-      "baseline": false
     }
   }
 }

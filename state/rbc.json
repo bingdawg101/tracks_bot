@@ -4,19 +4,19 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "R-0000186716": {
+    "R-0000187707": {
       "firm": "RBC Capital Markets",
-      "source_id": "R-0000186716",
-      "title": "AI Engineer, AI & Digital Innovation - Capital Markets (London)",
+      "source_id": "R-0000187707",
+      "title": "Attribution Analyst (12 month Fixed Term Contract)",
       "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/AI-Engineer_R-0000186716/apply",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Attribution-Analyst--12-month-Fixed-Term-Contract-_R-0000187707/apply",
       "department": "Technology | Analytics | Research",
       "employment_type": "Full time",
       "match_level": "review",
       "comp_k": 55,
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
-      "first_seen": "2026-09-24T15:15:48.595878Z",
+      "first_seen": "2026-09-29T14:15:39.717968Z",
       "baseline": false
     },
     "R-0000188044": {
@@ -34,34 +34,19 @@
       "first_seen": "2026-09-28T16:04:04.132910Z",
       "baseline": false
     },
-    "R-0000188622": {
+    "R-0000189149": {
       "firm": "RBC Capital Markets",
-      "source_id": "R-0000188622",
-      "title": "C# Trading System Engineer, Capital Markets Technology (London)",
+      "source_id": "R-0000189149",
+      "title": "Associate - GIB, Metals and Mining",
       "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/C--Trading-System-Engineer--Capital-Markets-Technology--London-_R-0000188622-2/apply",
-      "department": "Technology | Analytics | Research",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate----GIB--Metals-and-Mining_R-0000189149-1/apply",
+      "department": "Customer Service | Client Advice | Sales",
       "employment_type": "Full time",
       "match_level": "review",
-      "comp_k": 78,
-      "comp_label": "~£78k (est. £61–95k)",
-      "comp_basis": "bank other · trading",
-      "first_seen": "2026-09-29T01:28:50.499901Z",
-      "baseline": false
-    },
-    "R-0000188707": {
-      "firm": "RBC Capital Markets",
-      "source_id": "R-0000188707",
-      "title": "Funding and Liquidity Analyst, Capital Markets (London)",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Funding-and-Liquidity-Analyst--Capital-Markets--London-_R-0000188707-1/apply",
-      "department": "Operations",
-      "employment_type": "Full time",
-      "match_level": "review",
-      "comp_k": 52,
-      "comp_label": "~£52k (est. £41–63k)",
-      "comp_basis": "bank other · risk ops",
-      "first_seen": "2026-09-25T19:28:29.693575Z",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-09-29T14:15:39.717573Z",
       "baseline": false
     }
   }

@@ -93,6 +93,21 @@
       "comp_basis": "bank other · trading · internship",
       "first_seen": "2026-09-18T14:58:44.289034Z",
       "baseline": true
+    },
+    "10079834-WD": {
+      "firm": "MUFG",
+      "source_id": "10079834-WD",
+      "title": "2027 MUFG UK Summer Analyst Programme: Global Client Sales",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Client-Sales_10079834-WD-2",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-09-29T14:16:00.107465Z",
+      "baseline": false
     }
   }
 }
