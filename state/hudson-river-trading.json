@@ -139,6 +139,21 @@
       "first_seen": "2026-09-03T16:23:19.257694Z",
       "baseline": true
     },
+    "7787784": {
+      "firm": "Hudson River Trading",
+      "source_id": "7787784",
+      "title": "Research Data Engineer",
+      "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7787784",
+      "department": "Data",
+      "employment_type": "Full-Time",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-09-29T23:08:14.182830Z",
+      "baseline": false
+    },
     "7867883": {
       "firm": "Hudson River Trading",
       "source_id": "7867883",
@@ -377,6 +392,21 @@
       "comp_label": "~£110k (est. £68–152k)",
       "comp_basis": "elite prop · other",
       "first_seen": "2026-09-26T05:54:53.393038Z",
+      "baseline": false
+    },
+    "8240734": {
+      "firm": "Hudson River Trading",
+      "source_id": "8240734",
+      "title": "Research Data Expert",
+      "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8240734",
+      "department": "Data",
+      "employment_type": "Full-Time",
+      "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
+      "first_seen": "2026-09-29T23:08:14.185059Z",
       "baseline": false
     }
   }

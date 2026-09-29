@@ -19,21 +19,6 @@
       "first_seen": "2026-09-14T13:56:34.397180Z",
       "baseline": false
     },
-    "R201954": {
-      "firm": "Shell (Trading & Supply)",
-      "source_id": "R201954",
-      "title": "Energy Analyst",
-      "location": "London York Road",
-      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Energy-Analyst_R201954",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 52,
-      "comp_label": "~£52k (est. £41–63k)",
-      "comp_basis": "energy utility · other",
-      "first_seen": "2026-09-11T09:30:50.345115Z",
-      "baseline": false
-    },
     "R205154": {
       "firm": "Shell (Trading & Supply)",
       "source_id": "R205154",
@@ -48,21 +33,6 @@
       "comp_basis": "energy utility · other · internship",
       "first_seen": "2026-09-15T00:51:04.412640Z",
       "baseline": false
-    },
-    "R208302": {
-      "firm": "Shell (Trading & Supply)",
-      "source_id": "R208302",
-      "title": "Gas Quant Structurer",
-      "location": "London York Road",
-      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Gas-Quant-Structurer_R208302",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 70,
-      "comp_label": "~£70k (est. £55–85k)",
-      "comp_basis": "energy utility · structuring",
-      "first_seen": "2026-09-03T17:34:27.248691Z",
-      "baseline": true
     },
     "R210016": {
       "firm": "Shell (Trading & Supply)",
