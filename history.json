@@ -382,5 +382,53 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'internship', location 'london'",
     "comp_k": 84,
     "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
+  },
+  {
+    "firm": "HSBC",
+    "source_id": "1373576757",
+    "title": "Markets - Sales and Trading - Off-Cycle Internship",
+    "location": "London, GB, E14 5HQ",
+    "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Markets-Sales-and-Trading-Off-Cycle-Internship-E14-5HQ/1373576757/",
+    "match_level": "match",
+    "detected_at": "2026-09-30T23:43:38.844864Z",
+    "reason": "firm went from 0 to 4 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 59,
+    "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
+  },
+  {
+    "firm": "HSBC",
+    "source_id": "1373586957",
+    "title": "Markets - Sales and Trading - Internship",
+    "location": "London, GB, E14 5HQ",
+    "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Markets-Sales-and-Trading-Internship-E14-5HQ/1373586957/",
+    "match_level": "match",
+    "detected_at": "2026-09-30T23:43:38.844864Z",
+    "reason": "firm went from 0 to 4 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 59,
+    "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
+  },
+  {
+    "firm": "HSBC",
+    "source_id": "1373586657",
+    "title": "Global Investment Research - Work Placement,",
+    "location": "London, GB, E14 5HQ",
+    "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Global-Investment-Research-Work-Placement%2C-E14-5HQ/1373586657/",
+    "match_level": "match",
+    "detected_at": "2026-09-30T23:43:38.844864Z",
+    "reason": "firm went from 0 to 4 matching roles \u2014 role 'research', title mentions 'placement', location 'london'",
+    "comp_k": 43,
+    "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+  },
+  {
+    "firm": "HSBC",
+    "source_id": "1373585957",
+    "title": "Data Analyst - Quantitative Finance - Internship",
+    "location": "London, GB, E14 5HQ",
+    "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
+    "match_level": "match",
+    "detected_at": "2026-09-30T23:43:38.844864Z",
+    "reason": "firm went from 0 to 4 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 41,
+    "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
   }
 ]
