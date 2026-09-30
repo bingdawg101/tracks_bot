@@ -363,6 +363,21 @@
       "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-21T15:55:24.263056Z",
       "baseline": false
+    },
+    "8857906002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8857906002",
+      "title": "Quantitative Developer - Python, C++",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8857906002",
+      "department": "MF-MAPS",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-09-30T15:12:28.472397Z",
+      "baseline": false
     }
   }
 }

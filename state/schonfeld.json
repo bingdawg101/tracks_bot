@@ -78,6 +78,21 @@
       "comp_basis": "hedge fund · swe · internship",
       "first_seen": "2026-09-16T18:17:44.877511Z",
       "baseline": false
+    },
+    "8242761": {
+      "firm": "Schonfeld Strategic Advisors",
+      "source_id": "8242761",
+      "title": "Quant Strategist / Researcher - FX Volatility",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8242761",
+      "department": "DMFI Quant Team",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 155,
+      "comp_label": "~£155k (est. £96–214k)",
+      "comp_basis": "hedge fund · quant research",
+      "first_seen": "2026-09-30T15:12:29.635917Z",
+      "baseline": false
     }
   }
 }
