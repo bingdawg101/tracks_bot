@@ -370,5 +370,17 @@
     "reason": "role 'trading', title mentions 'intern', location 'london'",
     "comp_k": 123,
     "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+  },
+  {
+    "firm": "Capstone Investment Advisors",
+    "source_id": "8859054002",
+    "title": "Summer 2027 - Quant Internship",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
+    "match_level": "match",
+    "detected_at": "2026-09-30T20:04:00.414606Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'internship', location 'london'",
+    "comp_k": 84,
+    "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
   }
 ]

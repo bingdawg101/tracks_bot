@@ -33,6 +33,21 @@
       "comp_basis": "hedge fund · other · internship",
       "first_seen": "2026-09-21T23:22:42.627182Z",
       "baseline": false
+    },
+    "8859054002": {
+      "firm": "Capstone Investment Advisors",
+      "source_id": "8859054002",
+      "title": "Summer 2027 - Quant Internship",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
+      "department": "Internship Program",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-09-30T20:04:00.414534Z",
+      "baseline": false
     }
   }
 }
