@@ -466,6 +466,15 @@
   ],
   "fresh": [
     {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
       "firm": "Man Group",
       "title": "Trading Summer 2027 Internship",
       "location": "London",
@@ -1334,8 +1343,8 @@
       "slug": "millennium",
       "enabled": true,
       "tier": "hedge_fund",
-      "match_count": 6,
-      "review_count": 5,
+      "match_count": 7,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2642,6 +2651,18 @@
   ],
   "history": [
     {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30292",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "match_level": "match",
+      "detected_at": "2026-09-30T08:28:34.135610Z",
+      "reason": "role 'trading', title mentions 'intern', location 'london'",
+      "comp_k": 123,
+      "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+    },
+    {
       "firm": "Man Group",
       "source_id": "4988791101",
       "title": "Trading Summer 2027 Internship",
@@ -3002,6 +3023,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-28T21:54:25.975921Z",
-  "total_match": 91
+  "last_opening": "2026-09-30T08:28:34.135610Z",
+  "total_match": 92
 }

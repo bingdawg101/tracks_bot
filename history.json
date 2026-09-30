@@ -358,5 +358,17 @@
     "reason": "role 'trading', title mentions 'internship', location 'london'",
     "comp_k": 123,
     "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+  },
+  {
+    "firm": "Millennium Management",
+    "source_id": "REQ-30292",
+    "title": "2027 Sector Specialist Intern, London",
+    "location": "London, London, United Kingdom",
+    "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+    "match_level": "match",
+    "detected_at": "2026-09-30T08:28:34.135610Z",
+    "reason": "role 'trading', title mentions 'intern', location 'london'",
+    "comp_k": 123,
+    "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
   }
 ]
