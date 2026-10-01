@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "7989054003": {
+      "firm": "XTX Markets",
+      "source_id": "7989054003",
+      "title": "Realtime Analytics and Controls Developer",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/7989054003",
+      "department": "Trading OTC Tech",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
+      "first_seen": "2026-10-01T16:34:11.334124Z",
+      "baseline": false
+    }
+  }
 }

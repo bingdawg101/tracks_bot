@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "1730": {
+      "firm": "Schroders",
+      "source_id": "1730",
+      "title": "Quantitative Analyst",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1730",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-10-01T16:34:17.610005Z",
+      "baseline": false
+    },
     "1940": {
       "firm": "Schroders",
       "source_id": "1940",
@@ -197,21 +212,6 @@
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-18T14:26:31.276012Z",
-      "baseline": false
-    },
-    "1999": {
-      "firm": "Schroders",
-      "source_id": "1999",
-      "title": "2027 Wealth Management (Portfolio Management) Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1999",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-09-18T14:26:31.276237Z",
       "baseline": false
     }
   }
