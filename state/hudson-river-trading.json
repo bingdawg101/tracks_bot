@@ -19,21 +19,6 @@
       "first_seen": "2026-09-03T16:23:19.262249Z",
       "baseline": true
     },
-    "7162019": {
-      "firm": "Hudson River Trading",
-      "source_id": "7162019",
-      "title": "GPU Systems Engineer",
-      "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Norway",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7162019",
-      "department": "Research & Development Platform",
-      "employment_type": "Full-Time",
-      "match_level": "review",
-      "comp_k": 140,
-      "comp_label": "~£140k (est. £87–193k)",
-      "comp_basis": "elite prop · swe",
-      "first_seen": "2026-09-03T16:23:19.248786Z",
-      "baseline": true
-    },
     "7247998": {
       "firm": "Hudson River Trading",
       "source_id": "7247998",
@@ -47,21 +32,6 @@
       "comp_label": "~£170k (est. £105–235k)",
       "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T16:23:19.251980Z",
-      "baseline": true
-    },
-    "7353090": {
-      "firm": "Hudson River Trading",
-      "source_id": "7353090",
-      "title": "High Performance Compute (HPC) Storage Engineer",
-      "location": "Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Norway",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7353090",
-      "department": "Research & Development Platform",
-      "employment_type": "Full-Time",
-      "match_level": "review",
-      "comp_k": 110,
-      "comp_label": "~£110k (est. £68–152k)",
-      "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.250184Z",
       "baseline": true
     },
     "7392942": {
