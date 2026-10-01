@@ -213,21 +213,6 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-18T14:26:31.276237Z",
       "baseline": false
-    },
-    "2000": {
-      "firm": "Schroders",
-      "source_id": "2000",
-      "title": "2027 People & Culture Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2000",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-09-18T14:26:31.276335Z",
-      "baseline": false
     }
   }
 }

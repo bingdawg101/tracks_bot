@@ -466,15 +466,6 @@
   ],
   "fresh": [
     {
-      "firm": "Millennium Management",
-      "title": "2027 Sector Specialist Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
-      "employment_type": "",
-      "comp_k": 123,
-      "age_days": 0
-    },
-    {
       "firm": "Capstone Investment Advisors",
       "title": "Summer 2027 - Quant Internship",
       "location": "London",
@@ -482,6 +473,15 @@
       "employment_type": "",
       "comp_k": 84,
       "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 1
     },
     {
       "firm": "Man Group",
@@ -853,15 +853,6 @@
       "employment_type": "",
       "comp_k": 156,
       "age_days": 27
-    },
-    {
-      "firm": "Man Group",
-      "title": "Quant Researcher Internship",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "employment_type": "",
-      "comp_k": 141,
-      "age_days": 26
     },
     {
       "firm": "Squarepoint Capital",
@@ -1305,7 +1296,7 @@
       "age_days": 15
     }
   ],
-  "stale_firms": 29,
+  "stale_firms": 28,
   "firms": [
     {
       "name": "Susquehanna International Group",
@@ -1438,16 +1429,6 @@
       "cycle_note": "open"
     },
     {
-      "name": "Man Group",
-      "slug": "man-group",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 2,
-      "review_count": 7,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
-    },
-    {
       "name": "Point72",
       "slug": "point72",
       "enabled": true,
@@ -1473,7 +1454,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 2,
-      "review_count": 13,
+      "review_count": 12,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1566,6 +1547,16 @@
       "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
+    },
+    {
+      "name": "Man Group",
+      "slug": "man-group",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 1,
+      "review_count": 6,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Marshall Wace",
@@ -3093,5 +3084,5 @@
     }
   ],
   "last_opening": "2026-09-30T23:43:38.844864Z",
-  "total_match": 93
+  "total_match": 92
 }
