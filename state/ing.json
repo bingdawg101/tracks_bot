@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "REQ-10111650": {
-      "firm": "ING",
-      "source_id": "REQ-10111650",
-      "title": "FX Quant Trader",
-      "location": "London",
-      "url": "https://ing.wd3.myworkdayjobs.com/job/London/FX-Quant-Trader_REQ-10111650-1",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 80,
-      "comp_label": "~£80k (est. £62–98k)",
-      "comp_basis": "bank other · quant trading",
-      "first_seen": "2026-09-30T15:13:02.716202Z",
-      "baseline": false
-    },
     "REQ-10120556": {
       "firm": "ING",
       "source_id": "REQ-10120556",

@@ -7,15 +7,15 @@
     "4844843101": {
       "firm": "Man Group",
       "source_id": "4844843101",
-      "title": "Quantitative Developer - AHL",
+      "title": "Quantitative Developer - Systematic",
       "location": "London",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4844843101",
       "department": "Technology",
       "employment_type": "",
       "match_level": "review",
-      "comp_k": 120,
-      "comp_label": "~£120k (est. £74–166k)",
-      "comp_basis": "hedge fund · swe",
+      "comp_k": 160,
+      "comp_label": "~£160k (est. £99–221k)",
+      "comp_basis": "hedge fund · quant trading",
       "first_seen": "2026-09-03T20:09:21.470551Z",
       "baseline": true
     },
@@ -32,6 +32,21 @@
       "comp_label": "~£155k (est. £96–214k)",
       "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-24T10:17:16.809226Z",
+      "baseline": false
+    },
+    "4965180101": {
+      "firm": "Man Group",
+      "source_id": "4965180101",
+      "title": "Quant - Systematic Multi-Strategy",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4965180101",
+      "department": "Systematic",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 160,
+      "comp_label": "~£160k (est. £99–221k)",
+      "comp_basis": "hedge fund · quant trading",
+      "first_seen": "2026-10-02T13:14:48.009424Z",
       "baseline": false
     },
     "4966466101": {
