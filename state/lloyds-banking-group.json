@@ -1,7 +1,7 @@
 {
   "firm": "Lloyds Banking Group",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "lloyds-banking-group: POST https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {
     "163682": {

@@ -1,7 +1,7 @@
 {
   "firm": "CIBC Capital Markets",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "cibc: POST https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {
     "2619361": {

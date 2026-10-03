@@ -1,7 +1,7 @@
 {
   "firm": "Invesco",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "invesco: POST https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {
     "R-13961": {
