@@ -1,7 +1,7 @@
 {
   "firm": "Danske Bank",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "danske-bank: GET https://ejqi.fa.ocs.oraclecloud.eu/hcmRestApi/resources/latest/recruitingCEJobRequisitions failed: Server error '503 Service Temporarily Unavailable' for url 'https://ejqi.fa.ocs.oraclecloud.eu/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation%2CrequisitionList.secondaryLocations&finder=findReqs%3BsiteNumber%3DCX_1001%2Climit%3D200%2Coffset%3D0%2CsortBy%3DPOSTING_DATES_DESC'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
   "established": true,
   "tracked": {}
 }
