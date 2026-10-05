@@ -108,21 +108,6 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-09-03T21:00:22.403484Z",
       "baseline": true
-    },
-    "99710030640": {
-      "firm": "BlackRock",
-      "source_id": "99710030640",
-      "title": "Veteran & Elite Athletes Internship Programme - London London, England 08/25/2026",
-      "location": "London, England",
-      "url": "https://careers.blackrock.com/job/london/veteran-and-elite-athletes-internship-programme-london/45831/99710030640",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-03T21:00:22.400205Z",
-      "baseline": true
     }
   }
 }
