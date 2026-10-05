@@ -63,21 +63,6 @@
       "comp_basis": "bank bulge · trading",
       "first_seen": "2026-09-24T19:16:46.411741Z",
       "baseline": false
-    },
-    "75895": {
-      "firm": "Deutsche Bank",
-      "source_id": "75895",
-      "title": "Quantitative Trading Engineer",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=75895",
-      "department": "",
-      "employment_type": "Unbefristet Vice President",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £74–116k)",
-      "comp_basis": "bank bulge · quant trading",
-      "first_seen": "2026-09-28T16:03:57.507582Z",
-      "baseline": false
     }
   }
 }

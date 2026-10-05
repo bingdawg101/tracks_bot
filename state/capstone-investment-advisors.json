@@ -48,6 +48,21 @@
       "comp_basis": "hedge fund · other · internship",
       "first_seen": "2026-09-30T20:04:00.414534Z",
       "baseline": false
+    },
+    "8867730002": {
+      "firm": "Capstone Investment Advisors",
+      "source_id": "8867730002",
+      "title": "Summer 2027 - Risk Tech Internship",
+      "location": "London, New York",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8867730002",
+      "department": "Internship Program",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 75,
+      "comp_label": "~£75k (est. £46–103k)",
+      "comp_basis": "hedge fund · risk ops · internship",
+      "first_seen": "2026-10-05T17:11:35.050952Z",
+      "baseline": false
     }
   }
 }
