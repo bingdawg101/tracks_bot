@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R-0000183780": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000183780",
+      "title": "Wealth Paraplanner",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/16-ST-HELENS-PLACELONDON/Wealth-Paraplanner_R-0000183780/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-10-06T10:04:53.111960Z",
+      "baseline": false
+    }
+  }
 }

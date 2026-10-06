@@ -19,21 +19,6 @@
       "first_seen": "2026-09-18T14:26:31.274553Z",
       "baseline": false
     },
-    "1944": {
-      "firm": "Schroders",
-      "source_id": "1944",
-      "title": "2027 Finance Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1944",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 36,
-      "comp_label": "~£36k (est. £28–44k)",
-      "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-18T14:26:31.274648Z",
-      "baseline": false
-    },
     "1945": {
       "firm": "Schroders",
       "source_id": "1945",
@@ -122,36 +107,6 @@
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-18T14:26:31.275528Z",
-      "baseline": false
-    },
-    "1954": {
-      "firm": "Schroders",
-      "source_id": "1954",
-      "title": "2027 Finance Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1954",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 52,
-      "comp_label": "~£52k (est. £41–63k)",
-      "comp_basis": "bank other · risk ops",
-      "first_seen": "2026-09-18T15:15:50.204464Z",
-      "baseline": false
-    },
-    "1955": {
-      "firm": "Schroders",
-      "source_id": "1955",
-      "title": "2027 Internal Audit Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1955",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 36,
-      "comp_label": "~£36k (est. £28–44k)",
-      "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-18T14:26:31.275617Z",
       "baseline": false
     },
     "1996": {

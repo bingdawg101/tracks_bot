@@ -476,15 +476,6 @@
   ],
   "fresh": [
     {
-      "firm": "Millennium Management",
-      "title": "2027 Sector Specialist Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
-      "employment_type": "",
-      "comp_k": 123,
-      "age_days": 5
-    },
-    {
       "firm": "Capstone Investment Advisors",
       "title": "Summer 2027 - Quant Internship",
       "location": "London",
@@ -492,6 +483,15 @@
       "employment_type": "",
       "comp_k": 84,
       "age_days": 5
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 6
     },
     {
       "firm": "Man Group",
@@ -578,7 +578,7 @@
     },
     {
       "firm": "IMC Trading",
-      "title": "Graduate Machine Learning Researcher - London",
+      "title": "Graduate Deep Learning Researcher - London",
       "location": "London, United Kingdom",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4914883101",
       "employment_type": "",
@@ -1316,7 +1316,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 10,
-      "review_count": 6,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2346,7 +2346,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2376,7 +2376,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 11,
+      "review_count": 8,
       "failure_count": 0,
       "cycle_note": "open"
     },
