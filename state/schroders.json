@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "1943": {
-      "firm": "Schroders",
-      "source_id": "1943",
-      "title": "2027 Client Group Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1943",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-18T14:26:31.274553Z",
-      "baseline": false
-    },
     "1945": {
       "firm": "Schroders",
       "source_id": "1945",

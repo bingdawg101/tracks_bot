@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "210794111": {
+      "firm": "JPMorgan",
+      "source_id": "210794111",
+      "title": "EMEA Global Markets Sales Credit Risk Portfolio – Associate",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794111",
+      "department": "Product/Investment Mgmt",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 85,
+      "comp_label": "~£85k (est. £66–104k)",
+      "comp_basis": "bank bulge · sales trading",
+      "first_seen": "2026-10-06T16:44:52.071092Z",
+      "baseline": false
+    },
     "210795769": {
       "firm": "JPMorgan",
       "source_id": "210795769",
@@ -17,21 +32,6 @@
       "comp_label": "~£58k (est. £45–71k)",
       "comp_basis": "bank bulge · risk ops",
       "first_seen": "2026-10-02T13:15:03.145455Z",
-      "baseline": false
-    },
-    "210796294": {
-      "firm": "JPMorgan",
-      "source_id": "210796294",
-      "title": "Global Markets – Middle East and North Africa Markets Sales – Analyst or Associate",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796294",
-      "department": "Program Analysts & Associate",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 85,
-      "comp_label": "~£85k (est. £66–104k)",
-      "comp_basis": "bank bulge · sales trading",
-      "first_seen": "2026-09-30T15:12:46.620778Z",
       "baseline": false
     },
     "210797050": {

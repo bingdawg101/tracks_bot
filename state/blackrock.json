@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "100441873008": {
+      "firm": "BlackRock",
+      "source_id": "100441873008",
+      "title": "Associate, Quantitative Research London, England 10/06/2026",
+      "location": "London, England",
+      "url": "https://careers.blackrock.com/job/london/associate-quantitative-research/45831/100441873008",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 80,
+      "comp_label": "~£80k (est. £62–98k)",
+      "comp_basis": "bank other · quant research",
+      "first_seen": "2026-10-06T16:44:43.449371Z",
+      "baseline": false
+    },
     "100661849296": {
       "firm": "BlackRock",
       "source_id": "100661849296",
