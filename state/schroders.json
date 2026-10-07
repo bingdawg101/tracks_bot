@@ -93,21 +93,6 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-18T14:26:31.275528Z",
       "baseline": false
-    },
-    "1996": {
-      "firm": "Schroders",
-      "source_id": "1996",
-      "title": "2027 Wealth Management (Wealth Planning) Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1996",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-09-18T14:26:31.276012Z",
-      "baseline": false
     }
   }
 }

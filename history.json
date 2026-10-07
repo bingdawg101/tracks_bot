@@ -430,5 +430,17 @@
     "reason": "firm went from 0 to 4 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
     "comp_k": 41,
     "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
+  },
+  {
+    "firm": "CIBC Capital Markets",
+    "source_id": "2619190",
+    "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+    "location": "London, GBR",
+    "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
+    "match_level": "match",
+    "detected_at": "2026-10-07T13:55:45.839417Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'global markets', title mentions 'intern', location 'london'",
+    "comp_k": 50,
+    "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
   }
 ]

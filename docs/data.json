@@ -476,13 +476,13 @@
   ],
   "fresh": [
     {
-      "firm": "Millennium Management",
-      "title": "2027 Sector Specialist Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "firm": "CIBC Capital Markets",
+      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
       "employment_type": "",
-      "comp_k": 123,
-      "age_days": 6
+      "comp_k": 50,
+      "age_days": 0
     },
     {
       "firm": "Capstone Investment Advisors",
@@ -492,6 +492,15 @@
       "employment_type": "",
       "comp_k": 84,
       "age_days": 6
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 7
     },
     {
       "firm": "Man Group",
@@ -848,15 +857,6 @@
     },
     {
       "firm": "Susquehanna International Group",
-      "title": "Software Developer Graduate: September 2027 London",
-      "location": "London, United Kingdom",
-      "url": "https://careers-sig.icims.com/jobs/11336/login",
-      "employment_type": "",
-      "comp_k": 140,
-      "age_days": 33
-    },
-    {
-      "firm": "Susquehanna International Group",
       "title": "Quantitative Strategy Developer Graduate: 2027 (London)",
       "location": "London, United Kingdom",
       "url": "https://careers-sig.icims.com/jobs/11344/login",
@@ -1024,7 +1024,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 11
+      "age_days": 12
     },
     {
       "firm": "Jump Trading",
@@ -1291,22 +1291,22 @@
   "stale_firms": 29,
   "firms": [
     {
-      "name": "Susquehanna International Group",
-      "slug": "sig",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 12,
-      "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "Goldman Sachs",
       "slug": "goldman-sachs",
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 11,
       "review_count": 7,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
+      "name": "Susquehanna International Group",
+      "slug": "sig",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 11,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1436,7 +1436,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1459,6 +1459,16 @@
       "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
+    },
+    {
+      "name": "CIBC Capital Markets",
+      "slug": "cibc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 1,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Capstone Investment Advisors",
@@ -1739,16 +1749,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
-    },
-    {
-      "name": "CIBC Capital Markets",
-      "slug": "cibc",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "COFCO International",
@@ -2126,7 +2126,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2376,7 +2376,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 7,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2642,6 +2642,18 @@
     }
   ],
   "history": [
+    {
+      "firm": "CIBC Capital Markets",
+      "source_id": "2619190",
+      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
+      "location": "London, GBR",
+      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
+      "match_level": "match",
+      "detected_at": "2026-10-07T13:55:45.839417Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'global markets', title mentions 'intern', location 'london'",
+      "comp_k": 50,
+      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+    },
     {
       "firm": "HSBC",
       "source_id": "1373585957",
@@ -3075,6 +3087,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-09-30T23:43:38.844864Z",
+  "last_opening": "2026-10-07T13:55:45.839417Z",
   "total_match": 90
 }
