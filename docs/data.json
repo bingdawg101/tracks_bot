@@ -476,24 +476,6 @@
   ],
   "fresh": [
     {
-      "firm": "CIBC Capital Markets",
-      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
-      "location": "London, GBR",
-      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
-      "employment_type": "",
-      "comp_k": 50,
-      "age_days": 0
-    },
-    {
-      "firm": "Capstone Investment Advisors",
-      "title": "Summer 2027 - Quant Internship",
-      "location": "London",
-      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
-      "employment_type": "",
-      "comp_k": 84,
-      "age_days": 6
-    },
-    {
       "firm": "Millennium Management",
       "title": "2027 Sector Specialist Intern, London",
       "location": "London, London, United Kingdom",
@@ -503,13 +485,22 @@
       "age_days": 7
     },
     {
+      "firm": "Capstone Investment Advisors",
+      "title": "Summer 2027 - Quant Internship",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
+      "employment_type": "",
+      "comp_k": 84,
+      "age_days": 7
+    },
+    {
       "firm": "Man Group",
       "title": "Trading Summer 2027 Internship",
       "location": "London",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 8
+      "age_days": 9
     }
   ],
   "stale": [
@@ -556,7 +547,7 @@
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
       "employment_type": "Full-time",
       "comp_k": 190,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jane Street",
@@ -610,7 +601,7 @@
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -619,7 +610,7 @@
       "url": "https://careers-sig.icims.com/jobs/11033/login",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jane Street",
@@ -655,7 +646,7 @@
       "url": "https://careers-sig.icims.com/jobs/11005/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -664,7 +655,7 @@
       "url": "https://careers-sig.icims.com/jobs/11006/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -673,7 +664,7 @@
       "url": "https://careers-sig.icims.com/jobs/11031/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -682,7 +673,7 @@
       "url": "https://careers-sig.icims.com/jobs/11032/login",
       "employment_type": "Intern",
       "comp_k": 175,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jane Street",
@@ -700,7 +691,7 @@
       "url": "https://careers-sig.icims.com/jobs/11347/login",
       "employment_type": "",
       "comp_k": 170,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jane Street",
@@ -799,7 +790,7 @@
       "url": "https://careers-sig.icims.com/jobs/11007/login",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jane Street",
@@ -817,7 +808,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
       "employment_type": "",
       "comp_k": 156,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -826,7 +817,7 @@
       "url": "https://careers-sig.icims.com/jobs/11334/login",
       "employment_type": "",
       "comp_k": 156,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Brevan Howard",
@@ -862,7 +853,7 @@
       "url": "https://careers-sig.icims.com/jobs/11344/login",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Onyx Capital Group",
@@ -898,7 +889,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -907,7 +898,7 @@
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 28
+      "age_days": 29
     },
     {
       "firm": "GSA Capital",
@@ -916,7 +907,7 @@
       "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Millennium Management",
@@ -943,7 +934,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -952,7 +943,7 @@
       "url": "https://careers-sig.icims.com/jobs/11333/login",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Brevan Howard",
@@ -1042,7 +1033,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Point72",
@@ -1051,7 +1042,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
       "employment_type": "",
       "comp_k": 106,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -1087,7 +1078,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jump Crypto",
@@ -1096,7 +1087,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Susquehanna International Group",
@@ -1105,7 +1096,7 @@
       "url": "https://careers-sig.icims.com/jobs/11085/login",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Goldman Sachs",
@@ -1123,7 +1114,7 @@
       "url": "https://jobs.ashbyhq.com/voleon/ef2b0892-1772-4240-a535-4043d66d848e",
       "employment_type": "Intern",
       "comp_k": 84,
-      "age_days": 20
+      "age_days": 21
     },
     {
       "firm": "Brevan Howard",
@@ -1258,7 +1249,7 @@
       "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 20
+      "age_days": 21
     },
     {
       "firm": "Goldman Sachs",
@@ -1396,7 +1387,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 2,
-      "review_count": 23,
+      "review_count": 22,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1459,16 +1450,6 @@
       "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
-    },
-    {
-      "name": "CIBC Capital Markets",
-      "slug": "cibc",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 1,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Capstone Investment Advisors",
@@ -1749,6 +1730,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
+    },
+    {
+      "name": "CIBC Capital Markets",
+      "slug": "cibc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "COFCO International",
@@ -3088,5 +3079,5 @@
     }
   ],
   "last_opening": "2026-10-07T13:55:45.839417Z",
-  "total_match": 90
+  "total_match": 89
 }
