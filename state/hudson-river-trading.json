@@ -348,6 +348,36 @@
       "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-10-05T23:10:28.968417Z",
       "baseline": false
+    },
+    "8259961": {
+      "firm": "Hudson River Trading",
+      "source_id": "8259961",
+      "title": "Research Data Expert",
+      "location": "London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8259961",
+      "department": "Data",
+      "employment_type": "Full-Time",
+      "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
+      "first_seen": "2026-10-07T19:45:39.489688Z",
+      "baseline": false
+    },
+    "8260012": {
+      "firm": "Hudson River Trading",
+      "source_id": "8260012",
+      "title": "Research Data Engineer",
+      "location": "London, United Kingdom; New York, NY, United States; Singapore",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8260012",
+      "department": "Data",
+      "employment_type": "Full-Time",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-10-07T19:45:39.486846Z",
+      "baseline": false
     }
   }
 }
