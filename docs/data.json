@@ -476,15 +476,6 @@
   ],
   "fresh": [
     {
-      "firm": "Millennium Management",
-      "title": "2027 Sector Specialist Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
-      "employment_type": "",
-      "comp_k": 123,
-      "age_days": 7
-    },
-    {
       "firm": "Capstone Investment Advisors",
       "title": "Summer 2027 - Quant Internship",
       "location": "London",
@@ -492,6 +483,15 @@
       "employment_type": "",
       "comp_k": 84,
       "age_days": 7
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 8
     },
     {
       "firm": "Man Group",
@@ -1015,7 +1015,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Jump Trading",
@@ -1497,7 +1497,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 1,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },

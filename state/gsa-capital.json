@@ -63,6 +63,21 @@
       "comp_basis": "hedge fund · swe · internship",
       "first_seen": "2026-09-03T20:36:20.442238Z",
       "baseline": true
+    },
+    "8870173002": {
+      "firm": "GSA Capital",
+      "source_id": "8870173002",
+      "title": "General Trading & Technology Insight Programme - 2027",
+      "location": "London",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8870173002",
+      "department": "Onsite events",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "hedge fund · trading",
+      "first_seen": "2026-10-08T11:19:09.086469Z",
+      "baseline": false
     }
   }
 }
