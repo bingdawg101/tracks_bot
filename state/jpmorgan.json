@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "210761487": {
+      "firm": "JPMorgan",
+      "source_id": "210761487",
+      "title": "Director of Software Engineering- J.P. Morgan Personal Investing- Accounting & Post Trading",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761487",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-10-09T16:47:39.334109Z",
+      "baseline": false
+    },
     "210794111": {
       "firm": "JPMorgan",
       "source_id": "210794111",
@@ -32,21 +47,6 @@
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
       "first_seen": "2026-10-08T17:55:10.684357Z",
-      "baseline": false
-    },
-    "210797050": {
-      "firm": "JPMorgan",
-      "source_id": "210797050",
-      "title": "Global Equities - EMEA Equity Delta One Trading - Analyst or Associate",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797050",
-      "department": "Program Analysts & Associate",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 85,
-      "comp_label": "~£85k (est. £66–104k)",
-      "comp_basis": "bank bulge · sales trading",
-      "first_seen": "2026-10-05T17:11:50.391945Z",
       "baseline": false
     }
   }
