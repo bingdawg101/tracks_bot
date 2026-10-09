@@ -108,6 +108,21 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-29T14:16:00.107465Z",
       "baseline": false
+    },
+    "10080069-WD": {
+      "firm": "MUFG",
+      "source_id": "10080069-WD",
+      "title": "2027 MUFG UK Summer Analyst Programme: Global Markets – Markets Engineering",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 50,
+      "comp_label": "~£50k (est. £39–61k)",
+      "comp_basis": "bank other · sales trading · internship",
+      "first_seen": "2026-10-09T09:54:15.175796Z",
+      "baseline": false
     }
   }
 }

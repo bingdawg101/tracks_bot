@@ -476,13 +476,13 @@
   ],
   "fresh": [
     {
-      "firm": "Millennium Management",
-      "title": "2027 Sector Specialist Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "firm": "MUFG",
+      "title": "2027 MUFG UK Summer Analyst Programme: Global Markets \u2013 Markets Engineering",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
-      "comp_k": 123,
-      "age_days": 8
+      "comp_k": 50,
+      "age_days": 0
     },
     {
       "firm": "Capstone Investment Advisors",
@@ -492,6 +492,15 @@
       "employment_type": "",
       "comp_k": 84,
       "age_days": 8
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 9
     },
     {
       "firm": "Man Group",
@@ -1352,6 +1361,16 @@
       "cycle_note": "opens Sep 2026"
     },
     {
+      "name": "MUFG",
+      "slug": "mufg",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 3,
+      "review_count": 5,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Qube Research & Technologies",
       "slug": "qube-rt",
       "enabled": true,
@@ -1400,16 +1419,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "rolling"
-    },
-    {
-      "name": "MUFG",
-      "slug": "mufg",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 2,
-      "review_count": 5,
-      "failure_count": 0,
-      "cycle_note": "open"
     },
     {
       "name": "Point72",
@@ -2634,6 +2643,18 @@
   ],
   "history": [
     {
+      "firm": "MUFG",
+      "source_id": "10080069-WD",
+      "title": "2027 MUFG UK Summer Analyst Programme: Global Markets \u2013 Markets Engineering",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
+      "match_level": "match",
+      "detected_at": "2026-10-09T09:54:15.182239Z",
+      "reason": "role 'global markets', title mentions 'summer analyst', location 'london'",
+      "comp_k": 50,
+      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+    },
+    {
       "firm": "CIBC Capital Markets",
       "source_id": "2619190",
       "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
@@ -3078,6 +3099,6 @@
       "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
     }
   ],
-  "last_opening": "2026-10-07T13:55:45.839417Z",
-  "total_match": 89
+  "last_opening": "2026-10-09T09:54:15.182239Z",
+  "total_match": 90
 }
