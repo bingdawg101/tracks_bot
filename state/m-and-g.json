@@ -1,7 +1,7 @@
 {
   "firm": "M&G plc",
-  "failure_count": 1,
-  "last_error": "m-and-g: POST https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs failed: Expecting value: line 1 column 1 (char 0)",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "R20395": {

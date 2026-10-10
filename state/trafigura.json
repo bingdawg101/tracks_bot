@@ -1,7 +1,7 @@
 {
   "firm": "Trafigura",
-  "failure_count": 1,
-  "last_error": "trafigura: POST https://trafigura.wd3.myworkdayjobs.com/wday/cxs/trafigura/TrafiguraCareerSite/jobs failed: Expecting value: line 1 column 1 (char 0)",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }
