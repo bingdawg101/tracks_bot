@@ -1,7 +1,7 @@
 {
   "firm": "Viterra",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "viterra: POST https://viterra.wd3.myworkdayjobs.com/wday/cxs/viterra/External-CAN/jobs failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {}
 }
