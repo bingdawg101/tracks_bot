@@ -466,5 +466,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
     "comp_k": 156,
     "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
+  },
+  {
+    "firm": "DV Trading",
+    "source_id": "4742955005",
+    "title": "Graduate Software Engineer (DV Commodities)",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
+    "match_level": "match",
+    "detected_at": "2026-10-12T22:54:43.748744Z",
+    "reason": "role 'commodities', title mentions 'graduate', location 'london'",
+    "comp_k": 140,
+    "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
   }
 ]

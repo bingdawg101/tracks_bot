@@ -153,6 +153,21 @@
       "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-09-22T16:54:00.290465Z",
       "baseline": false
+    },
+    "4742955005": {
+      "firm": "DV Trading",
+      "source_id": "4742955005",
+      "title": "Graduate Software Engineer (DV Commodities)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
+      "department": "DV Commodities",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-10-12T22:54:43.738853Z",
+      "baseline": false
     }
   }
 }

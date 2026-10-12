@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "R-0000183780": {
-      "firm": "RBC Capital Markets",
-      "source_id": "R-0000183780",
-      "title": "Wealth Paraplanner",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/16-ST-HELENS-PLACELONDON/Wealth-Paraplanner_R-0000183780/apply",
-      "department": "Customer Service | Client Advice | Sales",
-      "employment_type": "Full time",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-10-12T16:04:16.666245Z",
-      "baseline": false
-    },
     "R-0000185691": {
       "firm": "RBC Capital Markets",
       "source_id": "R-0000185691",
@@ -47,6 +32,21 @@
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
       "first_seen": "2026-10-12T16:04:16.662465Z",
+      "baseline": false
+    },
+    "R-0000189660": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000189660",
+      "title": "AI Analyst, BlueBay Asset Management (London)",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/AI-Analyst--BlueBay-Asset-Management--London-_R-0000189660-1/apply",
+      "department": "Technology | Analytics | Research",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-10-12T22:54:59.028886Z",
       "baseline": false
     }
   }
