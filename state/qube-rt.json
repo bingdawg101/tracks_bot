@@ -363,6 +363,21 @@
       "comp_basis": "elite prop · swe",
       "first_seen": "2026-09-30T15:12:28.472397Z",
       "baseline": false
+    },
+    "8883144002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8883144002",
+      "title": "Software Engineer - Research Platforms",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8883144002",
+      "department": "Technology-Data Center",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-10-12T16:04:08.320651Z",
+      "baseline": false
     }
   }
 }

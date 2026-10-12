@@ -183,6 +183,21 @@
       "comp_basis": "elite prop · trading",
       "first_seen": "2026-09-03T21:33:12.396164Z",
       "baseline": true
+    },
+    "11628": {
+      "firm": "Susquehanna International Group",
+      "source_id": "11628",
+      "title": "Sales Trader",
+      "location": "London, United Kingdom",
+      "url": "https://careers-sig.icims.com/jobs/11628/login",
+      "department": "Experienced Professionals",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
+      "first_seen": "2026-10-12T16:04:11.376860Z",
+      "baseline": false
     }
   }
 }

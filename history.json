@@ -454,5 +454,17 @@
     "reason": "role 'global markets', title mentions 'summer analyst', location 'london'",
     "comp_k": 50,
     "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+  },
+  {
+    "firm": "Mako Group",
+    "source_id": "8883121002",
+    "title": "Mako Summer Internship \u2013 Trading",
+    "location": "London",
+    "url": "https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002",
+    "match_level": "match",
+    "detected_at": "2026-10-12T16:04:08.202537Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 156,
+    "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
   }
 ]
