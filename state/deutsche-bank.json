@@ -63,6 +63,21 @@
       "comp_basis": "bank bulge · quant research",
       "first_seen": "2026-10-06T16:44:36.865542Z",
       "baseline": false
+    },
+    "76165": {
+      "firm": "Deutsche Bank",
+      "source_id": "76165",
+      "title": "Quantitative Investment Strategies (QIS) Quantitative Strategist",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=76165",
+      "department": "",
+      "employment_type": "Unbefristet Associate",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant research",
+      "first_seen": "2026-10-13T17:50:19.050002Z",
+      "baseline": false
     }
   }
 }
