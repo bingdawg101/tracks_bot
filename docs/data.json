@@ -500,7 +500,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 3
+      "age_days": 4
     }
   ],
   "stale": [
@@ -946,15 +946,6 @@
       "age_days": 39
     },
     {
-      "firm": "Man Group",
-      "title": "Trading Summer 2027 Internship",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
-      "employment_type": "",
-      "comp_k": 123,
-      "age_days": 14
-    },
-    {
       "firm": "Brevan Howard",
       "title": "2027 Summer Internship Program \u2013 Trading, London",
       "location": "London, United Kingdom",
@@ -1006,7 +997,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Millennium Management",
@@ -1033,7 +1024,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 17
+      "age_days": 18
     },
     {
       "firm": "Jump Trading",
@@ -1306,7 +1297,7 @@
       "age_days": 27
     }
   ],
-  "stale_firms": 31,
+  "stale_firms": 30,
   "firms": [
     {
       "name": "Goldman Sachs",
@@ -1394,7 +1385,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 3,
-      "review_count": 5,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1404,7 +1395,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 3,
-      "review_count": 22,
+      "review_count": 23,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -1424,7 +1415,7 @@
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 2,
-      "review_count": 21,
+      "review_count": 23,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1557,16 +1548,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
-    },
-    {
-      "name": "Man Group",
-      "slug": "man-group",
-      "enabled": true,
-      "tier": "hedge_fund",
-      "match_count": 1,
-      "review_count": 7,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Marshall Wace",
@@ -1884,7 +1865,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "rolling"
     },
@@ -2154,7 +2135,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2247,6 +2228,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "\u2014"
+    },
+    {
+      "name": "Man Group",
+      "slug": "man-group",
+      "enabled": true,
+      "tier": "hedge_fund",
+      "match_count": 0,
+      "review_count": 5,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Maven Securities",
@@ -2364,7 +2355,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -3142,5 +3133,5 @@
     }
   ],
   "last_opening": "2026-10-12T22:54:43.748744Z",
-  "total_match": 92
+  "total_match": 91
 }

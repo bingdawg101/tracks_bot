@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "8273561": {
+      "firm": "Clear Street",
+      "source_id": "8273561",
+      "title": "Electronic Sales Trader & Client Support",
+      "location": "London, UK",
+      "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8273561",
+      "department": "Electronic Execution Services",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-10-13T10:50:36.164843Z",
+      "baseline": false
+    }
+  }
 }
