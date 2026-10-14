@@ -478,5 +478,17 @@
     "reason": "role 'commodities', title mentions 'graduate', location 'london'",
     "comp_k": 140,
     "comp_label": "~\u00a3140k (est. \u00a387\u2013193k)"
+  },
+  {
+    "firm": "BP (Trading & Shipping)",
+    "source_id": "RQ117139",
+    "title": "One Year Internship - Supply, Trading & Shipping - UK",
+    "location": "United Kingdom - London",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
+    "match_level": "match",
+    "detected_at": "2026-10-14T15:59:26.871553Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 55,
+    "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
   }
 ]

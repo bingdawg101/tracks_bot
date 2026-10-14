@@ -33,6 +33,21 @@
       "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-25T10:28:39.464374Z",
       "baseline": false
+    },
+    "5003627101": {
+      "firm": "Winton",
+      "source_id": "5003627101",
+      "title": "Software Developer, Quantitative Platform",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/5003627101",
+      "department": "Software Development",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-10-14T15:58:56.086281Z",
+      "baseline": false
     }
   }
 }
