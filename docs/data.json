@@ -500,7 +500,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 4
+      "age_days": 5
     }
   ],
   "stale": [
@@ -997,7 +997,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Millennium Management",
@@ -1024,7 +1024,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 18
+      "age_days": 19
     },
     {
       "firm": "Jump Trading",
@@ -1365,7 +1365,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 3,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
