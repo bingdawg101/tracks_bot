@@ -502,5 +502,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'research', title mentions 'internship', location 'london'",
     "comp_k": 43,
     "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+  },
+  {
+    "firm": "Susquehanna International Group",
+    "source_id": "11443",
+    "title": "Trading Operations Analyst Graduate: 2027 | London",
+    "location": "London, United Kingdom",
+    "url": "https://careers-sig.icims.com/jobs/11443/login",
+    "match_level": "match",
+    "detected_at": "2026-10-15T15:47:57.341189Z",
+    "reason": "role 'trading', title mentions 'graduate', location 'london'",
+    "comp_k": 170,
+    "comp_label": "~\u00a3170k (est. \u00a3105\u2013235k)"
   }
 ]
