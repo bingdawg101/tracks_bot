@@ -33,6 +33,21 @@
       "comp_basis": "bank bulge · quant research",
       "first_seen": "2026-10-13T10:50:45.745204Z",
       "baseline": false
+    },
+    "210800615": {
+      "firm": "JPMorgan",
+      "source_id": "210800615",
+      "title": "2027 AI Research Associate Program - Internship",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
+      "department": "Data & Analytics",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 43,
+      "comp_label": "~£43k (est. £34–52k)",
+      "comp_basis": "bank bulge · other · internship",
+      "first_seen": "2026-10-15T11:50:07.502383Z",
+      "baseline": false
     }
   }
 }

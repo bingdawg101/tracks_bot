@@ -490,5 +490,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
     "comp_k": 55,
     "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+  },
+  {
+    "firm": "JPMorgan",
+    "source_id": "210800615",
+    "title": "2027 AI Research Associate Program - Internship",
+    "location": "LONDON, United Kingdom",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
+    "match_level": "match",
+    "detected_at": "2026-10-15T11:50:07.556931Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'research', title mentions 'internship', location 'london'",
+    "comp_k": 43,
+    "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
   }
 ]

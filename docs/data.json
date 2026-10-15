@@ -476,12 +476,12 @@
   ],
   "fresh": [
     {
-      "firm": "BP (Trading & Shipping)",
-      "title": "One Year Internship - Supply, Trading & Shipping - UK",
-      "location": "United Kingdom - London",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
+      "firm": "JPMorgan",
+      "title": "2027 AI Research Associate Program - Internship",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
       "employment_type": "",
-      "comp_k": 55,
+      "comp_k": 43,
       "age_days": 0
     },
     {
@@ -509,7 +509,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 5
+      "age_days": 6
     }
   ],
   "stale": [
@@ -1006,7 +1006,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 14
+      "age_days": 15
     },
     {
       "firm": "Millennium Management",
@@ -1033,7 +1033,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 19
+      "age_days": 20
     },
     {
       "firm": "Jump Trading",
@@ -1469,16 +1469,6 @@
       "cycle_note": "open"
     },
     {
-      "name": "BP (Trading & Shipping)",
-      "slug": "bp-trading",
-      "enabled": true,
-      "tier": "energy_utility",
-      "match_count": 1,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "BlackRock",
       "slug": "blackrock",
       "enabled": true,
@@ -1555,6 +1545,16 @@
       "tier": "elite_prop",
       "match_count": 1,
       "review_count": 3,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
+      "name": "JPMorgan",
+      "slug": "jpmorgan",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1717,6 +1717,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
+    },
+    {
+      "name": "BP (Trading & Shipping)",
+      "slug": "bp-trading",
+      "enabled": true,
+      "tier": "energy_utility",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Barclays",
@@ -2139,16 +2149,6 @@
       "cycle_note": "opens Oct 2026"
     },
     {
-      "name": "JPMorgan",
-      "slug": "jpmorgan",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 0,
-      "review_count": 2,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "Jefferies",
       "slug": "jefferies",
       "enabled": false,
@@ -2364,7 +2364,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2660,6 +2660,18 @@
     }
   ],
   "history": [
+    {
+      "firm": "JPMorgan",
+      "source_id": "210800615",
+      "title": "2027 AI Research Associate Program - Internship",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
+      "match_level": "match",
+      "detected_at": "2026-10-15T11:50:07.556931Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'research', title mentions 'internship', location 'london'",
+      "comp_k": 43,
+      "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
+    },
     {
       "firm": "BP (Trading & Shipping)",
       "source_id": "RQ117139",
@@ -3127,20 +3139,8 @@
       "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', employment type 'Intern (Fixed Term) (Trainee)', location 'london'",
       "comp_k": 123,
       "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
-    },
-    {
-      "firm": "Man Group",
-      "source_id": "4969142101",
-      "title": "Quant Researcher Internship",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101",
-      "match_level": "match",
-      "detected_at": "2026-09-04T18:14:45.177050Z",
-      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'internship', location 'london'",
-      "comp_k": 141,
-      "comp_label": "~\u00a3141k (est. \u00a387\u2013195k)"
     }
   ],
-  "last_opening": "2026-10-14T15:59:26.871553Z",
+  "last_opening": "2026-10-15T11:50:07.556931Z",
   "total_match": 92
 }
