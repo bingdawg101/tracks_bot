@@ -494,13 +494,22 @@
       "age_days": 0
     },
     {
+      "firm": "BP (Trading & Shipping)",
+      "title": "One Year Internship - Supply, Trading & Shipping - UK",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
+      "employment_type": "",
+      "comp_k": 55,
+      "age_days": 0
+    },
+    {
       "firm": "JPMorgan",
       "title": "2027 AI Research Associate Program - Internship",
       "location": "LONDON, United Kingdom",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Mako Group",
@@ -527,7 +536,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 6
+      "age_days": 7
     }
   ],
   "stale": [
@@ -943,7 +952,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Qube Research & Technologies",
@@ -988,7 +997,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Millennium Management",
@@ -997,7 +1006,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778817",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Millennium Management",
@@ -1015,7 +1024,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Millennium Management",
@@ -1033,7 +1042,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Squarepoint Capital",
@@ -1051,7 +1060,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 20
+      "age_days": 21
     },
     {
       "firm": "Jump Trading",
@@ -1469,6 +1478,16 @@
       "cycle_note": "open"
     },
     {
+      "name": "BP (Trading & Shipping)",
+      "slug": "bp-trading",
+      "enabled": true,
+      "tier": "energy_utility",
+      "match_count": 1,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "BlackRock",
       "slug": "blackrock",
       "enabled": true,
@@ -1544,7 +1563,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 1,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1707,16 +1726,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
-    },
-    {
-      "name": "BP (Trading & Shipping)",
-      "slug": "bp-trading",
-      "enabled": true,
-      "tier": "energy_utility",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "open"
     },
     {
       "name": "Barclays",
@@ -2184,7 +2193,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -2294,7 +2303,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -2660,6 +2669,18 @@
     }
   ],
   "history": [
+    {
+      "firm": "BP (Trading & Shipping)",
+      "source_id": "RQ117139",
+      "title": "One Year Internship - Supply, Trading & Shipping - UK",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
+      "match_level": "match",
+      "detected_at": "2026-10-16T14:22:12.183280Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+      "comp_k": 55,
+      "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+    },
     {
       "firm": "Centrica",
       "source_id": "R0091040",
@@ -3127,20 +3148,8 @@
       "reason": "firm went from 0 to 3 matching roles \u2014 role 'sales', title mentions 'internship', location 'london'",
       "comp_k": 56,
       "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
-    },
-    {
-      "firm": "JPMorgan",
-      "source_id": "210788236",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788236",
-      "match_level": "match",
-      "detected_at": "2026-09-07T15:15:45.035390Z",
-      "reason": "firm went from 0 to 3 matching roles \u2014 role 'global markets', title mentions 'internship', location 'london'",
-      "comp_k": 59,
-      "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
     }
   ],
-  "last_opening": "2026-10-16T09:48:24.881234Z",
-  "total_match": 92
+  "last_opening": "2026-10-16T14:22:12.183280Z",
+  "total_match": 93
 }

@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R161935": {
+      "firm": "Northern Trust",
+      "source_id": "R161935",
+      "title": "Fixed Income Trader - Asset Management",
+      "location": "London, United Kingdom",
+      "url": "https://ntrs.wd1.myworkdayjobs.com/job/London-United-Kingdom/Fixed-Income-Trader---Asset-Management_R161935",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 72,
+      "comp_label": "~£72k (est. £56–88k)",
+      "comp_basis": "bank other · sales trading",
+      "first_seen": "2026-10-16T14:22:11.632302Z",
+      "baseline": false
+    }
+  }
 }
