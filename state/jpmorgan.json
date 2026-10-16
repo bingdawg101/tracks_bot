@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "210761487": {
-      "firm": "JPMorgan",
-      "source_id": "210761487",
-      "title": "Director of Software Engineering- J.P. Morgan Personal Investing- Accounting & Post Trading",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761487",
-      "department": "Technology",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 90,
-      "comp_label": "~£90k (est. £70–110k)",
-      "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-10-09T16:47:39.334109Z",
-      "baseline": false
-    },
     "210787709": {
       "firm": "JPMorgan",
       "source_id": "210787709",
