@@ -48,6 +48,21 @@
       "comp_basis": "bank bulge · other · internship",
       "first_seen": "2026-10-15T11:50:07.502383Z",
       "baseline": false
+    },
+    "210800861": {
+      "firm": "JPMorgan",
+      "source_id": "210800861",
+      "title": "Structured Investments Operations - Trading Services Analyst",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800861",
+      "department": "Operations",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-10-16T09:48:22.146109Z",
+      "baseline": false
     }
   }
 }

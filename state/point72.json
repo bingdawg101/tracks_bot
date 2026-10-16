@@ -258,6 +258,21 @@
       "comp_basis": "hedge fund · other",
       "first_seen": "2026-09-23T15:30:32.037625Z",
       "baseline": false
+    },
+    "8875666002": {
+      "firm": "Point72",
+      "source_id": "8875666002",
+      "title": "Quantitative Developer",
+      "location": "United Kingdom",
+      "url": "https://boards.greenhouse.io/point72/jobs/8875666002?gh_jid=8875666002",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-10-16T09:48:07.422342Z",
+      "baseline": false
     }
   }
 }

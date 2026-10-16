@@ -485,6 +485,15 @@
       "age_days": 0
     },
     {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
+      "age_days": 0
+    },
+    {
       "firm": "JPMorgan",
       "title": "2027 AI Research Associate Program - Internship",
       "location": "LONDON, United Kingdom",
@@ -1015,7 +1024,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 15
+      "age_days": 16
     },
     {
       "firm": "Millennium Management",
@@ -1435,7 +1444,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 15,
+      "review_count": 16,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1476,6 +1485,16 @@
       "tier": "hedge_fund",
       "match_count": 1,
       "review_count": 5,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
+    },
+    {
+      "name": "Centrica",
+      "slug": "centrica",
+      "enabled": true,
+      "tier": "energy_utility",
+      "match_count": 1,
+      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -1525,7 +1544,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 1,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1798,16 +1817,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "\u2014"
-    },
-    {
-      "name": "Centrica",
-      "slug": "centrica",
-      "enabled": true,
-      "tier": "energy_utility",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Chicago Trading Company",
@@ -2652,6 +2661,18 @@
   ],
   "history": [
     {
+      "firm": "Centrica",
+      "source_id": "R0091040",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "match_level": "match",
+      "detected_at": "2026-10-16T09:48:24.881234Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'graduate', location 'london'",
+      "comp_k": 78,
+      "comp_label": "~\u00a378k (est. \u00a361\u201395k)"
+    },
+    {
       "firm": "Susquehanna International Group",
       "source_id": "11443",
       "title": "Trading Operations Analyst Graduate: 2027 | London",
@@ -3118,20 +3139,8 @@
       "reason": "firm went from 0 to 3 matching roles \u2014 role 'global markets', title mentions 'internship', location 'london'",
       "comp_k": 59,
       "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
-    },
-    {
-      "firm": "JPMorgan",
-      "source_id": "210788659",
-      "title": "2027 Quantitative Research Markets Analyst Program \u2013 Off-Cycle Internship \u2013 London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788659",
-      "match_level": "match",
-      "detected_at": "2026-09-07T15:15:45.035390Z",
-      "reason": "firm went from 0 to 3 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
-      "comp_k": 66,
-      "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
     }
   ],
-  "last_opening": "2026-10-15T15:47:57.341189Z",
-  "total_match": 91
+  "last_opening": "2026-10-16T09:48:24.881234Z",
+  "total_match": 92
 }
