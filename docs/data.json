@@ -476,15 +476,6 @@
   ],
   "fresh": [
     {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 0
-    },
-    {
       "firm": "BP (Trading & Shipping)",
       "title": "One Year Internship - Supply, Trading & Shipping - UK",
       "location": "United Kingdom - London",
@@ -500,6 +491,15 @@
       "url": "https://careers-sig.icims.com/jobs/11443/login",
       "employment_type": "Per Diem",
       "comp_k": 170,
+      "age_days": 1
+    },
+    {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
       "age_days": 1
     },
     {
@@ -536,7 +536,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 7
+      "age_days": 8
     }
   ],
   "stale": [
@@ -1033,7 +1033,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 16
+      "age_days": 17
     },
     {
       "firm": "Millennium Management",
@@ -1060,7 +1060,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 21
+      "age_days": 22
     },
     {
       "firm": "Jump Trading",
@@ -1404,7 +1404,7 @@
       "tier": "bank_other",
       "match_count": 3,
       "review_count": 6,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "open"
     },
     {
@@ -1484,7 +1484,7 @@
       "tier": "energy_utility",
       "match_count": 1,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "open"
     },
     {
@@ -1514,7 +1514,7 @@
       "tier": "energy_utility",
       "match_count": 1,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -1734,7 +1734,7 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "open"
     },
     {
@@ -1774,7 +1774,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 2,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -1984,7 +1984,7 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "closed for cycle"
     },
     {
@@ -2034,7 +2034,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "\u2014"
     },
     {
@@ -2124,7 +2124,7 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "rolling"
     },
     {
@@ -2144,7 +2144,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2154,7 +2154,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2204,7 +2204,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -2234,7 +2234,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2284,7 +2284,7 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 5,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "open"
     },
     {
@@ -2304,7 +2304,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2394,7 +2394,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -2424,7 +2424,7 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 5,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -2454,7 +2454,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2494,7 +2494,7 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "closed for cycle"
     },
     {
@@ -2574,7 +2574,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2624,7 +2624,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 4,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
     {

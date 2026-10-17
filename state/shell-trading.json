@@ -1,7 +1,7 @@
 {
   "firm": "Shell (Trading & Supply)",
-  "failure_count": 1,
-  "last_error": "shell-trading: POST https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs failed: Server error '500 Internal Server Error' for url 'https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "R199396": {
