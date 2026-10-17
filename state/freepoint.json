@@ -1,7 +1,7 @@
 {
   "firm": "Freepoint Commodities",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "freepoint: POST https://freepoint.wd12.myworkdayjobs.com/wday/cxs/freepoint/Freepoint_Commodities/jobs failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {}
 }

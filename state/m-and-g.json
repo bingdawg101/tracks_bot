@@ -1,7 +1,7 @@
 {
   "firm": "M&G plc",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "m-and-g: POST https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs failed: Server error '500 Internal Server Error' for url 'https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
   "established": true,
   "tracked": {
     "R20395": {

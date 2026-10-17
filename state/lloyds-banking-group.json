@@ -1,7 +1,7 @@
 {
   "firm": "Lloyds Banking Group",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "lloyds-banking-group: POST https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs failed: Server error '500 Internal Server Error' for url 'https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
   "established": true,
   "tracked": {
     "164328": {

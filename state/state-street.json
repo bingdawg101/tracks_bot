@@ -1,7 +1,7 @@
 {
   "firm": "State Street",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "state-street: POST https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs failed: Server error '500 Internal Server Error' for url 'https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
   "established": true,
   "tracked": {
     "R-795646": {
