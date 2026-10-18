@@ -3,21 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "R20395": {
-      "firm": "M&G plc",
-      "source_id": "R20395",
-      "title": "Experienced Credit Analyst - European Utilities, Power & Infrastructure",
-      "location": "London",
-      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Credit-Analyst_R20395",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-10-05T08:13:42.762620Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }

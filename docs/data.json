@@ -512,21 +512,21 @@
       "age_days": 3
     },
     {
-      "firm": "DV Trading",
-      "title": "Graduate Software Engineer (DV Commodities)",
-      "location": "London",
-      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
-      "employment_type": "",
-      "comp_k": 140,
-      "age_days": 5
-    },
-    {
       "firm": "Mako Group",
       "title": "Mako Summer Internship \u2013 Trading",
       "location": "London",
       "url": "https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002",
       "employment_type": "",
       "comp_k": 156,
+      "age_days": 6
+    },
+    {
+      "firm": "DV Trading",
+      "title": "Graduate Software Engineer (DV Commodities)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
+      "employment_type": "",
+      "comp_k": 140,
       "age_days": 6
     },
     {
@@ -934,7 +934,7 @@
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 39
+      "age_days": 40
     },
     {
       "firm": "GSA Capital",
@@ -995,15 +995,6 @@
       "title": "2027 Applied AI Engineer Intern, London",
       "location": "London, United Kingdom",
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
-      "employment_type": "",
-      "comp_k": 123,
-      "age_days": 30
-    },
-    {
-      "firm": "Millennium Management",
-      "title": "2027 Corporate Access Services Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957778817",
       "employment_type": "",
       "comp_k": 123,
       "age_days": 30
@@ -1362,8 +1353,8 @@
       "slug": "millennium",
       "enabled": true,
       "tier": "hedge_fund",
-      "match_count": 7,
-      "review_count": 7,
+      "match_count": 6,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2133,7 +2124,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2233,7 +2224,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -3151,5 +3142,5 @@
     }
   ],
   "last_opening": "2026-10-16T14:22:12.183280Z",
-  "total_match": 93
+  "total_match": 92
 }

@@ -3,5 +3,36 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "1375123357": {
+      "firm": "HSBC",
+      "source_id": "1375123357",
+      "title": "Business Analyst - Treasury - Graduate - UK, London",
+      "location": "London, GB, E14 5HQ",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Business-Analyst-Treasury-Graduate-UK%2C-London-E14-5HQ/1375123357/",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-10-18T23:44:48.568634Z",
+      "baseline": false
+    },
+    "1375126457": {
+      "firm": "HSBC",
+      "source_id": "1375126457",
+      "title": "Relationship Management - Private Bank - Degree Apprenticeship",
+      "location": "London, GB, E14 5HQ",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Relationship-Management-Private-Bank-Degree-Apprenticeship-E14-5HQ/1375126457/",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-10-18T23:44:48.568763Z",
+      "baseline": false
+    }
+  }
 }
