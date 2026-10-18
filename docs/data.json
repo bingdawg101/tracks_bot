@@ -476,15 +476,6 @@
   ],
   "fresh": [
     {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 1
-    },
-    {
       "firm": "BP (Trading & Shipping)",
       "title": "One Year Internship - Supply, Trading & Shipping - UK",
       "location": "United Kingdom - London",
@@ -500,6 +491,15 @@
       "url": "https://careers-sig.icims.com/jobs/11443/login",
       "employment_type": "Per Diem",
       "comp_k": 170,
+      "age_days": 2
+    },
+    {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
       "age_days": 2
     },
     {
@@ -536,7 +536,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 8
+      "age_days": 9
     }
   ],
   "stale": [
@@ -1033,7 +1033,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 17
+      "age_days": 18
     },
     {
       "firm": "Millennium Management",
@@ -1060,7 +1060,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 22
+      "age_days": 23
     },
     {
       "firm": "Jump Trading",
