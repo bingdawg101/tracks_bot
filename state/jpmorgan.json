@@ -63,6 +63,36 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-10-16T14:21:53.232656Z",
       "baseline": false
+    },
+    "210800989": {
+      "firm": "JPMorgan",
+      "source_id": "210800989",
+      "title": "Commodities Technology - Product Owner",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800989",
+      "department": "Product",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-10-19T20:10:21.183039Z",
+      "baseline": false
+    },
+    "210801700": {
+      "firm": "JPMorgan",
+      "source_id": "210801700",
+      "title": "Global Equities - EMEA Equity Delta One Trading - Analyst",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801700",
+      "department": "Program Analysts & Associate",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 85,
+      "comp_label": "~£85k (est. £66–104k)",
+      "comp_basis": "bank bulge · sales trading",
+      "first_seen": "2026-10-19T20:10:21.185094Z",
+      "baseline": false
     }
   }
 }
