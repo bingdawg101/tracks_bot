@@ -538,5 +538,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
     "comp_k": 55,
     "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
+  },
+  {
+    "firm": "Millennium Management",
+    "source_id": "REQ-30183",
+    "title": "2027 Corporate Access Services Intern, London",
+    "location": "London, London, United Kingdom",
+    "url": "https://mlp.eightfold.ai/careers/job/755957778817",
+    "match_level": "match",
+    "detected_at": "2026-10-19T01:49:31.851131Z",
+    "reason": "role 'execution', title mentions 'intern', location 'london'",
+    "comp_k": 123,
+    "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
   }
 ]
