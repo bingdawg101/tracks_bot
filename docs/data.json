@@ -476,6 +476,24 @@
   ],
   "fresh": [
     {
+      "firm": "Graviton Research Capital",
+      "title": "Quantitative Researcher PhD - 2027 Internship",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
+      "employment_type": "",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
+      "firm": "Graviton Research Capital",
+      "title": "Quantitative Researcher - 2027 Summer Internship",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+      "employment_type": "",
+      "comp_k": 175,
+      "age_days": 0
+    },
+    {
       "firm": "Millennium Management",
       "title": "2027 Corporate Access Services Intern, London",
       "location": "London, London, United Kingdom",
@@ -483,24 +501,6 @@
       "employment_type": "",
       "comp_k": 123,
       "age_days": 0
-    },
-    {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 2
-    },
-    {
-      "firm": "BP (Trading & Shipping)",
-      "title": "One Year Internship - Supply, Trading & Shipping - UK",
-      "location": "United Kingdom - London",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
-      "employment_type": "",
-      "comp_k": 55,
-      "age_days": 2
     },
     {
       "firm": "Susquehanna International Group",
@@ -512,13 +512,22 @@
       "age_days": 3
     },
     {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
+      "age_days": 3
+    },
+    {
       "firm": "JPMorgan",
       "title": "2027 AI Research Associate Program - Internship",
       "location": "LONDON, United Kingdom",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "firm": "Mako Group",
@@ -545,7 +554,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 9
+      "age_days": 10
     }
   ],
   "stale": [
@@ -582,15 +591,6 @@
       "location": "London",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8037824",
       "employment_type": "",
-      "comp_k": 190,
-      "age_days": 45
-    },
-    {
-      "firm": "Old Mission Capital",
-      "title": "Quantitative Trader \u2013 2027 Graduate Program (August Start)",
-      "location": "London",
-      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796058003",
-      "employment_type": "Full-time",
       "comp_k": 190,
       "age_days": 45
     },
@@ -961,7 +961,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 30
+      "age_days": 31
     },
     {
       "firm": "Qube Research & Technologies",
@@ -1006,7 +1006,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 30
+      "age_days": 31
     },
     {
       "firm": "Millennium Management",
@@ -1024,7 +1024,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 30
+      "age_days": 31
     },
     {
       "firm": "Millennium Management",
@@ -1033,7 +1033,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 18
+      "age_days": 19
     },
     {
       "firm": "Millennium Management",
@@ -1042,7 +1042,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 30
+      "age_days": 31
     },
     {
       "firm": "Squarepoint Capital",
@@ -1060,7 +1060,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 23
+      "age_days": 24
     },
     {
       "firm": "Jump Trading",
@@ -1240,7 +1240,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 30
+      "age_days": 31
     },
     {
       "firm": "MUFG",
@@ -1315,7 +1315,7 @@
       "age_days": 33
     }
   ],
-  "stale_firms": 28,
+  "stale_firms": 27,
   "firms": [
     {
       "name": "Susquehanna International Group",
@@ -1428,6 +1428,16 @@
       "cycle_note": "open"
     },
     {
+      "name": "Graviton Research Capital",
+      "slug": "graviton-research-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 2,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "rolling"
+    },
+    {
       "name": "Hudson River Trading",
       "slug": "hudson-river-trading",
       "enabled": true,
@@ -1453,7 +1463,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 2,
-      "review_count": 16,
+      "review_count": 15,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1474,16 +1484,6 @@
       "tier": "elite_prop",
       "match_count": 1,
       "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "BP (Trading & Shipping)",
-      "slug": "bp-trading",
-      "enabled": true,
-      "tier": "energy_utility",
-      "match_count": 1,
-      "review_count": 0,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1563,7 +1563,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 1,
-      "review_count": 4,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1594,16 +1594,6 @@
       "tier": "bank_other",
       "match_count": 1,
       "review_count": 3,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "Old Mission Capital",
-      "slug": "old-mission-capital",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 1,
-      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1726,6 +1716,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
+    },
+    {
+      "name": "BP (Trading & Shipping)",
+      "slug": "bp-trading",
+      "enabled": true,
+      "tier": "energy_utility",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "open"
     },
     {
       "name": "Barclays",
@@ -2108,16 +2108,6 @@
       "cycle_note": "rolling"
     },
     {
-      "name": "Graviton Research Capital",
-      "slug": "graviton-research-capital",
-      "enabled": true,
-      "tier": "elite_prop",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "rolling"
-    },
-    {
       "name": "Gunvor Group",
       "slug": "gunvor",
       "enabled": true,
@@ -2318,6 +2308,16 @@
       "cycle_note": "\u2014"
     },
     {
+      "name": "Old Mission Capital",
+      "slug": "old-mission-capital",
+      "enabled": true,
+      "tier": "elite_prop",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Optiver",
       "slug": "optiver",
       "enabled": true,
@@ -2403,7 +2403,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 11,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2669,6 +2669,30 @@
     }
   ],
   "history": [
+    {
+      "firm": "Graviton Research Capital",
+      "source_id": "8899673002",
+      "title": "Quantitative Researcher - 2027 Summer Internship",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+      "match_level": "match",
+      "detected_at": "2026-10-19T14:35:01.727285Z",
+      "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+      "comp_k": 175,
+      "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+    },
+    {
+      "firm": "Graviton Research Capital",
+      "source_id": "8899671002",
+      "title": "Quantitative Researcher PhD - 2027 Internship",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
+      "match_level": "match",
+      "detected_at": "2026-10-19T14:35:01.727285Z",
+      "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+      "comp_k": 175,
+      "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+    },
     {
       "firm": "Millennium Management",
       "source_id": "REQ-30183",
@@ -3124,32 +3148,8 @@
       "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'intern', location 'london'",
       "comp_k": 136,
       "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
-    },
-    {
-      "firm": "Qube Research & Technologies",
-      "source_id": "8773084002",
-      "title": "2027 - Internship, Software Engineering and Quantitative Development",
-      "location": "London, Paris, Wroc\u0142aw, Zurich",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
-      "match_level": "match",
-      "detected_at": "2026-09-08T17:32:56.051896Z",
-      "reason": "role 'quantitative', title mentions 'internship', location 'london'",
-      "comp_k": 129,
-      "comp_label": "~\u00a3129k (est. \u00a380\u2013178k)"
-    },
-    {
-      "firm": "Qube Research & Technologies",
-      "source_id": "8785833002",
-      "title": "2027 - Internship, Quantitative Research",
-      "location": "Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich",
-      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
-      "match_level": "match",
-      "detected_at": "2026-09-08T17:32:56.051896Z",
-      "reason": "role 'trading', title mentions 'internship', location 'london'",
-      "comp_k": 166,
-      "comp_label": "~\u00a3166k (est. \u00a3103\u2013229k)"
     }
   ],
-  "last_opening": "2026-10-19T01:49:31.851131Z",
+  "last_opening": "2026-10-19T14:35:01.727285Z",
   "total_match": 93
 }

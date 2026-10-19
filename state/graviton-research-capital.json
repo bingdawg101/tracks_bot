@@ -3,5 +3,51 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "8899670002": {
+      "firm": "Graviton Research Capital",
+      "source_id": "8899670002",
+      "title": "Quantitative Researcher - 2027 Graduates",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002",
+      "department": "Quantitative Trading",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
+      "first_seen": "2026-10-19T14:35:01.726690Z",
+      "baseline": false
+    },
+    "8899671002": {
+      "firm": "Graviton Research Capital",
+      "source_id": "8899671002",
+      "title": "Quantitative Researcher PhD - 2027 Internship",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
+      "department": "Quantitative Trading",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 175,
+      "comp_label": "~£175k (est. £108–241k)",
+      "comp_basis": "elite prop · quant trading · internship",
+      "first_seen": "2026-10-19T14:35:01.726883Z",
+      "baseline": false
+    },
+    "8899673002": {
+      "firm": "Graviton Research Capital",
+      "source_id": "8899673002",
+      "title": "Quantitative Researcher - 2027 Summer Internship",
+      "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+      "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+      "department": "Quantitative Trading",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 175,
+      "comp_label": "~£175k (est. £108–241k)",
+      "comp_basis": "elite prop · quant trading · internship",
+      "first_seen": "2026-10-19T14:35:01.726798Z",
+      "baseline": false
+    }
+  }
 }

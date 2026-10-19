@@ -550,5 +550,29 @@
     "reason": "role 'execution', title mentions 'intern', location 'london'",
     "comp_k": 123,
     "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+  },
+  {
+    "firm": "Graviton Research Capital",
+    "source_id": "8899671002",
+    "title": "Quantitative Researcher PhD - 2027 Internship",
+    "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
+    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
+    "match_level": "match",
+    "detected_at": "2026-10-19T14:35:01.727285Z",
+    "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 175,
+    "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+  },
+  {
+    "firm": "Graviton Research Capital",
+    "source_id": "8899673002",
+    "title": "Quantitative Researcher - 2027 Summer Internship",
+    "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+    "match_level": "match",
+    "detected_at": "2026-10-19T14:35:01.727285Z",
+    "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
+    "comp_k": 175,
+    "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
   }
 ]
