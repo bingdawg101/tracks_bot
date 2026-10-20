@@ -637,7 +637,7 @@
       "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
       "employment_type": "",
       "comp_k": 180,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Susquehanna International Group",
@@ -844,7 +844,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719135005",
       "employment_type": "",
       "comp_k": 156,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Susquehanna International Group",
@@ -925,7 +925,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -943,7 +943,7 @@
       "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8570661002",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Millennium Management",
@@ -970,7 +970,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Susquehanna International Group",
@@ -1078,7 +1078,7 @@
       "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002",
       "employment_type": "",
       "comp_k": 106,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Schonfeld Strategic Advisors",
@@ -1087,7 +1087,7 @@
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8207942",
       "employment_type": "",
       "comp_k": 106,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jump Trading",
@@ -1114,7 +1114,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/4812537002",
       "employment_type": "Intern",
       "comp_k": 101,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "Jump Crypto",
@@ -1150,7 +1150,7 @@
       "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
       "employment_type": "",
       "comp_k": 84,
-      "age_days": 19
+      "age_days": 20
     },
     {
       "firm": "The Voleon Group",
@@ -1915,7 +1915,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 4,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "open"
     },
