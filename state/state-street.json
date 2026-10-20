@@ -18,6 +18,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-10-05T17:11:45.794421Z",
       "baseline": false
+    },
+    "R-799922": {
+      "firm": "State Street",
+      "source_id": "R-799922",
+      "title": "Front Office Trading Services, EFC, Officer",
+      "location": "London, England",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/job/London-England/Front-Office-Trading-Services--EFC--Officer_R-799922",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-10-20T12:55:45.901332Z",
+      "baseline": false
     }
   }
 }

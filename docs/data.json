@@ -503,15 +503,6 @@
       "age_days": 1
     },
     {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 3
-    },
-    {
       "firm": "Susquehanna International Group",
       "title": "Trading Operations Analyst Graduate: 2027 | London",
       "location": "London, United Kingdom",
@@ -521,13 +512,22 @@
       "age_days": 4
     },
     {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
+      "age_days": 4
+    },
+    {
       "firm": "JPMorgan",
       "title": "2027 AI Research Associate Program - Internship",
       "location": "LONDON, United Kingdom",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800615",
       "employment_type": "",
       "comp_k": 43,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Mako Group",
@@ -546,15 +546,6 @@
       "employment_type": "",
       "comp_k": 140,
       "age_days": 7
-    },
-    {
-      "firm": "MUFG",
-      "title": "2027 MUFG UK Summer Analyst Programme: Global Markets \u2013 Markets Engineering",
-      "location": "London",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
-      "employment_type": "",
-      "comp_k": 50,
-      "age_days": 10
     }
   ],
   "stale": [
@@ -1033,7 +1024,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 19
+      "age_days": 20
     },
     {
       "firm": "Millennium Management",
@@ -1060,7 +1051,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 24
+      "age_days": 25
     },
     {
       "firm": "Jump Trading",
@@ -1216,24 +1207,6 @@
       "age_days": 46
     },
     {
-      "firm": "Goldman Sachs",
-      "title": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 59,
-      "age_days": 46
-    },
-    {
-      "firm": "Goldman Sachs",
-      "title": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
-      "employment_type": "",
-      "comp_k": 59,
-      "age_days": 46
-    },
-    {
       "firm": "Marshall Wace",
       "title": "Quant Research Intern - London - 2027",
       "location": "London",
@@ -1259,6 +1232,15 @@
       "employment_type": "",
       "comp_k": 50,
       "age_days": 31
+    },
+    {
+      "firm": "MUFG",
+      "title": "2027 MUFG UK Summer Analyst Programme: Global Markets \u2013 Markets Engineering",
+      "location": "London",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 11
     },
     {
       "firm": "Natixis",
@@ -1328,22 +1310,22 @@
       "cycle_note": "open"
     },
     {
-      "name": "Goldman Sachs",
-      "slug": "goldman-sachs",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 11,
-      "review_count": 7,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "Jump Trading",
       "slug": "jump-trading",
       "enabled": true,
       "tier": "elite_prop",
       "match_count": 10,
       "review_count": 4,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 9,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1513,7 +1495,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 1,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2373,7 +2355,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2453,7 +2435,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -3151,5 +3133,5 @@
     }
   ],
   "last_opening": "2026-10-19T14:35:01.727285Z",
-  "total_match": 93
+  "total_match": 91
 }

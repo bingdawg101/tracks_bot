@@ -4,36 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "150725_GS_CAMPUS": {
-      "firm": "Goldman Sachs",
-      "source_id": "150725_GS_CAMPUS",
-      "title": "2026 / EMEA / London / FICC & Equities (Sales & Trading) / Seasonal/Off Cycle Internship",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/150725_GS_CAMPUS",
-      "department": "Global Banking & Markets",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 59,
-      "comp_label": "~£59k (est. £46–72k)",
-      "comp_basis": "bank bulge · sales trading · internship",
-      "first_seen": "2026-09-03T16:23:20.670194Z",
-      "baseline": true
-    },
-    "150728_GS_CAMPUS": {
-      "firm": "Goldman Sachs",
-      "source_id": "150728_GS_CAMPUS",
-      "title": "2026 / EMEA / London / FICC & Equities (Structuring) / Seasonal/Off Cycle Internship",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/150728_GS_CAMPUS",
-      "department": "Global Banking & Markets",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 59,
-      "comp_label": "~£59k (est. £46–72k)",
-      "comp_basis": "bank bulge · sales trading · internship",
-      "first_seen": "2026-09-03T16:23:20.677305Z",
-      "baseline": true
-    },
     "170637_GS_CAMPUS": {
       "firm": "Goldman Sachs",
       "source_id": "170637_GS_CAMPUS",

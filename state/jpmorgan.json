@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "210755831": {
+      "firm": "JPMorgan",
+      "source_id": "210755831",
+      "title": "CIB – Investment Banking – Infrastructure Finance and Advisory (EMEA - Emerging Markets) – London - VP",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755831",
+      "department": "Client Management",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 58,
+      "comp_label": "~£58k (est. £45–71k)",
+      "comp_basis": "bank bulge · risk ops",
+      "first_seen": "2026-10-20T12:55:50.942242Z",
+      "baseline": false
+    },
     "210800615": {
       "firm": "JPMorgan",
       "source_id": "210800615",
@@ -68,7 +83,7 @@
       "firm": "JPMorgan",
       "source_id": "210800989",
       "title": "Commodities Technology - Product Owner",
-      "location": "LONDON, United Kingdom",
+      "location": "LONDON, LONDON, United Kingdom",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800989",
       "department": "Product",
       "employment_type": "",
@@ -77,21 +92,6 @@
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-10-19T20:10:21.183039Z",
-      "baseline": false
-    },
-    "210801700": {
-      "firm": "JPMorgan",
-      "source_id": "210801700",
-      "title": "Global Equities - EMEA Equity Delta One Trading - Analyst",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801700",
-      "department": "Program Analysts & Associate",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 85,
-      "comp_label": "~£85k (est. £66–104k)",
-      "comp_basis": "bank bulge · sales trading",
-      "first_seen": "2026-10-19T20:10:21.185094Z",
       "baseline": false
     }
   }
