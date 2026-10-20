@@ -33,6 +33,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-10-15T11:50:00.639137Z",
       "baseline": false
+    },
+    "R-0000190661": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000190661",
+      "title": "Analyst, Delta One Trading",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--Delta-One-Trading_R-0000190661-1/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-10-20T02:07:51.728019Z",
+      "baseline": false
     }
   }
 }
