@@ -4,36 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "20336": {
-      "firm": "Natixis",
-      "source_id": "20336",
-      "title": "Intern – UK Business Management Sales & Structuring (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-uk-business-management-sales-structuring-12-months-2",
-      "department": "Other",
-      "employment_type": "Internship",
-      "match_level": "match",
-      "comp_k": 50,
-      "comp_label": "~£50k (est. £39–61k)",
-      "comp_basis": "bank other · structuring · internship",
-      "first_seen": "2026-09-18T14:58:47.157699Z",
-      "baseline": true
-    },
-    "20354": {
-      "firm": "Natixis",
-      "source_id": "20354",
-      "title": "Intern - Leveraged Capital Markets (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-leveraged-capital-markets-12-months-2",
-      "department": "Other",
-      "employment_type": "Internship",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-18T14:58:47.155946Z",
-      "baseline": true
-    },
     "20386": {
       "firm": "Natixis",
       "source_id": "20386",
@@ -47,21 +17,6 @@
       "comp_label": "~£38k (est. £30–46k)",
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-21T15:56:11.364394Z",
-      "baseline": false
-    },
-    "20397": {
-      "firm": "Natixis",
-      "source_id": "20397",
-      "title": "Intern - UK Risk Solutions (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-uk-risk-solutions-12-months-2",
-      "department": "Other",
-      "employment_type": "Internship",
-      "match_level": "review",
-      "comp_k": 36,
-      "comp_label": "~£36k (est. £28–44k)",
-      "comp_basis": "bank other · risk ops · internship",
-      "first_seen": "2026-09-21T20:17:47.744185Z",
       "baseline": false
     }
   }
