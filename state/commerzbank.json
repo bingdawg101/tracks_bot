@@ -1,7 +1,7 @@
 {
   "firm": "Commerzbank",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "commerzbank: GET https://api-jobs.commerzbank.com/search/ failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {}
 }
