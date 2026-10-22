@@ -18,6 +18,21 @@
       "comp_basis": "elite prop · quant trading",
       "first_seen": "2026-09-03T21:00:22.301728Z",
       "baseline": true
+    },
+    "8268875": {
+      "firm": "Maven Securities",
+      "source_id": "8268875",
+      "title": "Quant Trader - Quantitative Positional Trading (QPT)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/maventrading/jobs/8268875",
+      "department": "Options Market Making",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 190,
+      "comp_label": "~£190k (est. £118–262k)",
+      "comp_basis": "elite prop · quant trading",
+      "first_seen": "2026-10-22T18:51:49.046518Z",
+      "baseline": false
     }
   }
 }
