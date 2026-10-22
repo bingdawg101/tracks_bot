@@ -1,7 +1,7 @@
 {
   "firm": "Deutsche Bank",
-  "failure_count": 1,
-  "last_error": "deutsche-bank: GET https://api-deutschebank.beesite.de/search/ failed: Server error '503 Service Unavailable' for url 'https://api-deutschebank.beesite.de/search/?data=%7B%22LanguageCode%22%3A+%22en%22%2C+%22SearchParameters%22%3A+%7B%22FirstItem%22%3A+1%2C+%22CountItem%22%3A+100%2C+%22MatchedObjectDescriptor%22%3A+%5B%22PositionID%22%2C+%22PositionTitle%22%2C+%22PositionURI%22%2C+%22OrganizationName%22%2C+%22PositionLocation.CityName%22%2C+%22PositionLocation.CountryName%22%2C+%22PositionLocation.CountrySubDivisionName%22%2C+%22CareerLevel.Name%22%2C+%22PositionOfferingType.Name%22%2C+%22PositionSchedule.Name%22%2C+%22PositionFormattedDescription.Content%22%2C+%22PublicationStartDate%22%2C+%22PositionHiringYear%22%5D%2C+%22Sort%22%3A+%5B%7B%22Criterion%22%3A+%22PublicationStartDate%22%2C+%22Direction%22%3A+%22DESC%22%7D%5D%7D%2C+%22SearchCriteria%22%3A+%5B%5D%7D'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "69708": {
@@ -47,21 +47,6 @@
       "comp_label": "~£70k (est. £55–85k)",
       "comp_basis": "bank bulge · swe",
       "first_seen": "2026-09-16T18:17:49.295652Z",
-      "baseline": false
-    },
-    "75853": {
-      "firm": "Deutsche Bank",
-      "source_id": "75853",
-      "title": "Rates Trading Artificial Intelligence (AI) Specialist",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=75853",
-      "department": "",
-      "employment_type": "Unbefristet Associate",
-      "match_level": "review",
-      "comp_k": 90,
-      "comp_label": "~£90k (est. £70–110k)",
-      "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-09-24T19:16:46.411741Z",
       "baseline": false
     },
     "76057": {
