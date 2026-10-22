@@ -1006,7 +1006,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 21
+      "age_days": 22
     },
     {
       "firm": "Millennium Management",
@@ -1658,7 +1658,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2269,7 +2269,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 4,
+      "failure_count": 5,
       "cycle_note": "open"
     },
     {
