@@ -19,6 +19,21 @@
       "first_seen": "2026-10-20T12:55:50.942242Z",
       "baseline": false
     },
+    "210796782": {
+      "firm": "JPMorgan",
+      "source_id": "210796782",
+      "title": "Trader Voice Infrastructure Engineer",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796782",
+      "department": "Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-10-22T14:41:57.070871Z",
+      "baseline": false
+    },
     "210800861": {
       "firm": "JPMorgan",
       "source_id": "210800861",
@@ -77,6 +92,36 @@
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-10-19T20:10:21.183039Z",
+      "baseline": false
+    },
+    "210802065": {
+      "firm": "JPMorgan",
+      "source_id": "210802065",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
+      "department": "Program Analysts & Associate",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 59,
+      "comp_label": "~£59k (est. £46–72k)",
+      "comp_basis": "bank bulge · sales trading · internship",
+      "first_seen": "2026-10-22T14:41:57.072301Z",
+      "baseline": false
+    },
+    "210802421": {
+      "firm": "JPMorgan",
+      "source_id": "210802421",
+      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
+      "department": "Program Analysts & Associate",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 56,
+      "comp_label": "~£56k (est. £44–68k)",
+      "comp_basis": "bank bulge · commercial · internship",
+      "first_seen": "2026-10-22T14:41:57.072960Z",
       "baseline": false
     }
   }

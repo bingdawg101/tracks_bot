@@ -476,13 +476,31 @@
   ],
   "fresh": [
     {
+      "firm": "JPMorgan",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
+      "employment_type": "",
+      "comp_k": 59,
+      "age_days": 0
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
+      "employment_type": "",
+      "comp_k": 56,
+      "age_days": 0
+    },
+    {
       "firm": "Graviton Research Capital",
       "title": "Quantitative Researcher PhD - 2027 Internship",
       "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 2
+      "age_days": 3
     },
     {
       "firm": "Graviton Research Capital",
@@ -491,7 +509,7 @@
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 2
+      "age_days": 3
     },
     {
       "firm": "Millennium Management",
@@ -503,21 +521,21 @@
       "age_days": 3
     },
     {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 5
-    },
-    {
       "firm": "Susquehanna International Group",
       "title": "Trading Operations Analyst Graduate: 2027 | London",
       "location": "London, United Kingdom",
       "url": "https://careers-sig.icims.com/jobs/11443/login",
       "employment_type": "Per Diem",
       "comp_k": 170,
+      "age_days": 6
+    },
+    {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
       "age_days": 6
     },
     {
@@ -943,7 +961,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Qube Research & Technologies",
@@ -988,7 +1006,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Millennium Management",
@@ -997,7 +1015,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Millennium Management",
@@ -1015,7 +1033,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Squarepoint Capital",
@@ -1033,7 +1051,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 26
+      "age_days": 27
     },
     {
       "firm": "Jump Trading",
@@ -1195,7 +1213,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "MUFG",
@@ -1222,7 +1240,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Goldman Sachs",
@@ -1399,6 +1417,16 @@
       "tier": "elite_prop",
       "match_count": 2,
       "review_count": 23,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
+      "name": "JPMorgan",
+      "slug": "jpmorgan",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 2,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1658,7 +1686,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2083,16 +2111,6 @@
       "cycle_note": "opens Oct 2026"
     },
     {
-      "name": "JPMorgan",
-      "slug": "jpmorgan",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 0,
-      "review_count": 5,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "Jefferies",
       "slug": "jefferies",
       "enabled": false,
@@ -2269,7 +2287,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 5,
+      "failure_count": 6,
       "cycle_note": "open"
     },
     {
@@ -2624,6 +2642,30 @@
     }
   ],
   "history": [
+    {
+      "firm": "JPMorgan",
+      "source_id": "210802421",
+      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
+      "match_level": "match",
+      "detected_at": "2026-10-22T14:41:57.115381Z",
+      "reason": "firm went from 0 to 2 matching roles \u2014 role 'sales', title mentions 'internship', location 'london'",
+      "comp_k": 56,
+      "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
+    },
+    {
+      "firm": "JPMorgan",
+      "source_id": "210802065",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
+      "match_level": "match",
+      "detected_at": "2026-10-22T14:41:57.115381Z",
+      "reason": "firm went from 0 to 2 matching roles \u2014 role 'global markets', title mentions 'internship', location 'london'",
+      "comp_k": 59,
+      "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
+    },
     {
       "firm": "Graviton Research Capital",
       "source_id": "8899673002",
@@ -3079,32 +3121,8 @@
       "reason": "role 'equities', title mentions 'graduate', location 'london'",
       "comp_k": 72,
       "comp_label": "~\u00a372k (est. \u00a356\u201388k)"
-    },
-    {
-      "firm": "Goldman Sachs",
-      "source_id": "170863_GS_CAMPUS",
-      "title": "2027 / EMEA / London / Global Investment Research, Equity Research / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170863_GS_CAMPUS",
-      "match_level": "match",
-      "detected_at": "2026-09-09T14:10:01.487263Z",
-      "reason": "role 'research', title mentions 'summer analyst', location 'london'",
-      "comp_k": 43,
-      "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
-    },
-    {
-      "firm": "Schonfeld Strategic Advisors",
-      "source_id": "8187178",
-      "title": "2027 DMFI Quant Research Intern",
-      "location": "London, England, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
-      "match_level": "match",
-      "detected_at": "2026-09-08T22:43:15.388461Z",
-      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quant', title mentions 'intern', location 'london'",
-      "comp_k": 136,
-      "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
     }
   ],
-  "last_opening": "2026-10-19T14:35:01.727285Z",
-  "total_match": 88
+  "last_opening": "2026-10-22T14:41:57.115381Z",
+  "total_match": 90
 }

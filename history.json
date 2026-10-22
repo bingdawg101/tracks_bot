@@ -574,5 +574,29 @@
     "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'internship', location 'london'",
     "comp_k": 175,
     "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+  },
+  {
+    "firm": "JPMorgan",
+    "source_id": "210802065",
+    "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
+    "location": "LONDON, LONDON, United Kingdom",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
+    "match_level": "match",
+    "detected_at": "2026-10-22T14:41:57.115381Z",
+    "reason": "firm went from 0 to 2 matching roles \u2014 role 'global markets', title mentions 'internship', location 'london'",
+    "comp_k": 59,
+    "comp_label": "~\u00a359k (est. \u00a346\u201372k)"
+  },
+  {
+    "firm": "JPMorgan",
+    "source_id": "210802421",
+    "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
+    "location": "LONDON, LONDON, United Kingdom",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
+    "match_level": "match",
+    "detected_at": "2026-10-22T14:41:57.115381Z",
+    "reason": "firm went from 0 to 2 matching roles \u2014 role 'sales', title mentions 'internship', location 'london'",
+    "comp_k": 56,
+    "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
   }
 ]

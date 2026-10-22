@@ -19,21 +19,6 @@
       "first_seen": "2026-09-03T20:09:21.470551Z",
       "baseline": true
     },
-    "4880305101": {
-      "firm": "Man Group",
-      "source_id": "4880305101",
-      "title": "Quant Researcher - Macro Trend",
-      "location": "London",
-      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4880305101",
-      "department": "AHL Alpha Research",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 155,
-      "comp_label": "~£155k (est. £96–214k)",
-      "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-24T10:17:16.809226Z",
-      "baseline": false
-    },
     "4966466101": {
       "firm": "Man Group",
       "source_id": "4966466101",
@@ -48,6 +33,21 @@
       "comp_basis": "hedge fund · quant trading",
       "first_seen": "2026-09-03T20:09:21.472620Z",
       "baseline": true
+    },
+    "5011857101": {
+      "firm": "Man Group",
+      "source_id": "5011857101",
+      "title": "Quant - Macro Trend",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5011857101",
+      "department": "Systematic",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 160,
+      "comp_label": "~£160k (est. £99–221k)",
+      "comp_basis": "hedge fund · quant trading",
+      "first_seen": "2026-10-22T14:41:40.797917Z",
+      "baseline": false
     }
   }
 }

@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "RQ117236": {
+      "firm": "BP (Trading & Shipping)",
+      "source_id": "RQ117236",
+      "title": "Business Analyst",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Business-Analyst_RQ117236-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
+      "first_seen": "2026-10-22T14:42:08.713813Z",
+      "baseline": false
+    },
     "RQ117275": {
       "firm": "BP (Trading & Shipping)",
       "source_id": "RQ117275",
