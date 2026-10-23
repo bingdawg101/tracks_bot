@@ -48,6 +48,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-10-21T18:01:40.352621Z",
       "baseline": false
+    },
+    "R-0000190993": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000190993",
+      "title": "Apprentice - Capital Markets Operations",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
+      "department": "Strategy | Project & Program Management",
+      "employment_type": "Full time",
+      "match_level": "match",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-10-23T10:14:17.949487Z",
+      "baseline": false
     }
   }
 }

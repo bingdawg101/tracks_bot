@@ -4,34 +4,34 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "744000157160791": {
+    "744000157413381": {
       "firm": "Legal & General",
-      "source_id": "744000157160791",
-      "title": "Year in Industry - Asset Allocation Programme - London - 2027",
-      "location": "London, England, GB",
-      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000157160791",
-      "department": "SMDA MULTI ASSET - 641016",
-      "employment_type": "Full-time Internship",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-10-22T18:52:00.584173Z",
-      "baseline": false
-    },
-    "744000157161020": {
-      "firm": "Legal & General",
-      "source_id": "744000157161020",
-      "title": "Year in Industry – Actuarial - Retail Protection Pricing – Hove – 2027",
+      "source_id": "744000157413381",
+      "title": "Year in Industry – Actuarial - Retail Protection Pricing – Brighton & Hove – 2027",
       "location": "Brighton and Hove, England, GB",
-      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000157161020",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000157413381",
       "department": "COMMERCIAL PRICING - 761010",
       "employment_type": "Full-time Internship",
       "match_level": "review",
       "comp_k": 48,
       "comp_label": "~£48k (est. £37–59k)",
       "comp_basis": "bank other · commercial · internship",
-      "first_seen": "2026-10-22T18:52:00.584380Z",
+      "first_seen": "2026-10-23T10:14:21.418535Z",
+      "baseline": false
+    },
+    "744000157416555": {
+      "firm": "Legal & General",
+      "source_id": "744000157416555",
+      "title": "Year in Industry - Asset Allocation Programme - London - 2027",
+      "location": "London, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000157416555",
+      "department": "SMDA MULTI ASSET - 641016",
+      "employment_type": "Full-time Internship",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-10-23T10:14:21.418302Z",
       "baseline": false
     }
   }

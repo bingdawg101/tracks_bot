@@ -284,6 +284,24 @@
       "age_days": 0
     },
     {
+      "firm": "Natixis",
+      "title": "Intern - Quantitative Research Commodities (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
+      "employment_type": "Internship",
+      "comp_k": 56,
+      "age_days": 0
+    },
+    {
+      "firm": "RBC Capital Markets",
+      "title": "Apprentice - Capital Markets Operations",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
+      "employment_type": "Full time",
+      "comp_k": 52,
+      "age_days": 0
+    },
+    {
       "firm": "Graviton Research Capital",
       "title": "Quantitative Researcher PhD - 2027 Internship",
       "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
@@ -311,21 +329,21 @@
       "age_days": 4
     },
     {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 6
-    },
-    {
       "firm": "Susquehanna International Group",
       "title": "Trading Operations Analyst Graduate: 2027 | London",
       "location": "London, United Kingdom",
       "url": "https://careers-sig.icims.com/jobs/11443/login",
       "employment_type": "Per Diem",
       "comp_k": 170,
+      "age_days": 7
+    },
+    {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
       "age_days": 7
     },
     {
@@ -814,7 +832,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 22
+      "age_days": 23
     },
     {
       "firm": "Millennium Management",
@@ -1021,7 +1039,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 13
+      "age_days": 14
     },
     {
       "firm": "Goldman Sachs",
@@ -1332,6 +1350,16 @@
       "cycle_note": "\u2014"
     },
     {
+      "name": "Natixis",
+      "slug": "natixis",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Onyx Capital Group",
       "slug": "onyx-capital",
       "enabled": true,
@@ -1340,6 +1368,16 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "rolling"
+    },
+    {
+      "name": "RBC Capital Markets",
+      "slug": "rbc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 1,
+      "review_count": 3,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "Schonfeld Strategic Advisors",
@@ -2022,16 +2060,6 @@
       "cycle_note": "open"
     },
     {
-      "name": "Natixis",
-      "slug": "natixis",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "Nordea",
       "slug": "nordea",
       "enabled": true,
@@ -2068,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 10,
+      "failure_count": 11,
       "cycle_note": "open"
     },
     {
@@ -2120,16 +2148,6 @@
       "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
-    },
-    {
-      "name": "RBC Capital Markets",
-      "slug": "rbc",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 3,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "STX Group",
@@ -2423,6 +2441,30 @@
     }
   ],
   "history": [
+    {
+      "firm": "Natixis",
+      "source_id": "20641",
+      "title": "Intern - Quantitative Research Commodities (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
+      "match_level": "match",
+      "detected_at": "2026-10-23T10:14:41.657679Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', employment type 'Internship', location 'london'",
+      "comp_k": 56,
+      "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
+    },
+    {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000190993",
+      "title": "Apprentice - Capital Markets Operations",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
+      "match_level": "match",
+      "detected_at": "2026-10-23T10:14:17.957092Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'markets', title mentions 'apprentice', location 'london'",
+      "comp_k": 52,
+      "comp_label": "~\u00a352k (est. \u00a341\u201363k)"
+    },
     {
       "firm": "JPMorgan",
       "source_id": "210802421",
@@ -2878,32 +2920,8 @@
       "reason": "role 'quantitative', employment type 'Intern (Fixed Term) (Trainee)', location 'london'",
       "comp_k": 84,
       "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
-    },
-    {
-      "firm": "Schroders",
-      "source_id": "2044",
-      "title": "2027 Public Markets Multi-Asset Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2044",
-      "match_level": "match",
-      "detected_at": "2026-09-10T17:26:42.434041Z",
-      "reason": "role 'multi-asset', title mentions 'graduate', location 'london'",
-      "comp_k": 55,
-      "comp_label": "~\u00a355k (est. \u00a343\u201367k)"
-    },
-    {
-      "firm": "Schroders",
-      "source_id": "2043",
-      "title": "2027 Public Markets Equities Graduate Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2043",
-      "match_level": "match",
-      "detected_at": "2026-09-10T17:26:42.434041Z",
-      "reason": "role 'equities', title mentions 'graduate', location 'london'",
-      "comp_k": 72,
-      "comp_label": "~\u00a372k (est. \u00a356\u201388k)"
     }
   ],
-  "last_opening": "2026-10-22T14:41:57.115381Z",
-  "total_match": 89
+  "last_opening": "2026-10-23T10:14:41.657679Z",
+  "total_match": 91
 }
