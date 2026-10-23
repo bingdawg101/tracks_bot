@@ -266,24 +266,6 @@
   ],
   "fresh": [
     {
-      "firm": "JPMorgan",
-      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
-      "employment_type": "",
-      "comp_k": 59,
-      "age_days": 0
-    },
-    {
-      "firm": "JPMorgan",
-      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
-      "employment_type": "",
-      "comp_k": 56,
-      "age_days": 0
-    },
-    {
       "firm": "Natixis",
       "title": "Intern - Quantitative Research Commodities (12 months)",
       "location": "London",
@@ -302,13 +284,31 @@
       "age_days": 0
     },
     {
+      "firm": "JPMorgan",
+      "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802065",
+      "employment_type": "",
+      "comp_k": 59,
+      "age_days": 1
+    },
+    {
+      "firm": "JPMorgan",
+      "title": "2027 Commercial & Investment Banking - Sales - Off-cycle Internship - London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
+      "employment_type": "",
+      "comp_k": 56,
+      "age_days": 1
+    },
+    {
       "firm": "Graviton Research Capital",
       "title": "Quantitative Researcher PhD - 2027 Internship",
       "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "firm": "Graviton Research Capital",
@@ -317,7 +317,7 @@
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 3
+      "age_days": 4
     },
     {
       "firm": "Millennium Management",
@@ -535,7 +535,7 @@
       "url": "https://www.janestreet.com/join-jane-street/apply/8782247002?gh_jid=8782247002",
       "employment_type": "Full-Time: New Grad",
       "comp_k": 170,
-      "age_days": 48
+      "age_days": 49
     },
     {
       "firm": "Susquehanna International Group",
@@ -769,7 +769,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "Qube Research & Technologies",
@@ -814,7 +814,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "Millennium Management",
@@ -823,7 +823,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "Millennium Management",
@@ -841,7 +841,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "Squarepoint Capital",
@@ -859,7 +859,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Jump Trading",
@@ -967,7 +967,7 @@
       "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
       "employment_type": "Intern (Fixed Term) (Trainee)",
       "comp_k": 84,
-      "age_days": 37
+      "age_days": 38
     },
     {
       "firm": "Goldman Sachs",
@@ -1012,7 +1012,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "MUFG",
@@ -1021,7 +1021,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Structured-Trading-Group_10079356-WD",
       "employment_type": "",
       "comp_k": 55,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "MUFG",
@@ -1030,7 +1030,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Credit-Sales-and-Trading_10079355-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 34
+      "age_days": 35
     },
     {
       "firm": "MUFG",
@@ -1084,7 +1084,7 @@
       "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
       "employment_type": "",
       "comp_k": 38,
-      "age_days": 37
+      "age_days": 38
     }
   ],
   "stale_firms": 26,
@@ -1225,7 +1225,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 2,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -2096,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 11,
+      "failure_count": 12,
       "cycle_note": "open"
     },
     {
