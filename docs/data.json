@@ -616,7 +616,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002",
       "employment_type": "",
       "comp_k": 166,
-      "age_days": 45
+      "age_days": 46
     },
     {
       "firm": "Susquehanna International Group",
@@ -715,7 +715,7 @@
       "url": "https://apply.workable.com/j/0AD579CC5A",
       "employment_type": "Full-time",
       "comp_k": 140,
-      "age_days": 50
+      "age_days": 51
     },
     {
       "firm": "Jane Street",
@@ -778,7 +778,7 @@
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002",
       "employment_type": "",
       "comp_k": 129,
-      "age_days": 45
+      "age_days": 46
     },
     {
       "firm": "DV Trading",
@@ -1375,7 +1375,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 1,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -1546,7 +1546,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 2,
+      "failure_count": 3,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2096,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 19,
+      "failure_count": 20,
       "cycle_note": "open"
     },
     {
