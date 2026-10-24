@@ -153,6 +153,51 @@
       "comp_basis": "hedge fund · trading · internship",
       "first_seen": "2026-09-18T14:21:38.788165Z",
       "baseline": true
+    },
+    "REQ-30292": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30292",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "department": "Trading",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 123,
+      "comp_label": "~£123k (est. £76–170k)",
+      "comp_basis": "hedge fund · trading · internship",
+      "first_seen": "2026-10-24T23:45:14.896214Z",
+      "baseline": false
+    },
+    "REQ-30296": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30296",
+      "title": "2027 Trading Services Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819921",
+      "department": "Compliance",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 123,
+      "comp_label": "~£123k (est. £76–170k)",
+      "comp_basis": "hedge fund · trading · internship",
+      "first_seen": "2026-10-24T23:45:14.896259Z",
+      "baseline": false
+    },
+    "REQ-30351": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30351",
+      "title": "2027 Technology Collaboration Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957853409",
+      "department": "Information Technology",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 84,
+      "comp_label": "~£84k (est. £52–116k)",
+      "comp_basis": "hedge fund · other · internship",
+      "first_seen": "2026-10-24T23:45:14.896331Z",
+      "baseline": false
     }
   }
 }

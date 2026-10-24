@@ -622,5 +622,29 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', employment type 'Internship', location 'london'",
     "comp_k": 56,
     "comp_label": "~\u00a356k (est. \u00a344\u201368k)"
+  },
+  {
+    "firm": "Millennium Management",
+    "source_id": "REQ-30292",
+    "title": "2027 Sector Specialist Intern, London",
+    "location": "London, London, United Kingdom",
+    "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+    "match_level": "match",
+    "detected_at": "2026-10-24T23:45:14.896344Z",
+    "reason": "role 'trading', title mentions 'intern', location 'london'",
+    "comp_k": 123,
+    "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+  },
+  {
+    "firm": "Millennium Management",
+    "source_id": "REQ-30296",
+    "title": "2027 Trading Services Intern, London",
+    "location": "London, London, United Kingdom",
+    "url": "https://mlp.eightfold.ai/careers/job/755957819921",
+    "match_level": "match",
+    "detected_at": "2026-10-24T23:45:14.896344Z",
+    "reason": "role 'trading', title mentions 'intern', location 'london'",
+    "comp_k": 123,
+    "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
   }
 ]

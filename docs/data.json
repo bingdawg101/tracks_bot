@@ -266,6 +266,24 @@
   ],
   "fresh": [
     {
+      "firm": "Millennium Management",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
+      "firm": "Millennium Management",
+      "title": "2027 Trading Services Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819921",
+      "employment_type": "",
+      "comp_k": 123,
+      "age_days": 0
+    },
+    {
       "firm": "Natixis",
       "title": "Intern - Quantitative Research Commodities (12 months)",
       "location": "London",
@@ -697,7 +715,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 11
+      "age_days": 12
     },
     {
       "firm": "Susquehanna International Group",
@@ -751,7 +769,7 @@
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 45
+      "age_days": 46
     },
     {
       "firm": "GSA Capital",
@@ -859,7 +877,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374012",
       "employment_type": "Full-time - Campus",
       "comp_k": 110,
-      "age_days": 50
+      "age_days": 51
     },
     {
       "firm": "Point72",
@@ -904,7 +922,7 @@
       "url": "https://job-boards.greenhouse.io/jumpcrypto/jobs/7374010",
       "employment_type": "Jump Trading - Intern",
       "comp_k": 101,
-      "age_days": 50
+      "age_days": 51
     },
     {
       "firm": "Susquehanna International Group",
@@ -1116,8 +1134,8 @@
       "slug": "millennium",
       "enabled": true,
       "tier": "hedge_fund",
-      "match_count": 4,
-      "review_count": 6,
+      "match_count": 6,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1528,7 +1546,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 4,
+      "failure_count": 5,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2078,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 21,
+      "failure_count": 22,
       "cycle_note": "open"
     },
     {
@@ -2423,6 +2441,30 @@
     }
   ],
   "history": [
+    {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30296",
+      "title": "2027 Trading Services Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819921",
+      "match_level": "match",
+      "detected_at": "2026-10-24T23:45:14.896344Z",
+      "reason": "role 'trading', title mentions 'intern', location 'london'",
+      "comp_k": 123,
+      "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+    },
+    {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30292",
+      "title": "2027 Sector Specialist Intern, London",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755957819772",
+      "match_level": "match",
+      "detected_at": "2026-10-24T23:45:14.896344Z",
+      "reason": "role 'trading', title mentions 'intern', location 'london'",
+      "comp_k": 123,
+      "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+    },
     {
       "firm": "Natixis",
       "source_id": "20641",
@@ -2878,32 +2920,8 @@
       "reason": "role 'quant', title mentions 'intern', location 'london'",
       "comp_k": 106,
       "comp_label": "~\u00a3106k (est. \u00a366\u2013146k)"
-    },
-    {
-      "firm": "BlackRock",
-      "source_id": "100661849296",
-      "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London London, England 09/15/2026",
-      "location": "London, England",
-      "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
-      "match_level": "match",
-      "detected_at": "2026-09-15T15:10:21.907585Z",
-      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
-      "comp_k": 38,
-      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
-    },
-    {
-      "firm": "Brevan Howard",
-      "source_id": "JR101605",
-      "title": "AI & Quantitative Analyst, London",
-      "location": "London, United Kingdom",
-      "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605/apply",
-      "match_level": "match",
-      "detected_at": "2026-09-15T15:10:05.888070Z",
-      "reason": "role 'quantitative', employment type 'Intern (Fixed Term) (Trainee)', location 'london'",
-      "comp_k": 84,
-      "comp_label": "~\u00a384k (est. \u00a352\u2013116k)"
     }
   ],
-  "last_opening": "2026-10-23T10:14:41.657679Z",
-  "total_match": 89
+  "last_opening": "2026-10-24T23:45:14.896344Z",
+  "total_match": 91
 }
