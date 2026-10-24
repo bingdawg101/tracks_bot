@@ -326,7 +326,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778817",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 4
+      "age_days": 5
     },
     {
       "firm": "Centrica",
@@ -1375,7 +1375,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 1,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2096,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 15,
+      "failure_count": 16,
       "cycle_note": "open"
     },
     {
