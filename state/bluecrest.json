@@ -1,6 +1,6 @@
 {
   "firm": "BlueCrest Capital Management",
-  "failure_count": 9,
+  "failure_count": 10,
   "last_error": "bluecrest: GET https://boards-api.greenhouse.io/v1/boards/bluecrestcapitalmanagement/jobs failed: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/bluecrestcapitalmanagement/jobs?content=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
   "established": true,
   "tracked": {}
