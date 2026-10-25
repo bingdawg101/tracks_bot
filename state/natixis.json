@@ -1,7 +1,7 @@
 {
   "firm": "Natixis",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "natixis: POST https://recrutement.natixis.com/app/wp-json/bpce/v1/search/jobs failed: ",
   "established": true,
   "tracked": {
     "20386": {
