@@ -272,7 +272,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819772",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Millennium Management",
@@ -281,7 +281,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819921",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Natixis",
@@ -715,7 +715,7 @@
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4742955005",
       "employment_type": "",
       "comp_k": 140,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Susquehanna International Group",
@@ -769,7 +769,7 @@
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8187178",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 46
+      "age_days": 47
     },
     {
       "firm": "GSA Capital",
@@ -1546,7 +1546,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 11,
+      "failure_count": 12,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2096,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 28,
+      "failure_count": 29,
       "cycle_note": "open"
     },
     {
