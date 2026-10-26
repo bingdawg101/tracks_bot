@@ -3,21 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "8883121002": {
-      "firm": "Mako Group",
-      "source_id": "8883121002",
-      "title": "Mako Summer Internship – Trading",
-      "location": "London",
-      "url": "https://www.mako.com/opportunities/job-listing/8883121002?gh_jid=8883121002",
-      "department": "Early Careers",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 156,
-      "comp_label": "~£156k (est. £97–215k)",
-      "comp_basis": "elite prop · trading · internship",
-      "first_seen": "2026-10-12T16:04:08.199874Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }

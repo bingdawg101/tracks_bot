@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "1952": {
-      "firm": "Schroders",
-      "source_id": "1952",
-      "title": "2027 Product Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1952",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-18T14:26:31.275528Z",
-      "baseline": false
-    },
     "2227": {
       "firm": "Schroders",
       "source_id": "2227",

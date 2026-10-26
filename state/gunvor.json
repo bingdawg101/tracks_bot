@@ -1,7 +1,7 @@
 {
   "firm": "Gunvor Group",
-  "failure_count": 1,
-  "last_error": "gunvor: POST https://gunvor.wd3.myworkdayjobs.com/wday/cxs/gunvor/Gunvor_Careers/jobs failed: Client error '404 Not Found' for url 'https://gunvor.wd3.myworkdayjobs.com/wday/cxs/gunvor/Gunvor_Careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }
