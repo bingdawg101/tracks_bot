@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "69708": {
-      "firm": "Deutsche Bank",
-      "source_id": "69708",
-      "title": "Quantitative Credit Strategist",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=69708",
-      "department": "",
-      "employment_type": "Unbefristet Associate",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £74–116k)",
-      "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-10-20T20:55:43.385470Z",
-      "baseline": false
-    },
     "71226": {
       "firm": "Deutsche Bank",
       "source_id": "71226",
