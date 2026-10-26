@@ -284,24 +284,6 @@
       "age_days": 1
     },
     {
-      "firm": "Natixis",
-      "title": "Intern - Quantitative Research Commodities (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
-      "employment_type": "Internship",
-      "comp_k": 56,
-      "age_days": 2
-    },
-    {
-      "firm": "RBC Capital Markets",
-      "title": "Apprentice - Capital Markets Operations",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
-      "employment_type": "Full time",
-      "comp_k": 52,
-      "age_days": 2
-    },
-    {
       "firm": "JPMorgan",
       "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
       "location": "LONDON, LONDON, United Kingdom",
@@ -317,6 +299,24 @@
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802421",
       "employment_type": "",
       "comp_k": 56,
+      "age_days": 3
+    },
+    {
+      "firm": "Natixis",
+      "title": "Intern - Quantitative Research Commodities (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
+      "employment_type": "Internship",
+      "comp_k": 56,
+      "age_days": 3
+    },
+    {
+      "firm": "RBC Capital Markets",
+      "title": "Apprentice - Capital Markets Operations",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
+      "employment_type": "Full time",
+      "comp_k": 52,
       "age_days": 3
     },
     {
@@ -347,21 +347,21 @@
       "age_days": 7
     },
     {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 9
-    },
-    {
       "firm": "Susquehanna International Group",
       "title": "Trading Operations Analyst Graduate: 2027 | London",
       "location": "London, United Kingdom",
       "url": "https://careers-sig.icims.com/jobs/11443/login",
       "employment_type": "Per Diem",
       "comp_k": 170,
+      "age_days": 10
+    },
+    {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
       "age_days": 10
     }
   ],
@@ -859,7 +859,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 30
+      "age_days": 31
     },
     {
       "firm": "Jump Trading",
@@ -1039,7 +1039,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 16
+      "age_days": 17
     },
     {
       "firm": "Goldman Sachs",
@@ -1546,7 +1546,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 14,
+      "failure_count": 15,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1896,7 +1896,7 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "rolling"
     },
     {
@@ -2025,7 +2025,7 @@
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2096,7 +2096,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 31,
+      "failure_count": 32,
       "cycle_note": "open"
     },
     {
