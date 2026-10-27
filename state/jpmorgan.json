@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "210755831": {
-      "firm": "JPMorgan",
-      "source_id": "210755831",
-      "title": "CIB – Investment Banking – Infrastructure Finance and Advisory (EMEA - Emerging Markets) – London - VP",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755831",
-      "department": "Client Management",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 58,
-      "comp_label": "~£58k (est. £45–71k)",
-      "comp_basis": "bank bulge · risk ops",
-      "first_seen": "2026-10-20T12:55:50.942242Z",
-      "baseline": false
-    },
     "210778053": {
       "firm": "JPMorgan",
       "source_id": "210778053",
@@ -92,6 +77,21 @@
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-10-23T15:10:32.784179Z",
+      "baseline": false
+    },
+    "210804385": {
+      "firm": "JPMorgan",
+      "source_id": "210804385",
+      "title": "International Private Bank, Associate Transition Banker, MENAT, Israel and Eastern Europe Markets, London",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804385",
+      "department": "Client Management",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 43,
+      "comp_label": "~£43k (est. £34–52k)",
+      "comp_basis": "bank bulge · other · internship",
+      "first_seen": "2026-10-27T19:39:56.765747Z",
       "baseline": false
     }
   }
