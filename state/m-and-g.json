@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R20474": {
+      "firm": "M&G plc",
+      "source_id": "R20474",
+      "title": "Leveraged Finance Research – Associate Director",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Leveraged-Finance-Research---Associate-Director_R20474-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-10-27T14:40:03.815745Z",
+      "baseline": false
+    }
+  }
 }

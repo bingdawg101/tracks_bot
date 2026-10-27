@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "R-0000183780": {
-      "firm": "RBC Capital Markets",
-      "source_id": "R-0000183780",
-      "title": "Wealth Paraplanner",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/16-ST-HELENS-PLACELONDON/Wealth-Paraplanner_R-0000183780/apply",
-      "department": "Customer Service | Client Advice | Sales",
-      "employment_type": "Full time",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-10-21T18:01:40.352006Z",
-      "baseline": false
-    },
     "R-0000190883": {
       "firm": "RBC Capital Markets",
       "source_id": "R-0000190883",
@@ -47,6 +32,21 @@
       "comp_label": "~£52k (est. £41–63k)",
       "comp_basis": "bank other · risk ops",
       "first_seen": "2026-10-23T10:14:17.949487Z",
+      "baseline": false
+    },
+    "R-0000191269": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000191269",
+      "title": "Portfolio Management Assistant",
+      "location": "Exeter, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANTAGE-POINT-WOODWATER-PARK-PYNES-HILLEXETER/Portfolio-Management-Assistant_R-0000191269/apply",
+      "department": "Customer Service | Client Advice | Sales",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-10-27T14:40:00.269375Z",
       "baseline": false
     }
   }

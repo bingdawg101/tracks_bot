@@ -284,24 +284,6 @@
       "age_days": 2
     },
     {
-      "firm": "Natixis",
-      "title": "Intern - Quantitative Research Commodities (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
-      "employment_type": "Internship",
-      "comp_k": 56,
-      "age_days": 3
-    },
-    {
-      "firm": "RBC Capital Markets",
-      "title": "Apprentice - Capital Markets Operations",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
-      "employment_type": "Full time",
-      "comp_k": 52,
-      "age_days": 3
-    },
-    {
       "firm": "JPMorgan",
       "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship - London",
       "location": "LONDON, LONDON, United Kingdom",
@@ -320,13 +302,31 @@
       "age_days": 4
     },
     {
+      "firm": "Natixis",
+      "title": "Intern - Quantitative Research Commodities (12 months)",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
+      "employment_type": "Internship",
+      "comp_k": 56,
+      "age_days": 4
+    },
+    {
+      "firm": "RBC Capital Markets",
+      "title": "Apprentice - Capital Markets Operations",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
+      "employment_type": "Full time",
+      "comp_k": 52,
+      "age_days": 4
+    },
+    {
       "firm": "Graviton Research Capital",
       "title": "Quantitative Researcher PhD - 2027 Internship",
       "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Graviton Research Capital",
@@ -335,7 +335,7 @@
       "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
       "employment_type": "",
       "comp_k": 175,
-      "age_days": 7
+      "age_days": 8
     },
     {
       "firm": "Millennium Management",
@@ -345,15 +345,6 @@
       "employment_type": "",
       "comp_k": 123,
       "age_days": 8
-    },
-    {
-      "firm": "Centrica",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "employment_type": "",
-      "comp_k": 78,
-      "age_days": 10
     }
   ],
   "stale": [
@@ -476,7 +467,7 @@
     },
     {
       "firm": "Tower Research Capital",
-      "title": "Quantitative Trader/Researcher Summer Internship 2027 (2028 Graduates)",
+      "title": "Quantitative Trader/Researcher Summer Internship 2027",
       "location": "London",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8037860",
       "employment_type": "",
@@ -769,7 +760,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778828",
       "employment_type": "",
       "comp_k": 136,
-      "age_days": 38
+      "age_days": 39
     },
     {
       "firm": "Qube Research & Technologies",
@@ -814,7 +805,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957778829",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 38
+      "age_days": 39
     },
     {
       "firm": "Millennium Management",
@@ -823,7 +814,7 @@
       "url": "https://mlp.eightfold.ai/careers/job/755957819517",
       "employment_type": "",
       "comp_k": 123,
-      "age_days": 38
+      "age_days": 39
     },
     {
       "firm": "Squarepoint Capital",
@@ -841,7 +832,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 31
+      "age_days": 32
     },
     {
       "firm": "Jump Trading",
@@ -952,6 +943,15 @@
       "age_days": 41
     },
     {
+      "firm": "Centrica",
+      "title": "Graduate Commodity Trading Analyst",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
+      "employment_type": "",
+      "comp_k": 78,
+      "age_days": 11
+    },
+    {
       "firm": "Goldman Sachs",
       "title": "2027 / EMEA / London / Asset and Wealth Management Quantitative Strats / Summer Analyst",
       "location": "London United Kingdom",
@@ -994,7 +994,7 @@
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002",
       "employment_type": "",
       "comp_k": 56,
-      "age_days": 38
+      "age_days": 39
     },
     {
       "firm": "MUFG",
@@ -1021,7 +1021,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 17
+      "age_days": 18
     },
     {
       "firm": "Goldman Sachs",
@@ -1069,7 +1069,7 @@
       "age_days": 41
     }
   ],
-  "stale_firms": 25,
+  "stale_firms": 26,
   "firms": [
     {
       "name": "Susquehanna International Group",
@@ -1508,7 +1508,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 19,
+      "failure_count": 20,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1967,7 +1967,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -2068,7 +2068,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 36,
+      "failure_count": 37,
       "cycle_note": "open"
     },
     {
