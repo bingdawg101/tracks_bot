@@ -3,21 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "164328": {
-      "firm": "Lloyds Banking Group",
-      "source_id": "164328",
-      "title": "Compliance Officer - Global Markets Compliance Advisory",
-      "location": "London",
-      "url": "https://lbg.wd3.myworkdayjobs.com/job/London/Compliance-Officer---Global-Markets-Compliance-Advisory_164328",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 72,
-      "comp_label": "~£72k (est. £56–88k)",
-      "comp_basis": "bank other · sales trading",
-      "first_seen": "2026-10-13T17:50:24.322668Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }

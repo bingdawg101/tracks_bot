@@ -3,36 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "2621058": {
-      "firm": "CIBC Capital Markets",
-      "source_id": "2621058",
-      "title": "Analyst, Trading Credit, Corporate Banking",
-      "location": "London, GBR",
-      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Analyst--Trading-Credit--Corporate-Banking_2621058",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 78,
-      "comp_label": "~£78k (est. £61–95k)",
-      "comp_basis": "bank other · trading",
-      "first_seen": "2026-10-14T20:09:21.554533Z",
-      "baseline": false
-    },
-    "2621060": {
-      "firm": "CIBC Capital Markets",
-      "source_id": "2621060",
-      "title": "Associate, Trading Credit, Corporate Banking",
-      "location": "London, GBR",
-      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Associate--Trading-Credit--Corporate-Banking_2621060-1",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 78,
-      "comp_label": "~£78k (est. £61–95k)",
-      "comp_basis": "bank other · trading",
-      "first_seen": "2026-10-14T20:09:21.554269Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }
