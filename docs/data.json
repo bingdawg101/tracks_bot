@@ -1499,7 +1499,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 23,
+      "failure_count": 24,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2059,7 +2059,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 40,
+      "failure_count": 41,
       "cycle_note": "open"
     },
     {
