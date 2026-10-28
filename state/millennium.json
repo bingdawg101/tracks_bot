@@ -64,36 +64,6 @@
       "first_seen": "2026-10-19T01:49:31.849878Z",
       "baseline": false
     },
-    "REQ-30185": {
-      "firm": "Millennium Management",
-      "source_id": "REQ-30185",
-      "title": "2027 Corporate Services and Real Estate Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957778824",
-      "department": "Corporate Services & Real Estate",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 84,
-      "comp_label": "~£84k (est. £52–116k)",
-      "comp_basis": "hedge fund · other · internship",
-      "first_seen": "2026-10-19T01:49:31.850018Z",
-      "baseline": false
-    },
-    "REQ-30191": {
-      "firm": "Millennium Management",
-      "source_id": "REQ-30191",
-      "title": "2027 Finance Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957778827",
-      "department": "Finance",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 75,
-      "comp_label": "~£75k (est. £46–103k)",
-      "comp_basis": "hedge fund · risk ops · internship",
-      "first_seen": "2026-10-19T01:49:31.850140Z",
-      "baseline": false
-    },
     "REQ-30197": {
       "firm": "Millennium Management",
       "source_id": "REQ-30197",
@@ -182,21 +152,6 @@
       "comp_label": "~£123k (est. £76–170k)",
       "comp_basis": "hedge fund · trading · internship",
       "first_seen": "2026-10-24T23:45:14.896259Z",
-      "baseline": false
-    },
-    "REQ-30351": {
-      "firm": "Millennium Management",
-      "source_id": "REQ-30351",
-      "title": "2027 Technology Collaboration Intern, London",
-      "location": "London, London, United Kingdom",
-      "url": "https://mlp.eightfold.ai/careers/job/755957853409",
-      "department": "Information Technology",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 84,
-      "comp_label": "~£84k (est. £52–116k)",
-      "comp_basis": "hedge fund · other · internship",
-      "first_seen": "2026-10-24T23:45:14.896331Z",
       "baseline": false
     }
   }

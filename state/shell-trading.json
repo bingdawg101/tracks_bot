@@ -63,6 +63,21 @@
       "comp_basis": "energy utility · risk ops",
       "first_seen": "2026-09-15T00:51:04.412233Z",
       "baseline": false
+    },
+    "R211177": {
+      "firm": "Shell (Trading & Supply)",
+      "source_id": "R211177",
+      "title": "Complex Deal Management Analyst",
+      "location": "London York Road",
+      "url": "https://shell.wd3.myworkdayjobs.com/job/London-York-Road/Complex-Deal-Management-Analyst_R211177-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "energy utility · other",
+      "first_seen": "2026-10-28T15:30:27.244137Z",
+      "baseline": false
     }
   }
 }

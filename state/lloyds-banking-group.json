@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "165564": {
+      "firm": "Lloyds Banking Group",
+      "source_id": "165564",
+      "title": "Consumer Financial Services Professional Apprenticeship Programme - London",
+      "location": "London",
+      "url": "https://lbg.wd3.myworkdayjobs.com/job/London/Consumer-Financial-Services-Professional-Apprenticeship-Programme---London_165564",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-10-28T15:30:13.068531Z",
+      "baseline": false
+    }
+  }
 }

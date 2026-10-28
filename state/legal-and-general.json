@@ -18,6 +18,51 @@
       "comp_basis": "bank other · commercial · internship",
       "first_seen": "2026-10-23T10:14:21.418535Z",
       "baseline": false
+    },
+    "744000158255219": {
+      "firm": "Legal & General",
+      "source_id": "744000158255219",
+      "title": "Apprenticeship - Asset Management Data Programme - London - 2027",
+      "location": "London, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000158255219",
+      "department": "FUTURE TAL - APPRENTICE - 601057",
+      "employment_type": "Full-time Entry Level",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-10-28T15:30:14.841697Z",
+      "baseline": false
+    },
+    "744000158310609": {
+      "firm": "Legal & General",
+      "source_id": "744000158310609",
+      "title": "PRT - Transitions Director",
+      "location": "Brighton and Hove, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000158310609",
+      "department": "PRT - ORIGINATION AND EXECUTION - 401331",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-10-28T15:30:14.840972Z",
+      "baseline": false
+    },
+    "744000158310869": {
+      "firm": "Legal & General",
+      "source_id": "744000158310869",
+      "title": "PRT - Transitions Director",
+      "location": "London, England, GB",
+      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000158310869",
+      "department": "PRT - ORIGINATION AND EXECUTION - 401331",
+      "employment_type": "Full-time Not Applicable",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-10-28T15:30:14.840579Z",
+      "baseline": false
     }
   }
 }

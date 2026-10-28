@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "8921970002": {
+      "firm": "Mako Group",
+      "source_id": "8921970002",
+      "title": "Graduate Software Engineer, London",
+      "location": "London",
+      "url": "https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002",
+      "department": "Early Careers",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-10-28T15:30:02.584319Z",
+      "baseline": false
+    }
+  }
 }
