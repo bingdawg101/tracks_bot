@@ -646,5 +646,29 @@
     "reason": "role 'trading', title mentions 'intern', location 'london'",
     "comp_k": 123,
     "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
+  },
+  {
+    "firm": "RBC Capital Markets",
+    "source_id": "R-0000190993",
+    "title": "Apprentice - Capital Markets Operations",
+    "location": "London, United Kingdom",
+    "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
+    "match_level": "match",
+    "detected_at": "2026-10-29T06:03:28.970582Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'markets', title mentions 'apprentice', location 'london'",
+    "comp_k": 52,
+    "comp_label": "~\u00a352k (est. \u00a341\u201363k)"
+  },
+  {
+    "firm": "HSBC",
+    "source_id": "1373585957",
+    "title": "Data Analyst - Quantitative Finance - Internship",
+    "location": "London, GB, E14 5HQ",
+    "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
+    "match_level": "match",
+    "detected_at": "2026-10-29T06:03:37.657671Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 41,
+    "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
   }
 ]

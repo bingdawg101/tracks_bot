@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "163518": {
+      "firm": "Lloyds Banking Group",
+      "source_id": "163518",
+      "title": "Associate Director – Structuring, Trade and Working Capital Solutions",
+      "location": "London",
+      "url": "https://lbg.wd3.myworkdayjobs.com/job/London/Associate-Director---Structuring-CM-P--Transaction-Banking-Solutions_163518",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 72,
+      "comp_label": "~£72k (est. £56–88k)",
+      "comp_basis": "bank other · structuring",
+      "first_seen": "2026-10-29T06:03:27.210835Z",
+      "baseline": false
+    }
+  }
 }
