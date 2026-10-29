@@ -266,15 +266,6 @@
   ],
   "fresh": [
     {
-      "firm": "RBC Capital Markets",
-      "title": "Apprentice - Capital Markets Operations",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Apprentice---Capital-Markets-Operations_R-0000190993/apply",
-      "employment_type": "Full time",
-      "comp_k": 52,
-      "age_days": 0
-    },
-    {
       "firm": "HSBC",
       "title": "Data Analyst - Quantitative Finance - Internship",
       "location": "London, GB, E14 5HQ",
@@ -299,7 +290,7 @@
       "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
       "employment_type": "Internship",
       "comp_k": 56,
-      "age_days": 5
+      "age_days": 6
     },
     {
       "firm": "Graviton Research Capital",
@@ -814,7 +805,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 33
+      "age_days": 34
     },
     {
       "firm": "Jump Trading",
@@ -922,7 +913,7 @@
       "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
       "employment_type": "",
       "comp_k": 78,
-      "age_days": 12
+      "age_days": 13
     },
     {
       "firm": "Goldman Sachs",
@@ -994,7 +985,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 19
+      "age_days": 20
     },
     {
       "firm": "Goldman Sachs",
@@ -1315,16 +1306,6 @@
       "cycle_note": "open"
     },
     {
-      "name": "RBC Capital Markets",
-      "slug": "rbc",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 1,
-      "review_count": 3,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
-    },
-    {
       "name": "The Voleon Group",
       "slug": "voleon",
       "enabled": true,
@@ -1481,7 +1462,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 28,
+      "failure_count": 29,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1840,7 +1821,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
     },
@@ -2041,7 +2022,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 45,
+      "failure_count": 46,
       "cycle_note": "open"
     },
     {
@@ -2093,6 +2074,16 @@
       "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Oct 2026"
+    },
+    {
+      "name": "RBC Capital Markets",
+      "slug": "rbc",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 3,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
     },
     {
       "name": "STX Group",
@@ -2878,5 +2869,5 @@
     }
   ],
   "last_opening": "2026-10-29T06:03:37.657671Z",
-  "total_match": 86
+  "total_match": 85
 }

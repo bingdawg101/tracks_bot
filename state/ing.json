@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "REQ-10124025": {
+      "firm": "ING",
+      "source_id": "REQ-10124025",
+      "title": "Repo Trader - Associate / VP",
+      "location": "London",
+      "url": "https://ing.wd3.myworkdayjobs.com/job/London/Repo-Trader---Associate---VP_REQ-10124025",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-10-29T12:52:32.009610Z",
+      "baseline": false
+    }
+  }
 }
