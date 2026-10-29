@@ -19,21 +19,6 @@
       "first_seen": "2026-10-26T19:58:40.141705Z",
       "baseline": false
     },
-    "210796782": {
-      "firm": "JPMorgan",
-      "source_id": "210796782",
-      "title": "Trader Voice Infrastructure Engineer",
-      "location": "LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796782",
-      "department": "Technology",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 90,
-      "comp_label": "~£90k (est. £70–110k)",
-      "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-10-22T14:41:57.070871Z",
-      "baseline": false
-    },
     "210802518": {
       "firm": "JPMorgan",
       "source_id": "210802518",
@@ -47,6 +32,21 @@
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-10-23T15:10:32.784179Z",
+      "baseline": false
+    },
+    "210804850": {
+      "firm": "JPMorgan",
+      "source_id": "210804850",
+      "title": "Quantitative Trading & Research – Securities Services – Analyst or Associate",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804850",
+      "department": "Product/Investment Mgmt",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant trading",
+      "first_seen": "2026-10-29T18:44:25.801258Z",
       "baseline": false
     }
   }

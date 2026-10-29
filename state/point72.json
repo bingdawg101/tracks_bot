@@ -64,21 +64,6 @@
       "first_seen": "2026-09-03T20:09:21.619567Z",
       "baseline": true
     },
-    "8003977002": {
-      "firm": "Point72",
-      "source_id": "8003977002",
-      "title": "Point72 Fund Flow Analyst",
-      "location": "New York, Stamford, London",
-      "url": "https://boards.greenhouse.io/point72/jobs/8003977002?gh_jid=8003977002",
-      "department": "Quant Management",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £59–131k)",
-      "comp_basis": "hedge fund · other",
-      "first_seen": "2026-09-03T20:09:21.614908Z",
-      "baseline": true
-    },
     "8023550002": {
       "firm": "Point72",
       "source_id": "8023550002",
@@ -124,21 +109,6 @@
       "first_seen": "2026-09-03T20:09:21.607774Z",
       "baseline": true
     },
-    "8187982002": {
-      "firm": "Point72",
-      "source_id": "8187982002",
-      "title": "Point72 Fund Flow Strategist",
-      "location": "New York, Stamford, London, Hong Kong",
-      "url": "https://boards.greenhouse.io/point72/jobs/8187982002?gh_jid=8187982002",
-      "department": "Quant Management",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 155,
-      "comp_label": "~£155k (est. £96–214k)",
-      "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.615434Z",
-      "baseline": true
-    },
     "8191564002": {
       "firm": "Point72",
       "source_id": "8191564002",
@@ -154,28 +124,13 @@
       "first_seen": "2026-09-03T20:09:21.617983Z",
       "baseline": true
     },
-    "8389431002": {
-      "firm": "Point72",
-      "source_id": "8389431002",
-      "title": "Fund Flow Quantitative Researcher",
-      "location": "New York, Stamford, London",
-      "url": "https://boards.greenhouse.io/point72/jobs/8389431002?gh_jid=8389431002",
-      "department": "Quant Management",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 155,
-      "comp_label": "~£155k (est. £96–214k)",
-      "comp_basis": "hedge fund · quant research",
-      "first_seen": "2026-09-03T20:09:21.608495Z",
-      "baseline": true
-    },
     "8408288002": {
       "firm": "Point72",
       "source_id": "8408288002",
       "title": "Quant Library Developer, Macro Technology",
       "location": "New York; London",
       "url": "https://boards.greenhouse.io/point72/jobs/8408288002?gh_jid=8408288002",
-      "department": "Macro Management",
+      "department": "Macro Quant Technology (CCH)",
       "employment_type": "",
       "match_level": "review",
       "comp_k": 120,

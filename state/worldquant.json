@@ -33,21 +33,6 @@
       "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-03T20:21:38.499977Z",
       "baseline": true
-    },
-    "4659364006": {
-      "firm": "WorldQuant",
-      "source_id": "4659364006",
-      "title": "Quantitative Developer",
-      "location": "London",
-      "url": "https://job-boards.greenhouse.io/worldquant/jobs/4659364006",
-      "department": "Technology Division",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 120,
-      "comp_label": "~£120k (est. £74–166k)",
-      "comp_basis": "hedge fund · swe",
-      "first_seen": "2026-09-03T20:21:38.502470Z",
-      "baseline": true
     }
   }
 }
