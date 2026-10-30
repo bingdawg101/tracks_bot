@@ -275,15 +275,6 @@
       "age_days": 5
     },
     {
-      "firm": "Natixis",
-      "title": "Intern - Quantitative Research Commodities (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
-      "employment_type": "Internship",
-      "comp_k": 56,
-      "age_days": 6
-    },
-    {
       "firm": "Graviton Research Capital",
       "title": "Quantitative Researcher PhD - 2027 Internship",
       "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Singapore",
@@ -1257,16 +1248,6 @@
       "cycle_note": "\u2014"
     },
     {
-      "name": "Natixis",
-      "slug": "natixis",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 1,
-      "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
       "name": "Onyx Capital Group",
       "slug": "onyx-capital",
       "enabled": true,
@@ -1443,7 +1424,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 32,
+      "failure_count": 33,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1977,6 +1958,16 @@
       "cycle_note": "open"
     },
     {
+      "name": "Natixis",
+      "slug": "natixis",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "Nordea",
       "slug": "nordea",
       "enabled": true,
@@ -2013,7 +2004,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 49,
+      "failure_count": 50,
       "cycle_note": "open"
     },
     {
@@ -2860,5 +2851,5 @@
     }
   ],
   "last_opening": "2026-10-29T06:03:37.657671Z",
-  "total_match": 84
+  "total_match": 83
 }

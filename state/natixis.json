@@ -18,21 +18,6 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-21T15:56:11.364394Z",
       "baseline": false
-    },
-    "20641": {
-      "firm": "Natixis",
-      "source_id": "20641",
-      "title": "Intern - Quantitative Research Commodities (12 months)",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-quantitative-research-commodities-12-months-2",
-      "department": "Other",
-      "employment_type": "Internship",
-      "match_level": "match",
-      "comp_k": 56,
-      "comp_label": "~£56k (est. £44–68k)",
-      "comp_basis": "bank other · quant research · internship",
-      "first_seen": "2026-10-23T10:14:41.646644Z",
-      "baseline": false
     }
   }
 }
