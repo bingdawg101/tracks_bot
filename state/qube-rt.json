@@ -393,6 +393,21 @@
       "comp_basis": "elite prop · swe",
       "first_seen": "2026-10-13T10:50:31.432017Z",
       "baseline": false
+    },
+    "8924911002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8924911002",
+      "title": "Quantitative Developer - Commodities (Python)",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8924911002",
+      "department": "MF-Commo",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 140,
+      "comp_label": "~£140k (est. £87–193k)",
+      "comp_basis": "elite prop · swe",
+      "first_seen": "2026-10-30T15:44:20.039444Z",
+      "baseline": false
     }
   }
 }

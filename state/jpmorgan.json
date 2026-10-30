@@ -33,6 +33,21 @@
       "comp_basis": "bank bulge · quant trading",
       "first_seen": "2026-10-29T18:44:25.801258Z",
       "baseline": false
+    },
+    "210805198": {
+      "firm": "JPMorgan",
+      "source_id": "210805198",
+      "title": "Prime Finance Services Trader Assistant - Analyst",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805198",
+      "department": "Operations",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-10-30T15:44:37.498258Z",
+      "baseline": false
     }
   }
 }
