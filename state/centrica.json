@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "R0091040": {
-      "firm": "Centrica",
-      "source_id": "R0091040",
-      "title": "Graduate Commodity Trading Analyst",
-      "location": "Greater London",
-      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0091040",
-      "department": "",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 78,
-      "comp_label": "~£78k (est. £61–95k)",
-      "comp_basis": "energy utility · trading",
-      "first_seen": "2026-10-16T09:48:24.880285Z",
-      "baseline": false
-    },
     "R0091102": {
       "firm": "Centrica",
       "source_id": "R0091102",

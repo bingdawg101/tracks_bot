@@ -3,21 +3,5 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {
-    "RQ117275": {
-      "firm": "BP (Trading & Shipping)",
-      "source_id": "RQ117275",
-      "title": "Trading Operator",
-      "location": "United Kingdom - London",
-      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Trading-Operator_RQ117275-1",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 78,
-      "comp_label": "~£78k (est. £61–95k)",
-      "comp_basis": "energy utility · trading",
-      "first_seen": "2026-10-22T09:42:10.676878Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }
