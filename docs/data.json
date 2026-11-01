@@ -266,6 +266,15 @@
   ],
   "fresh": [
     {
+      "firm": "HSBC",
+      "title": "Data Analyst - Quantitative Finance - Internship",
+      "location": "London, GB, E14 5HQ",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
+      "employment_type": "",
+      "comp_k": 41,
+      "age_days": 0
+    },
+    {
       "firm": "Millennium Management",
       "title": "2027 Sector Specialist Intern, London",
       "location": "London, London, United Kingdom",
@@ -1154,6 +1163,16 @@
       "cycle_note": "open"
     },
     {
+      "name": "HSBC",
+      "slug": "hsbc",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 1,
+      "review_count": 1,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
+    },
+    {
       "name": "Headlands Technologies",
       "slug": "headlands-technologies",
       "enabled": true,
@@ -1360,7 +1379,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 42,
+      "failure_count": 43,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1724,16 +1743,6 @@
       "cycle_note": "rolling"
     },
     {
-      "name": "HSBC",
-      "slug": "hsbc",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 0,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
-    },
-    {
       "name": "ING",
       "slug": "ing",
       "enabled": true,
@@ -1950,7 +1959,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 59,
+      "failure_count": 60,
       "cycle_note": "open"
     },
     {
@@ -2009,7 +2018,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 4,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2315,6 +2324,18 @@
     }
   ],
   "history": [
+    {
+      "firm": "HSBC",
+      "source_id": "1373585957",
+      "title": "Data Analyst - Quantitative Finance - Internship",
+      "location": "London, GB, E14 5HQ",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
+      "match_level": "match",
+      "detected_at": "2026-11-01T08:01:34.111485Z",
+      "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+      "comp_k": 41,
+      "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
+    },
     {
       "firm": "HSBC",
       "source_id": "1373585957",
@@ -2782,20 +2803,8 @@
       "reason": "firm went from 0 to 5 matching roles \u2014 role 'equities', title mentions 'graduate', location 'london'",
       "comp_k": 72,
       "comp_label": "~\u00a372k (est. \u00a356\u201388k)"
-    },
-    {
-      "firm": "Goldman Sachs",
-      "source_id": "170877_GS_CAMPUS",
-      "title": "2027 / EMEA / London / Global Investment Research / Macro Research, Portfolio Strategy / Seasonal/Off-cycle Internship",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/170877_GS_CAMPUS",
-      "match_level": "match",
-      "detected_at": "2026-09-16T21:26:02.427753Z",
-      "reason": "role 'research', title mentions 'internship', location 'london'",
-      "comp_k": 43,
-      "comp_label": "~\u00a343k (est. \u00a334\u201352k)"
     }
   ],
-  "last_opening": "2026-10-29T06:03:37.657671Z",
-  "total_match": 77
+  "last_opening": "2026-11-01T08:01:34.111485Z",
+  "total_match": 78
 }
