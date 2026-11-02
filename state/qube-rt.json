@@ -408,6 +408,51 @@
       "comp_basis": "elite prop · swe",
       "first_seen": "2026-10-30T15:44:20.039444Z",
       "baseline": false
+    },
+    "8926633002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8926633002",
+      "title": "2027 - Internship, Business Data Analytics",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002",
+      "department": "Central Function-Tech",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-11-02T19:48:32.256569Z",
+      "baseline": false
+    },
+    "8926642002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8926642002",
+      "title": "2027 - Internship, HR Technology",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002",
+      "department": "Central Function-HR",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-11-02T19:48:32.256889Z",
+      "baseline": false
+    },
+    "8926644002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8926644002",
+      "title": "2027 - Internship, Surveillance",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926644002",
+      "department": "Central Function",
+      "employment_type": "Intern",
+      "match_level": "review",
+      "comp_k": 101,
+      "comp_label": "~£101k (est. £63–139k)",
+      "comp_basis": "elite prop · other · internship",
+      "first_seen": "2026-11-02T19:48:32.257845Z",
+      "baseline": false
     }
   }
 }

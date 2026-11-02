@@ -7,7 +7,7 @@
     "4875778101": {
       "firm": "Winton",
       "source_id": "4875778101",
-      "title": "Quantitative Developer, Commodities",
+      "title": "Quantitative Developer/Researcher, Commodities",
       "location": "London, United Kingdom",
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4875778101",
       "department": "IMR",
@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · swe",
       "first_seen": "2026-09-03T20:21:38.453278Z",
       "baseline": true
+    },
+    "4875785101": {
+      "firm": "Winton",
+      "source_id": "4875785101",
+      "title": "Commodity Researcher",
+      "location": "London, United Kingdom",
+      "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4875785101",
+      "department": "IMR",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-11-02T19:48:33.367540Z",
+      "baseline": false
     },
     "4986765101": {
       "firm": "Winton",
