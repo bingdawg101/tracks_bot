@@ -272,7 +272,7 @@
       "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
       "employment_type": "",
       "comp_k": 41,
-      "age_days": 0
+      "age_days": 1
     },
     {
       "firm": "Millennium Management",
@@ -1379,7 +1379,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 47,
+      "failure_count": 48,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1768,7 +1768,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 4,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1959,7 +1959,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 64,
+      "failure_count": 65,
       "cycle_note": "open"
     },
     {
@@ -2058,7 +2058,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 6,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },

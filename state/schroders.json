@@ -93,6 +93,21 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-10-14T20:08:42.551830Z",
       "baseline": false
+    },
+    "2338": {
+      "firm": "Schroders",
+      "source_id": "2338",
+      "title": "2027 Business Transformation Solutions Graduate Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2338",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-11-02T09:41:30.593212Z",
+      "baseline": false
     }
   }
 }
