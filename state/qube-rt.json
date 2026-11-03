@@ -352,7 +352,7 @@
     "8857906002": {
       "firm": "Qube Research & Technologies",
       "source_id": "8857906002",
-      "title": "Quantitative Developer - Python, C++",
+      "title": "Quantitative Developer/Modeller - Risk & PnL",
       "location": "London",
       "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8857906002",
       "department": "MF-MAPS",
@@ -392,6 +392,21 @@
       "comp_label": "~£140k (est. £87–193k)",
       "comp_basis": "elite prop · swe",
       "first_seen": "2026-10-13T10:50:31.432017Z",
+      "baseline": false
+    },
+    "8911518002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8911518002",
+      "title": "Quantitative Developer - C++",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8911518002",
+      "department": "Trading-CAB",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
+      "first_seen": "2026-11-03T16:48:54.748540Z",
       "baseline": false
     },
     "8924911002": {

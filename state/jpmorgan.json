@@ -33,6 +33,21 @@
       "comp_basis": "bank bulge · quant trading",
       "first_seen": "2026-10-29T18:44:25.801258Z",
       "baseline": false
+    },
+    "210805760": {
+      "firm": "JPMorgan",
+      "source_id": "210805760",
+      "title": "Equity Derivatives Trading Services - Efficiency Strategy Associate",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805760",
+      "department": "Operations",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 85,
+      "comp_label": "~£85k (est. £66–104k)",
+      "comp_basis": "bank bulge · sales trading",
+      "first_seen": "2026-11-03T16:49:12.884897Z",
+      "baseline": false
     }
   }
 }

@@ -33,6 +33,36 @@
       "comp_basis": "bank other · trading",
       "first_seen": "2026-10-20T12:55:45.901332Z",
       "baseline": false
+    },
+    "R-800695": {
+      "firm": "State Street",
+      "source_id": "R-800695",
+      "title": "Front Office Trading Services, VP - EFC (Prime/Equity Swaps) - State Street Markets",
+      "location": "London, England",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/job/London-England/Front-Office-Trading-Services--VP---EFC--Prime-Equity-Swaps----State-Street-Markets_R-800695",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-11-03T16:49:07.233841Z",
+      "baseline": false
+    },
+    "R-800696": {
+      "firm": "State Street",
+      "source_id": "R-800696",
+      "title": "Front Office Trading Services, VP - EFC (Agency Lending) - State Street Markets",
+      "location": "London, England",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/job/London-England/Front-Office-Trading-Services--VP---EFC--Agency-Lending----State-Street-Markets_R-800696",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "bank other · trading",
+      "first_seen": "2026-11-03T16:49:07.233615Z",
+      "baseline": false
     }
   }
 }
