@@ -78,6 +78,21 @@
       "comp_basis": "hedge fund · risk ops · internship",
       "first_seen": "2026-10-14T15:58:56.010404Z",
       "baseline": false
+    },
+    "8927538002": {
+      "firm": "Capstone Investment Advisors",
+      "source_id": "8927538002",
+      "title": "Sr. Quant Developer",
+      "location": "London, England",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8927538002",
+      "department": "Tech - Quant",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 120,
+      "comp_label": "~£120k (est. £74–166k)",
+      "comp_basis": "hedge fund · swe",
+      "first_seen": "2026-11-03T01:52:35.840908Z",
+      "baseline": false
     }
   }
 }
