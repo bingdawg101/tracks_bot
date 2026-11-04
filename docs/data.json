@@ -1187,7 +1187,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 1,
-      "review_count": 2,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -1388,7 +1388,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 54,
+      "failure_count": 55,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1567,7 +1567,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1968,7 +1968,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 71,
+      "failure_count": 72,
       "cycle_note": "open"
     },
     {
@@ -2238,7 +2238,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 6,
+      "failure_count": 7,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2287,7 +2287,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 4,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
