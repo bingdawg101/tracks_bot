@@ -3,5 +3,36 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "RQ117874": {
+      "firm": "BP (Trading & Shipping)",
+      "source_id": "RQ117874",
+      "title": "Apprenticeship - Supply, trading & shipping - degree (L6) - UK",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---degree--L6----UK_RQ117874",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "energy utility · trading",
+      "first_seen": "2026-11-04T02:16:17.848057Z",
+      "baseline": false
+    },
+    "RQ117875": {
+      "firm": "BP (Trading & Shipping)",
+      "source_id": "RQ117875",
+      "title": "Apprenticeship - Supply, trading & shipping - advanced (L3) / higher (L4) - UK",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---advanced--L3----higher--L4----UK_RQ117875",
+      "department": "",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "energy utility · trading",
+      "first_seen": "2026-11-04T02:16:17.847908Z",
+      "baseline": false
+    }
+  }
 }

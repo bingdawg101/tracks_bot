@@ -682,5 +682,41 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
     "comp_k": 41,
     "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
+  },
+  {
+    "firm": "BP (Trading & Shipping)",
+    "source_id": "RQ117874",
+    "title": "Apprenticeship - Supply, trading & shipping - degree (L6) - UK",
+    "location": "United Kingdom - London",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---degree--L6----UK_RQ117874",
+    "match_level": "match",
+    "detected_at": "2026-11-04T02:16:17.858469Z",
+    "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'apprenticeship', location 'london'",
+    "comp_k": 78,
+    "comp_label": "~\u00a378k (est. \u00a361\u201395k)"
+  },
+  {
+    "firm": "BP (Trading & Shipping)",
+    "source_id": "RQ117875",
+    "title": "Apprenticeship - Supply, trading & shipping - advanced (L3) / higher (L4) - UK",
+    "location": "United Kingdom - London",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---advanced--L3----higher--L4----UK_RQ117875",
+    "match_level": "match",
+    "detected_at": "2026-11-04T02:16:17.858469Z",
+    "reason": "firm went from 0 to 2 matching roles \u2014 role 'trading', title mentions 'apprenticeship', location 'london'",
+    "comp_k": 78,
+    "comp_label": "~\u00a378k (est. \u00a361\u201395k)"
+  },
+  {
+    "firm": "HSBC",
+    "source_id": "1373585957",
+    "title": "Data Analyst - Quantitative Finance - Internship",
+    "location": "London, GB, E14 5HQ",
+    "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
+    "match_level": "match",
+    "detected_at": "2026-11-04T02:16:12.516930Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 41,
+    "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
   }
 ]
