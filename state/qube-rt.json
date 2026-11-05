@@ -468,6 +468,36 @@
       "comp_basis": "elite prop · other · internship",
       "first_seen": "2026-11-02T19:48:32.257845Z",
       "baseline": false
+    },
+    "8931696002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8931696002",
+      "title": "C++ Quantitative Developer - ETF Market Making",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8931696002",
+      "department": "Trading-CAB",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
+      "first_seen": "2026-11-05T18:06:51.742888Z",
+      "baseline": false
+    },
+    "8932115002": {
+      "firm": "Qube Research & Technologies",
+      "source_id": "8932115002",
+      "title": "Quantitative Developer - Execution",
+      "location": "London",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8932115002",
+      "department": "MF-Commo-Exec",
+      "employment_type": "Full-time",
+      "match_level": "review",
+      "comp_k": 170,
+      "comp_label": "~£170k (est. £105–235k)",
+      "comp_basis": "elite prop · trading",
+      "first_seen": "2026-11-05T18:06:51.766170Z",
+      "baseline": false
     }
   }
 }

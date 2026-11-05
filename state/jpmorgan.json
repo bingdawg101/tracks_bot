@@ -48,6 +48,21 @@
       "comp_basis": "bank bulge · sales trading",
       "first_seen": "2026-11-03T16:49:12.884897Z",
       "baseline": false
+    },
+    "210806793": {
+      "firm": "JPMorgan",
+      "source_id": "210806793",
+      "title": "2027 Machine Learning Center of Excellence (NLP) - Internship",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793",
+      "department": "Data & Analytics",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 66,
+      "comp_label": "~£66k (est. £51–81k)",
+      "comp_basis": "bank bulge · quant research · internship",
+      "first_seen": "2026-11-05T18:07:08.233431Z",
+      "baseline": false
     }
   }
 }

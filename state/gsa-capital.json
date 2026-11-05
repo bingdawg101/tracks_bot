@@ -78,6 +78,21 @@
       "comp_basis": "hedge fund · trading",
       "first_seen": "2026-10-08T11:19:09.086469Z",
       "baseline": false
+    },
+    "8931606002": {
+      "firm": "GSA Capital",
+      "source_id": "8931606002",
+      "title": "Quant Workshop GSA x AlgoSoc 2026",
+      "location": "London",
+      "url": "https://www.gsacapital.com/careers/gh/?gh_jid=8931606002",
+      "department": "Onsite events",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-11-05T18:06:53.093633Z",
+      "baseline": false
     }
   }
 }
