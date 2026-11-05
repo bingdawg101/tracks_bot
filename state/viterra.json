@@ -1,6 +1,6 @@
 {
   "firm": "Viterra",
-  "failure_count": 9,
+  "failure_count": 10,
   "last_error": "viterra: POST https://viterra.wd3.myworkdayjobs.com/wday/cxs/viterra/External-CAN/jobs failed: Client error '403 Forbidden' for url 'https://viterra.wd3.myworkdayjobs.com/wday/cxs/viterra/External-CAN/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
   "established": true,
   "tracked": {}
