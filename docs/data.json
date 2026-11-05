@@ -931,7 +931,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 26
+      "age_days": 27
     },
     {
       "firm": "Goldman Sachs",
@@ -1388,7 +1388,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 58,
+      "failure_count": 59,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1968,7 +1968,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 75,
+      "failure_count": 76,
       "cycle_note": "open"
     },
     {
@@ -2027,7 +2027,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 3,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2087,7 +2087,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 5,
+      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2238,7 +2238,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 10,
+      "failure_count": 11,
       "cycle_note": "opens Oct 2026"
     },
     {
