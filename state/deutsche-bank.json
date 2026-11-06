@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "72591": {
+      "firm": "Deutsche Bank",
+      "source_id": "72591",
+      "title": "Quantitative Strategist",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=72591",
+      "department": "",
+      "employment_type": "Unbefristet Associate",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant research",
+      "first_seen": "2026-11-06T23:20:35.311998Z",
+      "baseline": false
+    },
     "76435": {
       "firm": "Deutsche Bank",
       "source_id": "76435",
@@ -17,6 +32,21 @@
       "comp_label": "~£62k (est. £48–76k)",
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-10-30T15:44:24.523211Z",
+      "baseline": false
+    },
+    "76587": {
+      "firm": "Deutsche Bank",
+      "source_id": "76587",
+      "title": "High Yield Research",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=76587",
+      "department": "",
+      "employment_type": "Unbefristet Associate",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-11-06T23:20:35.311834Z",
       "baseline": false
     }
   }
