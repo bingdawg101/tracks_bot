@@ -266,6 +266,33 @@
   ],
   "fresh": [
     {
+      "firm": "M&G plc",
+      "title": "Asset Management: Public Fixed Income Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Public-Fixed-Income-Internship--London-_R20813",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
+      "firm": "M&G plc",
+      "title": "Asset Management: Equities Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Equities-Internship--London-_R20841",
+      "employment_type": "",
+      "comp_k": 50,
+      "age_days": 0
+    },
+    {
+      "firm": "M&G plc",
+      "title": "Asset Management: Private Markets Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Private-Markets-Internship--London-_R20814",
+      "employment_type": "",
+      "comp_k": 38,
+      "age_days": 0
+    },
+    {
       "firm": "BP (Trading & Shipping)",
       "title": "L6 Degree Apprenticeship - Supply, trading & shipping - UK",
       "location": "United Kingdom - London",
@@ -751,7 +778,7 @@
       "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
       "employment_type": "",
       "comp_k": 120,
-      "age_days": 41
+      "age_days": 42
     },
     {
       "firm": "Jump Trading",
@@ -922,7 +949,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 27
+      "age_days": 28
     },
     {
       "firm": "Goldman Sachs",
@@ -1041,6 +1068,16 @@
       "review_count": 11,
       "failure_count": 0,
       "cycle_note": "open"
+    },
+    {
+      "name": "M&G plc",
+      "slug": "m-and-g",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 3,
+      "review_count": 5,
+      "failure_count": 0,
+      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "MUFG",
@@ -1369,7 +1406,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 62,
+      "failure_count": 63,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1738,7 +1775,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 1,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -1768,7 +1805,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 4,
+      "review_count": 5,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1841,16 +1878,6 @@
       "review_count": 0,
       "failure_count": 0,
       "cycle_note": "rolling"
-    },
-    {
-      "name": "M&G plc",
-      "slug": "m-and-g",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 0,
-      "review_count": 3,
-      "failure_count": 0,
-      "cycle_note": "opens Oct 2026"
     },
     {
       "name": "MET Group",
@@ -1959,7 +1986,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 79,
+      "failure_count": 80,
       "cycle_note": "open"
     },
     {
@@ -2229,7 +2256,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 14,
+      "failure_count": 15,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2278,7 +2305,7 @@
       "enabled": true,
       "tier": "bank_other",
       "match_count": 0,
-      "review_count": 3,
+      "review_count": 2,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -2324,6 +2351,42 @@
     }
   ],
   "history": [
+    {
+      "firm": "M&G plc",
+      "source_id": "R20814",
+      "title": "Asset Management: Private Markets Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Private-Markets-Internship--London-_R20814",
+      "match_level": "match",
+      "detected_at": "2026-11-06T11:31:26.344817Z",
+      "reason": "firm went from 0 to 3 matching roles \u2014 role 'markets', title mentions 'internship', location 'london'",
+      "comp_k": 38,
+      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+    },
+    {
+      "firm": "M&G plc",
+      "source_id": "R20841",
+      "title": "Asset Management: Equities Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Equities-Internship--London-_R20841",
+      "match_level": "match",
+      "detected_at": "2026-11-06T11:31:26.344817Z",
+      "reason": "firm went from 0 to 3 matching roles \u2014 role 'equities', title mentions 'internship', location 'london'",
+      "comp_k": 50,
+      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+    },
+    {
+      "firm": "M&G plc",
+      "source_id": "R20813",
+      "title": "Asset Management: Public Fixed Income Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Public-Fixed-Income-Internship--London-_R20813",
+      "match_level": "match",
+      "detected_at": "2026-11-06T11:31:26.344817Z",
+      "reason": "firm went from 0 to 3 matching roles \u2014 role 'fixed income', title mentions 'internship', location 'london'",
+      "comp_k": 50,
+      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+    },
     {
       "firm": "HSBC",
       "source_id": "1373585957",
@@ -2767,44 +2830,8 @@
       "reason": "role 'research', title mentions 'intern', location 'london'",
       "comp_k": 123,
       "comp_label": "~\u00a3123k (est. \u00a376\u2013170k)"
-    },
-    {
-      "firm": "CIBC Capital Markets",
-      "source_id": "2619190",
-      "title": "Global Markets Summer Intern - 10 week Summer Programme, June - September 2027",
-      "location": "London, GBR",
-      "url": "https://cibc.wd3.myworkdayjobs.com/job/London-GBR/Global-Markets-Summer-Intern---10-week-Summer-Programme--June---September-2027_2619190-1",
-      "match_level": "match",
-      "detected_at": "2026-09-18T14:26:59.617454Z",
-      "reason": "firm went from 0 to 1 matching roles \u2014 role 'global markets', title mentions 'intern', location 'london'",
-      "comp_k": 50,
-      "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
-    },
-    {
-      "firm": "Schroders",
-      "source_id": "1942",
-      "title": "2027 Public Markets Multi-Asset Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1942",
-      "match_level": "match",
-      "detected_at": "2026-09-18T14:26:31.278946Z",
-      "reason": "firm went from 0 to 5 matching roles \u2014 role 'multi-asset', title mentions 'internship', location 'london'",
-      "comp_k": 38,
-      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
-    },
-    {
-      "firm": "Schroders",
-      "source_id": "1941",
-      "title": "2027 Public Markets Quants Internship Programme",
-      "location": "London, United Kingdom",
-      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/1941",
-      "match_level": "match",
-      "detected_at": "2026-09-18T14:26:31.278946Z",
-      "reason": "firm went from 0 to 5 matching roles \u2014 role 'markets', title mentions 'internship', location 'london'",
-      "comp_k": 38,
-      "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
     }
   ],
-  "last_opening": "2026-11-04T02:16:12.516930Z",
-  "total_match": 78
+  "last_opening": "2026-11-06T11:31:26.344817Z",
+  "total_match": 81
 }

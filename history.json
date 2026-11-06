@@ -718,5 +718,41 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
     "comp_k": 41,
     "comp_label": "~\u00a341k (est. \u00a332\u201350k)"
+  },
+  {
+    "firm": "M&G plc",
+    "source_id": "R20813",
+    "title": "Asset Management: Public Fixed Income Internship (London)",
+    "location": "London",
+    "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Public-Fixed-Income-Internship--London-_R20813",
+    "match_level": "match",
+    "detected_at": "2026-11-06T11:31:26.344817Z",
+    "reason": "firm went from 0 to 3 matching roles \u2014 role 'fixed income', title mentions 'internship', location 'london'",
+    "comp_k": 50,
+    "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+  },
+  {
+    "firm": "M&G plc",
+    "source_id": "R20841",
+    "title": "Asset Management: Equities Internship (London)",
+    "location": "London",
+    "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Equities-Internship--London-_R20841",
+    "match_level": "match",
+    "detected_at": "2026-11-06T11:31:26.344817Z",
+    "reason": "firm went from 0 to 3 matching roles \u2014 role 'equities', title mentions 'internship', location 'london'",
+    "comp_k": 50,
+    "comp_label": "~\u00a350k (est. \u00a339\u201361k)"
+  },
+  {
+    "firm": "M&G plc",
+    "source_id": "R20814",
+    "title": "Asset Management: Private Markets Internship (London)",
+    "location": "London",
+    "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Asset-Management--Private-Markets-Internship--London-_R20814",
+    "match_level": "match",
+    "detected_at": "2026-11-06T11:31:26.344817Z",
+    "reason": "firm went from 0 to 3 matching roles \u2014 role 'markets', title mentions 'internship', location 'london'",
+    "comp_k": 38,
+    "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
   }
 ]
