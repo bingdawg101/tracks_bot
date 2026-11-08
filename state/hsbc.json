@@ -1,7 +1,7 @@
 {
   "firm": "HSBC",
-  "failure_count": 1,
-  "last_error": "Client error '404 Not Found' for url 'https://apply.careers.hsbc.com/emergingtalent/tile-search-results/?data=%7B%22SearchParameters%22%3A+%7B%22FirstItem%22%3A+1%2C+%22CountItem%22%3A+100%2C+%22Sort%22%3A+%5B%7B%22Criterion%22%3A+%22PostingStartDate%22%2C+%22Direction%22%3A+%22DESC%22%7D%5D%7D%7D'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "1376335257": {
