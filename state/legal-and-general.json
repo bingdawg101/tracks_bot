@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "744000157413381": {
-      "firm": "Legal & General",
-      "source_id": "744000157413381",
-      "title": "Year in Industry – Actuarial - Retail Protection Pricing – Brighton & Hove – 2027",
-      "location": "Brighton and Hove, England, GB",
-      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000157413381",
-      "department": "COMMERCIAL PRICING - 761010",
-      "employment_type": "Full-time Internship",
-      "match_level": "review",
-      "comp_k": 48,
-      "comp_label": "~£48k (est. £37–59k)",
-      "comp_basis": "bank other · commercial · internship",
-      "first_seen": "2026-10-23T10:14:21.418535Z",
-      "baseline": false
-    },
     "744000158310609": {
       "firm": "Legal & General",
       "source_id": "744000158310609",
@@ -47,21 +32,6 @@
       "comp_label": "~£78k (est. £61–95k)",
       "comp_basis": "bank other · trading",
       "first_seen": "2026-10-28T15:30:14.840579Z",
-      "baseline": false
-    },
-    "744000159111239": {
-      "firm": "Legal & General",
-      "source_id": "744000159111239",
-      "title": "Apprenticeship - Asset Management Data Programme - London - 2027",
-      "location": "London, England, GB",
-      "url": "https://jobs.smartrecruiters.com/legalandgeneral/744000159111239",
-      "department": "FUTURE TAL - APPRENTICE - 601057",
-      "employment_type": "Full-time Entry Level",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-11-02T19:48:44.619344Z",
       "baseline": false
     }
   }

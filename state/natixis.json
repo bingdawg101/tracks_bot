@@ -18,6 +18,36 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-09-21T15:56:11.364394Z",
       "baseline": false
+    },
+    "20751": {
+      "firm": "Natixis",
+      "source_id": "20751",
+      "title": "Intern - SPG Sales",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-spg-sales-2",
+      "department": "Commercial",
+      "employment_type": "Internship",
+      "match_level": "review",
+      "comp_k": 48,
+      "comp_label": "~£48k (est. £37–59k)",
+      "comp_basis": "bank other · commercial · internship",
+      "first_seen": "2026-11-09T16:02:38.805169Z",
+      "baseline": false
+    },
+    "20752": {
+      "firm": "Natixis",
+      "source_id": "20752",
+      "title": "Intern - Financing Operations Agency & Solutions",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-financing-operations-agency-solutions-2",
+      "department": "Other",
+      "employment_type": "Internship",
+      "match_level": "review",
+      "comp_k": 36,
+      "comp_label": "~£36k (est. £28–44k)",
+      "comp_basis": "bank other · risk ops · internship",
+      "first_seen": "2026-11-09T16:02:38.805066Z",
+      "baseline": false
     }
   }
 }
