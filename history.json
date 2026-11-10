@@ -754,5 +754,17 @@
     "reason": "firm went from 0 to 3 matching roles \u2014 role 'markets', title mentions 'internship', location 'london'",
     "comp_k": 38,
     "comp_label": "~\u00a338k (est. \u00a330\u201346k)"
+  },
+  {
+    "firm": "Millennium Management",
+    "source_id": "REQ-30702",
+    "title": "2027 Quantitative Researcher Intern, London (6 Month Internship)",
+    "location": "London, London, United Kingdom",
+    "url": "https://mlp.eightfold.ai/careers/job/755958178483",
+    "match_level": "match",
+    "detected_at": "2026-11-10T00:11:08.201901Z",
+    "reason": "role 'trading', title mentions 'intern', location 'london'",
+    "comp_k": 136,
+    "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
   }
 ]

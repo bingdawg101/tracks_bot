@@ -93,6 +93,21 @@
       "comp_basis": "hedge fund · trading · internship",
       "first_seen": "2026-09-18T14:21:38.788165Z",
       "baseline": true
+    },
+    "REQ-30702": {
+      "firm": "Millennium Management",
+      "source_id": "REQ-30702",
+      "title": "2027 Quantitative Researcher Intern, London (6 Month Internship)",
+      "location": "London, London, United Kingdom",
+      "url": "https://mlp.eightfold.ai/careers/job/755958178483",
+      "department": "Trading",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 136,
+      "comp_label": "~£136k (est. £84–188k)",
+      "comp_basis": "hedge fund · quant research · internship",
+      "first_seen": "2026-11-10T00:11:08.201895Z",
+      "baseline": false
     }
   }
 }
