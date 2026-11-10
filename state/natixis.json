@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "20386": {
-      "firm": "Natixis",
-      "source_id": "20386",
-      "title": "Intern - UK Corporate Coverage",
-      "location": "London",
-      "url": "https://recrutement.natixis.com/en/job/intern-uk-corporate-coverage-2",
-      "department": "Other",
-      "employment_type": "Internship",
-      "match_level": "review",
-      "comp_k": 38,
-      "comp_label": "~£38k (est. £30–46k)",
-      "comp_basis": "bank other · other · internship",
-      "first_seen": "2026-09-21T15:56:11.364394Z",
-      "baseline": false
-    },
     "20751": {
       "firm": "Natixis",
       "source_id": "20751",
