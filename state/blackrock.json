@@ -64,6 +64,21 @@
       "first_seen": "2026-09-03T21:00:22.410589Z",
       "baseline": true
     },
+    "97150826704": {
+      "firm": "BlackRock",
+      "source_id": "97150826704",
+      "title": "2027 Placement Program - EMEA London, England 11/10/2026",
+      "location": "London, England",
+      "url": "https://careers.blackrock.com/job/london/2027-placement-program-emea/45831/97150826704",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-11-10T21:26:05.830790Z",
+      "baseline": false
+    },
     "97150826736": {
       "firm": "BlackRock",
       "source_id": "97150826736",

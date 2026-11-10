@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R162377": {
+      "firm": "Northern Trust",
+      "source_id": "R162377",
+      "title": "EMEA CAO Office Analyst | Graduate",
+      "location": "London, United Kingdom",
+      "url": "https://ntrs.wd1.myworkdayjobs.com/job/London-United-Kingdom/EMEA-CAO-Office-Analyst---Graduate_R162377",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-11-10T21:26:24.061880Z",
+      "baseline": false
+    }
+  }
 }

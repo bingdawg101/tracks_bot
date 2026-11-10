@@ -108,6 +108,21 @@
       "comp_basis": "bank other · sales trading · internship",
       "first_seen": "2026-11-06T11:31:26.341675Z",
       "baseline": false
+    },
+    "R20871": {
+      "firm": "M&G plc",
+      "source_id": "R20871",
+      "title": "Risk & Compliance Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Risk---Compliance-Internship--London-_R20871",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 36,
+      "comp_label": "~£36k (est. £28–44k)",
+      "comp_basis": "bank other · risk ops · internship",
+      "first_seen": "2026-11-10T21:26:00.567102Z",
+      "baseline": false
     }
   }
 }
