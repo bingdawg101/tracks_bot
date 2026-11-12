@@ -138,6 +138,21 @@
       "comp_basis": "bank other · risk ops · internship",
       "first_seen": "2026-11-10T21:26:00.567102Z",
       "baseline": false
+    },
+    "R20891": {
+      "firm": "M&G plc",
+      "source_id": "R20891",
+      "title": "Technology Internship (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Technology-Internship--London-_R20891",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-11-12T11:35:34.058819Z",
+      "baseline": false
     }
   }
 }
