@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "210767645": {
+      "firm": "JPMorgan",
+      "source_id": "210767645",
+      "title": "Commercial & Investment Bank GF&BM – Global Commodities Group – Product Control – Associate – London",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767645",
+      "department": "Finance",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 80,
+      "comp_label": "~£80k (est. £62–98k)",
+      "comp_basis": "bank bulge · commercial",
+      "first_seen": "2026-11-12T19:06:51.025545Z",
+      "baseline": false
+    },
     "210805059": {
       "firm": "JPMorgan",
       "source_id": "210805059",
