@@ -33,6 +33,21 @@
       "comp_basis": "bank other · risk ops · internship",
       "first_seen": "2026-11-09T16:02:38.805066Z",
       "baseline": false
+    },
+    "20791": {
+      "firm": "Natixis",
+      "source_id": "20791",
+      "title": "Intern - Workplace & Facilities",
+      "location": "London",
+      "url": "https://recrutement.natixis.com/en/job/intern-workplace-facilities-2",
+      "department": "Other",
+      "employment_type": "Internship",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-11-13T15:12:49.428361Z",
+      "baseline": false
     }
   }
 }
