@@ -766,5 +766,17 @@
     "reason": "role 'trading', title mentions 'intern', location 'london'",
     "comp_k": 136,
     "comp_label": "~\u00a3136k (est. \u00a384\u2013188k)"
+  },
+  {
+    "firm": "JPMorgan",
+    "source_id": "210775780",
+    "title": "2027 Quantitative Research Markets Associate Program \u2013 Off-Cycle Internship \u2013 London",
+    "location": "LONDON, LONDON, United Kingdom",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
+    "match_level": "match",
+    "detected_at": "2026-11-13T21:26:39.522601Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
+    "comp_k": 66,
+    "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
   }
 ]

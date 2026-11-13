@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "R-0000192317": {
+      "firm": "RBC Capital Markets",
+      "source_id": "R-0000192317",
+      "title": "KYC Analyst, Client Success Team, Client Shared Services, RBC Capital Markets (London)",
+      "location": "London, United Kingdom",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/KYC-Associate--Client-Success-Team--Client-Shared-Services--RBC-Capital-Markets--London-_R-0000192317-2/apply",
+      "department": "Operations",
+      "employment_type": "Full time",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-11-13T21:26:40.778344Z",
+      "baseline": false
+    },
     "R-0000192354": {
       "firm": "RBC Capital Markets",
       "source_id": "R-0000192354",
@@ -17,21 +32,6 @@
       "comp_label": "~£55k (est. £43–67k)",
       "comp_basis": "bank other · other",
       "first_seen": "2026-11-11T16:03:37.435741Z",
-      "baseline": false
-    },
-    "R-0000192427": {
-      "firm": "RBC Capital Markets",
-      "source_id": "R-0000192427",
-      "title": "Analyst, GIB Transportation",
-      "location": "London, United Kingdom",
-      "url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--GIB-Transportation_R-0000192427-1/apply",
-      "department": "Customer Service | Client Advice | Sales",
-      "employment_type": "Full time",
-      "match_level": "review",
-      "comp_k": 55,
-      "comp_label": "~£55k (est. £43–67k)",
-      "comp_basis": "bank other · other",
-      "first_seen": "2026-11-10T21:26:06.636802Z",
       "baseline": false
     }
   }

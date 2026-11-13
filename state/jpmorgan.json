@@ -19,6 +19,21 @@
       "first_seen": "2026-11-12T19:06:51.025545Z",
       "baseline": false
     },
+    "210775780": {
+      "firm": "JPMorgan",
+      "source_id": "210775780",
+      "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
+      "location": "LONDON, LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
+      "department": "Program Analysts & Associate",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 66,
+      "comp_label": "~£66k (est. £51–81k)",
+      "comp_basis": "bank bulge · quant research · internship",
+      "first_seen": "2026-11-13T21:26:39.482329Z",
+      "baseline": false
+    },
     "210805059": {
       "firm": "JPMorgan",
       "source_id": "210805059",
@@ -47,21 +62,6 @@
       "comp_label": "~£90k (est. £70–110k)",
       "comp_basis": "bank bulge · trading",
       "first_seen": "2026-11-06T18:21:48.181879Z",
-      "baseline": false
-    },
-    "210806793": {
-      "firm": "JPMorgan",
-      "source_id": "210806793",
-      "title": "2027 Machine Learning Center of Excellence (NLP) - Internship",
-      "location": "LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793",
-      "department": "Data & Analytics",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 66,
-      "comp_label": "~£66k (est. £51–81k)",
-      "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-11-05T18:07:08.233431Z",
       "baseline": false
     },
     "210807108": {
