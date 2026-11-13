@@ -308,7 +308,7 @@
       "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---advanced--L3----higher--L4----UK_RQ117875",
       "employment_type": "",
       "comp_k": 78,
-      "age_days": 8
+      "age_days": 9
     }
   ],
   "stale": [
@@ -977,18 +977,9 @@
       "employment_type": "",
       "comp_k": 43,
       "age_days": 70
-    },
-    {
-      "firm": "BlackRock",
-      "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London London, England 09/15/2026",
-      "location": "London, England",
-      "url": "https://careers.blackrock.com/job/london/2027-quantitative-masters-internship-programme-investments-quantitative-investing-london/45831/100661849296",
-      "employment_type": "",
-      "comp_k": 38,
-      "age_days": 58
     }
   ],
-  "stale_firms": 26,
+  "stale_firms": 25,
   "firms": [
     {
       "name": "Goldman Sachs",
@@ -1157,16 +1148,6 @@
       "tier": "energy_utility",
       "match_count": 1,
       "review_count": 1,
-      "failure_count": 0,
-      "cycle_note": "open"
-    },
-    {
-      "name": "BlackRock",
-      "slug": "blackrock",
-      "enabled": true,
-      "tier": "bank_other",
-      "match_count": 1,
-      "review_count": 6,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1391,13 +1372,23 @@
       "cycle_note": "rolling"
     },
     {
+      "name": "BlackRock",
+      "slug": "blackrock",
+      "enabled": true,
+      "tier": "bank_other",
+      "match_count": 0,
+      "review_count": 6,
+      "failure_count": 0,
+      "cycle_note": "open"
+    },
+    {
       "name": "BlueCrest Capital Management",
       "slug": "bluecrest",
       "enabled": true,
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 89,
+      "failure_count": 90,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1977,7 +1968,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 106,
+      "failure_count": 107,
       "cycle_note": "open"
     },
     {
@@ -2247,7 +2238,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 41,
+      "failure_count": 42,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2824,5 +2815,5 @@
     }
   ],
   "last_opening": "2026-11-10T00:11:08.201901Z",
-  "total_match": 80
+  "total_match": 79
 }
