@@ -78,6 +78,36 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-11-10T21:25:56.168011Z",
       "baseline": false
+    },
+    "76722": {
+      "firm": "Deutsche Bank",
+      "source_id": "76722",
+      "title": "Quantitative Strategist – Market Risk",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=76722",
+      "department": "",
+      "employment_type": "Unbefristet Vice President",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant research",
+      "first_seen": "2026-11-14T01:37:42.894858Z",
+      "baseline": false
+    },
+    "76723": {
+      "firm": "Deutsche Bank",
+      "source_id": "76723",
+      "title": "Quantitative Strategist",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=76723",
+      "department": "",
+      "employment_type": "Unbefristet Vice President",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £74–116k)",
+      "comp_basis": "bank bulge · quant research",
+      "first_seen": "2026-11-14T01:37:42.895978Z",
+      "baseline": false
     }
   }
 }

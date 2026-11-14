@@ -1,7 +1,7 @@
 {
   "firm": "Morgan Stanley",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "morgan-stanley: POST https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs failed: Server error '521 <none>' for url 'https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "established": true,
   "tracked": {
     "PT-JR042206": {
