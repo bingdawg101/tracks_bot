@@ -1,7 +1,7 @@
 {
   "firm": "Barclays",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "barclays: POST https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs failed: Expecting value: line 1 column 1 (char 0)",
   "established": true,
   "tracked": {}
 }

@@ -1,6 +1,6 @@
 {
   "firm": "Wellington Management",
-  "failure_count": 1,
+  "failure_count": 2,
   "last_error": "wellington-management: POST https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs failed: Server error '521 <none>' for url 'https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/External/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "established": true,
   "tracked": {

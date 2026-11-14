@@ -1,6 +1,6 @@
 {
   "firm": "Invesco",
-  "failure_count": 1,
+  "failure_count": 2,
   "last_error": "invesco: POST https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs failed: Server error '521 <none>' for url 'https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/521",
   "established": true,
   "tracked": {
