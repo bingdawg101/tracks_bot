@@ -1,6 +1,6 @@
 {
   "firm": "Nordea",
-  "failure_count": 0,
+  "failure_count": 1,
   "last_error": "",
   "established": true,
   "tracked": {}

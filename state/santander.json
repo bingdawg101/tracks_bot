@@ -1,7 +1,7 @@
 {
   "firm": "Santander",
-  "failure_count": 1,
-  "last_error": "santander: POST https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs failed: Expecting value: line 1 column 1 (char 0)",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }
