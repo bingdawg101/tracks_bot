@@ -228,21 +228,6 @@
       "comp_basis": "bank bulge · quant research",
       "first_seen": "2026-09-03T16:23:20.659027Z",
       "baseline": true
-    },
-    "175428_GS_CAMPUS": {
-      "firm": "Goldman Sachs",
-      "source_id": "175428_GS_CAMPUS",
-      "title": "2027 / EMEA / London / Investment Banking Quantitative Strats / Summer Analyst",
-      "location": "London United Kingdom",
-      "url": "https://higher.gs.com/roles/175428_GS_CAMPUS",
-      "department": "Engineering Division",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 66,
-      "comp_label": "~£66k (est. £51–81k)",
-      "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-09-03T16:23:20.662649Z",
-      "baseline": true
     }
   }
 }

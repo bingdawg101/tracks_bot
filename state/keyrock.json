@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "959a9226-816b-4894-80e6-feaa79018d03": {
+      "firm": "Keyrock",
+      "source_id": "959a9226-816b-4894-80e6-feaa79018d03",
+      "title": "DeFi Quant Trader Intern (Credit) - London",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
+      "department": "Trading & Research",
+      "employment_type": "FullTime",
+      "match_level": "match",
+      "comp_k": 175,
+      "comp_label": "~£175k (est. £108–241k)",
+      "comp_basis": "elite prop · quant trading · internship",
+      "first_seen": "2026-11-16T18:56:00.571730Z",
+      "baseline": false
+    }
+  }
 }

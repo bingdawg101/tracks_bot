@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "72591": {
-      "firm": "Deutsche Bank",
-      "source_id": "72591",
-      "title": "Quantitative Strategist",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=72591",
-      "department": "",
-      "employment_type": "Unbefristet Associate",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £74–116k)",
-      "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-11-06T23:20:35.311998Z",
-      "baseline": false
-    },
     "75853": {
       "firm": "Deutsche Bank",
       "source_id": "75853",
@@ -107,6 +92,21 @@
       "comp_label": "~£95k (est. £74–116k)",
       "comp_basis": "bank bulge · quant research",
       "first_seen": "2026-11-14T01:37:42.895978Z",
+      "baseline": false
+    },
+    "76738": {
+      "firm": "Deutsche Bank",
+      "source_id": "76738",
+      "title": "Franchise Pricing Rates Algo Quant",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=76738",
+      "department": "",
+      "employment_type": "Unbefristet Vice President",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-11-16T18:56:06.022520Z",
       "baseline": false
     }
   }

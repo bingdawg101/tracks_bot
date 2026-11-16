@@ -1,6 +1,6 @@
 {
   "firm": "ING",
-  "failure_count": 1,
+  "failure_count": 2,
   "last_error": "ing: POST https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs failed: Client error '429 Too Many Requests' for url 'https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "established": true,
   "tracked": {

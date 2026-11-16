@@ -778,5 +778,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'quantitative', title mentions 'internship', location 'london'",
     "comp_k": 66,
     "comp_label": "~\u00a366k (est. \u00a351\u201381k)"
+  },
+  {
+    "firm": "Keyrock",
+    "source_id": "959a9226-816b-4894-80e6-feaa79018d03",
+    "title": "DeFi Quant Trader Intern (Credit) - London",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
+    "match_level": "match",
+    "detected_at": "2026-11-16T18:56:00.571753Z",
+    "reason": "firm went from 0 to 1 matching roles \u2014 role 'trader', title mentions 'intern', location 'london'",
+    "comp_k": 175,
+    "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
   }
 ]
