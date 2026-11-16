@@ -877,7 +877,7 @@
       "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---advanced--L3----higher--L4----UK_RQ117875",
       "employment_type": "",
       "comp_k": 78,
-      "age_days": 11
+      "age_days": 12
     },
     {
       "firm": "Goldman Sachs",
@@ -1077,7 +1077,7 @@
       "tier": "bank_other",
       "match_count": 3,
       "review_count": 6,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1087,7 +1087,7 @@
       "tier": "bank_other",
       "match_count": 3,
       "review_count": 5,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "open"
     },
     {
@@ -1157,7 +1157,7 @@
       "tier": "energy_utility",
       "match_count": 1,
       "review_count": 1,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "open"
     },
     {
@@ -1216,7 +1216,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 1,
-      "review_count": 5,
+      "review_count": 7,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1237,7 +1237,7 @@
       "tier": "hedge_fund",
       "match_count": 1,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "rolling"
     },
     {
@@ -1367,7 +1367,7 @@
       "tier": "bank_bulge",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "open"
     },
     {
@@ -1407,7 +1407,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 102,
+      "failure_count": 103,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1417,7 +1417,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -1477,7 +1477,7 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -1637,7 +1637,7 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "closed for cycle"
     },
     {
@@ -1687,7 +1687,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 1,
+      "failure_count": 0,
       "cycle_note": "\u2014"
     },
     {
@@ -1767,7 +1767,7 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "rolling"
     },
     {
@@ -1787,7 +1787,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 1,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1957,7 +1957,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1977,7 +1977,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 119,
+      "failure_count": 120,
       "cycle_note": "open"
     },
     {
@@ -2057,7 +2057,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -2097,7 +2097,7 @@
       "tier": "energy_utility",
       "match_count": 0,
       "review_count": 6,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Sep 2026"
     },
     {
@@ -2127,7 +2127,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 4,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2167,7 +2167,7 @@
       "tier": "commodity_major",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "closed for cycle"
     },
     {
@@ -2247,7 +2247,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 54,
+      "failure_count": 55,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2297,7 +2297,7 @@
       "tier": "bank_other",
       "match_count": 0,
       "review_count": 2,
-      "failure_count": 0,
+      "failure_count": 1,
       "cycle_note": "opens Sep 2026"
     },
     {

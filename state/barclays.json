@@ -1,7 +1,7 @@
 {
   "firm": "Barclays",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "barclays: POST https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs failed: Client error '429 Too Many Requests' for url 'https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "established": true,
   "tracked": {}
 }
