@@ -1,7 +1,7 @@
 {
   "firm": "Freepoint Commodities",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "freepoint: POST https://freepoint.wd12.myworkdayjobs.com/wday/cxs/freepoint/Freepoint_Commodities/jobs failed: Client error '429 Too Many Requests' for url 'https://freepoint.wd12.myworkdayjobs.com/wday/cxs/freepoint/Freepoint_Commodities/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
   "established": true,
   "tracked": {}
 }
