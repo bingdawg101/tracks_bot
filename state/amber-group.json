@@ -1,7 +1,7 @@
 {
   "firm": "Amber Group",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "amber-group: GET https://api.lever.co/v0/postings/ambergroup failed: ",
   "established": true,
   "tracked": {}
 }

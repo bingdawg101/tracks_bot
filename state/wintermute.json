@@ -1,7 +1,7 @@
 {
   "firm": "Wintermute",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "wintermute: GET https://api.lever.co/v0/postings/wintermute-trading failed: Server error '500 Internal Server Error' for url 'https://api.lever.co/v0/postings/wintermute-trading?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
   "established": true,
   "tracked": {
     "0874ca9b-7c02-4364-bb78-b7b04272351e": {

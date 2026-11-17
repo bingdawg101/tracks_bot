@@ -1,7 +1,7 @@
 {
   "firm": "Belvedere Trading",
-  "failure_count": 0,
-  "last_error": "",
+  "failure_count": 1,
+  "last_error": "belvedere-trading: GET https://api.lever.co/v0/postings/belvederetrading failed: Server error '500 Internal Server Error' for url 'https://api.lever.co/v0/postings/belvederetrading?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
   "established": true,
   "tracked": {}
 }
