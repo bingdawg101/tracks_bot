@@ -1,7 +1,7 @@
 {
   "firm": "Presto Labs",
-  "failure_count": 1,
-  "last_error": "presto-labs: GET https://api.lever.co/v0/postings/prestolabs failed: ",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }

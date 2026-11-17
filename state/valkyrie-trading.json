@@ -1,7 +1,7 @@
 {
   "firm": "Valkyrie Trading",
-  "failure_count": 1,
-  "last_error": "valkyrie-trading: GET https://api.lever.co/v0/postings/valkyrietrading failed: ",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }
