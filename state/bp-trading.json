@@ -1,7 +1,7 @@
 {
   "firm": "BP (Trading & Shipping)",
-  "failure_count": 2,
-  "last_error": "bp-trading: POST https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpCareers/jobs failed: Client error '429 Too Many Requests' for url 'https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpCareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "RQ117650": {

@@ -1,7 +1,7 @@
 {
   "firm": "M&G plc",
-  "failure_count": 2,
-  "last_error": "m-and-g: POST https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs failed: Client error '429 Too Many Requests' for url 'https://mgpru.wd3.myworkdayjobs.com/wday/cxs/mgpru/mandgprudential/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "R20636": {

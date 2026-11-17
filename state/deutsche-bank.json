@@ -108,6 +108,21 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-11-16T18:56:06.022520Z",
       "baseline": false
+    },
+    "76741": {
+      "firm": "Deutsche Bank",
+      "source_id": "76741",
+      "title": "Franchise Pricing Rates Algo Quant",
+      "location": "London, Großbritannien und Nordirland",
+      "url": "/index.php?ac=jobad&id=76741",
+      "department": "",
+      "employment_type": "Unbefristet Associate",
+      "match_level": "review",
+      "comp_k": 62,
+      "comp_label": "~£62k (est. £48–76k)",
+      "comp_basis": "bank bulge · other",
+      "first_seen": "2026-11-17T02:20:57.001958Z",
+      "baseline": false
     }
   }
 }

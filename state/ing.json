@@ -1,23 +1,7 @@
 {
   "firm": "ING",
-  "failure_count": 2,
-  "last_error": "ing: POST https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs failed: Client error '429 Too Many Requests' for url 'https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
-  "tracked": {
-    "REQ-10124025": {
-      "firm": "ING",
-      "source_id": "REQ-10124025",
-      "title": "Repo Trader - Associate / VP",
-      "location": "London",
-      "url": "https://ing.wd3.myworkdayjobs.com/job/London/Repo-Trader---Associate---VP_REQ-10124025",
-      "department": "",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 78,
-      "comp_label": "~£78k (est. £61–95k)",
-      "comp_basis": "bank other · trading",
-      "first_seen": "2026-10-29T12:52:32.009610Z",
-      "baseline": false
-    }
-  }
+  "tracked": {}
 }

@@ -790,5 +790,17 @@
     "reason": "firm went from 0 to 1 matching roles \u2014 role 'trader', title mentions 'intern', location 'london'",
     "comp_k": 175,
     "comp_label": "~\u00a3175k (est. \u00a3108\u2013241k)"
+  },
+  {
+    "firm": "Keyrock",
+    "source_id": "99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+    "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+    "match_level": "match",
+    "detected_at": "2026-11-17T02:20:52.602827Z",
+    "reason": "role 'trading', employment type 'Intern', location 'london'",
+    "comp_k": 156,
+    "comp_label": "~\u00a3156k (est. \u00a397\u2013215k)"
   }
 ]

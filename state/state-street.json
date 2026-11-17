@@ -1,7 +1,7 @@
 {
   "firm": "State Street",
-  "failure_count": 2,
-  "last_error": "state-street: POST https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs failed: Client error '429 Too Many Requests' for url 'https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {
     "R-795646": {

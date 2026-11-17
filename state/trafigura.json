@@ -1,7 +1,7 @@
 {
   "firm": "Trafigura",
-  "failure_count": 2,
-  "last_error": "trafigura: POST https://trafigura.wd3.myworkdayjobs.com/wday/cxs/trafigura/TrafiguraCareerSite/jobs failed: Client error '429 Too Many Requests' for url 'https://trafigura.wd3.myworkdayjobs.com/wday/cxs/trafigura/TrafiguraCareerSite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
   "tracked": {}
 }

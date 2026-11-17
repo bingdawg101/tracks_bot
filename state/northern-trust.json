@@ -1,7 +1,23 @@
 {
   "firm": "Northern Trust",
-  "failure_count": 2,
-  "last_error": "northern-trust: POST https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs failed: Client error '429 Too Many Requests' for url 'https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429",
+  "failure_count": 0,
+  "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R164451": {
+      "firm": "Northern Trust",
+      "source_id": "R164451",
+      "title": "Specialist - Carbon & Commodities - Digital Assets and Financial Markets (DAFM)-London",
+      "location": "London, United Kingdom",
+      "url": "https://ntrs.wd1.myworkdayjobs.com/job/London-United-Kingdom/Specialist---Carbon---Commodities---Digital-Assets-and-Financial-Markets--DAFM--London_R164451",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-11-17T02:21:20.076820Z",
+      "baseline": false
+    }
+  }
 }
