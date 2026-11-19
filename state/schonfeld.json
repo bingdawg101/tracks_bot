@@ -18,6 +18,21 @@
       "comp_basis": "hedge fund · quant research",
       "first_seen": "2026-09-30T15:12:29.635917Z",
       "baseline": false
+    },
+    "8400915": {
+      "firm": "Schonfeld Strategic Advisors",
+      "source_id": "8400915",
+      "title": "2027 PhD Quantitative Research Intern",
+      "location": "London, England, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8400915",
+      "department": "Internship",
+      "employment_type": "",
+      "match_level": "match",
+      "comp_k": 136,
+      "comp_label": "~£136k (est. £84–188k)",
+      "comp_basis": "hedge fund · quant research · internship",
+      "first_seen": "2026-11-19T16:58:45.648157Z",
+      "baseline": false
     }
   }
 }

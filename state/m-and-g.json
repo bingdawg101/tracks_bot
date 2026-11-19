@@ -138,6 +138,21 @@
       "comp_basis": "bank other · other · internship",
       "first_seen": "2026-11-12T11:35:34.058819Z",
       "baseline": false
+    },
+    "R20950": {
+      "firm": "M&G plc",
+      "source_id": "R20950",
+      "title": "Technology Data Graduate (London)",
+      "location": "London",
+      "url": "https://mgpru.wd3.myworkdayjobs.com/job/London/Technology-Data-Graduate--London-_R20950",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 55,
+      "comp_label": "~£55k (est. £43–67k)",
+      "comp_basis": "bank other · other",
+      "first_seen": "2026-11-19T16:58:55.156547Z",
+      "baseline": false
     }
   }
 }

@@ -49,6 +49,21 @@
       "first_seen": "2026-09-03T16:23:19.251980Z",
       "baseline": true
     },
+    "7326870": {
+      "firm": "Hudson River Trading",
+      "source_id": "7326870",
+      "title": "AI Research Engineer",
+      "location": "London, United Kingdom; New York, NY, United States",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7326870",
+      "department": "Algo",
+      "employment_type": "Full-Time",
+      "match_level": "review",
+      "comp_k": 110,
+      "comp_label": "~£110k (est. £68–152k)",
+      "comp_basis": "elite prop · other",
+      "first_seen": "2026-11-19T16:58:44.182366Z",
+      "baseline": false
+    },
     "7353090": {
       "firm": "Hudson River Trading",
       "source_id": "7353090",
@@ -167,36 +182,6 @@
       "comp_label": "~£166k (est. £103–229k)",
       "comp_basis": "elite prop · quant research · internship",
       "first_seen": "2026-09-03T16:23:19.244299Z",
-      "baseline": true
-    },
-    "7972584": {
-      "firm": "Hudson River Trading",
-      "source_id": "7972584",
-      "title": "AI Research Engineer, Pre-Training",
-      "location": "London, United Kingdom; New York, NY, United States",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972584",
-      "department": "Algo",
-      "employment_type": "Full-Time",
-      "match_level": "review",
-      "comp_k": 110,
-      "comp_label": "~£110k (est. £68–152k)",
-      "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.239409Z",
-      "baseline": true
-    },
-    "7972593": {
-      "firm": "Hudson River Trading",
-      "source_id": "7972593",
-      "title": "AI Research Engineer, Inference",
-      "location": "London, United Kingdom; New York, NY, United States",
-      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7972593",
-      "department": "Algo",
-      "employment_type": "Full-Time",
-      "match_level": "review",
-      "comp_k": 110,
-      "comp_label": "~£110k (est. £68–152k)",
-      "comp_basis": "elite prop · other",
-      "first_seen": "2026-09-03T16:23:19.238200Z",
       "baseline": true
     },
     "8046074": {
