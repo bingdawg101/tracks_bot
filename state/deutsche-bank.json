@@ -123,21 +123,6 @@
       "comp_basis": "bank bulge · other",
       "first_seen": "2026-11-17T02:20:57.001958Z",
       "baseline": false
-    },
-    "76753": {
-      "firm": "Deutsche Bank",
-      "source_id": "76753",
-      "title": "Trading Quantitative Strategist",
-      "location": "London, Großbritannien und Nordirland",
-      "url": "/index.php?ac=jobad&id=76753",
-      "department": "",
-      "employment_type": "Unbefristet Analyst",
-      "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £74–116k)",
-      "comp_basis": "bank bulge · quant research",
-      "first_seen": "2026-11-17T19:33:45.580832Z",
-      "baseline": false
     }
   }
 }
