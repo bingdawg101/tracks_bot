@@ -267,20 +267,20 @@
   "fresh": [
     {
       "firm": "Keyrock",
-      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
-      "employment_type": "Intern",
-      "comp_k": 156,
-      "age_days": 1
-    },
-    {
-      "firm": "Keyrock",
       "title": "DeFi Quant Trader Intern (Credit) - London",
       "location": "London",
       "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
       "employment_type": "FullTime",
       "comp_k": 175,
+      "age_days": 2
+    },
+    {
+      "firm": "Keyrock",
+      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+      "employment_type": "Intern",
+      "comp_k": 156,
       "age_days": 2
     },
     {
@@ -859,7 +859,7 @@
       "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Apprenticeship---Supply--trading---shipping---advanced--L3----higher--L4----UK_RQ117875",
       "employment_type": "",
       "comp_k": 78,
-      "age_days": 14
+      "age_days": 15
     },
     {
       "firm": "Goldman Sachs",
@@ -1417,7 +1417,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 111,
+      "failure_count": 112,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1977,7 +1977,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 128,
+      "failure_count": 129,
       "cycle_note": "open"
     },
     {
@@ -2247,7 +2247,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 63,
+      "failure_count": 64,
       "cycle_note": "opens Oct 2026"
     },
     {
