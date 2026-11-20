@@ -4,21 +4,6 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "210775780": {
-      "firm": "JPMorgan",
-      "source_id": "210775780",
-      "title": "2027 Quantitative Research Markets Associate Program – Off-Cycle Internship – London",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775780",
-      "department": "Program Analysts & Associate",
-      "employment_type": "",
-      "match_level": "match",
-      "comp_k": 66,
-      "comp_label": "~£66k (est. £51–81k)",
-      "comp_basis": "bank bulge · quant research · internship",
-      "first_seen": "2026-11-13T21:26:39.482329Z",
-      "baseline": false
-    },
     "210807232": {
       "firm": "JPMorgan",
       "source_id": "210807232",

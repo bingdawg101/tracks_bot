@@ -4,6 +4,21 @@
   "last_error": "",
   "established": true,
   "tracked": {
+    "PT-JR039942": {
+      "firm": "Morgan Stanley",
+      "source_id": "PT-JR039942",
+      "title": "Algorithmic Trading Engineer - VP",
+      "location": "London, United Kingdom",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/London-United-Kingdom/VP---P4--Lead-Software-Eng---Job-Level---Vice-President_PT-JR039942",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 90,
+      "comp_label": "~£90k (est. £70–110k)",
+      "comp_basis": "bank bulge · trading",
+      "first_seen": "2026-11-20T20:59:39.072937Z",
+      "baseline": false
+    },
     "PT-JR043325": {
       "firm": "Morgan Stanley",
       "source_id": "PT-JR043325",
