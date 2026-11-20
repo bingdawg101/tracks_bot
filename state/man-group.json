@@ -78,6 +78,21 @@
       "comp_basis": "hedge fund · quant trading",
       "first_seen": "2026-10-22T14:41:40.797917Z",
       "baseline": false
+    },
+    "5039979101": {
+      "firm": "Man Group",
+      "source_id": "5039979101",
+      "title": "Solutions Graduate Analyst",
+      "location": "London",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101",
+      "department": "Man Solutions",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 95,
+      "comp_label": "~£95k (est. £59–131k)",
+      "comp_basis": "hedge fund · other",
+      "first_seen": "2026-11-20T12:58:12.943212Z",
+      "baseline": false
     }
   }
 }

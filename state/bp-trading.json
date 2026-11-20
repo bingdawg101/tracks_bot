@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "RQ117650": {
+      "firm": "BP (Trading & Shipping)",
+      "source_id": "RQ117650",
+      "title": "Marine Advisor Trading Support",
+      "location": "United Kingdom - London",
+      "url": "https://bpinternational.wd3.myworkdayjobs.com/job/United-Kingdom---London/Marine-Advisor-Trading-Support_RQ117650-1",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "energy utility · trading",
+      "first_seen": "2026-11-20T12:58:37.050427Z",
+      "baseline": false
+    }
+  }
 }
