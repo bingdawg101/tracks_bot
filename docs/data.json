@@ -266,15 +266,6 @@
   ],
   "fresh": [
     {
-      "firm": "HSBC",
-      "title": "Data Analyst - Quantitative Finance - Internship",
-      "location": "London, GB, E14 5HQ",
-      "url": "https://apply.careers.hsbc.com/emergingtalent/emergingtalent/job/London-Data-Analyst-Quantitative-Finance-Internship-E14-5HQ/1373585957/",
-      "employment_type": "",
-      "comp_k": 41,
-      "age_days": 0
-    },
-    {
       "firm": "Schonfeld Strategic Advisors",
       "title": "2027 PhD Quantitative Research Intern",
       "location": "London, England, United Kingdom",
@@ -285,20 +276,20 @@
     },
     {
       "firm": "Keyrock",
-      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
-      "employment_type": "Intern",
-      "comp_k": 156,
-      "age_days": 4
-    },
-    {
-      "firm": "Keyrock",
       "title": "DeFi Quant Trader Intern (Credit) - London",
       "location": "London",
       "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
       "employment_type": "FullTime",
       "comp_k": 175,
+      "age_days": 5
+    },
+    {
+      "firm": "Keyrock",
+      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+      "employment_type": "Intern",
+      "comp_k": 156,
       "age_days": 5
     }
   ],
@@ -1182,16 +1173,6 @@
       "cycle_note": "rolling"
     },
     {
-      "name": "HSBC",
-      "slug": "hsbc",
-      "enabled": true,
-      "tier": "bank_bulge",
-      "match_count": 1,
-      "review_count": 0,
-      "failure_count": 0,
-      "cycle_note": "opens Sep 2026"
-    },
-    {
       "name": "Headlands Technologies",
       "slug": "headlands-technologies",
       "enabled": true,
@@ -1418,7 +1399,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 122,
+      "failure_count": 123,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1782,6 +1763,16 @@
       "cycle_note": "rolling"
     },
     {
+      "name": "HSBC",
+      "slug": "hsbc",
+      "enabled": true,
+      "tier": "bank_bulge",
+      "match_count": 0,
+      "review_count": 0,
+      "failure_count": 0,
+      "cycle_note": "opens Sep 2026"
+    },
+    {
       "name": "ING",
       "slug": "ing",
       "enabled": true,
@@ -1978,7 +1969,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 139,
+      "failure_count": 140,
       "cycle_note": "open"
     },
     {
@@ -2238,7 +2229,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 74,
+      "failure_count": 75,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -2815,5 +2806,5 @@
     }
   ],
   "last_opening": "2026-11-22T02:11:19.617708Z",
-  "total_match": 79
+  "total_match": 78
 }
