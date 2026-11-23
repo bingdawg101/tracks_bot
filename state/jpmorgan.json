@@ -33,36 +33,6 @@
       "comp_basis": "bank bulge · trading",
       "first_seen": "2026-11-19T16:59:00.500569Z",
       "baseline": false
-    },
-    "210809182": {
-      "firm": "JPMorgan",
-      "source_id": "210809182",
-      "title": "Securities Services - London - 2027 ReEntry Program",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809182",
-      "department": "Administration",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 62,
-      "comp_label": "~£62k (est. £48–76k)",
-      "comp_basis": "bank bulge · other",
-      "first_seen": "2026-11-16T08:39:44.919569Z",
-      "baseline": false
-    },
-    "210809188": {
-      "firm": "JPMorgan",
-      "source_id": "210809188",
-      "title": "Securities Services - Bournemouth - 2027 ReEntry Program",
-      "location": "BOURNEMOUTH, DORSET, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809188",
-      "department": "Administration",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 62,
-      "comp_label": "~£62k (est. £48–76k)",
-      "comp_basis": "bank bulge · other",
-      "first_seen": "2026-11-16T08:39:44.919767Z",
-      "baseline": false
     }
   }
 }
