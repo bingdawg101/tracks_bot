@@ -18,21 +18,6 @@
       "comp_basis": "bank bulge · quant research · internship",
       "first_seen": "2026-11-24T00:23:45.634407Z",
       "baseline": false
-    },
-    "210808455": {
-      "firm": "JPMorgan",
-      "source_id": "210808455",
-      "title": "Trading Support Associate",
-      "location": "LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808455",
-      "department": "Operations",
-      "employment_type": "",
-      "match_level": "review",
-      "comp_k": 90,
-      "comp_label": "~£90k (est. £70–110k)",
-      "comp_basis": "bank bulge · trading",
-      "first_seen": "2026-11-19T16:59:00.500569Z",
-      "baseline": false
     }
   }
 }

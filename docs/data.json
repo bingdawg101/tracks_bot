@@ -36,20 +36,20 @@
     },
     {
       "firm": "Keyrock",
-      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
-      "location": "London",
-      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
-      "employment_type": "Intern",
-      "comp_k": 156,
-      "age_days": 6
-    },
-    {
-      "firm": "Keyrock",
       "title": "DeFi Quant Trader Intern (Credit) - London",
       "location": "London",
       "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
       "employment_type": "FullTime",
       "comp_k": 175,
+      "age_days": 7
+    },
+    {
+      "firm": "Keyrock",
+      "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+      "location": "London",
+      "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+      "employment_type": "Intern",
+      "comp_k": 156,
       "age_days": 7
     }
   ],
@@ -691,7 +691,7 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD",
       "employment_type": "",
       "comp_k": 50,
-      "age_days": 45
+      "age_days": 46
     },
     {
       "firm": "Goldman Sachs",
@@ -1159,7 +1159,7 @@
       "tier": "hedge_fund",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 128,
+      "failure_count": 129,
       "cycle_note": "opens Oct 2026"
     },
     {
@@ -1228,7 +1228,7 @@
       "enabled": true,
       "tier": "energy_utility",
       "match_count": 0,
-      "review_count": 0,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "opens Sep 2026"
     },
@@ -1558,7 +1558,7 @@
       "enabled": true,
       "tier": "bank_bulge",
       "match_count": 0,
-      "review_count": 2,
+      "review_count": 1,
       "failure_count": 0,
       "cycle_note": "open"
     },
@@ -1729,7 +1729,7 @@
       "tier": "elite_prop",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 145,
+      "failure_count": 146,
       "cycle_note": "open"
     },
     {
@@ -1989,7 +1989,7 @@
       "tier": "commodity_other",
       "match_count": 0,
       "review_count": 0,
-      "failure_count": 80,
+      "failure_count": 81,
       "cycle_note": "opens Oct 2026"
     },
     {

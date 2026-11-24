@@ -3,5 +3,21 @@
   "failure_count": 0,
   "last_error": "",
   "established": true,
-  "tracked": {}
+  "tracked": {
+    "R0092302": {
+      "firm": "Centrica",
+      "source_id": "R0092302",
+      "title": "Commodity Trading Accountant",
+      "location": "Greater London",
+      "url": "https://centrica.wd3.myworkdayjobs.com/job/Greater-London/Commodity-Trading-Accountant_R0092302",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 78,
+      "comp_label": "~£78k (est. £61–95k)",
+      "comp_basis": "energy utility · trading",
+      "first_seen": "2026-11-24T10:13:08.046841Z",
+      "baseline": false
+    }
+  }
 }
