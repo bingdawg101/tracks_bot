@@ -18,6 +18,36 @@
       "comp_basis": "bank other · other",
       "first_seen": "2026-11-20T20:59:42.121390Z",
       "baseline": false
+    },
+    "2518": {
+      "firm": "Schroders",
+      "source_id": "2518",
+      "title": "2027 Wealth Management (Transformation) Internship Programme",
+      "location": "London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2518",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 38,
+      "comp_label": "~£38k (est. £30–46k)",
+      "comp_basis": "bank other · other · internship",
+      "first_seen": "2026-11-24T00:23:36.878226Z",
+      "baseline": false
+    },
+    "2521": {
+      "firm": "Schroders",
+      "source_id": "2521",
+      "title": "2027 Finance (within Wealth Management) Graduate Programme",
+      "location": "London, London, United Kingdom",
+      "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2521",
+      "department": "",
+      "employment_type": "",
+      "match_level": "review",
+      "comp_k": 52,
+      "comp_label": "~£52k (est. £41–63k)",
+      "comp_basis": "bank other · risk ops",
+      "first_seen": "2026-11-24T00:23:36.878377Z",
+      "baseline": false
     }
   }
 }

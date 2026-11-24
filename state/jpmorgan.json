@@ -4,19 +4,19 @@
   "last_error": "",
   "established": true,
   "tracked": {
-    "210807232": {
+    "210806784": {
       "firm": "JPMorgan",
-      "source_id": "210807232",
-      "title": "Quantitative Trading & Research - London - 2027 ReEntry Program",
-      "location": "LONDON, LONDON, United Kingdom",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807232",
-      "department": "Administration",
+      "source_id": "210806784",
+      "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Internship",
+      "location": "LONDON, United Kingdom",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806784",
+      "department": "Data & Analytics",
       "employment_type": "",
       "match_level": "review",
-      "comp_k": 95,
-      "comp_label": "~£95k (est. £74–116k)",
-      "comp_basis": "bank bulge · quant trading",
-      "first_seen": "2026-11-16T18:56:20.491629Z",
+      "comp_k": 66,
+      "comp_label": "~£66k (est. £51–81k)",
+      "comp_basis": "bank bulge · quant research · internship",
+      "first_seen": "2026-11-24T00:23:45.634407Z",
       "baseline": false
     },
     "210808455": {
